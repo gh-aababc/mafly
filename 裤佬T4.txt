@@ -1,0 +1,76 @@
+export default {
+  async fetch(request, env) {
+    const { searchParams } = new URL(request.url);
+    const ac = searchParams.get('ac'); 
+    const t_id = searchParams.get('t') || searchParams.get('class'); 
+    const ids = searchParams.get('ids'); 
+
+    const today = new Date().toISOString().split('T')[0];
+    const m3uUrl = https://live.445569.xyz/live.m3u?t=${today};
+
+    try {
+      const response = await fetch(m3uUrl);
+      const m3uText = await response.text();
+
+      // --- 1. 播放逻辑 ---
+      if (ac === 'detail' && ids) {
+        return new Response(JSON.stringify({
+          "list": [{
+            "vod_id": ids,
+            "vod_name": "直播频道",
+            "vod_play_from": "👖裤佬TV直播",
+            "vod_play_url": 直播$${ids} // 这里必须用 正片$ 或者 线路名$
+          }]
+        }), { headers: { "Content-Type": "application/json; charset=utf-8", "Access-Control-Allow-Origin": "*" } });
+      }
+
+      // --- 2. 分类逻辑 ---
+      if (!t_id || ac === 'class') {
+        const groupMatches = m3uText.match(/group-title="([^"]+)"/g) || [];
+        const groups = [...new Set(groupMatches.map(g => g.split('"')[1]))];
+        
+        return new Response(JSON.stringify({
+          "class": groups.map(g => ({ "type_id": g, "type_name": g })),
+          "filters": {}
+        }), { headers: { "Content-Type": "application/json; charset=utf-8", "Access-Control-Allow-Origin": "*" } });
+      }
+
+      // --- 3. 列表逻辑 ---
+      const lines = m3uText.split('\n');
+      const list = [];
+      const targetGroup = decodeURIComponent(t_id);
+
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i].trim();
+        if (line.startsWith('#EXTINF') && line.includes(`group-title="${targetGroup}"`)) {
+          const nameMatch = line.match(/,(.+)$/); 
+          const logoMatch = line.match(/tvg-logo="([^"]+)"/);
+          
+          let url = "";
+          for (let j = i + 1; j < lines.length; j++) {
+            if (lines[j].trim() && !lines[j].startsWith('#')) {
+              url = lines[j].trim();
+              break;
+            }
+          }
+          
+          if (url) {
+            list.push({
+              "vod_name": nameMatch ? nameMatch[1].trim() : "未知频道",
+              "vod_id": url,
+              "vod_pic": logoMatch ? logoMatch[1] : "https://img.js.design/assets/static/767104b663b4b841777259f97621115b.png",
+              "vod_remarks": "✈️TG频道@stymei"
+            });
+          }
+        }
+      }
+
+      return new Response(JSON.stringify({
+        "page": 1, "pagecount": 1, "limit": list.length, "total": list.length, "list": list
+      }), { headers: { "Content-Type": "application/json; charset=utf-8", "Access-Control-Allow-Origin": "*" } });
+
+    } catch (e) {
+      return new Response(JSON.stringify({ error: "加载失败" }), { status: 500 });
+    }
+  }
+};
