@@ -1,0 +1,81 @@
+proxies:
+  # ==================== 美国节点 ====================
+  - name: "Maflya.com-美国·01"
+    type: http
+    server: fan.365747.xyz
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  - name: "Maflya.com-美国·洛杉矶01(三网优化)"
+    type: http
+    server: fan.891058.xyz
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  - name: "Maflya.com-美国·洛杉矶02(三网优化)"
+    type: http
+    server: fan.596189.xyz
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  - name: "Maflya.com-美国·圣何塞(三网优化)"
+    type: http
+    server: fan.226278.xyz
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  - name: "Maflya.com-美国·洛杉矶03"
+    type: http
+    server: fan.607528.xyz
+    port: 8443
+    tls: true
+    skip-cert-verify: true
+
+  # ==================== 香港节点 ====================
+  - name: "Maflya.com-香港·01(移动优化)"
+    type: http
+    server: fan.240104.xyz
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  - name: "Maflya.com-香港·02"
+    type: http
+    server: fan2.240104.xyz
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  # ==================== 日本节点 ====================
+  - name: "Maflya.com-日本·01"
+    type: http
+    server: fan.587475.xyz
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  - name: "Maflya.com-日本·02(联通优化)"
+    type: http
+    server: fan.571589.xyz
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  # ==================== 其他节点（部分示例） ====================
+  - name: "Maflya.com-韩国·01"
+    type: http
+    server: fan.572609.xyz
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  - name: "Maflya.com-台湾·Hinet"
+    type: http
+    server: fan.764969.xyz
+    port: 443
+    tls: true
+    skip-cert-verify: true
