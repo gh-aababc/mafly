@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TG Socks5 代理批量提取工具</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <style>
+        :root {
+            --bg: #f8fafc;
+            --card: #ffffff;
+            --primary: #1e88e5;
+            --accent: #0ea5e9;
+            --text: #1e2937;
+            --border: #e2e8f0;
+        }
+        body {
+            font-family: system-ui, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1100px;
+            margin: auto;
+            background: var(--card);
+            border-radius: 16px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+            overflow: hidden;
+        }
+        header {
+            background: linear-gradient(135deg, #1e88e5, #0ea5e9);
+            color: white;
+            padding: 24px;
+            text-align: center;
+        }
+        .content { padding: 24px; }
+        textarea {
+            width: 100%;
+            height: 160px;
+            padding: 14px;
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            font-family: monospace;
+        }
+        .btn-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin: 20px 0;
+        }
+        .btn {
+            padding: 10px 18px;
+            border: none;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        .btn-primary { background: var(--primary); color: white; }
+        .btn-success { background: #10b981; color: white; }
+        .btn-tg { background: #229ed9; color: white; }
+        .btn-outline { border: 2px solid var(--primary); color: var(--primary); background: transparent; }
+
+        .result-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(480px, 1fr));
+            gap: 18px;
+        }
+        .node-card {
+            background: white;
+            border: 1px solid var(--border);
+            border-radius: 14px;
+            padding: 18px;
+            position: relative;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+        }
+        .qr-corner {
+            position: absolute;
+            top: 16px;
+            right: 16px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            align-items: center;
+        }
+        .qr-item {
+            text-align: center;
+        }
+        .qr-label {
+            font-size: 11px;
+            color: #64748b;
+            margin-top: 4px;
+            white-space: nowrap;
+        }
+        .node-info {
+            margin-right: 120px;
+        }
+        .detail-line {
+            display: flex;
+            align-items: center;
+            margin: 6px 0;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .detail-line strong {
+            width: 78px;
+            color: #64748b;
+            flex-shrink: 0;
+        }
+        .node-url {
+            background: #f1f5f9;
+            padding: 10px;
+            border-radius: 8px;
+            font-family: monospace;
+            font-size: 13px;
+            margin: 12px 0;
+            word-break: break-all;
+        }
+        .ping-result {
+            margin-top: 8px;
+            font-weight: bold;
+            color: #10b981;
+        }
+        .actions {
+            margin-top: 12px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            color: #64748b;
+            font-size: 13px;
+        }
+
+        @media (max-width: 600px) {
+            .result-list {
+                grid-template-columns: 1fr;
+            }
+            .node-card {
+                margin-right: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>🚀 TG Socks5 代理批量提取工具</h1>
+    </header>
+
+    <div class="content">
+        <textarea id="rawInput" placeholder="支持 https://t.me/socks... 和 socks5:// 格式..."></textarea>
+
+        <div class="btn-row">
+            <button class="btn btn-primary" onclick="parseText()">🔍 解析文本</button>
+            <button class="btn btn-primary" onclick="testAllPing()">⚡ 一键Ping全部</button>
+            <label class="btn btn-primary">
+                📁 上传 .txt <input type="file" id="fileInput" accept=".txt" onchange="handleFileUpload(event)" style="display:none;">
+            </label>
+            <button class="btn btn-success" id="btnDownloadTxt" style="display:none;" onclick="downloadStandardTxt()">📥 明文列表</button>
+            <button class="btn btn-success" id="btnDownloadB64" style="display:none;" onclick="downloadBase64Txt()">🔐 Base64 订阅</button>
+            <button class="btn btn-tg" id="btnDownloadTGAll" style="display:none;" onclick="downloadAllTGLinks()">🚀 所有 TG 一键链接</button>
+            <button class="btn btn-outline" onclick="clearAll()">清空</button>
+        </div>
+
+        <div id="resultList" class="result-list"></div>
+    </div>
+
+    <footer>
+        ✈️ TG频道 @flymaf - www.maflya.com
+    </footer>
+</div>
+
+<script>
+    let globalNodes = [];
+
+    function parseText() {
+        const text = document.getElementById('rawInput').value.trim();
+        if (!text) return alert('请输入内容！');
+        processText(text);
+    }
+
+    function handleFileUpload(e) {
+        const file = e.target.files[0];
+        if (!file) return;
+        const reader = new FileReader();
+        reader.onload = ev => {
+            document.getElementById('rawInput').value = ev.target.result;
+            processText(ev.target.result);
+        };
+        reader.readAsText(file);
+    }
+
+    function processText(text) {
+        const resultList = document.getElementById('resultList');
+        resultList.innerHTML = '';
+        globalNodes = [];
+
+        const tgRegex = /https:\/\/t\.me\/socks\?server=([^&]+)&port=(\d+)&user=([^&]+)&pass=([^&\s]+)/g;
+        const socksRegex = /socks5?:\/\/([^:]+):([^@]+)@([\d.]+):(\d+)/g;
+
+        let match;
+        const seen = new Set();
+
+        while ((match = tgRegex.exec(text)) !== null) {
+            addNode(match[1], match[2], match[3], match[4], seen);
+        }
+        while ((match = socksRegex.exec(text)) !== null) {
+            addNode(match[3], match[4], match[1], match[2], seen);
+        }
+
+        if (globalNodes.length === 0) {
+            resultList.innerHTML = '<p style="text-align:center;color:#666;padding:40px;">未识别到有效节点</p>';
+            return;
+        }
+
+        document.getElementById('btnDownloadTxt').style.display = 'inline-block';
+        document.getElementById('btnDownloadB64').style.display = 'inline-block';
+        document.getElementById('btnDownloadTGAll').style.display = 'inline-block';
+
+        renderNodes();
+    }
+
+    function addNode(host, port, user, pass, seen) {
+        const key = `${host}:${port}`;
+        if (seen.has(key)) return;
+        seen.add(key);
+
+        const tgUri = `https://t.me/socks?server=${host}&port=${port}&user=${encodeURIComponent(user)}&pass=${encodeURIComponent(pass)}`;
+        const standardUri = `socks5://${encodeURIComponent(user)}:${encodeURIComponent(pass)}@${host}:${port}#${host}:${port}`;
+
+        globalNodes.push({host, port, user, pass, tgUri, standardUri, ping: null});
+    }
+
+    function renderNodes() {
+        const container = document.getElementById('resultList');
+        container.innerHTML = '';
+
+        globalNodes.forEach((node, i) => {
+            const card = document.createElement('div');
+            card.className = 'node-card';
+            card.innerHTML = `
+                <div class="node-info">
+                    <div class="node-header">节点 ${i+1}</div>
+                    <div class="detail-line"><strong>🖥 服务器：</strong> ${node.host}</div>
+                    <div class="detail-line"><strong>🔌 端口：</strong> ${node.port}</div>
+                    <div class="detail-line"><strong>👤 用户名：</strong> ${node.user}</div>
+                    <div class="detail-line"><strong>🔑 密码：</strong> ${node.pass}</div>
+                    ${node.ping ? `<div class="ping-result">📊 Ping: ${node.ping}ms</div>` : ''}
+                    <div class="node-url">${node.standardUri}</div>
+                    <div class="actions">
+                        <a href="${node.tgUri}" target="_blank" class="btn btn-tg">🚀 TG 一键连接</a>
+                        <button class="btn btn-outline" onclick="copyText('${node.standardUri}')">复制 socks5</button>
+                        <button class="btn btn-outline" onclick="pingSingle(${i})">🔍 Ping</button>
+                    </div>
+                </div>
+                <div class="qr-corner">
+                    <div class="qr-item">
+                        <div id="qr-tg-${i}"></div>
+                        <div class="qr-label">TG二维码</div>
+                    </div>
+                    <div class="qr-item">
+                        <div id="qr-socks-${i}"></div>
+                        <div class="qr-label">socks5二维码</div>
+                    </div>
+                </div>
+            `;
+            container.appendChild(card);
+            new QRCode(`qr-tg-${i}`, { text: node.tgUri, width: 92, height: 92 });
+            new QRCode(`qr-socks-${i}`, { text: node.standardUri, width: 92, height: 92 });
+        });
+    }
+
+    async function pingSingle(index) {
+        const node = globalNodes[index];
+        const card = document.querySelectorAll('.node-card')[index];
+        const btn = card.querySelector('button[onclick*="pingSingle"]');
+        btn.innerText = '测试中...';
+        btn.disabled = true;
+
+        try {
+            const start = Date.now();
+            const controller = new AbortController();
+            setTimeout(() => controller.abort(), 7000);
+            await fetch('https://httpbin.org/ip', {signal: controller.signal, mode: 'no-cors'});
+            const delay = Date.now() - start;
+            node.ping = delay;
+            renderNodes();
+        } catch (e) {
+            node.ping = '超时';
+            renderNodes();
+        }
+    }
+
+    async function testAllPing() {
+        for (let i = 0; i < globalNodes.length; i++) {
+            await pingSingle(i);
+        }
+    }
+
+    function copyText(text) {
+        navigator.clipboard.writeText(text);
+        alert('已复制！可直接导入 NekoBox / V2RayN / Karing');
+    }
+
+    function downloadAllTGLinks() {
+        let txt = `# TG Socks5 一键连接\n# 总数: ${globalNodes.length}\n\n`;
+        globalNodes.forEach(n => txt += n.tgUri + '\n');
+        downloadFile(txt, 'TG_Socks5_全部一键链接.txt');
+    }
+
+    function downloadStandardTxt() {
+        const txt = globalNodes.map(n => n.standardUri).join('\n');
+        downloadFile(txt, 'socks5_plain.txt');
+    }
+
+    function downloadBase64Txt() {
+        const txt = globalNodes.map(n => n.standardUri).join('\n');
+        const b64 = btoa(unescape(encodeURIComponent(txt)));
+        downloadFile(b64, 'socks5_base64.txt');
+    }
+
+    function downloadFile(content, name) {
+        const blob = new Blob([content], {type: 'text/plain'});
+        const a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = name;
+        a.click();
+    }
+
+    function clearAll() {
+        document.getElementById('rawInput').value = '';
+        document.getElementById('resultList').innerHTML = '';
+        document.getElementById('btnDownloadTxt').style.display = 'none';
+        document.getElementById('btnDownloadB64').style.display = 'none';
+        document.getElementById('btnDownloadTGAll').style.display = 'none';
+        globalNodes = [];
+    }
+</script>
+</body>
+</html>
