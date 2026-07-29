@@ -2,11 +2,6 @@
   <channel id="Phoenix.yt">
     <display-name lang="en">凤凰卫视</display-name>
   </channel>
-  <programme channel="Phoenix.yt" start="20260729040000 +0100" stop="20260729070000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=Ry--eMIjYLQ</title>
-    <desc lang="en">No description provided</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="Phoenix.yt" start="20260729070000 +0100" stop="20260729100000 +0100">
     <title lang="en">https://www.youtube.com/watch?v=Ry--eMIjYLQ</title>
     <desc lang="en">No description provided</desc>
@@ -38,6 +33,11 @@
     <icon src=""/>
   </programme>
   <programme channel="Phoenix.yt" start="20260730010000 +0100" stop="20260730040000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=Ry--eMIjYLQ</title>
+    <desc lang="en">No description provided</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Phoenix.yt" start="20260730040000 +0100" stop="20260730070000 +0100">
     <title lang="en">https://www.youtube.com/watch?v=Ry--eMIjYLQ</title>
     <desc lang="en">No description provided</desc>
     <icon src=""/>
