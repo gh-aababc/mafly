@@ -1,44 +1,44 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/your-repo">
-  <channel id="Phoenix.yt">
-    <display-name lang="en">凤凰卫视</display-name>
+  <channel id="CGTN.yt">
+    <display-name lang="en">CGTN LIVE</display-name>
   </channel>
-  <programme channel="Phoenix.yt" start="20260729070000 +0100" stop="20260729100000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=Ry--eMIjYLQ</title>
+  <programme channel="CGTN.yt" start="20260729110000 +0100" stop="20260729140000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=BOy2xDU1LC8</title>
     <desc lang="en">No description provided</desc>
     <icon src=""/>
   </programme>
-  <programme channel="Phoenix.yt" start="20260729100000 +0100" stop="20260729130000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=Ry--eMIjYLQ</title>
+  <programme channel="CGTN.yt" start="20260729140000 +0100" stop="20260729170000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=BOy2xDU1LC8</title>
     <desc lang="en">No description provided</desc>
     <icon src=""/>
   </programme>
-  <programme channel="Phoenix.yt" start="20260729130000 +0100" stop="20260729160000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=Ry--eMIjYLQ</title>
+  <programme channel="CGTN.yt" start="20260729170000 +0100" stop="20260729200000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=BOy2xDU1LC8</title>
     <desc lang="en">No description provided</desc>
     <icon src=""/>
   </programme>
-  <programme channel="Phoenix.yt" start="20260729160000 +0100" stop="20260729190000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=Ry--eMIjYLQ</title>
+  <programme channel="CGTN.yt" start="20260729200000 +0100" stop="20260729230000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=BOy2xDU1LC8</title>
     <desc lang="en">No description provided</desc>
     <icon src=""/>
   </programme>
-  <programme channel="Phoenix.yt" start="20260729190000 +0100" stop="20260729220000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=Ry--eMIjYLQ</title>
+  <programme channel="CGTN.yt" start="20260729230000 +0100" stop="20260730020000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=BOy2xDU1LC8</title>
     <desc lang="en">No description provided</desc>
     <icon src=""/>
   </programme>
-  <programme channel="Phoenix.yt" start="20260729220000 +0100" stop="20260730010000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=Ry--eMIjYLQ</title>
+  <programme channel="CGTN.yt" start="20260730020000 +0100" stop="20260730050000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=BOy2xDU1LC8</title>
     <desc lang="en">No description provided</desc>
     <icon src=""/>
   </programme>
-  <programme channel="Phoenix.yt" start="20260730010000 +0100" stop="20260730040000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=Ry--eMIjYLQ</title>
+  <programme channel="CGTN.yt" start="20260730050000 +0100" stop="20260730080000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=BOy2xDU1LC8</title>
     <desc lang="en">No description provided</desc>
     <icon src=""/>
   </programme>
-  <programme channel="Phoenix.yt" start="20260730040000 +0100" stop="20260730070000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=Ry--eMIjYLQ</title>
+  <programme channel="CGTN.yt" start="20260730080000 +0100" stop="20260730110000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=BOy2xDU1LC8</title>
     <desc lang="en">No description provided</desc>
     <icon src=""/>
   </programme>
