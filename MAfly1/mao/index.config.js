@@ -86,7 +86,31 @@ var index_config_default = {
       address: "https://dy.kl.maflya.com"},
       {name: "🍟YouTube直播-[实时抓取]]",
       address: "https://ybkl.maflya.com"},
-{
+    {name: "👖金牌影视",
+      address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335666620731392?token=banye666"},
+    {name: "👖瓜子影视",
+      address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335665161113600?token=banye666"},
+    {name: "👖热播影视",
+      address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664787820544?token=banye666"},
+    {name: "👖歪比影视",
+      address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664104148992?token=banye666"},
+    {name: "👖毒舌影视",
+      address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664116731904?token=banye666"},
+    {name: "👖星辰影视",
+      address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335663328202752?token=banye666"},
+    {name: "👖爬虫影视",
+      address: "https://dy.7772888.xyz/api.php/tvbox"},
+    {name: "👖央视影视",
+      address: "https://catbox.n13.club/18/央视影视.php"}
+]},
+  cms: {list: [
+{name: "👖如意采集",
+address: "https://cj.rycjapi.com/api.php/provide/vod"},
+{name: "👖iQiYi采集",
+address: "https://iqiyizyapi.com/api.php/provide/vod"},
+]},
+  alist: [
+    {
       name: "LM379 资源库",
       server: "https://pan.lm379.cn/dav/Video",
       username: "public_dav",
@@ -119,38 +143,6 @@ var index_config_default = {
     {
       name: "Marplay-webdev",
       server: "https://webdav.maflya.com/"
-    }
-    {name: "👖金牌影视",
-      address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335666620731392?token=banye666"},
-    {name: "👖瓜子影视",
-      address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335665161113600?token=banye666"},
-    {name: "👖热播影视",
-      address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664787820544?token=banye666"},
-    {name: "👖歪比影视",
-      address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664104148992?token=banye666"},
-    {name: "👖毒舌影视",
-      address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664116731904?token=banye666"},
-    {name: "👖星辰影视",
-      address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335663328202752?token=banye666"},
-    {name: "👖爬虫影视",
-      address: "https://dy.7772888.xyz/api.php/tvbox"},
-    {name: "👖央视影视",
-      address: "https://catbox.n13.club/18/央视影视.php"}
-]},
-  cms: {list: [
-{name: "👖如意采集",
-address: "https://cj.rycjapi.com/api.php/provide/vod"},
-{name: "👖iQiYi采集",
-address: "https://iqiyizyapi.com/api.php/provide/vod"},
-]},
-  alist: [
-    {
-      name: "Marplay-webdev",
-      server: "https://webdav.maflya.com/"
-    },
-    {
-      name: "💢repl",
-      server: "https://ali.liucn.repl.co"
     }
   ],
   color: [
