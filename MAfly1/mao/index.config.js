@@ -23,18 +23,6 @@ __export(index_config_exports, {
 });
 module.exports = __toCommonJS(index_config_exports);
 
-var juzijson = JSON.stringify({
-  appName: "橘汁",
-  publicKey: "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-  dataKey: "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
-  dataIv: "OC1A06E197EF10CF3F6058CA7A803B5E",
-  pkg: "com.lxf.snzlcgtzxyx",
-  host: "http://juziapp.hzhcbkj.cn",
-  site: "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-  version: "3.0.2.1",
-  decrypt: "1"
-});
-
 var index_config_default = {
   spider: "https://fm.1080p.top/jar/custom_spider.jar",
   ali: {
@@ -71,15 +59,24 @@ var index_config_default = {
   sites: {
     list: [
       {
-        key: "橘汁APP",
+        key: "橘汁短剧",
         name: "🍊 橘汁 • 短剧APP",
         type: 3,
         api: "csp_AppDrama",
         searchable: 1,
         quickSearch: 1,
         filterable: 1,
-        jar: "https://fm.1080p.top/jar/custom_spider.jar",
-        ext: juzijson
+        ext: {
+          appName: "橘汁",
+          publicKey: "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+          dataKey: "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+          dataIv: "OC1A06E197EF10CF3F6058CA7A803B5E",
+          pkg: "com.lxf.snzlcgtzxyx",
+          host: "http://juziapp.hzhcbkj.cn",
+          site: "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+          version: "3.0.2.1",
+          decrypt: "1"
+        }
       }
     ]
   },
@@ -99,10 +96,6 @@ var index_config_default = {
   },
   t4: {
     list: [
-      { 
-        name: "🍊橘汁 • T4通道", 
-        address: "https://fm.1080p.top/jar/custom_spider.jar;csp_AppDrama;" + juzijson 
-      },
       { name: "✈️TG频道@flymaf", address: "http://bob2.hkt.net.cn/miraplay/dbo.php" },
       { name: "📡Maflya直播", address: "https://t4.maflya.com" },
       { name: "📡裤佬IPTV直播", address: "https://kl.maflya.com" },
@@ -123,6 +116,7 @@ var index_config_default = {
   },
   cms: {
     list: [
+      { name: "🎬短剧专用源", address: "https://www.duanju.pro/api.php/provide/vod" },
       { name: "👖如意采集", address: "https://cj.rycjapi.com/api.php/provide/vod" },
       { name: "👖iQiYi采集", address: "https://iqiyizyapi.com/api.php/provide/vod" }
     ]
