@@ -86,6 +86,8 @@ var index_config_default = {
       address: "https://dy.kl.maflya.com"},
       {name: "🍟YouTube直播-[实时抓取]]",
       address: "https://ybkl.maflya.com"},
+      {name: "🍟Marplay-webdev",
+      address: "https://webdav.maflya.com"},
     {name: "👖金牌影视",
       address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335666620731392?token=banye666"},
     {name: "👖瓜子影视",
