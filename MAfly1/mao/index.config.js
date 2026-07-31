@@ -86,8 +86,40 @@ var index_config_default = {
       address: "https://dy.kl.maflya.com"},
       {name: "🍟YouTube直播-[实时抓取]]",
       address: "https://ybkl.maflya.com"},
-      {name: "📂Maflya WebDAV 影音库]",
-      address: "https://webdav.maflya.com"},
+{
+      name: "LM379 资源库",
+      server: "https://pan.lm379.cn/dav/Video",
+      username: "public_dav",
+      password: "cGFXCWMEbQ2t2BPi7zwWPqeAldc0iA"
+    },
+    {
+      name: "追番网 WebDAV",
+      server: "https://zhuifan.link/dav",
+      username: "zhuifan",
+      password: "zhuifan"
+    },
+    {
+      name: "QSesvick 资源库",
+      server: "https://alist.qsesvick.top/dav",
+      username: "davguest",
+      password: "davguest"
+    },
+    {
+      name: "CLUN 云盘",
+      server: "https://pan.clun.top/dav",
+      username: "guest",
+      password: "guest"
+    },
+    {
+      name: "Chirmyram 资源库",
+      server: "https://al.chirmyram.com/dav/",
+      username: "alist",
+      password: "kCJQSyuVJDmwgI0BM60Mtum8VGnI"
+    },
+    {
+      name: "Marplay-webdev",
+      server: "https://webdav.maflya.com/"
+    }
     {name: "👖金牌影视",
       address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335666620731392?token=banye666"},
     {name: "👖瓜子影视",
