@@ -24,6 +24,7 @@ __export(index_config_exports, {
 module.exports = __toCommonJS(index_config_exports);
 
 var index_config_default = {
+  spider: "https://fm.1080p.top/jar/custom_spider.jar",
   ali: {
     token: "",
     token280: "token280"
@@ -56,7 +57,28 @@ var index_config_default = {
   },
   tgchannel: {},
   sites: {
-    list: []
+    list: [
+      {
+        key: "橘汁短剧",
+        name: "🍊 橘汁 • 短剧APP (安卓专享)",
+        type: 3,
+        api: "csp_AppDrama",
+        searchable: 1,
+        quickSearch: 1,
+        filterable: 1,
+        ext: {
+          appName: "橘汁",
+          publicKey: "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+          dataKey: "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+          dataIv: "OC1A06E197EF10CF3F6058CA7A803B5E",
+          pkg: "com.lxf.snzlcgtzxyx",
+          host: "http://juziapp.hzhcbkj.cn",
+          site: "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+          version: "3.0.2.1",
+          decrypt: "1"
+        }
+      }
+    ]
   },
   pans: {
     list: []
@@ -80,17 +102,24 @@ var index_config_default = {
       { name: "👖热播影视", address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664787820544?token=banye666" },
       { name: "👖歪比影视", address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664104148992?token=banye666" },
       { name: "👖星辰影视", address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335663328202752?token=banye666" },
+      { name: "👖爬虫影视", address: "https://dy.7772888.xyz/api.php/tvbox" },
+      { name: "👖央视影视", address: "https://catbox.n13.club/18/央视影视.php" },
       { name: "✈️TG频道@flymaf", address: "http://bob2.hkt.net.cn/miraplay/dbo.php" },
       { name: "📡Maflya直播", address: "https://t4.maflya.com" },
-      { name: "📡裤佬IPTV直播", address: "https://kl.maflya.com" }
+      { name: "📡裤佬IPTV直播", address: "https://kl.maflya.com" },
+      { name: "📡快手直播源-[实时抓取]", address: "https://ks.kl.maflya.com" },
+      { name: "📡Twitch直播源-[实时抓取]", address: "https://tw.kl.maflya.com" },
+      { name: "📡抖音直播源-[实时抓取]]", address: "https://dy.kl.maflya.com" },
+      { name: "🍟YouTube直播-[实时抓取]]", address: "https://ybkl.maflya.com" },
+      { name: "🍟Marplay-webdev", address: "https://webdav.maflya.com" }
     ]
   },
   cms: {
     list: [
-      { name: "🎬韩剧短剧", address: "https://www.hanjuzy.com/api.php/provide/vod" },
-      { name: "🎬华为短剧源", address: "https://hw8.live/api.php/provide/vod" },
+      { name: "🎬韩剧短剧 (iOS推荐)", address: "https://www.hanjuzy.com/api.php/provide/vod" },
+      { name: "🎬华为短剧源 (iOS推荐)", address: "https://hw8.live/api.php/provide/vod" },
       { name: "👖如意采集", address: "https://cj.rycjapi.com/api.php/provide/vod" },
-      { name: "👖爱奇艺采集", address: "https://iqiyizyapi.com/api.php/provide/vod" }
+      { name: "👖iQiYi采集", address: "https://iqiyizyapi.com/api.php/provide/vod" }
     ]
   },
   alist: [
