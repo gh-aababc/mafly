@@ -23,6 +23,7 @@ __export(index_config_exports, {
 });
 module.exports = __toCommonJS(index_config_exports);
 var index_config_default = {
+  spider: "https://fm.1080p.top/jar/custom_spider.jar", // 👈 加上了通用底层解密Jar包
   ali: {
     token: "",
     token280: "token280"
