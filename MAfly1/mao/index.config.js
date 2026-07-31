@@ -22,8 +22,21 @@ __export(index_config_exports, {
   default: () => index_config_default
 });
 module.exports = __toCommonJS(index_config_exports);
+
+var juzijson = JSON.stringify({
+  appName: "橘汁",
+  publicKey: "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+  dataKey: "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+  dataIv: "OC1A06E197EF10CF3F6058CA7A803B5E",
+  pkg: "com.lxf.snzlcgtzxyx",
+  host: "http://juziapp.hzhcbkj.cn",
+  site: "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+  version: "3.0.2.1",
+  decrypt: "1"
+});
+
 var index_config_default = {
-  spider: "https://fm.1080p.top/jar/custom_spider.jar;md5;1234567890abcdef",
+  spider: "https://fm.1080p.top/jar/custom_spider.jar",
   ali: {
     token: "",
     token280: "token280"
@@ -58,24 +71,15 @@ var index_config_default = {
   sites: {
     list: [
       {
-        key: "橘汁",
-        name: "🍊 橘汁 • APP",
+        key: "橘汁APP",
+        name: "🍊 橘汁 • 短剧APP",
         type: 3,
         api: "csp_AppDrama",
         searchable: 1,
         quickSearch: 1,
         filterable: 1,
-        ext: {
-          appName: "橘汁",
-          publicKey: "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-          dataKey: "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
-          dataIv: "OC1A06E197EF10CF3F6058CA7A803B5E",
-          pkg: "com.lxf.snzlcgtzxyx",
-          host: "http://juziapp.hzhcbkj.cn",
-          site: "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-          version: "3.0.2.1",
-          decrypt: "1"
-        }
+        jar: "https://fm.1080p.top/jar/custom_spider.jar",
+        ext: juzijson
       }
     ]
   },
@@ -95,6 +99,10 @@ var index_config_default = {
   },
   t4: {
     list: [
+      { 
+        name: "🍊橘汁 • T4通道", 
+        address: "https://fm.1080p.top/jar/custom_spider.jar;csp_AppDrama;" + juzijson 
+      },
       { name: "✈️TG频道@flymaf", address: "http://bob2.hkt.net.cn/miraplay/dbo.php" },
       { name: "📡Maflya直播", address: "https://t4.maflya.com" },
       { name: "📡裤佬IPTV直播", address: "https://kl.maflya.com" },
@@ -115,7 +123,6 @@ var index_config_default = {
   },
   cms: {
     list: [
-      { name: "🎬短剧采集", address: "https://www.duanju.pro/api.php/provide/vod" },
       { name: "👖如意采集", address: "https://cj.rycjapi.com/api.php/provide/vod" },
       { name: "👖iQiYi采集", address: "https://iqiyizyapi.com/api.php/provide/vod" }
     ]
@@ -215,146 +222,6 @@ var index_config_default = {
         scrim: "0xff000000",
         inversePrimary: "0xff446732",
         surfaceTint: "0xffaad291"
-      }
-    },
-    {
-      light: {
-        bg: "https://i2.100024.xyz/2024/01/13/pi2rpw.webp",
-        bgMask: "0x50ffffff",
-        primary: "0xff666014",
-        onPrimary: "0xffffffff",
-        primaryContainer: "0xffeee58c",
-        onPrimaryContainer: "0xff1f1c00",
-        secondary: "0xff625f42",
-        onSecondary: "0xffffffff",
-        secondaryContainer: "0xffe9e4be",
-        onSecondaryContainer: "0xff1e1c05",
-        tertiary: "0xff3f6654",
-        onTertiary: "0xffffffff",
-        tertiaryContainer: "0xffc1ecd5",
-        onTertiaryContainer: "0xff002114",
-        error: "0xffba1a1a",
-        onError: "0xffffffff",
-        errorContainer: "0xffffdad6",
-        onErrorContainer: "0xff410002",
-        background: "0xfffef9eb",
-        onBackground: "0xff1d1c14",
-        surface: "0xfffef9eb",
-        onSurface: "0xff1d1c14",
-        surfaceVariant: "0xffe7e3d0",
-        onSurfaceVariant: "0xff1d1c14",
-        inverseSurface: "0xff323128",
-        inverseOnSurface: "0xfff5f1e3",
-        outline: "0xff7a7768",
-        outlineVariant: "0xffcbc7b5",
-        shadow: "0xff000000",
-        scrim: "0xff000000",
-        inversePrimary: "0xffd1c973",
-        surfaceTint: "0xff666014"
-      },
-      dark: {
-        bg: "https://i2.100024.xyz/2024/01/13/pi2reo.webp",
-        bgMask: "0x50000000",
-        primary: "0xffd1c973",
-        onPrimary: "0xff353100",
-        primaryContainer: "0xff4d4800",
-        onPrimaryContainer: "0xffeee58c",
-        secondary: "0xffcdc8a3",
-        onSecondary: "0xff333117",
-        secondaryContainer: "0xff4a482c",
-        onSecondaryContainer: "0xffe9e4be",
-        tertiary: "0xffa6d0b9",
-        onTertiary: "0xff0e3727",
-        tertiaryContainer: "0xff274e3d",
-        onTertiaryContainer: "0xffc1ecd5",
-        error: "0xffffb4ab",
-        onError: "0xff690005",
-        errorContainer: "0xff93000a",
-        onErrorContainer: "0xffffdad6",
-        background: "0xff14140c",
-        onBackground: "0xffe7e2d5",
-        surface: "0xff14140c",
-        onSurface: "0xffe7e2d5",
-        surfaceVariant: "0xff49473a",
-        onSurfaceVariant: "0xffe7e2d5",
-        inverseSurface: "0xffe7e2d5",
-        inverseOnSurface: "0xff323128",
-        outline: "0xff949181",
-        outlineVariant: "0xff49473a",
-        shadow: "0xff000000",
-        scrim: "0xff000000",
-        inversePrimary: "0xff666014",
-        surfaceTint: "0xffd1c973"
-      }
-    },
-    {
-      light: {
-        bg: "https://i2.100024.xyz/2024/01/13/qrnuwt.webp",
-        bgMask: "0x50ffffff",
-        primary: "0xFF2B6C00",
-        onPrimary: "0xFFFFFFFF",
-        primaryContainer: "0xFFA6F779",
-        onPrimaryContainer: "0xFF082100",
-        secondary: "0xFF55624C",
-        onSecondary: "0xFFFFFFFF",
-        secondaryContainer: "0xFFD9E7CA",
-        onSecondaryContainer: "0xFF131F0D",
-        tertiary: "0xFF386666",
-        onTertiary: "0xFFFFFFFF",
-        tertiaryContainer: "0xFFBBEBEB",
-        onTertiaryContainer: "0xFF002020",
-        error: "0xFFBA1A1A",
-        onError: "0xFFFFFFFF",
-        errorContainer: "0xFFFFDAD6",
-        onErrorContainer: "0xFF410002",
-        background: "0xFFFDFDF5",
-        onBackground: "0xFF1A1C18",
-        surface: "0xFFFDFDF5",
-        onSurface: "0xFF1A1C18",
-        surfaceVariant: "0xFFE0E4D6",
-        onSurfaceVariant: "0xFF1A1C18",
-        inverseSurface: "0xFF2F312C",
-        onInverseSurface: "0xFFF1F1EA",
-        outline: "0xFF74796D",
-        outlineVariant: "0xFFC3C8BB",
-        shadow: "0xFF000000",
-        scrim: "0xFF000000",
-        inversePrimary: "0xFF8CDA60",
-        surfaceTint: "0xFF2B6C00"
-      },
-      dark: {
-        bg: "https://i2.100024.xyz/2024/01/13/qrc37o.webp",
-        bgMask: "0x50000000",
-        primary: "0xFF8CDA60",
-        onPrimary: "0xFF133800",
-        primaryContainer: "0xFF1F5100",
-        onPrimaryContainer: "0xFFA6F779",
-        secondary: "0xFFBDCBAF",
-        onSecondary: "0xFF283420",
-        secondaryContainer: "0xFF3E4A35",
-        onSecondaryContainer: "0xFFD9E7CA",
-        tertiary: "0xFFA0CFCF",
-        onTertiary: "0xFF003737",
-        tertiaryContainer: "0xFF1E4E4E",
-        onTertiaryContainer: "0xFFBBEBEB",
-        error: "0xFFFFB4AB",
-        errorContainer: "0xFF93000A",
-        onError: "0xFF690005",
-        onErrorContainer: "0xFFFFDAD6",
-        background: "0xFF1A1C18",
-        onBackground: "0xFFE3E3DC",
-        outline: "0xFF8D9286",
-        onInverseSurface: "0xFF1A1C18",
-        inverseSurface: "0xFFE3E3DC",
-        inversePrimary: "0xFF2B6C00",
-        shadow: "0xFF000000",
-        surfaceTint: "0xFF8CDA60",
-        outlineVariant: "0xFF43483E",
-        scrim: "0xFF000000",
-        surface: "0xFF1A1C18",
-        onSurface: "0xFFC7C7C0",
-        surfaceVariant: "0xFF43483E",
-        onSurfaceVariant: "0xFFC7C7C0"
       }
     }
   ]
