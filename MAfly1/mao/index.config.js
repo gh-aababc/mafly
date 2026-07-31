@@ -111,8 +111,8 @@ address: "https://iqiyizyapi.com/api.php/provide/vod"},
 ]},
   alist: [
     {
-      name: "🐉神族九帝",
-      server: "https://alist.shenzjd.com"
+      name: "Marplay-webdev",
+      server: "https://webdav.maflya.com/"
     },
     {
       name: "💢repl",
