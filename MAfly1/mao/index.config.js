@@ -55,62 +55,69 @@ var index_config_default = {
   },
   tgchannel: {},
   sites: {
-    list: []
+    list: [
+      {
+        key: "橘汁",
+        name: "橘汁 • APP",
+        type: 3,
+        api: "csp_AppDrama",
+        searchable: 1,
+        quickSearch: 1,
+        filterable: 1,
+        ext: {
+          appName: "橘汁",
+          publicKey: "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+          dataKey: "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+          dataIv: "OC1A06E197EF10CF3F6058CA7A803B5E",
+          pkg: "com.lxf.snzlcgtzxyx",
+          host: "",
+          site: "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+          version: "3.0.2.1",
+          decrypt: "1"
+        }
+      }
+    ]
   },
   pans: {
     list: []
   },
-   danmu: {
+  danmu: {
     urls: [
-           { address: "https://logo.saodu.work:8888/87654321", name: "默认1" },
-           { address: "https://fjj0417.dpdns.org/87654321", name: "默认2" }, 
-           { address: "http://127.0.0.1:9321/87654321", name: "默认3" }, 
-           { address: "http://47.107.188.112:6008/87654321", name: "默认4" }, 
-           { address: "http://ecs.dysobo.cn:9321/87654321", name: "默认5" },
-           { address: "https://dm.626258.xyz/87654321", name: "默认6" }
-          ],
+      { address: "https://logo.saodu.work:8888/87654321", name: "默认1" },
+      { address: "https://fjj0417.dpdns.org/87654321", name: "默认2" }, 
+      { address: "http://127.0.0.1:9321/87654321", name: "默认3" }, 
+      { address: "http://47.107.188.112:6008/87654321", name: "默认4" }, 
+      { address: "http://ecs.dysobo.cn:9321/87654321", name: "默认5" },
+      { address: "https://dm.626258.xyz/87654321", name: "默认6" }
+    ],
     autoPush: true
   },
- t4: {list: [
-    {name: "✈️TG频道@flymaf",
-      address: "http://bob2.hkt.net.cn/miraplay/dbo.php"},
-      {name: "📡Maflya直播",
-      address: "https://t4.maflya.com"},
-      {name: "📡裤佬IPTV直播",
-      address: "https://kl.maflya.com"},
-      {name: "📡快手直播源-[实时抓取]",
-      address: "https://ks.kl.maflya.com"},
-      {name: "📡Twitch直播源-[实时抓取]",
-      address: "https://tw.kl.maflya.com"},
-      {name: "📡抖音直播源-[实时抓取]]",
-      address: "https://dy.kl.maflya.com"},
-      {name: "🍟YouTube直播-[实时抓取]]",
-      address: "https://ybkl.maflya.com"},
-      {name: "🍟Marplay-webdev",
-      address: "https://webdav.maflya.com"},
-    {name: "👖金牌影视",
-      address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335666620731392?token=banye666"},
-    {name: "👖瓜子影视",
-      address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335665161113600?token=banye666"},
-    {name: "👖热播影视",
-      address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664787820544?token=banye666"},
-    {name: "👖歪比影视",
-      address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664104148992?token=banye666"},
-    {name: "👖毒舌影视",
-      address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664116731904?token=banye666"},
-    {name: "👖星辰影视",
-      address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335663328202752?token=banye666"},
-    {name: "👖爬虫影视",
-      address: "https://dy.7772888.xyz/api.php/tvbox"},
-    {name: "👖央视影视",
-      address: "https://catbox.n13.club/18/央视影视.php"}
-]},
-  cms: {list: [
-{name: "👖如意采集",
-address: "https://cj.rycjapi.com/api.php/provide/vod"},
-{name: "👖iQiYi采集",
-address: "https://iqiyizyapi.com/api.php/provide/vod"},
-]},
+  t4: {
+    list: [
+      { name: "✈️TG频道@flymaf", address: "http://bob2.hkt.net.cn/miraplay/dbo.php" },
+      { name: "📡Maflya直播", address: "https://t4.maflya.com" },
+      { name: "📡裤佬IPTV直播", address: "https://kl.maflya.com" },
+      { name: "📡快手直播源-[实时抓取]", address: "https://ks.kl.maflya.com" },
+      { name: "📡Twitch直播源-[实时抓取]", address: "https://tw.kl.maflya.com" },
+      { name: "📡抖音直播源-[实时抓取]]", address: "https://dy.kl.maflya.com" },
+      { name: "🍟YouTube直播-[实时抓取]]", address: "https://ybkl.maflya.com" },
+      { name: "🍟Marplay-webdev", address: "https://webdav.maflya.com" },
+      { name: "👖金牌影视", address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335666620731392?token=banye666" },
+      { name: "👖瓜子影视", address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335665161113600?token=banye666" },
+      { name: "👖热播影视", address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664787820544?token=banye666" },
+      { name: "👖歪比影视", address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664104148992?token=banye666" },
+      { name: "👖毒舌影视", address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664116731904?token=banye666" },
+      { name: "👖星辰影视", address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335663328202752?token=banye666" },
+      { name: "👖爬虫影视", address: "https://dy.7772888.xyz/api.php/tvbox" },
+      { name: "👖央视影视", address: "https://catbox.n13.club/18/央视影视.php" }
+    ]
+  },
+  cms: {
+    list: [
+      { name: "👖如意采集", address: "https://cj.rycjapi.com/api.php/provide/vod" },
+      { name: "👖iQiYi采集", address: "https://iqiyizyapi.com/api.php/provide/vod" }
+    ]
+  },
   alist: [
     {
       name: "LM379 资源库",
@@ -135,16 +142,6 @@ address: "https://iqiyizyapi.com/api.php/provide/vod"},
       server: "https://pan.clun.top/dav",
       username: "guest",
       password: "guest"
-    },
-    {
-      name: "Chirmyram 资源库",
-      server: "https://al.chirmyram.com/dav/",
-      username: "alist",
-      password: "kCJQSyuVJDmwgI0BM60Mtum8VGnI"
-    },
-    {
-      name: "Marplay-webdev",
-      server: "https://webdav.maflya.com/"
     }
   ],
   color: [
