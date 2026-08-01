@@ -75,11 +75,13 @@ var index_config_default = {
     {name: "✈️TG频道@flymaf",
       address: "http://bob2.hkt.net.cn/miraplay/dbo.php"},
       {name: "📡Maflya直播",
-      address: "https://seep.eu.org/https://t4.maflya.com"},
+      address: "https://t4.maflya.com"},
+      {name: "🍟YouTube直播-[实时抓取]]",
+      address: "https://ybkl.maflya.com"},
       {name: "🍟webdev-Marpla",
-      address: "https://seep.eu.org/https://webdav.maflya.com"},
+      address: "https://webdav.maflya.com"},
       {name: "🍟直播采集-Marplay",
-      address: "https://seep.eu.org/https://t4cj.maflya.com"},   
+      address: "https://t4cj.maflya.com"},   
     {name: "👖金牌影视",
       address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335666620731392?token=banye666"},
     {name: "👖瓜子影视",
@@ -96,11 +98,6 @@ var index_config_default = {
       address: "https://dy.7772888.xyz/api.php/tvbox"},
     {name: "👖央视影视",
       address: "https://catbox.n13.club/18/央视影视.php"}
-    {name: "木偶",
-      address: "https://666.666291.xyz"},
-    {name: "讴歌",
-      address: "https://woog.nxog.eu.org"},
-   
 ]},
   cms: {list: [
 {name: "👖如意采集",
