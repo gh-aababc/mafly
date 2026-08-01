@@ -55,144 +55,7 @@ var index_config_default = {
   },
   "tgchannel": {},
   "sites": {
-    "list": [
-      {
-        "name": "蜡笔¦网盘",
-        "type": 3,
-        "api": "https://www.labi88.sbs",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      },
-      {
-        "name": "讴歌¦网盘",
-        "type": 3,
-        "api": "https://woog.nxog.eu.org",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      },
-      {
-        "name": "虎斑¦网盘",
-        "type": 3,
-        "api": "http://103.45.162.207:20720",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      },
-      {
-        "name": "小二¦网盘",
-        "type": 3,
-        "api": "https://erxiaofn.site",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      },
-      {
-        "name": "木偶¦网盘",
-        "type": 3,
-        "api": "https://www.muou.site",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      },
-      {
-        "name": "小米¦网盘",
-        "type": 3,
-        "api": "http://mihdr.top",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      },
-      {
-        "name": "玩偶¦网盘",
-        "type": 3,
-        "api": "https://wogg.xxooo.cf",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      },
-      {
-        "name": "AGE¦采集",
-        "type": 3,
-        "api": "https://ageapi.omwjhz.com:18888",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      },
-      {
-        "name": "苹果¦采集",
-        "type": 3,
-        "api": "http://item.xpgtv.com",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      },
-      {
-        "name": "厂长¦采集",
-        "type": 3,
-        "api": "https://www.czzymovie.com",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      },
-      {
-        "name": "嗷呜¦采集",
-        "type": 3,
-        "api": "https://www.aowu.tv",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      },
-      {
-        "name": "瓜子¦采集",
-        "type": 3,
-        "api": "https://api.ffsete.com",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      },
-      {
-        "name": "金牌¦采集",
-        "type": 3,
-        "api": "https://www.zhuoloufs.com",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      },
-      {
-        "name": "短剧¦采集",
-        "type": 3,
-        "api": "https://mov.cenguigui.cn",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      },
-      {
-        "name": "米搜¦资源",
-        "type": 3,
-        "api": "https://misoso.cc",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      },
-      {
-        "name": "盘搜¦资源",
-        "type": 3,
-        "api": "https://so.252035.xyz",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      },
-      {
-        "name": "飞机¦纯搜",
-        "type": 3,
-        "api": "https://tgsou.252035.xyz",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      }
-    ]
+    "list": []
   },
   "pans": {
     "list": []
@@ -291,6 +154,74 @@ var index_config_default = {
       {
         "name": "👖央视影视",
         "address": "https://catbox.n13.club/18/央视影视.php"
+      },
+      {
+        "name": "🎬蜡笔¦网盘",
+        "address": "https://www.labi88.sbs"
+      },
+      {
+        "name": "🎬讴歌¦网盘",
+        "address": "https://woog.nxog.eu.org"
+      },
+      {
+        "name": "🎬虎斑¦网盘",
+        "address": "http://103.45.162.207:20720"
+      },
+      {
+        "name": "🎬小二¦网盘",
+        "address": "https://erxiaofn.site"
+      },
+      {
+        "name": "🎬木偶¦网盘",
+        "address": "https://www.muou.site"
+      },
+      {
+        "name": "🎬小米¦网盘",
+        "address": "http://mihdr.top"
+      },
+      {
+        "name": "🎬玩偶¦网盘",
+        "address": "https://wogg.xxooo.cf"
+      },
+      {
+        "name": "🎬AGE¦采集",
+        "address": "https://ageapi.omwjhz.com:18888"
+      },
+      {
+        "name": "🎬苹果¦采集",
+        "address": "http://item.xpgtv.com"
+      },
+      {
+        "name": "🎬厂长¦采集",
+        "address": "https://www.czzymovie.com"
+      },
+      {
+        "name": "🎬嗷呜¦采集",
+        "address": "https://www.aowu.tv"
+      },
+      {
+        "name": "🎬瓜子¦采集",
+        "address": "https://api.ffsete.com"
+      },
+      {
+        "name": "🎬金牌¦采集",
+        "address": "https://www.zhuoloufs.com"
+      },
+      {
+        "name": "🎬短剧¦采集",
+        "address": "https://mov.cenguigui.cn"
+      },
+      {
+        "name": "🎬米搜¦资源",
+        "address": "https://misoso.cc"
+      },
+      {
+        "name": "🎬盘搜¦资源",
+        "address": "https://so.252035.xyz"
+      },
+      {
+        "name": "🎬飞机¦纯搜",
+        "address": "https://tgsou.252035.xyz"
       }
     ]
   },
@@ -303,6 +234,26 @@ var index_config_default = {
       {
         "name": "👖iQiYi采集",
         "address": "https://iqiyizyapi.com/api.php/provide/vod"
+      },
+      {
+        "name": "🎬厂长¦CMS",
+        "address": "https://www.czzymovie.com"
+      },
+      {
+        "name": "🎬瓜子¦CMS",
+        "address": "https://api.ffsete.com"
+      },
+      {
+        "name": "🎬金牌¦CMS",
+        "address": "https://www.zhuoloufs.com"
+      },
+      {
+        "name": "🎬苹果¦CMS",
+        "address": "http://item.xpgtv.com"
+      },
+      {
+        "name": "🎬AGE¦CMS",
+        "address": "https://ageapi.omwjhz.com:18888"
       }
     ]
   },
