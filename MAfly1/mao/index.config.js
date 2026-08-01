@@ -88,7 +88,7 @@ var index_config_default = {
       address: "https://ybkl.maflya.com"},
       {name: "🍟webdev-Marpla",
       address: "https://webdav.maflya.com"},
-      {name: "🍟采集-Marplay",
+      {name: "🍟直播采集-Marplay",
       address: "https://t4cj.maflya.com"},   
     {name: "👖金牌影视",
       address: "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335666620731392?token=banye666"},
