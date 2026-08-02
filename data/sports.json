@@ -1,97 +1,122 @@
 {
   "category": "体育",
   "keyword": "sports",
-  "updated": "2026-08-02T12:59:50.590861Z",
+  "updated": "2026-08-02T13:39:23.707583Z",
   "videos": [
     {
-      "videoId": "L0ViytO-560",
-      "title": "The Tech House Needs a Workshop…",
-      "thumbnail": "https://img.youtube.com/vi/L0ViytO-560/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "sd4v2N7HUyk",
-      "title": "This Obsoleted Every 3D Printer I Own",
-      "thumbnail": "https://img.youtube.com/vi/sd4v2N7HUyk/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "JQb9eGeclQw",
-      "title": "I Could Cry Over the Framework Pro 13",
-      "thumbnail": "https://img.youtube.com/vi/JQb9eGeclQw/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "GJdyoJcZsuo",
-      "title": "He Thought His Internet was OK... IT'S NOT!",
-      "thumbnail": "https://img.youtube.com/vi/GJdyoJcZsuo/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "CjIwXfw8ffU",
-      "title": "It Took Me 6 Years to Make This",
-      "thumbnail": "https://img.youtube.com/vi/CjIwXfw8ffU/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "YLSx6-pBXOM",
-      "title": "This Took 6 Years to Make",
-      "thumbnail": "https://img.youtube.com/vi/YLSx6-pBXOM/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "Hfovjw7Ts_U",
-      "title": "If My Product Fails I Give Away $1,000 - Open Sauce 2026",
-      "thumbnail": "https://img.youtube.com/vi/Hfovjw7Ts_U/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "-_zeSKjtMEg",
-      "title": "When Should You Change Thermal Paste?",
-      "thumbnail": "https://img.youtube.com/vi/-_zeSKjtMEg/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "5fXAELrljqs",
-      "title": "Valve Accidentally Made the Best Desktop PC I’ve Ever Used",
-      "thumbnail": "https://img.youtube.com/vi/5fXAELrljqs/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "Ute2wSwml4o",
-      "title": "The Best Wii Remote EVER!",
-      "thumbnail": "https://img.youtube.com/vi/Ute2wSwml4o/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "QAA7b1Av0jM",
-      "title": "This Upgrade is Dangerous - AMD $5,000 Ultimate Tech Upgrade",
-      "thumbnail": "https://img.youtube.com/vi/QAA7b1Av0jM/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "zIgmgMLZrrc",
-      "title": "True 4k Gaming PC (2026) - Classic LTT Build Guide",
-      "thumbnail": "https://img.youtube.com/vi/zIgmgMLZrrc/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "qZ7OjpjGVGs",
-      "title": "It’s Time to Commit to Linux…But which one?",
-      "thumbnail": "https://img.youtube.com/vi/qZ7OjpjGVGs/hqdefault.jpg",
-      "channel": ""
+      "videoId": "VRpP4_lKjEc",
+      "title": "Daily Driving the Steam Machine",
+      "thumbnail": "https://img.youtube.com/vi/VRpP4_lKjEc/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:39:11.259748Z",
+      "streamUrl": null
     },
     {
       "videoId": "nt4eQU7MG9c",
       "title": "My biggest Home Theater Upgrade is NOT Expensive",
       "thumbnail": "https://img.youtube.com/vi/nt4eQU7MG9c/hqdefault.jpg",
-      "channel": ""
+      "channel": "",
+      "fetched_at": "2026-08-02T13:39:11.259744Z",
+      "streamUrl": null
     },
     {
-      "videoId": "VRpP4_lKjEc",
-      "title": "Daily Driving the Steam Machine",
-      "thumbnail": "https://img.youtube.com/vi/VRpP4_lKjEc/hqdefault.jpg",
-      "channel": ""
+      "videoId": "qZ7OjpjGVGs",
+      "title": "It’s Time to Commit to Linux…But which one?",
+      "thumbnail": "https://img.youtube.com/vi/qZ7OjpjGVGs/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:39:11.259737Z",
+      "streamUrl": null
+    },
+    {
+      "videoId": "zIgmgMLZrrc",
+      "title": "True 4k Gaming PC (2026) - Classic LTT Build Guide",
+      "thumbnail": "https://img.youtube.com/vi/zIgmgMLZrrc/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:39:11.259731Z",
+      "streamUrl": null
+    },
+    {
+      "videoId": "QAA7b1Av0jM",
+      "title": "This Upgrade is Dangerous - AMD $5,000 Ultimate Tech Upgrade",
+      "thumbnail": "https://img.youtube.com/vi/QAA7b1Av0jM/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:39:11.259723Z",
+      "streamUrl": null
+    },
+    {
+      "videoId": "Ute2wSwml4o",
+      "title": "The Best Wii Remote EVER!",
+      "thumbnail": "https://img.youtube.com/vi/Ute2wSwml4o/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:39:11.259713Z",
+      "streamUrl": null
+    },
+    {
+      "videoId": "5fXAELrljqs",
+      "title": "Valve Accidentally Made the Best Desktop PC I’ve Ever Used",
+      "thumbnail": "https://img.youtube.com/vi/5fXAELrljqs/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:39:11.259708Z",
+      "streamUrl": null
+    },
+    {
+      "videoId": "-_zeSKjtMEg",
+      "title": "When Should You Change Thermal Paste?",
+      "thumbnail": "https://img.youtube.com/vi/-_zeSKjtMEg/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:39:11.259702Z",
+      "streamUrl": null
+    },
+    {
+      "videoId": "Hfovjw7Ts_U",
+      "title": "If My Product Fails I Give Away $1,000 - Open Sauce 2026",
+      "thumbnail": "https://img.youtube.com/vi/Hfovjw7Ts_U/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:39:11.259696Z",
+      "streamUrl": null
+    },
+    {
+      "videoId": "YLSx6-pBXOM",
+      "title": "This Took 6 Years to Make",
+      "thumbnail": "https://img.youtube.com/vi/YLSx6-pBXOM/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:39:11.259688Z",
+      "streamUrl": null
+    },
+    {
+      "videoId": "CjIwXfw8ffU",
+      "title": "It Took Me 6 Years to Make This",
+      "thumbnail": "https://img.youtube.com/vi/CjIwXfw8ffU/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:39:11.259683Z"
+    },
+    {
+      "videoId": "GJdyoJcZsuo",
+      "title": "He Thought His Internet was OK... IT'S NOT!",
+      "thumbnail": "https://img.youtube.com/vi/GJdyoJcZsuo/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:39:11.259675Z"
+    },
+    {
+      "videoId": "JQb9eGeclQw",
+      "title": "I Could Cry Over the Framework Pro 13",
+      "thumbnail": "https://img.youtube.com/vi/JQb9eGeclQw/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:39:11.259666Z"
+    },
+    {
+      "videoId": "sd4v2N7HUyk",
+      "title": "This Obsoleted Every 3D Printer I Own",
+      "thumbnail": "https://img.youtube.com/vi/sd4v2N7HUyk/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:39:11.259657Z"
+    },
+    {
+      "videoId": "L0ViytO-560",
+      "title": "The Tech House Needs a Workshop…",
+      "thumbnail": "https://img.youtube.com/vi/L0ViytO-560/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:39:11.259641Z"
     }
   ]
 }

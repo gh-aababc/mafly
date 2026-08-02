@@ -1,97 +1,122 @@
 {
   "category": "直播",
   "keyword": "live",
-  "updated": "2026-08-02T12:59:50.272156Z",
+  "updated": "2026-08-02T13:38:45.351325Z",
   "videos": [
     {
-      "videoId": "AOYJGeAhOcA",
-      "title": "Critical Minerals: DRC’s vision for peace",
-      "thumbnail": "https://img.youtube.com/vi/AOYJGeAhOcA/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "UGXWTL1H2tk",
-      "title": "Syria: Beginning to emerge from years of devastation - UN Chief | United Nations",
-      "thumbnail": "https://img.youtube.com/vi/UGXWTL1H2tk/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "_LTUrqcuOhM",
-      "title": "Gaza, Peacekeeping &amp; other topics - Daily Press Briefing (30 July 2026) | United Nations",
-      "thumbnail": "https://img.youtube.com/vi/_LTUrqcuOhM/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "m06UtZoty2w",
-      "title": "Election of the next Secretary-General | SC President's Media Stakeout | United Nations",
-      "thumbnail": "https://img.youtube.com/vi/m06UtZoty2w/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "riF8wDlCweI",
-      "title": "Ebola DRC: In the last 24 hours, 50 people have died of Ebola - Press Conference | United Nations",
-      "thumbnail": "https://img.youtube.com/vi/riF8wDlCweI/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "8LXqx8cc24Q",
-      "title": "Secretary-General in Cyprus",
-      "thumbnail": "https://img.youtube.com/vi/8LXqx8cc24Q/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "G03tcTtynxg",
-      "title": "Occupied Palestinian Territory &amp; other topics - Daily Press Briefing (29 July 2026) | United Nations",
-      "thumbnail": "https://img.youtube.com/vi/G03tcTtynxg/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "qr8PQ3CSd88",
-      "title": "Thousands displaced after border attack - UN responds #Sudan border",
-      "thumbnail": "https://img.youtube.com/vi/qr8PQ3CSd88/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "mTbh74eksh4",
-      "title": "Cyprus: UN fully committed to supporting its people - UN Chief's Press Conference | United Nations",
-      "thumbnail": "https://img.youtube.com/vi/mTbh74eksh4/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "LailXcjHjsY",
-      "title": "Gaza: Situation improved somewhat, but progress is far too slow - UNSCO Briefing | United Nations",
-      "thumbnail": "https://img.youtube.com/vi/LailXcjHjsY/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "-QfdxFrTOSc",
-      "title": "AI and Human Development: Remarks by UN Deputy Secretary-General | United Nations",
-      "thumbnail": "https://img.youtube.com/vi/-QfdxFrTOSc/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "jr-SG4ij3uU",
-      "title": "Use AI responsibly for a better world, with Tshilidzi Marwala | UN ‘Awake at Night’ podcast teaser",
-      "thumbnail": "https://img.youtube.com/vi/jr-SG4ij3uU/hqdefault.jpg",
-      "channel": ""
-    },
-    {
-      "videoId": "WZq7UJlyrWU",
-      "title": "West Bank situation rapidly deteriorating",
-      "thumbnail": "https://img.youtube.com/vi/WZq7UJlyrWU/hqdefault.jpg",
-      "channel": ""
+      "videoId": "pzC5bd_QixU",
+      "title": "Interactive Dialogue w/ UN Chief Candidates | SC President's Media Stakeout | United Nations",
+      "thumbnail": "https://img.youtube.com/vi/pzC5bd_QixU/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:38:33.218874Z",
+      "streamUrl": null
     },
     {
       "videoId": "J2mfFcAMk-M",
       "title": "Refugee Convention, Lebanon &amp; other topics - Daily Press Briefing (28 July 2026) | United Nations",
       "thumbnail": "https://img.youtube.com/vi/J2mfFcAMk-M/hqdefault.jpg",
-      "channel": ""
+      "channel": "",
+      "fetched_at": "2026-08-02T13:38:33.218869Z",
+      "streamUrl": null
     },
     {
-      "videoId": "pzC5bd_QixU",
-      "title": "Interactive Dialogue w/ UN Chief Candidates | SC President's Media Stakeout | United Nations",
-      "thumbnail": "https://img.youtube.com/vi/pzC5bd_QixU/hqdefault.jpg",
-      "channel": ""
+      "videoId": "WZq7UJlyrWU",
+      "title": "West Bank situation rapidly deteriorating",
+      "thumbnail": "https://img.youtube.com/vi/WZq7UJlyrWU/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:38:33.218856Z",
+      "streamUrl": null
+    },
+    {
+      "videoId": "jr-SG4ij3uU",
+      "title": "Use AI responsibly for a better world, with Tshilidzi Marwala | UN ‘Awake at Night’ podcast teaser",
+      "thumbnail": "https://img.youtube.com/vi/jr-SG4ij3uU/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:38:33.218850Z",
+      "streamUrl": null
+    },
+    {
+      "videoId": "-QfdxFrTOSc",
+      "title": "AI and Human Development: Remarks by UN Deputy Secretary-General | United Nations",
+      "thumbnail": "https://img.youtube.com/vi/-QfdxFrTOSc/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:38:33.218843Z",
+      "streamUrl": null
+    },
+    {
+      "videoId": "LailXcjHjsY",
+      "title": "Gaza: Situation improved somewhat, but progress is far too slow - UNSCO Briefing | United Nations",
+      "thumbnail": "https://img.youtube.com/vi/LailXcjHjsY/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:38:33.218836Z",
+      "streamUrl": null
+    },
+    {
+      "videoId": "mTbh74eksh4",
+      "title": "Cyprus: UN fully committed to supporting its people - UN Chief's Press Conference | United Nations",
+      "thumbnail": "https://img.youtube.com/vi/mTbh74eksh4/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:38:33.218828Z",
+      "streamUrl": null
+    },
+    {
+      "videoId": "qr8PQ3CSd88",
+      "title": "Thousands displaced after border attack - UN responds #Sudan border",
+      "thumbnail": "https://img.youtube.com/vi/qr8PQ3CSd88/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:38:33.218817Z",
+      "streamUrl": null
+    },
+    {
+      "videoId": "G03tcTtynxg",
+      "title": "Occupied Palestinian Territory &amp; other topics - Daily Press Briefing (29 July 2026) | United Nations",
+      "thumbnail": "https://img.youtube.com/vi/G03tcTtynxg/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:38:33.218811Z",
+      "streamUrl": null
+    },
+    {
+      "videoId": "8LXqx8cc24Q",
+      "title": "Secretary-General in Cyprus",
+      "thumbnail": "https://img.youtube.com/vi/8LXqx8cc24Q/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:38:33.218798Z",
+      "streamUrl": null
+    },
+    {
+      "videoId": "riF8wDlCweI",
+      "title": "Ebola DRC: In the last 24 hours, 50 people have died of Ebola - Press Conference | United Nations",
+      "thumbnail": "https://img.youtube.com/vi/riF8wDlCweI/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:38:33.218793Z"
+    },
+    {
+      "videoId": "m06UtZoty2w",
+      "title": "Election of the next Secretary-General | SC President's Media Stakeout | United Nations",
+      "thumbnail": "https://img.youtube.com/vi/m06UtZoty2w/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:38:33.218780Z"
+    },
+    {
+      "videoId": "_LTUrqcuOhM",
+      "title": "Gaza, Peacekeeping &amp; other topics - Daily Press Briefing (30 July 2026) | United Nations",
+      "thumbnail": "https://img.youtube.com/vi/_LTUrqcuOhM/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:38:33.218772Z"
+    },
+    {
+      "videoId": "UGXWTL1H2tk",
+      "title": "Syria: Beginning to emerge from years of devastation - UN Chief | United Nations",
+      "thumbnail": "https://img.youtube.com/vi/UGXWTL1H2tk/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:38:33.218758Z"
+    },
+    {
+      "videoId": "AOYJGeAhOcA",
+      "title": "Critical Minerals: DRC’s vision for peace",
+      "thumbnail": "https://img.youtube.com/vi/AOYJGeAhOcA/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T13:38:33.218741Z"
     }
   ]
 }
