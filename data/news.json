@@ -1,182 +1,110 @@
 {
   "category": "新闻",
   "keyword": "news",
-  "updated": "2026-08-02T17:17:36.513764Z",
+  "updated": "2026-08-02T19:21:29.727425Z",
   "videos": [
     {
-      "videoId": "LnRLvb2HS1c",
-      "title": "Australia prepares for war amid defence capability concerns | 7NEWS",
-      "thumbnail": "https://img.youtube.com/vi/LnRLvb2HS1c/hqdefault.jpg",
+      "videoId": "ARy4KKrWLTo",
+      "title": "BREAKING: Trump calls off MASSIVE Iran attack",
+      "thumbnail": "https://img.youtube.com/vi/ARy4KKrWLTo/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T17:16:52.369546Z",
-      "streamUrl": "https://rr5---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785712616&ei=iHtvar_BF6vt2roPgdqbqAs&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AKmDMHwK-9Tl1lrXs6brGQCMuusLfmGGGMn9fsdrTTgM&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=645&met=1785691016%2C&mh=sC&mm=18%2C26&mn=sn-i3b7kn6d%2Csn-ajhoaq-5o&ms=aub%2Conr&mv=m&mvi=5&pl=48&rms=aub%2Caub&initcwndbps=4115000&bui=AZFlqhOGjTLmDpmA_bUrgwr7WqbU5P2nSCrteqaYOC3-eYyfLz0dhToBF_d7N95i-t_2h17IuyZ7FhFA&spc=KBGBcu6TRq8DgNc59knzDAhyK2XTCK0j4KbUfp2x2oX2wg_yYjEf&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=12391625&ratebypass=yes&dur=161.541&lmt=1785673614756170&mt=1785690529&fvip=2&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAI_Mmzz5GqU6NF5hHDNQsYgWFVTVxZxxlZteJfhYwEkTAiEA-VlSn_ps9DDyd0BdX7HJc_dW4d16E_nlpxmLP3dhLig%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgW29HhgyXfTYYSWSEtukLPH0fhKvAO2Nd6s4Nsxy-f_8CIBVin83x8qNBJWRlve4tu_EMGXBcRPpI1hCOjnpe-nfC"
+      "fetched_at": "2026-08-02T19:20:40.751764Z",
+      "streamUrl": "https://rr3---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785720045&ei=jZhvatuBIP_4pt8P--bpsA0&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ANCVz3KdfCQCruNMM7JfECdlZaNT5tYaEp8O7phdjwx3&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=640&met=1785698445%2C&mh=vN&mm=18%2C29&mn=sn-i3b7kn6d%2Csn-i3belne6&ms=aub%2Crdu&mv=m&mvi=3&pl=48&rms=aub%2Caub&initcwndbps=1893750&bui=AZFlqhPITlUD4ytXIR1_VAN4e-Yq3VgzHqaZsMJgsKXHdJROzrUBEky35cYAefNaiekwRBPWu8Vzp60P&spc=KBGBcrmIYtFkrY43Mq68ehmc-bdy8koca_iJdDm4ZpsXoQVQPx9G&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=17207444&ratebypass=yes&dur=350.923&lmt=1785670057828321&mt=1785697966&fvip=5&fexp=51565115&c=ANDROID_VR&txp=3308224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAKiXgW5K3-fw7OMtwZ0LqFLdzAQ1T4mcU8CZ7fpYZc-KAiABHpeXzGmSVEeJpUMwDj33kzxhOnp7UGdG73mZqNEUYw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgHWq1HldsCNyQuY1ooWjSSn9p9hjF43tijp3pw-LvzbcCIDWEEcuXDhP6V3U8fzc45fBbbieAHxDak_4DalM5Aa1G"
     },
     {
-      "videoId": "TaU1dwYSBRM",
-      "title": "One Nation surges ahead as fuel tax relief ends | 9 News Australia",
-      "thumbnail": "https://img.youtube.com/vi/TaU1dwYSBRM/hqdefault.jpg",
+      "videoId": "Mc0yNCjdM08",
+      "title": "Los Angeles homeless crisis SURGES: ‘We DESPERATELY need change’",
+      "thumbnail": "https://img.youtube.com/vi/Mc0yNCjdM08/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T17:16:56.623238Z",
-      "streamUrl": "https://rr3---sn-i3b7knsl.googlevideo.com/videoplayback?expire=1785712621&ei=jXtvaq7MI9OevcAPmLOSmAs&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AFR68G36ClHYB3LNm-eczjjN3zTuK53g7hAS8EyFRCpE&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=301&met=1785691021%2C&mh=ED&mm=31%2C26&mn=sn-i3b7knsl%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=4115000&bui=AZFlqhNAUxMcmIaTmL3in5z1qvAHlU9aRss1dCU_qh1mYebbFYAUNqCWXiNXOFuxwqMxPQ9t3rByEOz3&spc=KBGBcn6Nr5ZmEFKBuRIWiu7JW4B--peQW49rLYhk9xSYwOX1Scpj&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=8084955&ratebypass=yes&dur=152.647&lmt=1785664089201082&mt=1785690570&fvip=1&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgFkVTwlDPzfndTZdI8WYY0EIq6fdp7jrLSxizjamNz_0CIDHhSaxLLFeEHiy9lHyxtics913-bjJjHyhPjeaWbvSd&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgBE0zQNsn39QOYbSzj_Svu9RgYnsGHZLYL_UPA-tf0zECIQD7cuTAmLYA5zelNoy5w1fSz0LKF3uBO77Ywc2xsaBrhA%3D%3D"
+      "fetched_at": "2026-08-02T19:20:45.821326Z",
+      "streamUrl": "https://rr5---sn-oji3b5-5n.googlevideo.com/videoplayback?expire=1785720050&ei=kphvav7rGLCT1d8P9eaA4AY&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ACocCZjQV6ehcIphpJ7hKU3AkZTD6Ubk9SfuB77TF_IM&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=349&met=1785698450%2C&mh=wL&mm=31%2C29&mn=sn-oji3b5-5n%2Csn-i3belnll&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=1893750&bui=AZFlqhPSPZxSh0TKfwlNChJAujpc_9TZea3forSsArEgWdUzTQTQLVabPAy_ZnD0ccSnXbWGwBOAHTDz&spc=KBGBcgGyUFWZXokrlfBquyCQRLdOkl5F-32oSD54A_p00IG5_gbh&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=18373113&ratebypass=yes&dur=427.758&lmt=1785601855291863&mt=1785698002&fvip=1&fexp=51565115&c=ANDROID_VR&txp=6309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgN5476i2Gf5GI3wmtq5cdjD6VvPs2874E3fPHtjwUhT8CIBTjUPPmfNU1I8JL_od2Niir-Dt1OBq6iLrSBWffH9ZZ&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgMNRKqyfbyx0Q4K8EMywzlfxRUpK1FoFOQV8SPzHxgk0CIC8sLOQALp8JWY800GKoP7lOpLP6qvyzlBVNqZujRC0j"
     },
     {
-      "videoId": "E91tyuUVjtM",
-      "title": "Good Morning America: News to start your day | August 2",
-      "thumbnail": "https://img.youtube.com/vi/E91tyuUVjtM/hqdefault.jpg",
+      "videoId": "JUt2nr071p4",
+      "title": "Swat Explosion: Latest Developments | Breaking News | Geo News",
+      "thumbnail": "https://img.youtube.com/vi/JUt2nr071p4/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T17:17:01.810420Z",
-      "streamUrl": "https://rr2---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785712625&ei=kXtvau2gLqjt2roPvf2ZqQs&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AJLLDE57q2siz1EjDSSFnFnNKsUM1lrxeC5d3t7YVM5d&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=521&met=1785691025%2C&mh=4b&mm=18%2C26&mn=sn-i3b7kn6k%2Csn-ajhoaq-5i&ms=aub%2Conr&mv=m&mvi=2&pl=48&rms=aub%2Caub&initcwndbps=4458750&bui=AZFlqhP0QKf0eijgk2T0yRG5CA9XdNGZscZ70FZDhOLJ3WrdB6i38yfVbAes8KBF_lS_eG7vm4urZjI4&spc=KBGBcitiplFl2Q8B_3RbdVKzKUaOWVPWwMqGqp4wRZ98yT1c-lDK&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=56202975&ratebypass=yes&dur=1031.082&lmt=1785685145937002&mt=1785690529&fvip=5&fexp=51565116&c=ANDROID_VR&txp=3319224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgDw-T4dIml1r3NnokDNZW5xcDSRCRSk44E27FJJPyPvcCIQCgmrf03yyb9pz62CT2RyHV8ODfYw8ImMPtaNF_C8DDyA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgEdy_z3dKVV0QEkI-OwEFdvpHqNz9FYriqyq6mCSxs40CIGPo_wCS9NRLH1oNoRgHkQQMSfXo_6LCCSorWMbrqT7_"
+      "fetched_at": "2026-08-02T19:20:50.637788Z",
+      "streamUrl": "https://rr1---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785720055&ei=l5hvapm_GK-W0-kP9r2y4Qo&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ADdOSNgrEUqvrs2-jxkgp6EqUwGC2fCgQtRWC1cZQGDC&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=167&met=1785698455%2C&mh=_9&mm=31%2C29&mn=sn-oji3b5-58%2Csn-i3belnl6&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&gcr=cn&initcwndbps=7065000&bui=AZFlqhNRqJB2bR_dP5Vu0Wtw1bbUJWn9wcihEeoYZEj3AyeQ6i5CfT4sKscEftWcnrZjxXhM0nsMvp5S&spc=KBGBcozjSAlTobRQ8NR5p2xL4g_Zzn3BVyTMC3Fa5QkIb3joZh5C&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=11297326&ratebypass=yes&dur=229.622&lmt=1785686512495020&mt=1785698002&fvip=1&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhALE4sBM92ArYq2_NVQCGyTGVZ7Nu8ZntdOXlm2i8loakAiEA3bpNL9KTW5XHd67j6khwBGadIrE3xUldmoZMXrwRCHg%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgFbhTOlSXq6N6GkYB3AuYFF0SwxaWI6SJYJhUHJ7lImQCIH3noW5eoPaXdhxV8-Ql2ug4V0RQL3kIEwstXriS2sGW"
     },
     {
-      "videoId": "xcLlqUVmfkM",
-      "title": "EU to hold emergency talks over Ceuta migrant surge | BBC News",
-      "thumbnail": "https://img.youtube.com/vi/xcLlqUVmfkM/hqdefault.jpg",
+      "videoId": "M8T-gRHqlI8",
+      "title": "Iran US War | Trump Warns | Sad News From Iran | Rain in Pakistan | 8 PM News Headlines | Samaa TV",
+      "thumbnail": "https://img.youtube.com/vi/M8T-gRHqlI8/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T17:17:06.059478Z",
-      "streamUrl": "https://rr5---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785712630&ei=lntvarOBGI3apt8P99qIyQ8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AMH-u4sGD0odvGRqMu5XuioOxnpegddhc7PDcOf_EGiL&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=517&met=1785691030%2C&mh=Nd&mm=18%2C26&mn=sn-i3b7kn6d%2Csn-ajhoaq-5i&ms=aub%2Conr&mv=m&mvi=5&pl=48&rms=aub%2Caub&initcwndbps=4115000&bui=AZFlqhMc6Cdw1vGCfpBSyd1XRZbRvf26cgVfBpR6jP7ySkPguN0HzRm340QTo_XKMMlPFZ4iZfL5HZGU&spc=KBGBcjssy5EM-GQzgEbyzWZqisFogR5PDOkcUQSpl1865w3t78lX&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=27737119&ratebypass=yes&dur=439.971&lmt=1785665922616222&mt=1785690529&fvip=4&fexp=51565116&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgSB-sGQMYf1K-62ff8B0xWz9S7xm6duJqFe_AJ_jBlIsCIHDFzR2jiwz5Pf7-m3AtvRgjHWQmjKfUdWjHID6PdZv0&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhALwO8HfZBS7VS07pgEPjR1ZH-W9b6h6qGZUo-k6mztDmAiEA4fw5EdWlXOVOEbf2BwbMfV1eW4uepntfbKlaGWd8aMw%3D"
-    },
-    {
-      "videoId": "wTPxKpDD42I",
-      "title": "Some truck drivers told to stay off Gordie Howe Bridge",
-      "thumbnail": "https://img.youtube.com/vi/wTPxKpDD42I/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T17:17:10.693098Z",
-      "streamUrl": "https://rr4---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785712634&ei=mntvaq_gMK212roPifu1yQQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AHXT9PHYsm8-0QAwV1skBk3p99y5MgvkuTlIK6tCEQU4&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=465&met=1785691034%2C&mh=nH&mm=31%2C26&mn=sn-i3b7kn6d%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=4458750&bui=AZFlqhNXWEqEHViuTE_tFtD-SI7LktbBtlXlN30GmqOtVxKO0XUjApMINMLtKCUvX4fnG4MVWrhOVG3l&spc=KBGBcgW0S5OQOFWdDCkqN2Rxa4fWV046fx88evBSKgfduW8nk77X&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=11911948&ratebypass=yes&dur=188.708&lmt=1785555145678050&mt=1785690570&fvip=1&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAMVqRv01NdtVoLdWIQdVhoGryXf5B3-bqYpNbJJ6yl6NAiEAwXVVBsEkWvygLEk9lWmBud3fqBdo6DEdz6J20ZGBcdQ%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAPN9N3lo6WfBioBDQBPKbq-WZC4YkedKIHrNt5uonnAtAiEAxwlUxUW2qTD52WIuSsZTxMZAj44PGvcjroheIvnSDiA%3D"
-    },
-    {
-      "videoId": "B2wWepEnEyk",
-      "title": "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (02.08.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
-      "thumbnail": "https://img.youtube.com/vi/B2wWepEnEyk/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T17:17:15.109409Z",
-      "streamUrl": "https://rr3---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785712639&ei=n3tvapepBdmLqL8PkOjUqQM&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AFkERczMioOq1PWIcrpYUfSAi06D8e0JoMLbqRMJE9rH&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=423&met=1785691039%2C&mh=M6&mm=18%2C26&mn=sn-i3b7kn6d%2Csn-ajhoaq-5o&ms=aub%2Conr&mv=m&mvi=3&pl=48&rms=aub%2Caub&initcwndbps=4458750&bui=AZFlqhNLdezqgaysvtppI-2pqHwGSsd5lExjImWuSEoxd2-W64TN0XE2Ke3PvCeYi9b68hY-zrBuZTMD&spc=KBGBcuLfC755rXkNBgDslqKXY8InNn_AMrnrii_JKKJOPRW81DIQ&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=112318944&ratebypass=yes&dur=1794.693&lmt=1785681940698208&mt=1785690529&fvip=4&fexp=51565116&c=ANDROID_VR&txp=5319224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgYlhzrtRSvSNqJYRA2LUvygFAvplnkUkFKB6FMtVsRSoCIH6Zn227zNBJD-2RUARswRdxhmsQBS9scV4dhLhwpFGj&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgVtw3q0hQepnjC4t9E3kD2n6LvVblBKNJjPStgYItg54CIQCcJuINCMpnhH4NSbyUAtABvVS33zX2N3n2AN7TxQsdUw%3D%3D"
-    },
-    {
-      "videoId": "yPEfwSK5G1I",
-      "title": "ABC World News Tonight with David Muir Full Broadcast - August 1, 2026",
-      "thumbnail": "https://img.youtube.com/vi/yPEfwSK5G1I/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T17:17:19.409870Z",
-      "streamUrl": "https://rr5---sn-i3belnl7.googlevideo.com/videoplayback?expire=1785712643&ei=o3tvatvrGJiTvcAP6uOtgAI&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ABG1SGbAsRHX3kbzTddcsCSJojwnMFnsL9ifta84dL7i&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=574&met=1785691043%2C&mh=FE&mm=18%2C29&mn=sn-i3belnl7%2Csn-i3b7kn6d&ms=aub%2Crdu&mv=m&mvi=5&pl=48&rms=aub%2Caub&initcwndbps=5065000&bui=AZFlqhN5MFDjuM_uF49BxixVzDyW_TZ3p7xGCA-IBnMm2R7OC9mpjKuRz4K1NzfL-jKCjAFXjuKTDWPn&spc=KBGBckb8V3syazz4_2KPt2AFPNyASluhBM5v11mwE5RUQ65Zeeg6&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=82050005&ratebypass=yes&dur=1203.467&lmt=1785664080643351&mt=1785690758&fvip=1&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgUGd90tUO0PJNCPj_VYSWH-PFw_N75HyvKXeDznx-yqcCIEZ0-B75agv8eJ1hoqoRnuzjmlo19VY7iPFRQo-OJddj&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANHc3xoCzWwJM3iAHvs4yATCPuJ5GfpsWmwqANc6DUiAAiEAuyQo3_h4sWTHYTsjx6fvlSvPm9MzYmvAUwXJXq8OzFA%3D"
-    },
-    {
-      "videoId": "5QSVSkQxLZI",
-      "title": "Today news 🔴 nepali news | aaja ka mukhya samachar, nepali samachar live | Saun 17 gate 2083.",
-      "thumbnail": "https://img.youtube.com/vi/5QSVSkQxLZI/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T17:17:23.705457Z",
-      "streamUrl": "https://rr1---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785712647&ei=p3tvapuLLMuYpt8P5YCt4AE&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AEX2-Zg-peBiqMWZGXrSkAhH_bGy0CP9cJyMmgn99sO_&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=995&met=1785691047%2C&mh=J-&mm=18%2C26&mn=sn-i3b7kn6d%2Csn-ajhoaq-5i&ms=aub%2Conr&mv=m&mvi=1&pl=48&rms=aub%2Caub&initcwndbps=4458750&bui=AZFlqhNAsxPTgAm0sgILVWZ-m47-eHZQUxFByHyWjxs7ftQk_eXsAqZMGRTz69PWnWa0LpfIzRCQI9r-&spc=KBGBcsqNRSSxEmbmlyE998mdwepSW4ZkD21YJQiQW9ebsWTVyj1D&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=131959302&ratebypass=yes&dur=2733.685&lmt=1785672650216912&mt=1785690529&fvip=2&fexp=51565116&c=ANDROID_VR&txp=3309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAMy8UWFC4y9kDZvEJsc8VGhherijUf9e3yYGLryB6-RtAiAQB_VP4MsP1eVud1XjHHoNTUT0uZI273aG3iVVtsjIIw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAILmoal2wfV5-FwPXLb0E9qJwEryMAj3Cn1lLgDbxAVVAiA_chPhGhlMLVxhECnVLmkTh26wWHdHddvfr5AZRBVNqQ%3D%3D"
+      "fetched_at": "2026-08-02T19:20:55.694017Z",
+      "streamUrl": "https://rr5---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785720060&ei=nJhvapD6EJmW1d8P1tXg0Ag&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ALro51mA5n1UDIvTpgF4eGTX8UkgOdHNJBpD6qJBPFxy&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=191&met=1785698460%2C&mh=Rd&mm=31%2C26&mn=sn-i3b7kn6d%2Csn-hoa7rn76&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&gcr=hk&initcwndbps=1893750&bui=AZFlqhN-4tADA3ywRXerbdms-wg8pKC9ERJ1UKz_iKWpQZlnOEj3OEWc8Gc8XPkX9B92sMPRsDVN1bKh&spc=KBGBciA59Li5blr9XdE6IzXOThSYV--40Wjv8S5cqCQgY1Bxuk55&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=22995631&ratebypass=yes&dur=557.929&lmt=1785596750103180&mt=1785698002&fvip=5&fexp=51565115&c=ANDROID_VR&txp=6309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhALX8P6Be3jYGhPryD8-BJhCreOAAtLXXsszJSSQmaWSFAiBsdnvh3ojeaAfVxMAiymU9qcrP7q1f4QDcYTZNQWWFbg%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANSHXN5wXVksKfz7OUaSnLalzdlFe_fXH64tHr9hcjjNAiEA1nBOj2Y71-4n3DshvDyz907Q8IMq_VDrhy1HqLk8f2I%3D"
     },
     {
       "videoId": "-RfDtgqd3u0",
       "title": "আন্তর্জাতিক সময় | সকাল ৯টা | ২ আগস্ট ২০২৬ | Somoy TV Bulletin 9am| Latest International News",
       "thumbnail": "https://img.youtube.com/vi/-RfDtgqd3u0/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T17:17:28.041175Z",
-      "streamUrl": "https://rr5---sn-i3b7kn6s.googlevideo.com/videoplayback?expire=1785712652&ei=rHtvapGFAuGBvcAPkP2AgAI&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-APxuc_DWQ5NG6bMAnWBV9U4WlxfCaacqSbGBvPkRuYe1&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=684&met=1785691052%2C&mh=ZI&mm=18%2C26&mn=sn-i3b7kn6s%2Csn-ajhoaq-5o&ms=aub%2Conr&mv=m&mvi=5&pl=48&rms=aub%2Caub&initcwndbps=4115000&bui=AZFlqhMIGXjWqscvIImRQdQG_oTSYQ5RcaW3v8BVUqxpcjwPkNjGSw68zoZ2sY84Hs8HMMbRcTmmGZfn&spc=KBGBctGOCaEQwBzlgyOD0eG7m0rXCXDJyIk04rYYqZwyIEl6zIJq&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=184084396&ratebypass=yes&dur=2556.795&lmt=1785660377127214&mt=1785690529&fvip=4&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAObJBPEcfhOmr-8n91EPNZO0LXhoXVyhc3blYPEuavhHAiBD0Bqubts8H17S8tG_VUGk1ev5yyXi1Ccb0wvZwM4cpQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgIc8YqeGkXHr-1YqNMe7PkfMtmk0ddSCbaUwIZuky7qsCICWKrKUxrKipMXkNZr__m9pmn1mNeiy_IvQVS9aoDub1"
-    },
-    {
-      "videoId": "P93zv6qyB0k",
-      "title": "🔴 LIVE | Siyatha News | 12.00 PM | 02 - 08 - 2026",
-      "thumbnail": "https://img.youtube.com/vi/P93zv6qyB0k/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T17:17:32.334247Z",
-      "streamUrl": "https://rr3---sn-oji3bc-5n.googlevideo.com/videoplayback?expire=1785712656&ei=sHtvaqHgDL3rvcAPx6PegQk&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AIRr40re_w7RokL0PZn_Ea0tu39jF6Jvgmp9sXF0Y3Sw&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=421&met=1785691056%2C&mh=Uq&mm=31%2C29&mn=sn-oji3bc-5n%2Csn-i3b7knse&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=4115000&bui=AZFlqhPMXhLlu0e5NHSE6A-eQ5sHELUnllrQKp6zBiLYF40qsg8Wjxfgg8rO-Z5q7vTH1-XySbnnpjm0&spc=KBGBcmtk1_2AU_h8w-WCnIT7XqxPZ1D-5JtM_rvh48EkyhyLfus2&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=119435849&ratebypass=yes&dur=1816.543&lmt=1785687058162716&mt=1785690570&fvip=2&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAKH_px1n5vxnVPGwT3OTRkJ-zUmyNxr-1az2oddAlHIeAiEA3_59wtjUt8F90I9MLf9EiIvcQIrpX9gr3VkVMFbLNow%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgNaOgtCrANNt2qcAwCWfq04hIy7s3hclfFY7YiWD1hs4CIQDjKs6u0ELfvqKF99j3M_FUT5PDCSqEIZEyBD43x2fYww%3D%3D"
-    },
-    {
-      "videoId": "qYmSQd4ZnuA",
-      "title": "🔴LIVE: Today Headlines - 02 AUGUST 2026 | 10 மணி தலைப்புச் செய்திகள் | HEADLINES | CM VIJAY | TVK",
-      "thumbnail": "https://img.youtube.com/vi/qYmSQd4ZnuA/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513693Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "0MPzTz_NOJk",
-      "title": "সন্ধ্যা ৬ টার বাংলাভিশন সংবাদ | ০২ আগস্ট ২০২৬ | BanglaVision 6 PM News Bulletin | 02 Aug 2026",
-      "thumbnail": "https://img.youtube.com/vi/0MPzTz_NOJk/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513710Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "IG4vR7Y67vI",
-      "title": "🔴Live ଓଡ଼ିଶାର ସବୁଠୁ ବଡ଼ ଖବର 7PM News | Odisha Flood | Breaking News | Kanak News",
-      "thumbnail": "https://img.youtube.com/vi/IG4vR7Y67vI/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513717Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "4ZrN11RlIxI",
-      "title": "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ | 02.08.2026 | Today News | Ajker News | BD News | ATN Bangla News",
-      "thumbnail": "https://img.youtube.com/vi/4ZrN11RlIxI/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513721Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "kUZc8UQ8L3I",
-      "title": "🔴 LIVE | Siyatha News | 06.00 PM | 02 - 08 - 2026",
-      "thumbnail": "https://img.youtube.com/vi/kUZc8UQ8L3I/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513724Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "r10HfnACras",
-      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly' | BBC News",
-      "thumbnail": "https://img.youtube.com/vi/r10HfnACras/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513727Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "Rc1V30mVgJc",
-      "title": "BREAKING: Reform UK address Rupert Lowe's invitation to Nigel Farage",
-      "thumbnail": "https://img.youtube.com/vi/Rc1V30mVgJc/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513729Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "ARy4KKrWLTo",
-      "title": "BREAKING: Trump calls off MASSIVE Iran attack",
-      "thumbnail": "https://img.youtube.com/vi/ARy4KKrWLTo/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513732Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-02T19:21:00.580735Z",
+      "streamUrl": "https://rr2---sn-i3belnll.googlevideo.com/videoplayback?expire=1785720065&ei=oZhvas3aA5i_vcAP6IbwqA4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AIUa3z02UxHt6ksfsnzxjcoM0asa32iVT9mbl9rHlORY&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=571&met=1785698465%2C&mh=ZI&mm=18%2C26&mn=sn-i3belnll%2Csn-hoa7rn76&ms=aub%2Conr&mv=m&mvi=2&pl=48&rms=aub%2Caub&initcwndbps=1893750&bui=AZFlqhN7ubRcpsKN4UGR2PsjEncFsyu3gW4LkfWc0lRs7zO2WDiM4bX0zqxUVTrF5kWh6TzsCgLaDaMb&spc=KBGBcromHeyeo2k6OmkIu3Q4dhm-HGDkvV4s1t5Niq12Qq3wv6RB&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=184084396&ratebypass=yes&dur=2556.795&lmt=1785660377127214&mt=1785697966&fvip=5&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAO8LyYKtTObcIObSf5YE-1wiTmZKQSW4-Fkb13t--y-DAiB4KM-cCqYYDBVHDA6WYlYu4PhABGFKypa11FaZmc5f9A%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgCaTSFDcdv3uSq9j4shvCo3DBAC9_Mi0Z7ZOZ8_6mw3kCIC2vPfiPdCZTpFFmlMBUGaesgF6obvRphX0SJEVF1_s7"
     },
     {
       "videoId": "6rCfTvY0nBQ",
       "title": "Today news 🔴 nepali news | aaja ka mukhya samachar, nepali samachar live | Saun 17 gate 2083",
       "thumbnail": "https://img.youtube.com/vi/6rCfTvY0nBQ/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513734Z",
+      "fetched_at": "2026-08-02T19:21:05.358679Z",
+      "streamUrl": "https://rr1---sn-i3b7knlk.googlevideo.com/videoplayback?expire=1785720069&ei=pZhvavrlN4mhrfcPvLfggAw&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AE8tn4Y9icebb8ISTk2KRKaVeEBVZbZT0zFal89larry&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=652&met=1785698469%2C&mh=Ia&mm=18%2C29&mn=sn-i3b7knlk%2Csn-i3belnll&ms=aub%2Crdu&mv=m&mvi=1&pl=48&rms=aub%2Caub&initcwndbps=1893750&bui=AZFlqhO4RqFVzsnA_XQV5oKukIsILNkTsblG3xW-IrVL-Wuseb6Rt2-1B-eN-lUloHI-3k8G-B9xhf88&spc=KBGBcg4DTbvzP7oLjFFPbeFgbbOSCDM3z2QTjAgafj_UMimRAY3J&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=206121212&ratebypass=yes&dur=3663.110&lmt=1785638919325834&mt=1785697966&fvip=5&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAPJHLnzRA46W3s98pC-LSMxmIMaihy5KsxdVL5qWHPvVAiAzFB95u_0Yr7fU0Q6xL-eVoyLGfmh_1BIWgKWaZa23zQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAIzyKRj5410gyV7MZhiGUR6Va05UFwKat5nEvNhdXZ8bAiEAn8eIrDJF5ODb1GbyxzokFVzKn7uO1RxhI4u-KrHP0P4%3D"
+    },
+    {
+      "videoId": "TaU1dwYSBRM",
+      "title": "One Nation surges ahead as fuel tax relief ends | 9 News Australia",
+      "thumbnail": "https://img.youtube.com/vi/TaU1dwYSBRM/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T19:21:10.229490Z",
+      "streamUrl": "https://rr1---sn-i3belne6.googlevideo.com/videoplayback?expire=1785720074&ei=qphvavjNJfOy2roP9obGIQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AEIUJVyZnarSuBgxs8PyG7iGWFL5rMPLFvxGHH8NUn6w&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=213&met=1785698474%2C&mh=ED&mm=31%2C26&mn=sn-i3belne6%2Csn-hoa7rn76&ms=au%2Conr&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=1893750&bui=AZFlqhO-X87wKOhFmgHEfgtCHizu8ynQev1lJHZz56qiePO2ceMe_S6e3HhNT7Nq5OMMHV2O3DAj58AC&spc=KBGBchR6ySbB286ZI-peUD9OU35Irq8phO2YzK4Wh6GzUIEM7klc&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=8084955&ratebypass=yes&dur=152.647&lmt=1785664089201082&mt=1785698002&fvip=3&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgbOXjmqjIYSkeQRuR-ZBnuC9vfV47iJ7wBZuiH2wCa9gCIQDLMsREHLeGUC6Cx5iomxTjV8zqR-xmLqmQ3SndNNQRig%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgWDG1p-rcRUsZKGj_UIc2mRoSeF8n_cL2USHwmLKU83ECIQDSpCFM4xJxc6lkBlryU-Lw6BY_QuvS6LOaI5viKGGdug%3D%3D"
+    },
+    {
+      "videoId": "s0N38VuiFdQ",
+      "title": "Today news🔴 nepali news live | nepali samachar live | mukhe samachar | nepali breaking news",
+      "thumbnail": "https://img.youtube.com/vi/s0N38VuiFdQ/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T19:21:14.835331Z",
+      "streamUrl": "https://rr3---sn-i3belney.googlevideo.com/videoplayback?expire=1785720079&ei=r5hvap6fJrWD2roPo87qqAs&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AEPVKO58hhcRAYXhebizj6RiTw1NiDWMuLXYRyYowo4B&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=520&met=1785698479%2C&mh=st&mm=18%2C29&mn=sn-i3belney%2Csn-i3b7kn6d&ms=aub%2Crdu&mv=m&mvi=3&pl=48&rms=aub%2Caub&initcwndbps=4466250&bui=AZFlqhNFr-gva46UE2kD6kp8ZYqg2LdPJVPQZzYgQz6fP4WgWshUkj_aJUMgHvDCPFtoBJDhZYPkcIVJ&spc=KBGBctBbqIwFCRqTZE-Ww32-RcpwD4rbcBmHicfJn0YKfzd06t9r&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=113123421&ratebypass=yes&dur=1518.654&lmt=1785680357301748&mt=1785698208&fvip=2&fexp=51565115&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgE83sonANI6fVd6F4JdlC3t6oEeySKnOdtGfOGIw-PM0CIGkyvYcODOHMcMJ6LfKtVLbwf3eQm8FDO1kMauVmVspJ&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgcdwDZqVzoM1sQsHGUEhdnjRSU2aCG36WX0Cu9z1Tw98CIQC1nv9GbvxcBYkpBD_MgyQ3YG0zHq0ta9JCkYhYKg3UAQ%3D%3D"
+    },
+    {
+      "videoId": "LnRLvb2HS1c",
+      "title": "Australia prepares for war amid defence capability concerns | 7NEWS",
+      "thumbnail": "https://img.youtube.com/vi/LnRLvb2HS1c/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T19:21:19.916802Z",
+      "streamUrl": "https://rr5---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785720084&ei=tJhvapnxKY3u2roP3KeIgAs&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AEPTVadVcbEOAHp6xUcfkM26G_RPot4R3TMo1Ke30byo&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=489&met=1785698484%2C&mh=sC&mm=18%2C29&mn=sn-i3b7kn6d%2Csn-i3belnll&ms=aub%2Crdu&mv=m&mvi=5&pl=48&rms=aub%2Caub&initcwndbps=7065000&bui=AZFlqhOBu2h04UDsSqXx4iex_OcGSJxhnrMrBD-s2iPq4Tk6OPcsHQ7eo2BS5FAnpXHNSvobpil04QTR&spc=KBGBcsFsV6d2zbzDp4mG4Z-2g8cM_B8R9ukLWD6ZYHyBnWr2TzTs&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=12391625&ratebypass=yes&dur=161.541&lmt=1785673614756170&mt=1785697966&fvip=5&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgak82sBv-jIyRxKSYSsE-xx03BzKdYKBGLLO60ZiCUAkCIQCiOo8t9OVxYeEloxFPoSo4Oh4xQO2GD07yPUxtAvG-qw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAJbQTXbrblOCqXXN6qQ0xcnMsOu5-ovzvwJqEXTJ5IDpAiAHsbp9UoHY2HmooAnwQFhoKtahsusj_umotLq9kkRUAQ%3D%3D"
+    },
+    {
+      "videoId": "5QSVSkQxLZI",
+      "title": "Today news 🔴 nepali news | aaja ka mukhya samachar, nepali samachar live | Saun 17 gate 2083.",
+      "thumbnail": "https://img.youtube.com/vi/5QSVSkQxLZI/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T19:21:24.912868Z",
+      "streamUrl": "https://rr1---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785720089&ei=uZhvapPuGZiqvcAPtOz0oQM&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AJIeIY03iJ72_BLC5biwpEjsYEFPJmx0XWZCH1cyLLyo&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=665&met=1785698489%2C&mh=J-&mm=18%2C29&mn=sn-i3b7kn6d%2Csn-i3belnls&ms=aub%2Crdu&mv=m&mvi=1&pl=48&rms=aub%2Caub&initcwndbps=7065000&bui=AZFlqhOki3rd0XGU3ZADF2mGviwdZjjQf0hfw4tsW8ZayjrgaQh1fUr5oHA4Q0mXTjK-qv3mrrSdG8T2&spc=KBGBcrr_nX_eoAB_K7Huy-jPqWtH6U1vm1kXyjPsnhpHBXezYGuN&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=181608399&ratebypass=yes&dur=2733.592&lmt=1785696425337942&mt=1785697966&fvip=5&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAJErH_enT2OR9Pfm8BiKqlh6z0cTy57eUTjZHqdsPCDyAiBZWMCWGJ7_aK0R9fFHarcoXZ07JYPhejeTaKMadAPwfg%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgJnVUAKDXZ3iHuEjS8lJvyNEpM2TMNMIen_eFB2vTzuQCIQDRp3fQIxTAvjcC-acI_XLKTTfNObJ8BO8pt_VgV3JICg%3D%3D"
+    },
+    {
+      "videoId": "96wkLHGgszM",
+      "title": "Couple attacked on peaceful morning walk | 9 News Australia",
+      "thumbnail": "https://img.youtube.com/vi/96wkLHGgszM/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T19:21:29.727338Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "03o2Tnohutk",
-      "title": "আমেরিকায় ম/হাধ্বং/স/য/জ্ঞ চালানোর চূড়ান্ত ঘোষণা ইরানের, ভয়ে পিছু হটছেন ট্রাম্প! | Iran US War | ATN",
-      "thumbnail": "https://img.youtube.com/vi/03o2Tnohutk/hqdefault.jpg",
+      "videoId": "D4DR5bXZ24c",
+      "title": "SABCNews AM Headlines @06H00 | 02 August 2026",
+      "thumbnail": "https://img.youtube.com/vi/D4DR5bXZ24c/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513737Z",
+      "fetched_at": "2026-08-02T19:21:29.727352Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "5oO8yBdEJow",
-      "title": "AJK Election 2026 Phase 2 - Pml-n Lead, Unoffical Result | Geo News 7PM Headlines 2 August 26",
-      "thumbnail": "https://img.youtube.com/vi/5oO8yBdEJow/hqdefault.jpg",
+      "videoId": "bYMZlGUG89c",
+      "title": "Saudi Crown Prince Concerned Over U.S. Plan | 7 AM Headlines Geo News (2nd Aug 2026)",
+      "thumbnail": "https://img.youtube.com/vi/bYMZlGUG89c/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513740Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "4ddP33mdrTk",
-      "title": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 02.08.2026 | Today News | Ajker News | BD News | ATN Bangla News",
-      "thumbnail": "https://img.youtube.com/vi/4ddP33mdrTk/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513742Z",
+      "fetched_at": "2026-08-02T19:21:29.727357Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -184,63 +112,135 @@
       "title": "BREAKING: Trump says U.S. will hold off on further Iran strikes",
       "thumbnail": "https://img.youtube.com/vi/aa0FCBeD21A/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513745Z",
+      "fetched_at": "2026-08-02T19:21:29.727361Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "9WqyQix0vTo",
-      "title": "কুয়েতে মার্কিন বাহিনীকে ন’রক দেখালো ইরান | Iran attacks US base in kwait | ATN Bangla News",
-      "thumbnail": "https://img.youtube.com/vi/9WqyQix0vTo/hqdefault.jpg",
+      "videoId": "PAXMp2Q61OM",
+      "title": "Trump Loses Patience During Fiery Press Exchange With Reporters | WORLD NEWS | US NEWS",
+      "thumbnail": "https://img.youtube.com/vi/PAXMp2Q61OM/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513747Z",
+      "fetched_at": "2026-08-02T19:21:29.727364Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "lO2g9UAbMQs",
-      "title": "Rain Brings Pleasant Weather to Karachi | Latest Update | Geo News 9AM Headlines 2nd August 2026",
-      "thumbnail": "https://img.youtube.com/vi/lO2g9UAbMQs/hqdefault.jpg",
+      "videoId": "XE2NZhjI1p0",
+      "title": "AJK Election 2026 Phase 2 - Latest Update | Geo News 9PM Headlines 2 August 26",
+      "thumbnail": "https://img.youtube.com/vi/XE2NZhjI1p0/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513750Z",
+      "fetched_at": "2026-08-02T19:21:29.727368Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "M8T-gRHqlI8",
-      "title": "Iran US War | Trump Warns | Sad News From Iran | Rain in Pakistan | 8 PM News Headlines | Samaa TV",
-      "thumbnail": "https://img.youtube.com/vi/M8T-gRHqlI8/hqdefault.jpg",
+      "videoId": "1qpf5r25mgE",
+      "title": "চ্যানেল আই রাত ৯ টার সংবাদ | Channel i News 9 pm | 02 August, 2026",
+      "thumbnail": "https://img.youtube.com/vi/1qpf5r25mgE/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513752Z",
+      "fetched_at": "2026-08-02T19:21:29.727372Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "0zBPaAR0-Sg",
-      "title": "🔴 Breaking News මහර බන්ධනාගාරය තුළ නොසන්සුන් තත්ත්වයක්   - Hiru News",
-      "thumbnail": "https://img.youtube.com/vi/0zBPaAR0-Sg/hqdefault.jpg",
+      "videoId": "E91tyuUVjtM",
+      "title": "Good Morning America: News to start your day | August 2",
+      "thumbnail": "https://img.youtube.com/vi/E91tyuUVjtM/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513755Z",
+      "fetched_at": "2026-08-02T19:21:29.727376Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "96wkLHGgszM",
-      "title": "Couple attacked on peaceful morning walk | 9 News Australia",
-      "thumbnail": "https://img.youtube.com/vi/96wkLHGgszM/hqdefault.jpg",
+      "videoId": "yxFsBUo5ii8",
+      "title": "Small Passenger Plane Crashes in Peru, 13 Dead | Geo News 12PM Headlines 2nd August 2026",
+      "thumbnail": "https://img.youtube.com/vi/yxFsBUo5ii8/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513757Z",
+      "fetched_at": "2026-08-02T19:21:29.727380Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "ZOFZcWykhrQ",
-      "title": "🔴LIVE: Today Headlines | இரவு 10 மணி தலைப்புச் செய்திகள் (02.08.2026) | 10 PM Headlines | ThanthiTV",
-      "thumbnail": "https://img.youtube.com/vi/ZOFZcWykhrQ/hqdefault.jpg",
+      "videoId": "v6I8nYKrqzA",
+      "title": "Today news🔴nepali news | aaja ka mukhya samachar, nepali samachar live | Saun 17 gate 2083",
+      "thumbnail": "https://img.youtube.com/vi/v6I8nYKrqzA/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513759Z",
+      "fetched_at": "2026-08-02T19:21:29.727384Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "ZwTpcEcw5bM",
-      "title": "সময় সংবাদ | বিকাল ৫টা | ২ আগস্ট ২০২৬ | Somoy TV Bulletin 5pm | Latest Bangladeshi News",
-      "thumbnail": "https://img.youtube.com/vi/ZwTpcEcw5bM/hqdefault.jpg",
+      "videoId": "UwJr5WMPyYY",
+      "title": "Italy suspends Schengen pact with Spain over Ceuta crisis | RTÉ News",
+      "thumbnail": "https://img.youtube.com/vi/UwJr5WMPyYY/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T17:17:36.513761Z",
+      "fetched_at": "2026-08-02T19:21:29.727387Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "L2b6A9-GeZk",
+      "title": "Migrants storm Spanish border - what's happening in Ceuta and why | BBC News",
+      "thumbnail": "https://img.youtube.com/vi/L2b6A9-GeZk/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T19:21:29.727391Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "9KMmY2ZnAEg",
+      "title": "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । 02.08.2026 | Top News | Today News | Ajker News | ATN Bangla",
+      "thumbnail": "https://img.youtube.com/vi/9KMmY2ZnAEg/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T19:21:29.727395Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "IVEsQtze5jQ",
+      "title": "রাতের সময় | রাত ৯টা | ২ আগস্ট ২০২৬ | Somoy TV Bulletin 9pm | Latest Bangladeshi News",
+      "thumbnail": "https://img.youtube.com/vi/IVEsQtze5jQ/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T19:21:29.727399Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "A4F7T4eldrM",
+      "title": "🔴 LIVE : News 1st: Prime Time Sinhala News - 10 PM | (02-08-2026) රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති",
+      "thumbnail": "https://img.youtube.com/vi/A4F7T4eldrM/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T19:21:29.727403Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "wTPxKpDD42I",
+      "title": "Some truck drivers told to stay off Gordie Howe Bridge",
+      "thumbnail": "https://img.youtube.com/vi/wTPxKpDD42I/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T19:21:29.727407Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "yPEfwSK5G1I",
+      "title": "ABC World News Tonight with David Muir Full Broadcast - August 1, 2026",
+      "thumbnail": "https://img.youtube.com/vi/yPEfwSK5G1I/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T19:21:29.727410Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "xcLlqUVmfkM",
+      "title": "EU to hold emergency talks over Ceuta migrant surge | BBC News",
+      "thumbnail": "https://img.youtube.com/vi/xcLlqUVmfkM/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T19:21:29.727414Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "sejHWMEdCt4",
+      "title": "Chaotic scenes as migrants overwhelm Spanish territory Ceuta",
+      "thumbnail": "https://img.youtube.com/vi/sejHWMEdCt4/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T19:21:29.727418Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "fN7DwfEPCzQ",
+      "title": "America Is Losing Canada? Carney Makes Stunning Trade Announcement | WORLD NEWS | US | CANADA",
+      "thumbnail": "https://img.youtube.com/vi/fN7DwfEPCzQ/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T19:21:29.727421Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     }
   ]
