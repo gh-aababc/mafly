@@ -1,230 +1,102 @@
 {
   "category": "时尚",
   "keyword": "fashion",
-  "updated": "2026-08-02T19:30:32.599565Z",
+  "updated": "2026-08-02T22:13:22.765986Z",
   "videos": [
     {
-      "videoId": "ddfPwh2Mg8M",
-      "title": "SOLD MY OLD CLOTHES....SO  MY NEW HAUL WAS FREE!",
-      "thumbnail": "https://img.youtube.com/vi/ddfPwh2Mg8M/hqdefault.jpg",
+      "videoId": "u5IhtyOsEzE",
+      "title": "CORTIS (코르티스) ‘FaSHioN' Dance Practice (Fix ver.)",
+      "thumbnail": "https://img.youtube.com/vi/u5IhtyOsEzE/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:29:45.106417Z",
-      "streamUrl": "https://rr1---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785720589&ei=rZpvaqGsIv2X1d8P__6mqQc&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AAH_8Yh0XjUxw67OPhrlIWP9IIpKIZbxLSp5fKo17H8o&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=245&met=1785698989%2C&mh=BV&mm=31%2C26&mn=sn-i3b7kn6d%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=5986250&bui=AZFlqhOp3t6BumUJaPvNylfAoAhSbaz1Gfp46iejsdUeIy5q-T2ffDh4fjv9bys4A5xSwQbHHZDDMQiT&spc=KBGBchwSlIXayDUqVsUnCrzU-ycEa-5jMnB398Q52r05dAebiMoD&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=113655710&ratebypass=yes&dur=2388.543&lmt=1785522710656509&mt=1785698495&fvip=4&fexp=51565115&c=ANDROID_VR&txp=3309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhANz1w_d6B46a91zwTTINi19p8R2UkuPjmiy164Tahnn_AiEAojOsV9HK8jxvwLVnR9UtAyCdTJyKKscqD0I7qxjvMG4%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgXqSf6XcVRQgWZOfQL8OrOR9iiWdlKLAntv5ha-IeSZICICWBvbAyTQu_kUOwTCfDU9xg1ljNiA-t3iRFEwUWJYIR"
-    },
-    {
-      "videoId": "42wfEs7oIP8",
-      "title": "CORTIS (코르티스) 'FaSHioN' Official MV",
-      "thumbnail": "https://img.youtube.com/vi/42wfEs7oIP8/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:29:49.857048Z",
-      "streamUrl": "https://rr4---sn-i3belnsy.googlevideo.com/videoplayback?expire=1785720594&ei=sppvavvMJp_cvcAP_4rQuAk&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AM02K5Wvi0b9wcP4IpZIBDb4HSir5mzaugHbWB6OM_Mj&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=790&met=1785698994%2C&mh=jw&mm=18%2C26&mn=sn-i3belnsy%2Csn-ajhoaq-5o&ms=aub%2Conr&mv=m&mvi=4&pl=48&rms=aub%2Caub&initcwndbps=5146250&bui=AZFlqhM7-Uu6XCqkAivsqSA6dI7SWlXWvNnvDVysIBKPghtc4CerGVsmXztghrH5LAqyZE0sIrcx55Pd&spc=KBGBclEUfe_I6rg1QYjfluGK-jgvcloPxVuBmV_4wzA16QvQqdzR&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=179.118&lmt=1776508027288277&mt=1785698448&fvip=5&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAPJe4eE2awOsU4e4z1WdRcCQmiY_XIkw9LZ9msbT82EnAiEAnw_USbrgLCUu50RNr3a7jT1n2FCheZ3jNde-k76p-qc%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhALcZaZF4hp0eEKBw9K2B-ZPNmarPickvuAWSyDZr_vJCAiAI67_mr2vhjFdWjZINQckbVOVr4FWkgAfYajqAtbZveQ%3D%3D"
-    },
-    {
-      "videoId": "kfH5m6bbt9o",
-      "title": "you’re not bad at fashion, you just don’t own the right basics.",
-      "thumbnail": "https://img.youtube.com/vi/kfH5m6bbt9o/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:29:54.878718Z",
-      "streamUrl": "https://rr3---sn-i3b7knsd.googlevideo.com/videoplayback?expire=1785720599&ei=t5pvao2sGZaQpt8PhcyCyA8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AAQ9U6EUs-mrSEQipt1xuQIXfxcttrN2OoH8F9jYlGhs&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=125&met=1785698999%2C&mh=DZ&mm=31%2C26&mn=sn-i3b7knsd%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=3197500&bui=AZFlqhML4exZeCD97onAJCUSnpimJC_dB8bktCXG1E2UiyKCafhsKmkkFyIbPn86MZJLqpxWi9ychZcz&spc=KBGBctJZBJVehC8xalojPG8osTbZ94ax3sQtL_hMjMWS4KVzwyxn&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1061.894&lmt=1775817060671999&mt=1785698752&fvip=3&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAMxwJi3opjKGzDItbK3Z4Vn2HaL3Z-BbSbXkROOKK5ekAiEA9xD7McsYT0Oz6E5wuowC_GmpuM6bVfKTWVNW0ucIyJw%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhANkaOmC3YmTToubblANh-Mzj_oU5E1HzYB3XJCBEhSytAiAGYjlNaNA3OSx5Cb6ck1lQWBVmxpxYBDMOwyYkRsSPiA%3D%3D"
-    },
-    {
-      "videoId": "JmvS9tj1lBM",
-      "title": "Fall Winter 2026-2027 Haute Couture Show",
-      "thumbnail": "https://img.youtube.com/vi/JmvS9tj1lBM/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:29:59.725315Z",
-      "streamUrl": "https://rr4---sn-i3belnl7.googlevideo.com/videoplayback?expire=1785720604&ei=vJpvavvwCdGK2roPl_ae6A4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AHk5zt8N8RBuDgo-OuhIXfa9ZL2uKrkwbltUjwj20YDh&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=418&met=1785699004%2C&mh=N5&mm=18%2C29&mn=sn-i3belnl7%2Csn-i3b7kn6d&ms=aub%2Crdu&mv=m&mvi=4&pl=48&rms=aub%2Caub&initcwndbps=5146250&bui=AZFlqhP_-k3T0NLsal73CiAbtAIkb-W_SZme9M9nJs_6haMJWmAG8jzXWJPp-CZhxSOW1JJU_6nlzDsU&spc=KBGBci7z3eF6lzcubOZC6fQSZh8K3N-6TfCEvZL7IhlW5VqAi_Lf&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=65094782&ratebypass=yes&dur=754.555&lmt=1784960497731883&mt=1785698448&fvip=5&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAPP9v64JBcERf9wWbg8l5fw_v4RztnlqONsfGYNDWv34AiEAoXv9dS6ziohsYdDZJWAro92gQCbex7QGBXIDHUFm8ko%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAJDXsOO0fbHCPveJvuSzg6xroVraz9eHYN20R2o5t5agAiEA8F1zy7JZ63ExT7anfX3xt48KXyrDat1I5j2R5HX9Tac%3D"
-    },
-    {
-      "videoId": "T_8Rj6R6YLk",
-      "title": "mid year fashion predictions (late summer to early winter trends)",
-      "thumbnail": "https://img.youtube.com/vi/T_8Rj6R6YLk/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:30:04.391235Z",
-      "streamUrl": "https://rr3---sn-oji3bc-5n.googlevideo.com/videoplayback?expire=1785720608&ei=wJpvao-uMYTS2roPr5qgiAU&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-APXJxVvb2iW3XPkQxakjoMXb-eD1FmJfXVnM4gRCOv9c&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=156&met=1785699008%2C&mh=fA&mm=31%2C29&mn=sn-oji3bc-5n%2Csn-i3b7knsl&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=5146250&bui=AZFlqhNVLcG1N71QbmM1BoMB6F39D5fpe_jVJUnmHjSpjhmw8kebu_uI5Qs00kCEqdYS1jcQxbGocckb&spc=KBGBcu4bT8FBkKTT-KbOB2l2QCUA9s0gtckRGZuutSCz9fT7qwd7&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=43457797&ratebypass=yes&dur=896.476&lmt=1784462206737185&mt=1785698495&fvip=4&fexp=51565115&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAM_JnDv7tCgrXQwq9mX3BLnXejZA-Rn8UjI4gMfJ22THAiAuYBXv_j4XubojtYpQCVYs4DcThsy2XN9Sa3xQbr1o3Q%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhANqtyoPUm8DDDgBco28OCNRbAv7vEA2BAgv-5YGAURF-AiADNEbHgKCELqvTXxV_Nfx01UAOyp0s-9Cr1TxrxIWr4g%3D%3D"
-    },
-    {
-      "videoId": "sO4Ep6OmfTo",
-      "title": "what cool fashion girls don't tell you",
-      "thumbnail": "https://img.youtube.com/vi/sO4Ep6OmfTo/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:30:09.108408Z",
-      "streamUrl": "https://rr5---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785720613&ei=xZpvat3PFsOB2roP4o_vuQI&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-APto9So7Kr1odIor3bk0oypk6r9NN_wPt1oj7aNl_Yux&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=171&met=1785699013%2C&mh=q6&mm=31%2C26&mn=sn-i3b7kn6k%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=5146250&bui=AZFlqhN8IGOVOYIXE8lpyWwXU_iweibnZk001yvdLCyemTbWjFUiKCfXCSM4WMPNae-fkcku14D0jPS7&spc=KBGBcofddeBVKGtpMzXBQlEzo0VeEKDfr_jsFIiM-Mp2_prAsGg9&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=795.910&lmt=1776995588614867&mt=1785698495&fvip=2&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAP2BteemZ4XtI2wYDRQFEwS31XAQtqv1apP-O7rdnvcnAiArrvNU1-rD9VN_GSa85Yy4djDKXO7MbXBT8tmaIxtobQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAIl1iW61jFZZl2n47hZmtjcgk0nB2SwjmfKcVf7L-5jCAiBDoru6zy14tPn5W7V_DNcu8jE_FTv-LVusUqT4HMQZ1Q%3D%3D"
-    },
-    {
-      "videoId": "nFMS_gmzOZA",
-      "title": "FALL/WINTER 2026-2027 FASHION TRENDS - WHAT TO WEAR",
-      "thumbnail": "https://img.youtube.com/vi/nFMS_gmzOZA/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:30:13.682949Z",
-      "streamUrl": "https://rr1---sn-i3belnsy.googlevideo.com/videoplayback?expire=1785720618&ei=yppvaszADIjM2roP_fyssQ8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AGl4I0OextRc0errA1Uvhp50lnR2chgDy5U2JWzG43Zd&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=381&met=1785699018%2C&mh=sX&mm=18%2C29&mn=sn-i3belnsy%2Csn-oji3b5-5n&ms=aub%2Crdu&mv=m&mvi=1&pl=48&rms=aub%2Caub&initcwndbps=3197500&bui=AZFlqhM32VZGBRz8yHa0Nmfxboil13uSFPVyjemD6_RBgC0ljNbySXRPryfeXg14ybngx2CfbJmy1n0p&spc=KBGBcjnq0tzv2Nld_Ks5ZhWbp-Jt9Ceq1bU3JINWzmPlvqhcbD8j&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=21850843&ratebypass=yes&dur=631.629&lmt=1785282958557873&mt=1785698692&fvip=4&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgTyRBuSjObyQrzXDNSxAVFD4_hNjGBd5temkpl3B9ciYCIFZkwI_x7N2Va_2hEMjlY4R4hznsZUHsTY1A9cG6-W5m&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgKSE-hAx4NyKTnBdSXvquLLckdGxODJCvgNs5TiuvMkQCIQCH9JamGrH6c_vpV4wZvCEQlBBKnVPeSITdV27R6md1_Q%3D%3D"
-    },
-    {
-      "videoId": "UcLBvcmnnus",
-      "title": "7 Levels Of Fashion Explained ( %99 Stuck At Level 3)",
-      "thumbnail": "https://img.youtube.com/vi/UcLBvcmnnus/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:30:18.506766Z",
-      "streamUrl": "https://rr5---sn-i3belnl7.googlevideo.com/videoplayback?expire=1785720622&ei=zppvaoCmOfuQpt8PxvaswQM&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AN5p7ocHS9kdT6Rm1Gc1ij1GeDU5QuR3VWzyMkSqKTHP&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=235&met=1785699022%2C&mh=ar&mm=31%2C29&mn=sn-i3belnl7%2Csn-i3b7kn6d&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=5146250&bui=AZFlqhP3f1XcBascfCNw0_EYXnX9FNT2bg4itOZT-y0k5P4moRUHJ82iYm-GTlBTa7O6drfejSem8UwS&spc=KBGBcnJ3YUw9oaZxqcgJJvG-rkQK2rDPIvP7ed-a4OdqxTWC_WGy&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=70237826&ratebypass=yes&dur=1315.456&lmt=1780183032562979&mt=1785698495&fvip=5&fexp=51565115&c=ANDROID_VR&txp=3309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgOVE3YK1S0SeMMNhWDRsomOnRes0G5AwgFRPFKpi_BwQCIHiKqLHcmzbu2hxL1BcSSlRnZej2B9TCfl2r9icfN08K&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgLDsXJiyBy_zzCrroB6jL1XVuNo4l5ZrN1bdUI_Nrp6YCIQCUo7UMxO2POQTqjWn_kpDmq2wbY8-Ew2dQ-6nRI985Eg%3D%3D"
-    },
-    {
-      "videoId": "lrx7zc_gN8A",
-      "title": "RM on Airport Style, BTS, and Art & Philosophy | Fashion Neurosis",
-      "thumbnail": "https://img.youtube.com/vi/lrx7zc_gN8A/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:30:23.250357Z",
-      "streamUrl": "https://rr5---sn-i3b7kns6.googlevideo.com/videoplayback?expire=1785720627&ei=05pvavnMLOCAvcAPzbqfwAk&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ACwYRg5bxrxVLKhKPwthJgnvhGhnaTNUjLOJzj3I90o0&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=550&met=1785699027%2C&mh=-r&mm=18%2C26&mn=sn-i3b7kns6%2Csn-ajhoaq-5o&ms=aub%2Conr&mv=m&mvi=5&pl=48&rms=aub%2Caub&initcwndbps=3197500&bui=AZFlqhMdmK_f_Y5H3Gvo5mJkwvmZUFBevXYjpYq_g3ZGROe5KYFtye65ihhVMShQ54Bxj7v-G5eNQPUX&spc=KBGBci_VocgmhGnLEFp4rC5thqrRNNw2Iqj5hos-6ttyChQsqDe8&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=127712393&ratebypass=yes&dur=3698.218&lmt=1784784869921554&mt=1785698692&fvip=3&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgdM-3hGI248zYOusbodIiqNxMQbkzgcSQFpxf8vfuyGACICmG8bjDo6cmIj1A91KzjYhP9fnNu9nDHNLQLj3A5BWT&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgKZV3BE27hPo-PjI43wNhG9S15c6xQB4kI3Yo2oAkT78CIG6gIKEibsZa5yusTnN-i8gzRfQ9-hPMgiiuyVEtopZH"
-    },
-    {
-      "videoId": "Gx-EmQa0hLY",
-      "title": "Natalia Fedner Miami Swim Week 4K Video",
-      "thumbnail": "https://img.youtube.com/vi/Gx-EmQa0hLY/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:30:28.046025Z",
-      "streamUrl": "https://rr2---sn-oji3b5-5n.googlevideo.com/videoplayback?expire=1785720632&ei=2Jpvar-rFrOzvcAPja_AgA4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ADtUAvQqIO66JtvD7QweSnu7fUpe13el2ypWh36n_adh&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=249&met=1785699032%2C&mh=l0&mm=31%2C26&mn=sn-oji3b5-5n%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=5146250&bui=AZFlqhMuhEVwRiod4XwVXx6fhEFxZcIUIDuEQ-8xrS54f1yxDnwobvfpJfgwIkzYrjC1_rYhs_P6KZND&spc=KBGBcqSvnep9y6DvMcvCdZ8wzFJ9URCaHvnrcng1HbAXKK-6ZRHc&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=50952816&ratebypass=yes&dur=554.817&lmt=1774725461535751&mt=1785698495&fvip=2&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAONpqPFDdlGRpBJzYgFkV6JLJRlSzKx2ChxhfJu6TbMIAiEAwbKmqQaNVFCLyhj68NMbVT_tJV7QnR3S1nR-cnNT8pY%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAMH3p1YZxAymBhAhBj3sKEwK8m1SKtPXDoGv8wXOXVVPAiEAh_QT9Hhbmf0Si5-aUfc4duemjFd-Jc2U9WC5jgesMq4%3D"
-    },
-    {
-      "videoId": "mhzoFG9Qteg",
-      "title": "[K-Choreo 8K] 코르티스 직캠 'FaSHioN' (CORTIS Choreography) @MusicBank 250912",
-      "thumbnail": "https://img.youtube.com/vi/mhzoFG9Qteg/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599499Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "LSZCzodU3L0",
-      "title": "CORTIS (코르티스) - FaSHioN | Show! MusicCore | MBC250920방송",
-      "thumbnail": "https://img.youtube.com/vi/LSZCzodU3L0/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599516Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "OBQ5YZr0F0Y",
-      "title": "CORTIS コルティス 코르티스 - FaSHioN [Music Bank] | KBS WORLD TV 250912",
-      "thumbnail": "https://img.youtube.com/vi/OBQ5YZr0F0Y/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599521Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "FFMY8ZK5BaQ",
-      "title": "NEW Amazon Fashion New Arrivals... Wait Till You See These! ⭐️",
-      "thumbnail": "https://img.youtube.com/vi/FFMY8ZK5BaQ/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599524Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "22rWxxC0dwk",
-      "title": "Chino Kidd, S2kizzy, Tebogo G Mashego, Silas Africa & Joblaq Fashion Official Music Video",
-      "thumbnail": "https://img.youtube.com/vi/22rWxxC0dwk/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599526Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-02T22:12:30.942728Z",
+      "streamUrl": "https://rr1---sn-i3belnls.googlevideo.com/videoplayback?expire=1785730356&ei=08BvaquBO4iZvcAP--SD2QU&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AMX4aDz31A76xi3zhx-MZ_Xy04zK-fWsPEU2LAbSij7_&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=347&met=1785708755%2C&mh=o-&mm=31%2C26&mn=sn-i3belnls%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=3171250&bui=AZFlqhMHQyvrkvZWw-1RmF6erfdpt-PWxf1KUWNftTi1syuetVTXrq8Xl_PDRhLW7x6qmSIQ7kn4uzlV&spc=KBGBcrFCW1g9Pw7B2EEtR8TUF4G9VC4BjNThXJ74GvF2JHHIYBGW&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=264.359&lmt=1777129946441883&mt=1785708331&fvip=4&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgbgRNSvDLfTFds0kAAZ6e3R3gGnb3m7PYlcIn-EgQMfECIA4-iTWtONCDgDjGIKwR_oYfNMugqAQ2p_3O1_NSYxIg&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAMoDZ2KXfFlvND-IF7EDMInvXf2SZ86WyP7pIp7SH2sWAiAqQ6Q6xBMeJOw15kxhx0zEkPcDneK_vMuLdqFhvo7nag%3D%3D"
     },
     {
       "videoId": "yycVNcishrE",
       "title": "Britney Manson - FΛSHION (Single, 2023)",
       "thumbnail": "https://img.youtube.com/vi/yycVNcishrE/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599528Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-02T22:12:36.286879Z",
+      "streamUrl": "https://rr1---sn-oji3bc-5j.googlevideo.com/videoplayback?expire=1785730361&ei=2cBvas7hG7_npskPhqbyuA4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AE3vQVDMMdLVkXbekrYbPyGqR_HBRbc20CVQefbh5q8U&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=494&met=1785708761%2C&mh=M7&mm=31%2C26&mn=sn-oji3bc-5j%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=1&pl=48&rms=au%2Cau&gcr=hk&initcwndbps=3171250&bui=AZFlqhPqjO3jxsWujtYpgNo_-Yu0QDlJUFRZkigf0kzGpE2wv5Z7FsA_8TumIxnf_6loSDpsZ1-1t33c&spc=KBGBcnXGjIDjO_zeukq-skLAw3KjIvcy8zkzS6SpCRrKGKIba8IY&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=146.610&lmt=1779205537343457&mt=1785708331&fvip=4&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhANHChz-djfvd_qQ4eyBR2A-fAmdM1XmsbicP1z7oWI3LAiEA-60ijVNoU91zDrmOgLXNIhs2DYxNcaGkJseSvo38E7I%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAPKbt1Rt_LPPfxPeoPeRBJbyLueHUOe5O0dQbs3AJdhwAiBqR7MZcw1m94_oFjjJYcIUdr6KlH_dVvu1KF6Y-jF6qw%3D%3D"
     },
     {
       "videoId": "Ft0SsoG8GIw",
       "title": "CORTIS (코르티스) 'FaSHioN' (Color Coded Lyrics)",
       "thumbnail": "https://img.youtube.com/vi/Ft0SsoG8GIw/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599531Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-02T22:12:41.716544Z",
+      "streamUrl": "https://rr1---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785730366&ei=3sBvaqT8KqWDvcAP8JLCiAk&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AADw6t9uhW3eBwpdM7ngRG_m1YVzTCRxB1tNqHmb07qw&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=335&met=1785708766%2C&mh=Qy&mm=31%2C26&mn=sn-i3b7kn6k%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=3171250&bui=AZFlqhMGdASLFjonQU3AH6Ikmiem_GnugZ4DNWd8M1r5ta0Io53sBxL344kLQ9_vWXEWO2uueZkrskpP&spc=KBGBcu-4l49NYINJoTpLgRlE1NG0PXlycphX4l9MzroxwLXgigF_&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=4291081&ratebypass=yes&dur=171.131&lmt=1757455797769506&mt=1785708331&fvip=4&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgaTNIlhmwZAIt0y8LnYYUZi-7WPRU7UPQ2dmZv1K0860CIEhgNmYSqLGOEvAhisPku6UPkmiV_9E3xCXw5jpj2yza&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAJYE-r8nah4bHtwT2DGkX3mT4JtLGPzvSL1tncE-WbI9AiEAvwLdhtzQlYaSVsgTWtZjbuYq-6Kdp5PoYOfXsoj5l0s%3D"
     },
     {
-      "videoId": "u5IhtyOsEzE",
-      "title": "CORTIS (코르티스) ‘FaSHioN' Dance Practice (Fix ver.)",
-      "thumbnail": "https://img.youtube.com/vi/u5IhtyOsEzE/hqdefault.jpg",
+      "videoId": "8QPzlRbI1x8",
+      "title": "THE TOP FASHION & STYLE TRENDS for SUMMER, What to wear in 2026 Easy wearable summer fashion trends",
+      "thumbnail": "https://img.youtube.com/vi/8QPzlRbI1x8/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599534Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-02T22:12:47.019055Z",
+      "streamUrl": "https://rr1---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785730371&ei=48BvarXjK-OY1d8Pt9-e2AE&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AC8waqQkR5ZKG_e5I4goCb0VZ43slNaurLaiiqb9FoDL&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=52&met=1785708771%2C&mh=Ow&mm=31%2C29&mn=sn-i3b7kn6d%2Csn-i3belnsy&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=3171250&bui=AZFlqhO_j40pjb_XqgIW0_uitQmuV0VxYsDjW6ZVV-DKNRVmDW-18fBUmT6jOXBMErbJbuliMe8RlHNA&spc=KBGBclXGeMoQYwmpqe5wnAUi-S-jK-iDWUbjMcKiwA3wBvCwcMKL&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=92061488&ratebypass=yes&dur=1460.233&lmt=1779060929592361&mt=1785708331&fvip=5&fexp=51565116&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAOxrboc45W8ew2OZ3RDt1KABvZS8QHuHi8-L0gQ4cQtnAiEA4_fiLHXRDgaUbWiIt5Gx1qSHUUGhY51NKgxiTCy6CkA%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgBY2toubZd1FEIOkAktodcT6zsAK_FGeesFzX0vkly8MCIBOAydnSwdXRvU96iw2lhn0wFlcLMwGtdNkSOFYU-rSg"
     },
     {
-      "videoId": "DvfXPcIqDxE",
-      "title": "CORTIS - FaSHioN (Lyrics)",
-      "thumbnail": "https://img.youtube.com/vi/DvfXPcIqDxE/hqdefault.jpg",
+      "videoId": "T_8Rj6R6YLk",
+      "title": "mid year fashion predictions (late summer to early winter trends)",
+      "thumbnail": "https://img.youtube.com/vi/T_8Rj6R6YLk/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599536Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-02T22:12:52.045377Z",
+      "streamUrl": "https://rr3---sn-oji3bc-5n.googlevideo.com/videoplayback?expire=1785730376&ei=6MBvaruILNmcvcAPy8C2mQk&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AFkD-mS28rIoo908FoPn0f3Ap-OAGOSoLVXZae504ee7&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=100&met=1785708776%2C&mh=fA&mm=31%2C26&mn=sn-oji3bc-5n%2Csn-ojhoai-5a&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=5206250&bui=AZFlqhPPQ_DOQdGqKcBMHENCTelhP6vw_-IL782dPas9-2_LTbiZR4ugBmO7eWZcsyKwbR70Pq0jFlia&spc=KBGBcvCNO7meNtE8carllu5hMaKFZrVCf1CLm22DKVdBXetMrByZ&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=43457797&ratebypass=yes&dur=896.476&lmt=1784462206737185&mt=1785708331&fvip=1&fexp=51565116&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAJyWT6kZiqSFB4iUKj6o89-9IOlQNsOFMC2sBaoCXkJlAiEAyMc2Kn7kLsEZhKJBsowL62FLMEbTJmRqLGDAlA_4gtk%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANCL6_HrSvWKywlrixo6RtGhI8nTOmILxJwqhn0wzghLAiEAk8Ds3jqcpaD_vPFW1Dv9c-zS0Ikac0MnqByJxY4Euc0%3D"
     },
     {
-      "videoId": "qsexeDEDGss",
-      "title": "CORTIS - 'FaSHioN' Dance Practice [MIRRORED]",
-      "thumbnail": "https://img.youtube.com/vi/qsexeDEDGss/hqdefault.jpg",
+      "videoId": "sO4Ep6OmfTo",
+      "title": "what cool fashion girls don't tell you",
+      "thumbnail": "https://img.youtube.com/vi/sO4Ep6OmfTo/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599538Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-02T22:12:57.039721Z",
+      "streamUrl": "https://rr5---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785730381&ei=7cBvaqmlJaGmpt8P9qHQmQo&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ADFQkfHvjC7HskSHHyO9y36Io7LjzZxitktaHiGMjvdP&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=123&met=1785708781%2C&mh=q6&mm=31%2C29&mn=sn-i3b7kn6k%2Csn-i3belnsy&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=5206250&bui=AZFlqhO5oJnbW7LWKLrStJWAJQk97IIwQCBCU54ZSAIMkJfO99rWY6hFs7skcsxU1XdrekHjGcswXP3F&spc=KBGBclDf7sIAI5VD0EH2M-NExVDIrpJ5PtzNbbc6lxjpM6H69kaV&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=795.910&lmt=1776995588614867&mt=1785708331&fvip=5&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAPRHLKg6TnSMKW0eo8ZYYDIbWzzOV1_wckEHpTwdQ9wzAiAz3u8QsJmARQxti55MqKt-qGXNj-fI-vrefGlWVdxa2Q%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgIHGIN2gOl_3iwERxwlz8xeUwoqk4f6G3coLIYU-NreICID9bhs4cj3BkDjO5V_s2F3Zu5iYZpQEmesZ3epd_Pkd7"
     },
     {
-      "videoId": "iGg3ooLc2J8",
-      "title": "CHANEL Cruise 2026/27 Show — CHANEL Shows",
-      "thumbnail": "https://img.youtube.com/vi/iGg3ooLc2J8/hqdefault.jpg",
+      "videoId": "xK7cJajBe9I",
+      "title": "PARIS FASHION WEEK Spring 2026 - Special for TV",
+      "thumbnail": "https://img.youtube.com/vi/xK7cJajBe9I/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599541Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-02T22:13:01.934110Z",
+      "streamUrl": "https://rr4---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785730386&ei=8sBvasWfNdybvcAP5qSvOQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ACIRh-rQrzIkY4kYzhhWpjsWgH7lk28ZX_0IhmbU8ikb&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=233&met=1785708786%2C&mh=Bq&mm=31%2C29&mn=sn-oji3b5-58%2Csn-i3belnsy&ms=au%2Crdu&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=5206250&bui=AZFlqhO7mY_TRQdBlsuRWhWsJKX90iMhz17v0PRX5sRMl3ILXBiFI1H1Q3544qby0od6-vc7Z0-I3RsM&spc=KBGBcgc3eoPUsCG-zzpNTWjqtWJkzx21sMHFBF2BrmN3Xb2Y_EyZ&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=1322589359&ratebypass=yes&dur=17298.610&lmt=1777130631899357&mt=1785708331&fvip=5&fexp=51565116&c=ANDROID_VR&txp=5438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAOTrBJt7OMBFSDssc6ID9qwkSp9zREuyLnP6dntCC0r_AiEA3pPfyYLqqZshhtbCTmOvQ-UCSKp508bKfsCo512nthQ%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgUTxdfCBLejUpK7Mp1zLACY6gjVEqtd5iLUxnbfqf3gcCIB30FsOz9EaI9vI24vgfXxn4qo46ogkWkOVsrI3PIstS"
     },
     {
-      "videoId": "qcE5NeDUvIk",
-      "title": "Men's Spring-Summer 2027 Show I LOUIS VUITTON",
-      "thumbnail": "https://img.youtube.com/vi/qcE5NeDUvIk/hqdefault.jpg",
+      "videoId": "xhv4JySL75Y",
+      "title": "Top 12 Underrated Fashion Brands You Need To Know About",
+      "thumbnail": "https://img.youtube.com/vi/xhv4JySL75Y/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599543Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "GwRqW8yq-yM",
-      "title": "This Flip Flop Changed The Way We Think About Fashion..",
-      "thumbnail": "https://img.youtube.com/vi/GwRqW8yq-yM/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599546Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "HAaJ9muLCqI",
-      "title": "Dior | Fall/Winter 2026/27 | Paris Fashion Week",
-      "thumbnail": "https://img.youtube.com/vi/HAaJ9muLCqI/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599548Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-02T22:13:07.128814Z",
+      "streamUrl": "https://rr4---sn-i3b7knld.googlevideo.com/videoplayback?expire=1785730392&ei=-MBvauv_BPiw2roPv83V4Q4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AFvIMUj0Zeoyk5gSeieVH_DE8yNVm48Rtvj1-G2Pb9pT&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=162&met=1785708792%2C&mh=sv&mm=31%2C29&mn=sn-i3b7knld%2Csn-i3belnls&ms=au%2Crdu&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=3171250&bui=AZFlqhPZbr6jIwDDD3ne6ZYLzRAO6dKTsIYAxdSc-QmoIpjI0wBcDVk4FFa2FDmEzchAXoMS42i29zRv&spc=KBGBcgsalmYECcTCtmZMVIFv-iISJQxb3Q2c-3YBCSx_U14MMXce&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=33252647&ratebypass=yes&dur=727.225&lmt=1758542535319776&mt=1785708331&fvip=1&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgJCttKG_E4Rhhbnq3hZAmJmrtojkpd7C2Hnx3TtS04-UCICUZAfM2F9G8HnhwmVEAPwkKte0hIcROnjqn8S6XbKnM&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANyJLipKWhaNb34vmkjNCz9_UEv75CSMg3A71_XNzf3JAiEAxqdcTWFhgPS2WR5JUCzPMFYkGYKF9KkNnOB43str68o%3D"
     },
     {
       "videoId": "n-dmLwFLYCU",
       "title": "[뮤뱅 원테이크 4K] 코르티스(CORTIS) 'FaSHioN' 4K Bonus Ver. @뮤직뱅크(Music Bank) 250912",
       "thumbnail": "https://img.youtube.com/vi/n-dmLwFLYCU/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599551Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-02T22:13:12.408119Z",
+      "streamUrl": "https://rr3---sn-oji3bc-5n.googlevideo.com/videoplayback?expire=1785730397&ei=_cBvaoGiC_XN2roPj5L0wAQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AEqoCdA_QsQIvoaDAsaVeLcd437cmW1y5iSOOS-lO9Xa&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=82&met=1785708797%2C&mh=VQ&mm=31%2C26&mn=sn-oji3bc-5n%2Csn-ojhoai-5a&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=5206250&bui=AZFlqhOxeVGfrMV5sr5zLSbOjPCwwJFJLktGkgClMuWlg_ZSXTHFU_na2FSh1RtLTBErIm91G-702LCp&spc=KBGBcibM_2S171tjDSUlQPYNeVhfsjgtbQygJ7TaxvhdQqetG2Gc&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=207.284&lmt=1776505704060645&mt=1785708331&fvip=1&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAKbIcq3rfLSg3bWRG9RHy69lTKa9RyrrBtqemCRms-iNAiEAopuak6gfb6dJ4IU4niSDfgAZW1MW0au63qlWRJ0RI6s%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhALscsNYBlAXDw5AfuEqhtiFZbiA18wddOJRz6RO14NJhAiBTsMuhlc_1L5T-4OjnGrS32TpLU3klrLfYBuRYld-g3g%3D%3D"
+    },
+    {
+      "videoId": "mhzoFG9Qteg",
+      "title": "[K-Choreo 8K] 코르티스 직캠 'FaSHioN' (CORTIS Choreography) @MusicBank 250912",
+      "thumbnail": "https://img.youtube.com/vi/mhzoFG9Qteg/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:13:17.518569Z",
+      "streamUrl": "https://rr4---sn-i3b7knld.googlevideo.com/videoplayback?expire=1785730402&ei=AsFvaqb_GougrfcPkKyJoA8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ALIvyLhsDZ4sxKHCwxJ1_sbnrDV7hylZ8eHmIQrXM0A0&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=159&met=1785708802%2C&mh=0o&mm=31%2C26&mn=sn-i3b7knld%2Csn-hoa7rn76&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=3171250&bui=AZFlqhMqUi8QzF2_DosWdz26NwYc6Sxr2H_gwlti_pRJFzmcK15fsFFJ-CHjfzJbyVd0KeosyGA_tK4z&spc=KBGBckDCNTuUIZEHsP8lg26XMFYQ9CAZld8m0__1YxHBaZyRlCqn&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=198.669&lmt=1776563414381362&mt=1785708331&fvip=5&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgAYFUxgot0cOHJUt0pgS4ASRgXgyzwL2VhoJIDKTA6OICIE1NK0UFMLkrEyzwuG-oS5CLhe1HZRbA1rOjmbxMPsS_&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgLLtHHTQ23XDEihMQkacXf58ck78eYckRgSKqdVvvN_YCIEtUbjYs4xDVoOZRfmR6EsiGBEBwOe7Ft2Vol0iTbpQA"
     },
     {
       "videoId": "wQuKPof8oq4",
       "title": "Chino Kidd Ft S2kizzy Fashion ( Official Music video ) ",
       "thumbnail": "https://img.youtube.com/vi/wQuKPof8oq4/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599554Z",
+      "fetched_at": "2026-08-02T22:13:22.765898Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "Egm7PIVem_E",
-      "title": "Fairy tales meet CHANEL Haute Couture — CHANEL Shows",
-      "thumbnail": "https://img.youtube.com/vi/Egm7PIVem_E/hqdefault.jpg",
+      "videoId": "hJyva7layGk",
+      "title": "CORTIS (코르티스) - FaSHioN | Show! MusicCore | MBC250913방송",
+      "thumbnail": "https://img.youtube.com/vi/hJyva7layGk/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599556Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "7W3DTVwgiNg",
-      "title": "ALGORITHM FASHION EXPLAINED",
-      "thumbnail": "https://img.youtube.com/vi/7W3DTVwgiNg/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599558Z",
+      "fetched_at": "2026-08-02T22:13:22.765915Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -232,7 +104,111 @@
       "title": "Every Fashion Designer, Explained",
       "thumbnail": "https://img.youtube.com/vi/wjOMFo_026A/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599560Z",
+      "fetched_at": "2026-08-02T22:13:22.765919Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "qsexeDEDGss",
+      "title": "CORTIS - 'FaSHioN' Dance Practice [MIRRORED]",
+      "thumbnail": "https://img.youtube.com/vi/qsexeDEDGss/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:13:22.765923Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "Egm7PIVem_E",
+      "title": "Fairy tales meet CHANEL Haute Couture — CHANEL Shows",
+      "thumbnail": "https://img.youtube.com/vi/Egm7PIVem_E/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:13:22.765927Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "Gx-EmQa0hLY",
+      "title": "Natalia Fedner Miami Swim Week 4K Video",
+      "thumbnail": "https://img.youtube.com/vi/Gx-EmQa0hLY/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:13:22.765930Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "LSZCzodU3L0",
+      "title": "CORTIS (코르티스) - FaSHioN | Show! MusicCore | MBC250920방송",
+      "thumbnail": "https://img.youtube.com/vi/LSZCzodU3L0/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:13:22.765934Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "7W3DTVwgiNg",
+      "title": "ALGORITHM FASHION EXPLAINED",
+      "thumbnail": "https://img.youtube.com/vi/7W3DTVwgiNg/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:13:22.765938Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "UcLBvcmnnus",
+      "title": "7 Levels Of Fashion Explained ( %99 Stuck At Level 3)",
+      "thumbnail": "https://img.youtube.com/vi/UcLBvcmnnus/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:13:22.765941Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "lrx7zc_gN8A",
+      "title": "RM on Airport Style, BTS, and Art & Philosophy | Fashion Neurosis",
+      "thumbnail": "https://img.youtube.com/vi/lrx7zc_gN8A/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:13:22.765945Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "HAaJ9muLCqI",
+      "title": "Dior | Fall/Winter 2026/27 | Paris Fashion Week",
+      "thumbnail": "https://img.youtube.com/vi/HAaJ9muLCqI/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:13:22.765949Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "DvfXPcIqDxE",
+      "title": "CORTIS - FaSHioN (Lyrics)",
+      "thumbnail": "https://img.youtube.com/vi/DvfXPcIqDxE/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:13:22.765952Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "klKVm1FALhs",
+      "title": "How to Make Your Outfits Better (Avoid These Styling Mistakes!)",
+      "thumbnail": "https://img.youtube.com/vi/klKVm1FALhs/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:13:22.765956Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "42wfEs7oIP8",
+      "title": "CORTIS (코르티스) 'FaSHioN' Official MV",
+      "thumbnail": "https://img.youtube.com/vi/42wfEs7oIP8/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:13:22.765959Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "BFqMcrCz-aI",
+      "title": "Fashion - Lady Gaga Lyrics Video",
+      "thumbnail": "https://img.youtube.com/vi/BFqMcrCz-aI/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:13:22.765964Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "OBQ5YZr0F0Y",
+      "title": "CORTIS コルティス 코르티스 - FaSHioN [Music Bank] | KBS WORLD TV 250912",
+      "thumbnail": "https://img.youtube.com/vi/OBQ5YZr0F0Y/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:13:22.765968Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -240,7 +216,31 @@
       "title": "Every Popular Fashion Style Explained",
       "thumbnail": "https://img.youtube.com/vi/7x1TkKtp6ns/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:30:32.599563Z",
+      "fetched_at": "2026-08-02T22:13:22.765972Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "WKud4dy4N44",
+      "title": "2026 Fall Fashion Trends You Need to Know Before Everyone Else 🍂",
+      "thumbnail": "https://img.youtube.com/vi/WKud4dy4N44/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:13:22.765975Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "_NXYpEMEZPc",
+      "title": "Dress better without trying harder",
+      "thumbnail": "https://img.youtube.com/vi/_NXYpEMEZPc/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:13:22.765979Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "N8DCQYn_8cE",
+      "title": "Everything I Hate About Fashion",
+      "thumbnail": "https://img.youtube.com/vi/N8DCQYn_8cE/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:13:22.765983Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     }
   ]

@@ -1,198 +1,110 @@
 {
   "category": "旅游",
   "keyword": "travel",
-  "updated": "2026-08-02T19:28:47.018081Z",
+  "updated": "2026-08-02T22:11:24.949934Z",
   "videos": [
     {
-      "videoId": "bohB8frROwg",
-      "title": "Wonders of Italy | Most Amazing Places in Italy | 4K Travel Guide",
-      "thumbnail": "https://img.youtube.com/vi/bohB8frROwg/hqdefault.jpg",
+      "videoId": "GJhRn4kbuDs",
+      "title": "The Shocking Emptiness Of Rural OKLAHOMA: Forgotten Towns Along The Red River",
+      "thumbnail": "https://img.youtube.com/vi/GJhRn4kbuDs/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:27:59.547458Z",
-      "streamUrl": "https://rr3---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785720484&ei=RJpvavD4Bf-OvcAP1vSj0QU&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AHavH_JbPXHTSbSX36weOjxteevVITMkUZvIu2t_jfsy&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=548&met=1785698884%2C&mh=eS&mm=18%2C26&mn=sn-oji3b5-58%2Csn-ajhoaq-5i&ms=aub%2Conr&mv=m&mvi=3&pl=48&rms=aub%2Caub&initcwndbps=5986250&bui=AZFlqhNkw_CuW35fe2aM9mAqB6bcp8Ml2EPMOQpso4czVcwjb50atZv8sjRgQc05er1Bug7Di59RVusX&spc=KBGBcmWabSVE2XNJRJvzRAAioLwLo9a-viNe_WeMyQUZBAiy5tZ1&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=251411558&ratebypass=yes&dur=3870.627&lmt=1785597080813914&mt=1785698448&fvip=4&fexp=51565115&c=ANDROID_VR&txp=3309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgUWHJMz793HcfbS6gqV4yVYa83czDDdM5I5GZ5kI8DskCIQDPrr2QDjohdQfGjdImS06oXYAikVffS9ok-2_LJFqbyw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgNYgz5FI5HxVxEOOBs8BABlJn2SdYviDnmj1O_sApLg8CIQCWAmmnARu3Z2nFwnF2XocO9_yRcE8LNI5Prd2ZSodU9w%3D%3D"
-    },
-    {
-      "videoId": "dH2RFQy8uL4",
-      "title": "girls trip to shanghai travel vlog | zhujiajiao ancient town, sightseeing, shanghai cafes, 3 days",
-      "thumbnail": "https://img.youtube.com/vi/dH2RFQy8uL4/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:04.419458Z",
-      "streamUrl": "https://rr3---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785720489&ei=SJpvati6PNrL2roPkYaj-Qo&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AC6cxUmw4ghuHViyjYdv4Wmogn0JPKRyeDLT8J5KJ79z&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=256&met=1785698888%2C&mh=WV&mm=31%2C29&mn=sn-i3b7kn6d%2Csn-i3belnsy&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=5986250&bui=AZFlqhOhmqfnm54mTlWW01P5BirKoObU9HZgyLtYfcigYj2-Sk49egZDDfL8a9OOv0j85qPI-Lki8NTR&spc=KBGBcmpErw7Eigjk36CIqRYnnAxlR-_xusCQIEYwu0ICOHZ1bM_3&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1180.386&lmt=1781019627833326&mt=1785698495&fvip=5&fexp=51565115&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgEckrIE8FHW2uF_WA59KSMSHPMSt5nRpnLWEFDzUWMBUCIEcrgh_cd4ah67MqXB5wl4els17byQmrKIscvXbaVE1U&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAM0GwvSPXMMm7DwBQxmxxyAqGnUFNQn1mIiKwvAzVnOQAiAEYCibvYcXhbYPCqUwlZoYfe1taQvM2_jm16oTL4f2hg%3D%3D"
-    },
-    {
-      "videoId": "kTVVNWdAnUA",
-      "title": "I Travel the World Playing Football",
-      "thumbnail": "https://img.youtube.com/vi/kTVVNWdAnUA/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:09.219331Z",
-      "streamUrl": "https://rr5---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785720493&ei=TZpvapWaHr-AvcAPzvbj8QY&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ABZIWAHt-czBclQWVelNo39PC28KLqXCfqhDWlCRkmpB&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=198&met=1785698893%2C&mh=vf&mm=31%2C29&mn=sn-oji3b5-58%2Csn-i3belnll&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=5986250&bui=AZFlqhNay5Tysyr5D9jF_aU09PH5ilfdmbM4G42q2fh-Jy90SyFnDvHm_KPYTVtAJDh9DTzAQ5btzrUd&spc=KBGBco9Sw-giesuaTpdfLlT-xco2JtJhQMbRdiTNqWV7hQTE_HVh&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=72254007&ratebypass=yes&dur=1584.436&lmt=1785678470755971&mt=1785698495&fvip=2&fexp=51565115&c=ANDROID_VR&txp=3309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAN2k12zNMJ6ESG5RJcazbBsc_BAqywZaiUzUGCOrET3-AiBqrsyzFazMcgVtgjS7nZhHBazWrhgkTuctDZ58rq3aXQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgBPbQO0SVMDP98pKl2AGp6GyF9JjvLavWPG2Y94kMufACIQC4PEKW86CL8Uh_0AFx3eBnvm9ROswHIQtGZrF8h-qt6Q%3D%3D"
-    },
-    {
-      "videoId": "bWQ6V5xvgTo",
-      "title": "4 Days in Taipei, Taiwan 2026 - A Travel Guide for First Time Visitors",
-      "thumbnail": "https://img.youtube.com/vi/bWQ6V5xvgTo/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:13.797183Z",
-      "streamUrl": "https://rr1---sn-oji3b5-5n.googlevideo.com/videoplayback?expire=1785720498&ei=Uppvat_kGKSSvcAP8MqlmAk&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AB8AACLVy1emXfwq5AuLF_guk6Xf8pN3MkFBfmgAycgs&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=327&met=1785698898%2C&mh=F1&mm=31%2C26&mn=sn-oji3b5-5n%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=5146250&bui=AZFlqhNREs9teKOQlBjfD6JpT8gceKSAyUm4dmttsiO8A2qD4PlZoYiQY1JGC7gsppXgvlFL2XxWh3Qg&spc=KBGBcldn0hwY68aSXmLCURj5BhWKtGP6TUcRb64dcnO0puDBjBhc&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=57849962&ratebypass=yes&dur=1027.111&lmt=1770880331114850&mt=1785698495&fvip=1&fexp=51565115&c=ANDROID_VR&txp=3309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgbrk-ztWwa1yz7VTrzY0UuxANOjhofWlJMKIiJ4I82XkCIGV05OYsf5vgdOliIwkBcrr7vv0xXSKN1-JxWGswye-t&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhALwuDe8N4oFiRksqUAUpBHqzgLwMInfL337ZZC4LU4pgAiAWZfhW4RcjavQyIhFAvy1V8ZoQhE76C3_hZYTeSUV47g%3D%3D"
-    },
-    {
-      "videoId": "pZ7WLQbLDn8",
-      "title": "Top 10 Places To Visit in 2026 (Year of Travel)",
-      "thumbnail": "https://img.youtube.com/vi/pZ7WLQbLDn8/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:18.710847Z",
-      "streamUrl": "https://rr1---sn-i3b7knse.googlevideo.com/videoplayback?expire=1785720503&ei=V5pvaqKBEL-U1d8PtLW9uAI&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AGmC3S29Y94LlwiJrbpwqMPGy3Yk4qJyN4kV-SltWalX&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=178&met=1785698903%2C&mh=rU&mm=31%2C26&mn=sn-i3b7knse%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=5146250&bui=AZFlqhOwvh31bvrRy94nOfm_eZyr6RMOTC7mnu4M0J-aOcLjkOPB2Hony1GUACDYg9ZZEP1JkxwcHCh-&spc=KBGBcm27tIxjiRD9iKt4FolX9vu7ZZswiXY_MXXuVtefHTv8xxdk&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=64037889&ratebypass=yes&dur=761.823&lmt=1773424306923783&mt=1785698495&fvip=5&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIfFar9_ll-GVQu1a1sOtbtJbjPM8rVyLULCGa0lhGzvAIhAIijYH9wYS6K5lAoDVrbdWwln0wnrIYPUmTMTrZqLdxm&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAKVTMy_a3L-VQXEfriw4ZJfIVIrsLEF5vBi3etj-Thh_AiBwvp7p2b7itLaNTzE7CCkk9Ca-8ouMyw2qDZC963VPkw%3D%3D"
-    },
-    {
-      "videoId": "7sudL0M1WRA",
-      "title": "The 5 Most Unfriendly Countries I Have Ever Visited",
-      "thumbnail": "https://img.youtube.com/vi/7sudL0M1WRA/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:23.575679Z",
-      "streamUrl": "https://rr1---sn-i3b7knsl.googlevideo.com/videoplayback?expire=1785720507&ei=W5pvavOjOa2u2roP0ZPy0A4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AJgQLJaRJGxPmtdeJP61YiX_sy_yofg58e4cPaGo92O8&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=167&met=1785698907%2C&mh=Ay&mm=31%2C26&mn=sn-i3b7knsl%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=5146250&bui=AZFlqhO_e1he7MVUPpKcTV91lTlwRvO22Qtb4uStaHHOxKlBVDC3czFqu767ujuv3uOX4qbgwptNr41K&spc=KBGBcvporf0CJo2VMHlQp6A5QLJWnI4PiZLQ_t1cWk9KQ4JH6-eq&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=321.410&lmt=1759092730109110&mt=1785698495&fvip=3&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAJCDeVm3O1HKpcjt-Wgus2Ebq5EH-ekAo1ozvLDVOlt5AiA9ljU7fEj_N2bzUeH_7nijphJYSgO9JvB_ViZQSB87cw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgIj9cPWCJLoDIku_CM1lntpBhta2uQoiDDrPwzHKBhRwCIEX9CThcb0UFusoh7J58n2hd_A10b-wAVbcKiCkmuNQu"
-    },
-    {
-      "videoId": "U_dt_b-kMME",
-      "title": "25 Best Countries To Visit In 2026 | Travel Video",
-      "thumbnail": "https://img.youtube.com/vi/U_dt_b-kMME/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:28.239938Z",
-      "streamUrl": "https://rr3---sn-i3b7knsd.googlevideo.com/videoplayback?expire=1785720512&ei=YJpvatv7NLjt2roP4vrtaQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AEKEkWb8Ql7SaPiI9ijmntuA8xzIxamRFv5AJyhaCfVa&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=207&met=1785698912%2C&mh=7C&mm=31%2C29&mn=sn-i3b7knsd%2Csn-i3belne6&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=5146250&bui=AZFlqhOQIy00_1JxtiWr634v61hnz8Vx6f2avjMeM7MoXrmT8iq6ssPneNkL4HweuT9API8UTr87NUet&spc=KBGBciZh5SLk2vKN5WscmtdE-lkQqk_bovLHRq6IlX1XUxtiyzO-&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=545238303&ratebypass=yes&dur=6222.924&lmt=1767382175798880&mt=1785698495&fvip=2&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAMajrcEOzQVeWpQjvQQdTuX4CJ61VvWak7YLyY_oHdEEAiABZ6ML9gOa96p04R5aQLJXY23dj5wNAu9gU_0rPsAKMQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhALIwPcICEwhse1yx5sFAr-iO4qVJ2lYiY-NVXz66JE_UAiBu9xpleg4uCKAP_zPfnZYOypMC9UVJoQjDqfhvq5QG4w%3D%3D"
-    },
-    {
-      "videoId": "Ye-VZFF0qLE",
-      "title": "I Tried Every Seat on the Most Expensive Train",
-      "thumbnail": "https://img.youtube.com/vi/Ye-VZFF0qLE/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:33.181154Z",
-      "streamUrl": "https://rr2---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785720517&ei=ZZpvaqeiGdKN1d8PrY7G-A8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AK8xVZrpiEv4ugW7xTRAS3lLR0hFSxd6S4GcOj33BcA8&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=267&met=1785698917%2C&mh=VE&mm=31%2C29&mn=sn-oji3b5-58%2Csn-i3belnls&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=5986250&bui=AZFlqhPT987LhxOZdvVefs5NndN_1i_I1JckbFricKqikyn7jO4MhOyKmBcaUFUJZVABxG9NinrsL0Gh&spc=KBGBcp4tXMWYjkw559T6T_LQJyuYvEoKrOOeZ8oG-7Wx0tgZ41pM&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=129742750&ratebypass=yes&dur=1616.642&lmt=1769860413580433&mt=1785698495&fvip=5&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAO2542khpueGm44L04ssFA-L14pekhDc0xoEBqgGYNtbAiEAjVWX1EvYavlVfET1YR-88GrPnWiGelkb_sqC8Xm2nNg%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANLe3OPi9STCXSW832V415nKz9JoXil-nCAeUeTO9FffAiEApVmEdlZ32-RjGtZXmc1AnbKKFc4W04iejYDCxJcUa8g%3D"
-    },
-    {
-      "videoId": "cESJ8AA9OJ4",
-      "title": "How To Spend 3 Days in MALAGA Spain | Travel Itinerary",
-      "thumbnail": "https://img.youtube.com/vi/cESJ8AA9OJ4/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:37.737609Z",
-      "streamUrl": "https://rr3---sn-i3b7knlk.googlevideo.com/videoplayback?expire=1785720522&ei=appvatOoB5WC2roPp4Wt0Q4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-APfelCiA3fQzL3KUp1GxznTJA-iXv8MEGuCq3-yEga1Z&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=118&met=1785698922%2C&mh=uV&mm=31%2C26&mn=sn-i3b7knlk%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=5986250&bui=AZFlqhP0kjpb1Bmhrt-YytJXPOOM0fM5fkLztYitMfwj4klRsMm40SghP9TIfK_3in_7sxyMf2vOPvQf&spc=KBGBcsunoFR9ltcIeCZwc-vphl90qXvEa-FYKfaHlAoUpY_KOs1W&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=144706385&ratebypass=yes&dur=2135.121&lmt=1785684636179670&mt=1785698495&fvip=1&fexp=51565115&c=ANDROID_VR&txp=5309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgeCvFckbY6_MQWMWEMy5CKSlyXcaQW_GzVbZ0DWmp4JoCICQxnEemwPMSOaF8U9QP9s8hHluEl8fpKtczS_af_Ryw&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAOKUsyX1b4B48me6GC0tT2NRYAEPLxyvaoVsvHBb26JVAiEA1LV0Dr1JFxPcb8VBtyPgJaQYlxw_wt3NxJpSKXpQ3C4%3D"
-    },
-    {
-      "videoId": "ymvjfu_Hm_8",
-      "title": "I Tried Every Seat on the Most Expensive Airline",
-      "thumbnail": "https://img.youtube.com/vi/ymvjfu_Hm_8/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:42.426551Z",
-      "streamUrl": "https://rr5---sn-i3b7knlk.googlevideo.com/videoplayback?expire=1785720526&ei=bppvarvIK5eB2roPh5b7KA&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AIR5-PfgkcRWzL-AW1grc55ygwEC3b-m0dhZvyNPbdl3&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=387&met=1785698926%2C&mh=sm&mm=18%2C26&mn=sn-i3b7knlk%2Csn-ajhoaq-5o&ms=aub%2Conr&mv=m&mvi=5&pl=48&rms=aub%2Caub&initcwndbps=5146250&bui=AZFlqhPzScklKb5Tm9zWBLr9y1uTVLkDi_A7QxSRMk-OTx6bMq08-5Yoj18ojbM1X2SLcyuWPdaX0oAp&spc=KBGBcgC0EcMp0y4dEZaaK39FtVLPLZfu7LCiMpns7JTLBbV_FmHV&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=110251317&ratebypass=yes&dur=1522.416&lmt=1782557479024520&mt=1785698448&fvip=3&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgbFkc4N0ESi5CfU6wu18KQIUtgs2PrDxk-abcvbXBjWwCIQDEHRhyJaC2_EECgX8_8EO423Do6UO3NfGAGwgKBT7wPQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgeIjYfJYL21_GGW_HM1kyc92V2_U-xtOX96qeIOAJt0sCIQDVFIreA5duO3uDk7bwWk9jFvyWQlHcRi_djaFe5gJLdA%3D%3D"
-    },
-    {
-      "videoId": "JgB6-RWnV9M",
-      "title": "Talking about travel: 🚴🚗🚆 Real Easy English",
-      "thumbnail": "https://img.youtube.com/vi/JgB6-RWnV9M/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.017995Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "CjEFnNcjIhY",
-      "title": "a normal day traveling across china that turned interesting",
-      "thumbnail": "https://img.youtube.com/vi/CjEFnNcjIhY/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018008Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "_mf_T9qOXqY",
-      "title": "IRELAND: How People Live on Europe's Green Edge | 4K Travel Documentary",
-      "thumbnail": "https://img.youtube.com/vi/_mf_T9qOXqY/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018013Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "cjvv5OCPApM",
-      "title": "Walking Through Sweden's Most Controversial City... 🇸🇪",
-      "thumbnail": "https://img.youtube.com/vi/cjvv5OCPApM/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018017Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "xRbPAVnqtcs",
-      "title": "[MV] BOL4(볼빨간사춘기) _ Travel(여행)",
-      "thumbnail": "https://img.youtube.com/vi/xRbPAVnqtcs/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018020Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "_tvKLm2YCEU",
-      "title": "4 Days in Hong Kong 2026 – A Travel Guide for First-Time Visitors",
-      "thumbnail": "https://img.youtube.com/vi/_tvKLm2YCEU/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018024Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-02T22:10:23.026281Z",
+      "streamUrl": "https://rr4---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785730227&ei=U8BvarfZMMLqvcAP047A4Ac&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ADJSbrFHj9y1m380o6vgfe6fAaVUZgZY47KAXFNxfPTC&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=523&met=1785708627%2C&mh=6u&mm=31%2C29&mn=sn-i3b7kn6k%2Csn-oji3bc-5j&ms=au%2Crdu&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=4300000&bui=AZFlqhO7C50DyaUGqW0Wpq42uVuWQ3VlpSxE6nMQQ48fZFSgXiJEssBcR56wP61Dt9rREuj5W1wkgxLQ&spc=KBGBcna5dvk37HEKtPHXwRxHr25QM963M-JnV7zkscNNkerGIFPF&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=139380890&ratebypass=yes&dur=2382.228&lmt=1785296659097434&mt=1785708103&fvip=5&fexp=51565116&c=ANDROID_VR&txp=3309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgM9ANHwis8niFnyncxZTgBkFTGgmWZruLQekpwwIvX9YCIQDrXDlym3wb5wctJ8PQ20r8eVn3h8re8CPriFItYBGTwg%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgEw2VUN6xojbT2qZ8IBs9ChYfL4K6M_HjBZFXv_MtGsQCICf_ty-bDPcS0mVAIMcGeXrqB8PZiPkwF2Gjx9rsjjK5"
     },
     {
       "videoId": "Zxz5EsDlizE",
       "title": "My Top 20 Travel Gear of the Last 5 Years",
       "thumbnail": "https://img.youtube.com/vi/Zxz5EsDlizE/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018028Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-02T22:10:28.144125Z",
+      "streamUrl": "https://rr1---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785730233&ei=WcBvavv-BaK02roP5YSekA8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AHFfP4vS6H-7HYDo_15BN8MmwVzPhpuAJ6D3OGG_jPJk&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=474&met=1785708633%2C&mh=Qy&mm=31%2C26&mn=sn-i3b7kn6k%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=5206250&bui=AZFlqhP1Pm_ER_VJMG3y8s5myYP8B1JNWMbN9Rreo3Wnm-cSsX-8RdpXEKOyuOXlBof7rLyzL13as-b_&spc=KBGBcoEjn1ZbsQW83x4HAXgrM0HiIu4koRMLzpbTz-ZqJ77m3qx3&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=56890946&ratebypass=yes&dur=1126.051&lmt=1785647908536029&mt=1785708331&fvip=2&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgQ-EHyGFf9JnSGAM97p6TNSeAEy31I3TRGfND8K7FBLoCIEoKNO1JY7duc7pvAXSGqFeCP6gvqSCucbPF5V_7_f5a&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAIUW00ilGHIfd0pDC-wEU6xdriu30hkIhhndLs0PUAxBAiAqU9-uDK14fIelzHwYGUujjBndJD3Wphe-R88EzpDTlg%3D%3D"
+    },
+    {
+      "videoId": "P4mSFgDn0EQ",
+      "title": "Why We’re Spending a Year in Australia  | Travel & Explore Now",
+      "thumbnail": "https://img.youtube.com/vi/P4mSFgDn0EQ/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:10:33.430481Z",
+      "streamUrl": "https://rr3---sn-i3belnsy.googlevideo.com/videoplayback?expire=1785730243&ei=Y8BvasnhC6_W1d8Pk-2uwAg&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AG0oIVmkQg3dZOYgeixVGJmcP92HVlLY4ELSlndAqKgC&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=80&met=1785708643%2C&mh=5n&mm=31%2C29&mn=sn-i3belnsy%2Csn-i3b7kn6k&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=6027500&bui=AZFlqhOBsKdKOG7uy2cc2BIcUw9pp5r9x2wQo_02ALy8wc3fqdH_HnOlOabBQyXPwQYjBEcJ2MIwI9a0&spc=KBGBclc5Nzui6us8NVljJ6W31EECA2R9dQSPiqOb8aEPAuwFwRMd&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=37629718&ratebypass=yes&dur=501.342&lmt=1785598370296881&mt=1785708103&fvip=4&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgRjDYAX4LOzIiuFZkJ5Eyps76FtD6TD7FCJ3CHSZuO3ICIQDKkOq49ntVNaQ-nMShEHXsAS59-vd5NuLuHrt5gc5YCw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgcAVVqGXUqJLF7vcYz11ii25vf900I_P3Pkd2lrDTDaECIQDWkIU9tDNiWh4CJED2aHU8jp0JpX846dnQxSoNx3YJjA%3D%3D"
     },
     {
       "videoId": "IkrRikWSVTI",
       "title": "Living in Laos: The Quiet Life Along the Mekong River | 4K Travel Documentary",
       "thumbnail": "https://img.youtube.com/vi/IkrRikWSVTI/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018032Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-02T22:10:43.525225Z",
+      "streamUrl": "https://rr2---sn-i3belne6.googlevideo.com/videoplayback?expire=1785730248&ei=aMBvap_MHsCUvcAPqfvj4Q0&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AALpvgk0sveq0mn2xkalynBihgbroka63lSpcspneTPx&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=298&met=1785708648%2C&mh=AZ&mm=31%2C26&mn=sn-i3belne6%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=3171250&bui=AZFlqhMuIo3do4YqxPx7SzlnNkFaaWItYXn4G1e4Q7xcPNPmoYSygN7IWPBaW2Z1HZzd43yzdFCfiXBB&spc=KBGBcmKAskyQQHaqioafFkKWBRe60dioike4oWgDK9rs442wGKPw&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=115835288&ratebypass=yes&dur=1890.800&lmt=1785658961376425&mt=1785708331&fvip=1&fexp=51565116&c=ANDROID_VR&txp=6309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAM5xDXtnzKL4aIuGLMSlM8kss6nwTv-SoSTWuae99GVwAiEA1qVoNwuYeli_WLHaem5lQEyq3eseOdfjDEM1_sFN390%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgSMaVXc90j-7nmIoDqDDz_cV9P1dr85ly0zqT4h_lF88CIENA2ZXVS6dAqWOlaIkWktEVp5_Hism4_5NoFlmC2UYA"
     },
     {
-      "videoId": "QLQTIp7FDL4",
-      "title": "Our Florida Holiday Starts NOW! ✈️🇺🇸 Florida Pre-Travel Day | AirportTR Test & Gatwick Travelodge",
-      "thumbnail": "https://img.youtube.com/vi/QLQTIp7FDL4/hqdefault.jpg",
+      "videoId": "Y0CEcgO4AjI",
+      "title": "We Paid $4,000 For Disney Wish’s WORST Cabin! | Worth It?",
+      "thumbnail": "https://img.youtube.com/vi/Y0CEcgO4AjI/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018036Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "9J7_NqgJSq8",
-      "title": "Wonders of Italy | The Most Fascinating Places in Italy | Travel Video 4K",
-      "thumbnail": "https://img.youtube.com/vi/9J7_NqgJSq8/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018040Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "2x84ZLB5Jh0",
-      "title": "Impossible Places: World's Most Extreme Corners on Earth | 4K Travel Documentary",
-      "thumbnail": "https://img.youtube.com/vi/2x84ZLB5Jh0/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018044Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "pUBbIjDrr8g",
-      "title": "My Solo Trip to Switzerland 🇨🇭 one week in the swiss alps travel vlog ⛰️",
-      "thumbnail": "https://img.youtube.com/vi/pUBbIjDrr8g/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018048Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "ycfMHdieIgA",
-      "title": "Arctic to Africa by Sleeper Train",
-      "thumbnail": "https://img.youtube.com/vi/ycfMHdieIgA/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018052Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-02T22:10:48.836090Z",
+      "streamUrl": "https://rr3---sn-oji3bc-5n.googlevideo.com/videoplayback?expire=1785730253&ei=bcBvarGzHqj3pt8P85HpmA4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AK5dul7ZGGGDTCfOLLkH5WQIuM6_yq87g3ZFyDzKsOZG&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=164&met=1785708653%2C&mh=nk&mm=31%2C26&mn=sn-oji3bc-5n%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=4300000&bui=AZFlqhMlsNOubaSX7j49LwKo12e5_rApqQ8TAeUWlyy4d_Fb_S-nbEswxczEDz0Jf29gV8Y2EkVjkrlv&spc=KBGBcpfaae2yYX_c3XMIcWWtGZTGeSvXgR-AAqBiYujlfNFWyd5C&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=98427599&ratebypass=yes&dur=1209.806&lmt=1785541585378605&mt=1785708103&fvip=4&fexp=51565116&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAJZg2A_jymBGVRh2l8Pt49rjafSYAPN2sfAwUsnPbkgbAiEAkuk6iNASA7OANvKDqpvcLWOq9-3SoaoNBivlGPbGrlM%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgaNBX_F3IyFYGat_IlKbRv5oGuHoDHpld71eGAqxN25wCIQCfvx4GFvGqYHVXp7JjKJRWijr3pg-i-v1h0zCZz8zRhw%3D%3D"
     },
     {
       "videoId": "Xef6E5jYO9Q",
       "title": "solo travel will change your life",
       "thumbnail": "https://img.youtube.com/vi/Xef6E5jYO9Q/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018055Z",
+      "fetched_at": "2026-08-02T22:10:53.847588Z",
+      "streamUrl": "https://rr2---sn-i3belnl7.googlevideo.com/videoplayback?expire=1785730263&ei=d8BvatSGFMaavcAP8d_SqAo&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ANAD1wIlwCqUqNFQ1fD8RvI43VCCmHWFrqC6OaJTRhYw&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=117&met=1785708663%2C&mh=vE&mm=31%2C26&mn=sn-i3belnl7%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=6027500&bui=AZFlqhNW852v3PAKama-74E3MiRXUQ55OxJ84sn6Zy3_usWhdatTS5xMmQQhT2hwLFYu-yVjaJtVftwi&spc=KBGBcgM9ow8xZLsBO_4QlaaT3Tuw_HTxQbD429mvMXFGKftCyjVS&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=82877927&ratebypass=yes&dur=1215.843&lmt=1783491689681660&mt=1785708103&fvip=3&fexp=51565116&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAO6kJ7s9q6sYX-83419SYf9Huv05Y4-YUXd2GiBb7YGQAiEAq_ij2GE_OSflS_3TA_o99T2ClPByiffaSxoMP3I30jY%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgT6M6sTx1ihOBkP3yl_XHOqjjLZB9ebqK71XlaGCIR3QCIQD8NsNiN0Dwa1qJ0gt3ygZ4TE2WXCZqua_mkw3UWq0ALQ%3D%3D"
+    },
+    {
+      "videoId": "pUBbIjDrr8g",
+      "title": "My Solo Trip to Switzerland 🇨🇭 one week in the swiss alps travel vlog ⛰️",
+      "thumbnail": "https://img.youtube.com/vi/pUBbIjDrr8g/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:11:03.670000Z",
+      "streamUrl": "https://rr2---sn-i3b7kn6s.googlevideo.com/videoplayback?expire=1785730268&ei=fMBvavLGLZaX1d8PtYPwuAU&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AKTgHR93i3mrmwUEtL795Of47THxJloaOnbxH8oovcup&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=164&met=1785708668%2C&mh=Lr&mm=31%2C26&mn=sn-i3b7kn6s%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=4300000&bui=AZFlqhM7JMpqJIHzQpaxqddccRh8bjoFVlp1LcBmAF14Tt0dKfYvsdyOuc7qM56NVj7ASvNQ4TVsAwpr&spc=KBGBcprM4CvO_q5J8oV4q6hTbxlnlMhhsdJvRcNvLce0gCYL5IY0&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=163836114&ratebypass=yes&dur=2088.704&lmt=1767366727783364&mt=1785708103&fvip=5&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgANhKpODXcwfZeBg_WQnS1Ie_bYcx5lZb5LEGhuKq3bwCIG4Dhwh8myzM0mMmiO3BjZsl8NxDO2Lms_Saz42ruN6p&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAKNQsBdU68IPCaxlPyXeQWU61iW2VITeXXpsG5N7x_rFAiEAyb2ubiTBwuusGh-iBeozfAFUS76iLMLJt54BFwBaHU0%3D"
+    },
+    {
+      "videoId": "dMdKru-1oa8",
+      "title": "Travel to China in 2026? WATCH THIS FIRST!",
+      "thumbnail": "https://img.youtube.com/vi/dMdKru-1oa8/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:11:09.076797Z",
+      "streamUrl": "https://rr5---sn-i3belne6.googlevideo.com/videoplayback?expire=1785730274&ei=gsBvaqXNEP7u2roPu8_a8AQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AF6Ol8cEBngUwHGAj2eN6lpcDUtqg5MpBXUUya1Ug8Ip&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=123&met=1785708674%2C&mh=wK&mm=31%2C26&mn=sn-i3belne6%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=5206250&bui=AZFlqhPILILWIDe4MOKZ-HaAe9E2rZc17Lcmc13Nmn0L2QOJZToHe4jLJF7xvcjVeRNwEv7CZ8qyTV61&spc=KBGBctT-NVQu-8enPLIEDhJxO1D-ZLQw0dInv-ZAQg6UMeKzNx6r&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=87279668&ratebypass=yes&dur=1102.274&lmt=1767332693137855&mt=1785708331&fvip=2&fexp=51565116&c=ANDROID_VR&txp=5438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAJQgpp2IW1Hx2hzOB4qRiTI3Yyy52guG7PbuVHS-e18fAiEAg7tXOhTjIA3CEo7HS0yDSztFsbQv2PQ2295DemQJS6k%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAIN5JTaWIGDVQbXXhwYTYAG8Km8sJ9H2dSAAA_Xq2_CyAiEA-i0IV8U2yxRaHwyHd_ZatIhoKmOukkVKNLQzyXtyV7Q%3D"
+    },
+    {
+      "videoId": "IuTDuvYr7f0",
+      "title": "How to Spend 14 Days in Japan  - A Japan Travel Itinerary",
+      "thumbnail": "https://img.youtube.com/vi/IuTDuvYr7f0/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:11:14.612515Z",
+      "streamUrl": "https://rr4---sn-oji3bc-5n.googlevideo.com/videoplayback?expire=1785730279&ei=h8BvaoyMFKWz2roPsMWkIA&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AGoHmhs2FK2EmyWIeWhJmGxjA9KdcOpECCX0kTRowGcd&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=151&met=1785708679%2C&mh=m9&mm=31%2C26&mn=sn-oji3bc-5n%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=3171250&bui=AZFlqhN5T3XRXZWKTSB5shGupbDCsKVpOqdqsVz8rsSzaMM5QnqoZGLxzEmbADL9l7iQmz0u75xi9gan&spc=KBGBcvXKM9cM6EJKSUz82I-n9gfMdfvSxC8nF8K043lFL1f2DhNI&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=154757013&ratebypass=yes&dur=2289.333&lmt=1755199378054844&mt=1785708331&fvip=2&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAN_F2g4K4l8nBnrJcbxdBLojTUbQxVG5OcVVcImuz9ScAiAroqcs4XAwjbOpHiE68eoVZOizibkpsM5dcxmbGYXppw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgDAYHFWfGD5aywL1AodpiH6HJhQ60Q-krG3lpWQUJU1kCIHMi8QS32ZxXVne60hvzcfnSZEzT0x3G4Q8O16ISHMF-"
+    },
+    {
+      "videoId": "9cQZVzrmddg",
+      "title": "We Visited Unbelievable Places in China (that actually exist)",
+      "thumbnail": "https://img.youtube.com/vi/9cQZVzrmddg/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:11:19.659616Z",
+      "streamUrl": "https://rr3---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785730284&ei=jMBvauvsJN-Fpt8Pma6OqA8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AB_re4iw7RxUsPr8AifXf6TOZ29OpEzWuQNW1LOorP2i&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=237&met=1785708684%2C&mh=Nw&mm=31%2C26&mn=sn-i3b7kn6k%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=5206250&bui=AZFlqhOLTIh-MmKuAru5MRI-VUYkUnssdZgcsWoktEzAnBBS5h5hztnjtfrIwQotA6uLfmZrhP7g_u4d&spc=KBGBcoSHhQszLdihO7_MCy35qcZhd-EqvfRKlhblVibzCj-NHh1Y&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=248801198&ratebypass=yes&dur=3010.490&lmt=1777873145169363&mt=1785708331&fvip=4&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAOL47LoU6nXFObiqCTWe5oD-uEEbZyr5eOQMUZQPhYu5AiEA33Sw0ZHQ7FwkDiksFaW7PTgeuwnHGMvOh166OS2b4_I%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAOd670susdW_5gl9Ji1yj3yVWkiaatwGGDzFp9AgkIq8AiEAtB_wFvUxiVziFsero6Gc5wJacxTXIlJ8dYPgNaM4SW4%3D"
+    },
+    {
+      "videoId": "kTVVNWdAnUA",
+      "title": "I Travel the World Playing Football",
+      "thumbnail": "https://img.youtube.com/vi/kTVVNWdAnUA/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:11:24.949846Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "LFzNk4hHqRw",
+      "title": "A New Travel Ban on US Citizens Just Began, Here's What Happens Now",
+      "thumbnail": "https://img.youtube.com/vi/LFzNk4hHqRw/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:11:24.949863Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "dH2RFQy8uL4",
+      "title": "girls trip to shanghai travel vlog | zhujiajiao ancient town, sightseeing, shanghai cafes, 3 days",
+      "thumbnail": "https://img.youtube.com/vi/dH2RFQy8uL4/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:11:24.949868Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -200,47 +112,135 @@
       "title": "10 Days in Vietnam 2026 - A Travel Documentary",
       "thumbnail": "https://img.youtube.com/vi/vOkkWuEwUmc/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018059Z",
+      "fetched_at": "2026-08-02T22:11:24.949872Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "f5zIEPhzQ5k",
-      "title": "5 BRUTALLY Honest Truths About Travel Nobody Talks About",
-      "thumbnail": "https://img.youtube.com/vi/f5zIEPhzQ5k/hqdefault.jpg",
+      "videoId": "cjvv5OCPApM",
+      "title": "Walking Through Sweden's Most Controversial City... 🇸🇪",
+      "thumbnail": "https://img.youtube.com/vi/cjvv5OCPApM/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018063Z",
+      "fetched_at": "2026-08-02T22:11:24.949876Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "IuTDuvYr7f0",
-      "title": "How to Spend 14 Days in Japan  - A Japan Travel Itinerary",
-      "thumbnail": "https://img.youtube.com/vi/IuTDuvYr7f0/hqdefault.jpg",
+      "videoId": "UT8rOuv-Q9Q",
+      "title": "can you actually enjoy solo travel on a budget? (9 day test)",
+      "thumbnail": "https://img.youtube.com/vi/UT8rOuv-Q9Q/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018067Z",
+      "fetched_at": "2026-08-02T22:11:24.949879Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "ILJkRQwhDec",
-      "title": "That's the Way It Is - Music Travel Love ft. Bugoy Drilon",
-      "thumbnail": "https://img.youtube.com/vi/ILJkRQwhDec/hqdefault.jpg",
+      "videoId": "9J7_NqgJSq8",
+      "title": "Wonders of Italy | The Most Fascinating Places in Italy | Travel Video 4K",
+      "thumbnail": "https://img.youtube.com/vi/9J7_NqgJSq8/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018071Z",
+      "fetched_at": "2026-08-02T22:11:24.949883Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "_seSrvYhPPY",
-      "title": "5 Days in Hong Kong 2026 - A Travel Guide for First-Time Visitors",
-      "thumbnail": "https://img.youtube.com/vi/_seSrvYhPPY/hqdefault.jpg",
+      "videoId": "pZ7WLQbLDn8",
+      "title": "Top 10 Places To Visit in 2026 (Year of Travel)",
+      "thumbnail": "https://img.youtube.com/vi/pZ7WLQbLDn8/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018074Z",
+      "fetched_at": "2026-08-02T22:11:24.949887Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "Ew11Wm6g8HM",
-      "title": "✈️Florida 2026 Travel Day Via Atlanta With Wamos Airlines 🇺🇸🌴",
-      "thumbnail": "https://img.youtube.com/vi/Ew11Wm6g8HM/hqdefault.jpg",
+      "videoId": "h-0ImROgSfs",
+      "title": "DISNEY WORLD SUMMER TRIP 2026! ☀️✈️ Travel day & Magic Kingdom",
+      "thumbnail": "https://img.youtube.com/vi/h-0ImROgSfs/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T19:28:47.018078Z",
+      "fetched_at": "2026-08-02T22:11:24.949891Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "kFvzGGiI5Zc",
+      "title": "Canada: More Surprising Than You Think | 4K Travel Documentary",
+      "thumbnail": "https://img.youtube.com/vi/kFvzGGiI5Zc/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:11:24.949895Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "8HW85_bcMYQ",
+      "title": "🇻🇳 VIETNAM BEACH ⛱️ | VIETNAM CITY LIFE | VIETNAM TRAVEL VLOG | VIETNAM VILLAGE LIFE | VIETNAM VLOG",
+      "thumbnail": "https://img.youtube.com/vi/8HW85_bcMYQ/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:11:24.949899Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "QLQTIp7FDL4",
+      "title": "Our Florida Holiday Starts NOW! ✈️🇺🇸 Florida Pre-Travel Day | AirportTR Test & Gatwick Travelodge",
+      "thumbnail": "https://img.youtube.com/vi/QLQTIp7FDL4/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:11:24.949902Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "CE1HFeOwMDY",
+      "title": "5 Days in Shanghai, China 2026 - A Travel Guide for First-Time Visitors",
+      "thumbnail": "https://img.youtube.com/vi/CE1HFeOwMDY/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:11:24.949906Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "MwsckIZlc0Q",
+      "title": "I Can't Believe China Let Me Do This 🇨🇳",
+      "thumbnail": "https://img.youtube.com/vi/MwsckIZlc0Q/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:11:24.949909Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "U_dt_b-kMME",
+      "title": "25 Best Countries To Visit In 2026 | Travel Video",
+      "thumbnail": "https://img.youtube.com/vi/U_dt_b-kMME/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:11:24.949913Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "cESJ8AA9OJ4",
+      "title": "How To Spend 3 Days in MALAGA Spain | Travel Itinerary",
+      "thumbnail": "https://img.youtube.com/vi/cESJ8AA9OJ4/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:11:24.949917Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "CjEFnNcjIhY",
+      "title": "a normal day traveling across china that turned interesting",
+      "thumbnail": "https://img.youtube.com/vi/CjEFnNcjIhY/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:11:24.949921Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "bohB8frROwg",
+      "title": "Wonders of Italy | Most Amazing Places in Italy | 4K Travel Guide",
+      "thumbnail": "https://img.youtube.com/vi/bohB8frROwg/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:11:24.949924Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "zVNR2cTegmo",
+      "title": "Farm House Par Jab Agle Din Chaapa Maara..",
+      "thumbnail": "https://img.youtube.com/vi/zVNR2cTegmo/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:11:24.949928Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "v3BqYPVkUQo",
+      "title": "The Most Magnificent Places in The World | Travel Video 4K",
+      "thumbnail": "https://img.youtube.com/vi/v3BqYPVkUQo/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T22:11:24.949932Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     }
   ]

@@ -1,190 +1,94 @@
 {
   "category": "育儿",
   "keyword": "parenting",
-  "updated": "2026-08-02T20:21:08.549763Z",
+  "updated": "2026-08-02T23:04:34.414323Z",
   "videos": [
     {
-      "videoId": "5g8tHEXtCXE",
-      "title": "Why Most Parenting Advice is Wrong | Yuko Munakata | TEDxCU",
-      "thumbnail": "https://img.youtube.com/vi/5g8tHEXtCXE/hqdefault.jpg",
+      "videoId": "22T-6duM9nI",
+      "title": "8 Rules of Positive Parenting | Riri trivedi",
+      "thumbnail": "https://img.youtube.com/vi/22T-6duM9nI/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T20:20:21.055023Z",
-      "streamUrl": "https://rr4---sn-i3belne6.googlevideo.com/videoplayback?expire=1785723625&ei=iaZvasnHGOOY1d8P0t-e2AE&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AMbfCg9gCiA8cPKx67vTrVBhFl3y_SefESx4omC60xXO&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=67&met=1785702025%2C&mh=3I&mm=31%2C26&mn=sn-i3belne6%2Csn-ojhoai-5a&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=4796250&bui=AZFlqhOUgKYVGiNphzNo6_Y-P_mOLA3MTl99m_CB4ccmeMSYAyWZNnHG79DFGxc_2QFMMXU50P_3-0Un&spc=KBGBclctgy_I0nMe4SU3GsIq3Ke8NJOFpStmKC7FkWMTCNSfZSxz&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=47686620&ratebypass=yes&dur=1033.566&lmt=1709315253167617&mt=1785701624&fvip=4&fexp=51565115&c=ANDROID_VR&txp=4538434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgQEHKjrLxO936K1wHJC-izosDq23IF1WvGcoou0S_sXUCIF3nPXlMNiBDIz-Kl9sYK2J_jyfqNIk291UHmC9Y1l7U&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgWTyF9_tIin7nr_oJab5mEd3q2bd561e8DyeFG4yRXR8CIAPbX6KDgMm7PoMMcLh9CRu_Ru-QZCbLAOpEirfw0wx6"
-    },
-    {
-      "videoId": "6fZXxu8AcTA",
-      "title": "A Test to Judge How Good Your Parents Were",
-      "thumbnail": "https://img.youtube.com/vi/6fZXxu8AcTA/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T20:20:25.705523Z",
-      "streamUrl": "https://rr3---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785723630&ei=jqZvap-gAbnN2roP3umOUA&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AIpoOg4DZMMB3ky3OmO78bYDfXDCKeoRM8eK-3DtUqK_&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=162&met=1785702030%2C&mh=iF&mm=31%2C26&mn=sn-oji3b5-58%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=7701250&bui=AZFlqhPKsxTFw7c61_C3yizpcCbV7l0WOx7rVHNDwFbKqfGO_kFtwn77wiyzDtck9UGpIq3XlOzrf653&spc=KBGBcjRRmIfj-7O2w-2r2jZrnPh8c_Na6XjdHBbCU_RS2E-yQFUe&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=23954505&ratebypass=yes&dur=457.015&lmt=1748993330868579&mt=1785701624&fvip=5&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgMhaAHlz3O8QGkPCovFtIZR1enP0dQaG7oYcV33gEXSwCIGHMffbRwvFumPtcIFz0np458Iwbd0yW1ob2yV8X_6UI&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgCbubSFWNWRx1o8mjoYPkRAleSytzTpWa3zgc0G6EfZYCIQDbHhVrjC0in65roudzUTDwR_B0fB4q1v-79NYcZlJPfg%3D%3D"
-    },
-    {
-      "videoId": "SQ-NN_1Jotw",
-      "title": "Child Not Listening? Stop Yelling. Do This Instead",
-      "thumbnail": "https://img.youtube.com/vi/SQ-NN_1Jotw/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T20:20:30.319234Z",
-      "streamUrl": "https://rr2---sn-i3b7kn6s.googlevideo.com/videoplayback?expire=1785723634&ei=kqZvauCeKZmA2roP0veyuQg&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ANtbdulJ0qVB53T4k4jCPIduFee7w9YpU3IXPtCWvCxW&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=211&met=1785702034%2C&mh=hg&mm=31%2C29&mn=sn-i3b7kn6s%2Csn-i3belnsy&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=4796250&bui=AZFlqhN3t08rOBrH5gFqLXW79M_4_pXJwYyE-wU9sMVJ24tkYXEllI8p1bHP5pkn_JMIIWmuoExxwfcb&spc=KBGBciCug5xCeUduP35DJ0muLeUDZSR0O5ka6D80nQR-oijM548u&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=567.217&lmt=1773809255040487&mt=1785701624&fvip=5&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAKNUKbj_MKJNGZdhWlfbdvyS8HLwzhLORi5Bms6ESeS-AiAs956p642pyWacGhlMftXlYO_5VDX9RSW5NytwP3lL9w%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIge2zrdC-HebPXoeCy_E3NNbEVm8cMC1wKNIGtR6fJ68MCIQDNOi-Lz4qR1Na6ToQTVTm80owEDBgMYE0oO5Rm6-1R5w%3D%3D"
-    },
-    {
-      "videoId": "jb2lfKJ14w0",
-      "title": "Ms. Rachel Answers Parenting Questions | Tech Support | WIRED",
-      "thumbnail": "https://img.youtube.com/vi/jb2lfKJ14w0/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T20:20:34.987975Z",
-      "streamUrl": "https://rr1---sn-i3belnl7.googlevideo.com/videoplayback?expire=1785723639&ei=l6ZvaqqzEqKLqL8PqprM8AI&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AEebh89xTd-oRFszVbmc_Psf3PWnY5PdpYmQ_jOYw6ey&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=194&met=1785702039%2C&mh=D9&mm=31%2C29&mn=sn-i3belnl7%2Csn-i3b7knse&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=4796250&bui=AZFlqhN-sxLsJG-6YGpbkakG7_6hGDnN__nrFegcO4alkidLycdIdFAXf7PZ548OkW0ZYFsGIoMNqaBf&spc=KBGBcn_3I0AKtEoMfj5UWZYELa5F-mOvqja9Gptt5ARS_XPpdlqP&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=35023470&ratebypass=yes&dur=730.360&lmt=1784652722456202&mt=1785701624&fvip=1&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgRAV3k0Nwti93QeQiyR_4Q_yzzfDCbuE8kUKjSTkC13ECIQDl65jFRJTa-ORMS4dXq8mV38vjvrmxCQWwM_B2Bo8V4Q%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAOr7UWWBpGAyVY9sCaCPAcSBZjC6Clfyh80b7syEWl_VAiEAkpTSOOO_XK850jn8dfJDez0Z6eC24mj28gO7kDlTXlc%3D"
-    },
-    {
-      "videoId": "o9xFySZ1tx8",
-      "title": "Dr. Becky Kennedy: The #1 Mistake Parents Make That Kills Confidence in Their Kids!",
-      "thumbnail": "https://img.youtube.com/vi/o9xFySZ1tx8/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T20:20:39.609228Z",
-      "streamUrl": "https://rr3---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785723644&ei=nKZvar_kBYqV1d8P2JKJ4AY&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ANtYgHavFkBBucgZIC0sUounbJysRE0OY2lkWFpH0uMb&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=177&met=1785702044%2C&mh=g8&mm=31%2C29&mn=sn-i3b7kn6k%2Csn-i3belnls&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=4796250&bui=AZFlqhO3qULprlQ-gRoaWMvNJ7S64XZVOr19hmA5ZwokZXy7in4UQwPvIsf_8MMDeJwIeM7wlcMaAeXX&spc=KBGBctl-RKxedFDvETZ9m8U5W-FCU7E20lkvp5tn-SIjkvZGOTfQ&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=7247.040&lmt=1776185742960961&mt=1785701624&fvip=5&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhANzxkFNoVSvBp5htb1K_GA20cBQvBPtNa08yNtMFTYgEAiA93GbdZfN76JEkHJQuM9HUx9uWAqTG-DnwTJjjDIrX-w%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgaDcW5zN_jhjTg1CD7zqlYj58WgbHIL7jK55BDUFjHYYCIQCRXj3o0KeqghYNeyl0homBrg-Xjt--0GUMQVBPY4_XLw%3D%3D"
-    },
-    {
-      "videoId": "cialLfVZqm4",
-      "title": "Child Attachment Expert: We're Stressing Newborns & It's Causing ADHD! Hidden Dangers Of Daycare!",
-      "thumbnail": "https://img.youtube.com/vi/cialLfVZqm4/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T20:20:44.413490Z",
-      "streamUrl": "https://rr1---sn-i3belne6.googlevideo.com/videoplayback?expire=1785723648&ei=oKZvarf3OeLs2roP_cj12AQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AO6FEqksqLw5AGPP7noUEaAMtquLS5mOQaR2i_bHrO_Q&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=282&met=1785702048%2C&mh=4s&mm=31%2C26&mn=sn-i3belne6%2Csn-ojhoai-5a&ms=au%2Conr&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=4796250&bui=AZFlqhMSF8Oe1XR5pmx4eJdjP8p9qxDKaSVWjphziWP5W7kuwDuqe5zdmjD7xUCngYhBh2S1Jp89LLF5&spc=KBGBcguESOWrO2eErk-IIu5nqzWtlx3UMv2LwbfVZRlsBK0zzQN1&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=430270617&ratebypass=yes&dur=9516.535&lmt=1742078963478669&mt=1785701624&fvip=3&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhANTfMxmpHak3baUbrrMKg4_KDBHGdwlrDRo4fX8HzZRMAiEA2PHexM5gsfnBDbN-8VlX_L2I_wcuT4kQ2Ln8T7dNHqo%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgJnJ_cPb33Pi48Hw_K_DEcSxOWnmOI8_0ySS_X4gio6gCIQCT3BXYKy1TdPm7A4gY0SuivvyGzxv9K7KDdtxPc38P4Q%3D%3D"
-    },
-    {
-      "videoId": "F7x_LFufrus",
-      "title": "This Is Why Parenting Is Hard Today - How To Raise Healthy Kids In The Modern World | Dr. Gabor Maté",
-      "thumbnail": "https://img.youtube.com/vi/F7x_LFufrus/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T20:20:49.266674Z",
-      "streamUrl": "https://rr1---sn-i3b7kns6.googlevideo.com/videoplayback?expire=1785723653&ei=paZvaqLkI5L4pt8P0_vW2Q8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AOaCjSFwRpgQFCvv_lk_lNF4_9s66fvl4hDABTiY2Fg0&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=137&met=1785702053%2C&mh=KL&mm=31%2C26&mn=sn-i3b7kns6%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=4796250&bui=AZFlqhOGMBPMY1xEE7sByh_2igaQjfVzWi0waclZIPu-XUYKInYUlN1-O8KVM4zmSCq0kvysxjz_oIFE&spc=KBGBcgXaFROjVte8I94cnkntGey9LU6-HQAz2uyBiL-bT9zgXhAN&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=921.391&lmt=1759504590205814&mt=1785701624&fvip=3&fexp=51565115&c=ANDROID_VR&txp=6318224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAP5CbzYggSEBqrhEmpfMiUT-wIcjDoxihrGsiKeSGQmsAiEAkMH9WC3Yeq1QAVf0wgZ2rRA8GyiscnfIKCN7Oy_qbC0%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAKCT3zkgf0iIQOBTNpY1iXQ2J5qCNf9VbnVrBJ3Zd8nEAiEAvVTeH1rv9Aledb-TfRbl25Y59wo99FT5cAYL1tP8LGI%3D"
-    },
-    {
-      "videoId": "XT_6Lvkhxvo",
-      "title": "Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy",
-      "thumbnail": "https://img.youtube.com/vi/XT_6Lvkhxvo/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T20:20:53.890637Z",
-      "streamUrl": "https://rr4---sn-oji3b5-5n.googlevideo.com/videoplayback?expire=1785723658&ei=qqZvaqykL_KhrfcPsP-QoQU&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AKUEXkpBWKNRH3Pjx9HORPxygXLJHg6v7zbcAZkakuQ2&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=167&met=1785702058%2C&mh=PS&mm=31%2C26&mn=sn-oji3b5-5n%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=6121250&bui=AZFlqhNR4YHs0kts3WCcHtD1Teb0rfSBDwPu4xcrwFoijBv4mnFtBEifVOAODEfNKF2s3eYR1NqDtRa5&spc=KBGBcqUMaojUL1JRYqjZjB_v-RrD1opuTnL4RsgCpsA--JtQOvOT&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=10441.827&lmt=1747828501810332&mt=1785701880&fvip=1&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgDjKl4pMzx_7gfPEd4p0oIue-UUZccPqW6t4lfNoUfEgCIQCLgjG78zMqHd65CnHQ9hsr4ZP07o-I6h3nd7rCfxdSGg%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgJepmlcC09S-zU_tVOcf843D0m3dHz8n7xJxJbjUeQ0ACIQC-UzBl-ZLFJuU6xUpCoPNMw-PlfUzJoQsTBHxUhITorA%3D%3D"
-    },
-    {
-      "videoId": "dRXrbHb3NPg",
-      "title": "Hunter: The Parenting - Chapter 6 | Inquisition Impergium",
-      "thumbnail": "https://img.youtube.com/vi/dRXrbHb3NPg/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T20:20:59.081337Z",
-      "streamUrl": "https://rr3---sn-i3belnsy.googlevideo.com/videoplayback?expire=1785723663&ei=r6ZvatiHFdH4pt8Ppo6ZqAQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ALfOfeugSZmniqwUZTexom3GbnQHXAbAIu87FiOesFdL&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=300&met=1785702063%2C&mh=4e&mm=18%2C26&mn=sn-i3belnsy%2Csn-ajhoaq-5o&ms=aub%2Conr&mv=m&mvi=3&pl=48&rms=aub%2Caub&initcwndbps=4796250&bui=AZFlqhPuVLgOMAHzji0CeGa9VAdyH5ZtOFwbyJ8tn5OS3rE9dhyOj-M58zGWJN6_JJywAsbuNKxIC-LD&spc=KBGBclYZa0-jE1c1BsRqnFAlDR0FW66H5dVYc7GMOsKSqFC0q9or&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=105538370&ratebypass=yes&dur=2030.074&lmt=1785531020643636&mt=1785701572&fvip=3&fexp=51565115&c=ANDROID_VR&txp=3319224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgHilmrUcWEe90BYOv9B_fST7gmJpTNmyW2DUdAguY4WYCIQCDyyzrsd9NFVO8k4tWpYyrSrUHUmyzA9ySsq0i0o3UxQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgf9-OPN6q_yLMfyjTfMN1mpVm2ZIIczKbMfrvAeK_C7wCICXdwpVQkRNnk-Jgs0Ugoa0KTmk2B9Ye9yvbGCgPv_AF"
-    },
-    {
-      "videoId": "UiSQmu8oQYU",
-      "title": "Parenting: 90s vs Today",
-      "thumbnail": "https://img.youtube.com/vi/UiSQmu8oQYU/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T20:21:03.674010Z",
-      "streamUrl": "https://rr3---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785723668&ei=tKZvarupD7aQvcAP5r6UwQQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AHWx5QdxNrkU5WKJpK5xCVen-5rs-EYbRug-BrEHwANn&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=156&met=1785702068%2C&mh=-B&mm=31%2C29&mn=sn-oji3b5-58%2Csn-i3belnl7&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=7701250&bui=AZFlqhNsAQbpsLft0f5Pxxux9W6TzSFlbtLulOVgKgrOoOZWhapVmTqahAVOOtvwnrZp2g_6Ny4leXn-&spc=KBGBct3hcSoSIPxXKbr1BfqggMJW8uK7HWreDz40Mz55ykNDY0EE&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=17512014&ratebypass=yes&dur=222.145&lmt=1753061841260403&mt=1785701624&fvip=5&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhALbZAhkJcXv5Knab4SvI-8j0twCADCtADfftnaJxITVTAiB_AS8I_gD8i2h1rTRqDeKkJb7UkgaMyHd0D19aUD5HiA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAJRkZJLYNzZbAQaN4M_oZfK6NwCtSDwAPH3wGIeYvWKdAiBHKrkxNsgkYyYoUpQmtY2QEuzJxSvTSkT3YGEugw70jw%3D%3D"
-    },
-    {
-      "videoId": "g8lO2mH3itU",
-      "title": "Jordan Peterson Reveals Crucial Differences Between Mothers & Fathers | Parenting",
-      "thumbnail": "https://img.youtube.com/vi/g8lO2mH3itU/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549673Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "wdnXh3iBI4M",
-      "title": "Raising Children to Love God",
-      "thumbnail": "https://img.youtube.com/vi/wdnXh3iBI4M/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549688Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "XVgpxAiFla4",
-      "title": "The Dangerous Rise Of Gentle Parenting",
-      "thumbnail": "https://img.youtube.com/vi/XVgpxAiFla4/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549693Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "CyElHdaqkjo",
-      "title": "How to Raise Successful Kids -- Without Over-Parenting | Julie Lythcott-Haims | TED",
-      "thumbnail": "https://img.youtube.com/vi/CyElHdaqkjo/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549697Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "-ON532TZxVU",
-      "title": "The Psychology Of Parenting | Dr. Dan Siegel",
-      "thumbnail": "https://img.youtube.com/vi/-ON532TZxVU/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549701Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "QXqjmIIhIrY",
-      "title": "Parenting: Raise Yourself Before You Raise Your Kids - Sadhguru",
-      "thumbnail": "https://img.youtube.com/vi/QXqjmIIhIrY/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549705Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "zSsNjPHRb1U",
-      "title": "9 Parenting Rules To Simplify Your Life (No More Yelling)",
-      "thumbnail": "https://img.youtube.com/vi/zSsNjPHRb1U/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549709Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "avx4Ww9h3Tc",
-      "title": "The Brain Expert: How To Raise Mentally Resilient Children (According To Science) | Dr. Daniel Amen",
-      "thumbnail": "https://img.youtube.com/vi/avx4Ww9h3Tc/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549713Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-02T23:03:42.762996Z",
+      "streamUrl": "https://rr1---sn-i3belnls.googlevideo.com/videoplayback?expire=1785733427&ei=08xvaqLBK5y2vcAPyOLJqA8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AEh00Xq4KzrKZ-bNi9ZedP_v4SJ2iUeT8hjEdX6oPtmU&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=158&met=1785711827%2C&mh=M9&mm=31%2C29&mn=sn-i3belnls%2Csn-i3b7kn6d&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=4485000&bui=AZFlqhM0tdJNEnl8iD0NMHn7eQxnKNlixE5dvv6qBYpXFZYIAdxmm-lQWKM_Y0VD8UPiC7L3bxlP0Z3V&spc=KBGBcmORmIg0QVIvRSLpdHCz-jSNHsc2unonPmx-flcRCr5IcIfq&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=465.954&lmt=1730599354056441&mt=1785711445&fvip=3&fexp=51565116&c=ANDROID_VR&txp=5538434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAMHRFqbmlRLDL-v0V03kaUC4qF_8MHd7QsxT51npchh4AiEAjJA0imaLsLkzt39Y6_N7GJ5tYY62c0BkecVr79XDNbo%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgO_QfOOsO91hu9ujBV6ew4A6_y_CU4rD2fXaLkMQYrWoCIGIL9D_6fCjGadplk4ZTX91TQe7oy6BR5YEdnl1DLx-8"
     },
     {
       "videoId": "qSjPGuWtB7M",
       "title": "4 Simple Habits That Make Parenting a Toddler MUCH Easier",
       "thumbnail": "https://img.youtube.com/vi/qSjPGuWtB7M/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549717Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-02T23:03:48.027546Z",
+      "streamUrl": "https://rr1---sn-i3belnsy.googlevideo.com/videoplayback?expire=1785733432&ei=2MxvaoijK_mAvcAP5LvCkQI&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AG__br_auWWwdZDwJOm4A_t-qUYroYY8lsjLLSLvbsJg&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=164&met=1785711832%2C&mh=Fh&mm=31%2C29&mn=sn-i3belnsy%2Csn-i3b7kns6&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=4485000&bui=AZFlqhMyD6_fMH5K9YMVqFuwLvnW8Yi8ErT4Bq6eQh4aVjZuO7pW8wlbq-cx193cJXPrP95DAMrYep3o&spc=KBGBcq6u5Ab2M2npS53jS5UKzmgTFExx38LzIBU4oa440AfT2I63&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=577.410&lmt=1750851549472276&mt=1785711445&fvip=4&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAKw8DqSFTvHNZtFjW1JdvOrs_YTXu7wpxs5gTyKeOq6XAiEAzRflaLRaXgboPOjWi_eQiWTs5E3ycyPY04Ox3UtVQ4s%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgTsfQC3Mvr3kKALWLsOb355nFecQh5uzJTa7T34GZPJUCIQCmKLo350PTju6k47VBhMHrWSPBaR4cwh-CBDnVzlXnjA%3D%3D"
+    },
+    {
+      "videoId": "dRXrbHb3NPg",
+      "title": "Hunter: The Parenting - Chapter 6 | Inquisition Impergium",
+      "thumbnail": "https://img.youtube.com/vi/dRXrbHb3NPg/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T23:03:52.983189Z",
+      "streamUrl": "https://rr3---sn-i3belnsy.googlevideo.com/videoplayback?expire=1785733437&ei=3cxvaqD8NdSv2roP9MXQsQg&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AILsAUyTCZwiWIPkQ_0j8Zt1gGYFMp7ftoZUKal63lrA&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=308&met=1785711837%2C&mh=4e&mm=31%2C29&mn=sn-i3belnsy%2Csn-i3b7kn6d&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=4485000&bui=AZFlqhPu8JCg8DTAAjjtOMHwB3qVdc4PIDtFv52PP2wDOdMpco89IUm02eM1u9WHFZcEY96_Zt5782o8&spc=KBGBcoP5t0OqX8TK6NCXUkBCi8sdCBNL7WbAEgZX5TYtsOe4ehRi&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=105538370&ratebypass=yes&dur=2030.074&lmt=1785531020643636&mt=1785711445&fvip=5&fexp=51565116&c=ANDROID_VR&txp=3319224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAK-w_kbobqLw-D3ZsgO-d0sR1oCJVDK_2XVAYpymIIlNAiEAqx3Iac8yRxNpNRPWKj5nUpqdeSU_N5AIZ5SFyIwzrLc%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAMVavlm9WjgPhKNx2VIQ8h4uSYyNW5cvsM9Xt85tVP0wAiAD83VFdnIdqALa7Uwe8OrIeJUlNXSYQHCabphqMGIi0g%3D%3D"
+    },
+    {
+      "videoId": "g8lO2mH3itU",
+      "title": "Jordan Peterson Reveals Crucial Differences Between Mothers & Fathers | Parenting",
+      "thumbnail": "https://img.youtube.com/vi/g8lO2mH3itU/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T23:03:58.224735Z",
+      "streamUrl": "https://rr2---sn-oji3bc-5n.googlevideo.com/videoplayback?expire=1785733443&ei=48xvau0brJi9wA_v3Z_4DQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AIpsqP9Rlhbm-cmeMxXmu7Lfa9V7uM58LwpHxzDqzLoY&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=195&met=1785711843%2C&mh=sh&mm=31%2C29&mn=sn-oji3bc-5n%2Csn-i3b7kns6&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=4485000&bui=AZFlqhNBcrnBsA38RwXVX2DNzxrN5ydK4mqOnHq3KZmvSv0mJvrjjMlFPVTNxKv_ud8m0hLUqc9Bf70q&spc=KBGBcjq3_1fpvAzA3tu0-4Sa7QVIC62tJIOcX2Wp4zPC0ImIHM1u&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=55380360&ratebypass=yes&dur=963.744&lmt=1748495060532203&mt=1785711445&fvip=5&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAKylpDbifgPpM1WaR1SfEY1p4iAv9JLTG1gR-4dMe53fAiEAwvUGG4xYVqMc9upmouMABzVcSlfLEyoc_aDuM-Z75Zc%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhALd5zM9uZswBBGegT7qvszKdu8NdeN5L9c8jXaj8rZRvAiEAnqomX6OSzyrC4IyssigZXheIF3_TJhDDTqdh-pbVch4%3D"
+    },
+    {
+      "videoId": "CyElHdaqkjo",
+      "title": "How to Raise Successful Kids -- Without Over-Parenting | Julie Lythcott-Haims | TED",
+      "thumbnail": "https://img.youtube.com/vi/CyElHdaqkjo/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T23:04:03.322604Z",
+      "streamUrl": "https://rr5---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785733448&ei=6MxvasWOEuKOpt8Pi--i2QM&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ANFXfP-lYsD8nIBgAXuQBMPuHWyIZd2WF2tsu7OnJ6zW&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=125&met=1785711848%2C&mh=Qx&mm=31%2C26&mn=sn-i3b7kn6d%2Csn-hoa7rn76&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=6146250&bui=AZFlqhNebrE80ivMy5zfbXvw4H_q4dGue5Y1M3D6EMOLpS2MNyspVwTYjk_5v3uiJCedcjyYoUiP7bzv&spc=KBGBckgvintM-n5D2J-PB89JPo3wSCAOgAjlQHbTvreHqh4UZZAk&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=856.235&lmt=1762384535691775&mt=1785711445&fvip=3&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAIM3ANbVToZH3BaJaGElDx7dzngYo_VrI18zmAFLJ5zFAiAR-c3UhxNQU4BAGZipg1e6S-a2evcUVVbFgNZEmbLRjA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAKY_IJRi5e6EOolQR_GgK66kp5CV8R6fDKUQxiPqoidEAiEA6D2j9o8ZpQfSHpQcORIuowPk59z-SjfDG_39hBxU2KM%3D"
+    },
+    {
+      "videoId": "-ON532TZxVU",
+      "title": "The Psychology Of Parenting | Dr. Dan Siegel",
+      "thumbnail": "https://img.youtube.com/vi/-ON532TZxVU/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T23:04:08.643500Z",
+      "streamUrl": "https://rr4---sn-oji3b5-5n.googlevideo.com/videoplayback?expire=1785733453&ei=7cxvavmFHpix2roP8JL4yA4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ABCzR9PnYAEriW9_fp0F-N_lUkAipUkPZ4gdB7ODrWg2&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=160&met=1785711853%2C&mh=iu&mm=31%2C26&mn=sn-oji3b5-5n%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=4485000&bui=AZFlqhOdpD7gjlBXQ4IX_jMpc9mfeWmhOmkdjQgsGgEBCKuGr0AtQqsdow-ZkwsweN3cotASiVp6VCpb&spc=KBGBckBkEHPWUdgmlIYiZ-2vKvd0ETOL0_MR_2Opb5yDugQOUsHf&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=198396565&ratebypass=yes&dur=5772.527&lmt=1782757244493936&mt=1785711445&fvip=3&fexp=51565116&c=ANDROID_VR&txp=3309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgHfkYjXFCJwhMGEbVIx-qibNnvqubn3SliFh9rWzZfY0CICBtZ0zeWZTrvu2g7Fb-WyblK9mfE2LKda3ZnZtT50MC&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgSKTr2CbCPtquqGdElVHpCpgK0q8W-vGywUrLUHEInZ8CIFcyXZ9Xn1vyKSq7R_bwuYOt_MaxnuuJ3hUkLQsGGexw"
+    },
+    {
+      "videoId": "wLsp_67xi4U",
+      "title": "4 Signs of Emotionally Immature Parents & How to Heal",
+      "thumbnail": "https://img.youtube.com/vi/wLsp_67xi4U/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T23:04:13.813804Z",
+      "streamUrl": "https://rr1---sn-i3belnsy.googlevideo.com/videoplayback?expire=1785733458&ei=8sxvaoeYKamLqL8P8JGe0AY&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AMxG_DLYiZ3XkfV-rXZCNE-e-XmM5bMl3VJTCrRRTmWi&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=163&met=1785711858%2C&mh=qu&mm=31%2C26&mn=sn-i3belnsy%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=6146250&bui=AZFlqhNmqVfYXvOAaguVWUtAhZY1qgIDovBPp0IToUeEK3o_WF_ez52XFSmuMYWuvIUXW0UPRgfOyAcF&spc=KBGBcpy51SAWH4wv2zqTL7YbDeWfrL7RM1lD8nvlsmIv4usIdC2z&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=186910195&ratebypass=yes&dur=4272.494&lmt=1777283915329827&mt=1785711445&fvip=2&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgcGKhujRg7PGyL4Lo7jYpQoHIa3ELgQUFzRrcDhf6XUMCIQCwzC8Omk88ta3boZn00najRYEJmtvFhG-eQleVBIszwA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgAkX_GUZ1Ch-luWLoS41tk4Wsqi4RLfKjdazevUPOpaUCIQC6UBKEpQ2RRI4pxuNwYmkuDcefZsUQnquhmtHS5bsb2Q%3D%3D"
+    },
+    {
+      "videoId": "UiSQmu8oQYU",
+      "title": "Parenting: 90s vs Today",
+      "thumbnail": "https://img.youtube.com/vi/UiSQmu8oQYU/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T23:04:19.009451Z",
+      "streamUrl": "https://rr3---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785733463&ei=98xvasOLM--fpt8Pgu_d4Qk&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ACpMURebqSSDhZzq1oOzGtRA2_IAJJTZ5AX5xcSMtc5U&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=134&met=1785711863%2C&mh=-B&mm=31%2C26&mn=sn-oji3b5-58%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=4485000&bui=AZFlqhN0Iez5MEtX4_5hhMYTEdL5RnrGSPQk0uPA8siPHbJz0k3G_V0xQeR1JGHlzKUyoODdN498JLLD&spc=KBGBclS80tUxT1UuNJyEULb3MQhSbDfQbXtFFq-crOB6ZcxoQ_B9&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=17512014&ratebypass=yes&dur=222.145&lmt=1753061841260403&mt=1785711445&fvip=1&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAJRxodNoP7nWZGthdyZyhJAVDnktURK7Wickvgxhq8QuAiEA5hZXFOM0jaQInWZfusJmOhtur34EkjNRU1xUSlbO1xY%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgLlnKZgCAsJy6gm3Ew-42ZrV2CVnhYptGGdIwy0U-wEACIGg3scMHDLryXZ67gIdw2Wa0pFigNeE3LFVFBvet3Zj8"
     },
     {
       "videoId": "Jyk0fwKF9Y0",
       "title": "#1 Parenting Psychologist: What Is Over-Parenting & Are You Doing It?",
       "thumbnail": "https://img.youtube.com/vi/Jyk0fwKF9Y0/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549721Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-02T23:04:24.179373Z",
+      "streamUrl": "https://rr1---sn-i3b7kns6.googlevideo.com/videoplayback?expire=1785733468&ei=_MxvaszZObH4pt8P5PiCyAo&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AKbhJM5Qs2sEFqxNZLQK--ngpXzmSJwhWGuhHgABTxsa&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=155&met=1785711868%2C&mh=Vs&mm=31%2C26&mn=sn-i3b7kns6%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=6146250&bui=AZFlqhOM4qqSPH9IogXMc5HCbTxCDeIvc82de300O_6hG-De9XREWHDSyqj3Ooiq1TKyPiTB7NTdezKn&spc=KBGBcn7Ugv3OzK9fKtaopoRcYPwJXS0kiJZ2IzMg8Q1Fo_U34ndx&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=4256.055&lmt=1768158869024794&mt=1785711445&fvip=2&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAKEYuqw3ZEaiCmAilEevZHITm2R7ZQtdkJI36UaS5dSUAiBJ0ZTkqdNDEJFi-LU1NbijyeQNPoO9KVTH2DA8RciHBQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgbJ2Q3bMFMJ74oSyvWUGVNkEhRCp22peV5f0VWQYVX5sCIQD-_HjoHdsKagS84ka5jz9fW8jYjMtGvliTkcKON9tY0w%3D%3D"
     },
     {
-      "videoId": "SgeJh_7_6EE",
-      "title": "Dr. Shefali Discusses New Parenting Methods | Oprah's Super Soul | OWN Podcasts",
-      "thumbnail": "https://img.youtube.com/vi/SgeJh_7_6EE/hqdefault.jpg",
+      "videoId": "g-VIRvqsA9w",
+      "title": "5 Parenting Tips for Raising Resilient, Self-Reliant Kids | Tameka Montgomery | TED",
+      "thumbnail": "https://img.youtube.com/vi/g-VIRvqsA9w/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549725Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-02T23:04:29.273744Z",
+      "streamUrl": "https://rr4---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785733474&ei=As1vatnMBt-B2roPv_LK2QQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AN5yZSaIKe8SPzjnBpqJFow7Frfmb6LdFdi4_vnD2eUq&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=36&met=1785711874%2C&mh=nM&mm=31%2C26&mn=sn-i3b7kn6k%2Csn-hoa7rn76&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=4485000&bui=AZFlqhNwzKwGxDY3bO77UCyxR-0nUyxkEe3PFV9xnJn3vRzQHqj2VmNlsWaJN-zQYqH45RD_lxIGGRh1&spc=KBGBcnubhcnp2_oKhx99F4czwxpqbVYzozPPej1TTsS21PUS0cja&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1052.258&lmt=1754187757681836&mt=1785711445&fvip=3&fexp=51565116&c=ANDROID_VR&txp=5438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhANDEAJbJw48fUjCCT6JEqSYbC7ifjFPTZ4U6Pm_uDWGUAiEApPxVcZbRqCRxS92kYlw7zWhOe0Mv6ll-YtKkcv9bm3Q%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgXv9c1ZP6NRXFMu-zmkPk8E--ZbRMEA-yT-5X8OVePGgCIH3653YNuVSA9FYHRMbajPjEFVTVNhPAM3csYr-WJWN8"
     },
     {
-      "videoId": "-sqUH-HyiBM",
-      "title": "4 Parenting Experts Share Their Top Parenting Advice (Compilation Episode)",
-      "thumbnail": "https://img.youtube.com/vi/-sqUH-HyiBM/hqdefault.jpg",
+      "videoId": "cialLfVZqm4",
+      "title": "Child Attachment Expert: We're Stressing Newborns & It's Causing ADHD! Hidden Dangers Of Daycare!",
+      "thumbnail": "https://img.youtube.com/vi/cialLfVZqm4/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549729Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "FtDTkl93Km0",
-      "title": "5 Parenting Rules That Changed Everything (No More Yelling)",
-      "thumbnail": "https://img.youtube.com/vi/FtDTkl93Km0/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549733Z",
+      "fetched_at": "2026-08-02T23:04:34.414236Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -192,23 +96,47 @@
       "title": "Keys to Successful Parenting – Dr. Charles Stanley",
       "thumbnail": "https://img.youtube.com/vi/DaT6NmZdDSw/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549737Z",
+      "fetched_at": "2026-08-02T23:04:34.414250Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "g-VIRvqsA9w",
-      "title": "5 Parenting Tips for Raising Resilient, Self-Reliant Kids | Tameka Montgomery | TED",
-      "thumbnail": "https://img.youtube.com/vi/g-VIRvqsA9w/hqdefault.jpg",
+      "videoId": "6fZXxu8AcTA",
+      "title": "A Test to Judge How Good Your Parents Were",
+      "thumbnail": "https://img.youtube.com/vi/6fZXxu8AcTA/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549740Z",
+      "fetched_at": "2026-08-02T23:04:34.414254Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "fyO8pvpnTdE",
-      "title": "5 Parenting Styles and Their Effects on Life",
-      "thumbnail": "https://img.youtube.com/vi/fyO8pvpnTdE/hqdefault.jpg",
+      "videoId": "5g8tHEXtCXE",
+      "title": "Why Most Parenting Advice is Wrong | Yuko Munakata | TEDxCU",
+      "thumbnail": "https://img.youtube.com/vi/5g8tHEXtCXE/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549745Z",
+      "fetched_at": "2026-08-02T23:04:34.414258Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "SgeJh_7_6EE",
+      "title": "Dr. Shefali Discusses New Parenting Methods | Oprah's Super Soul | OWN Podcasts",
+      "thumbnail": "https://img.youtube.com/vi/SgeJh_7_6EE/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T23:04:34.414262Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "N22Otjvs6v0",
+      "title": "13 Things Every Parent Should Know Before Their Child Turns 3",
+      "thumbnail": "https://img.youtube.com/vi/N22Otjvs6v0/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T23:04:34.414266Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "XVgpxAiFla4",
+      "title": "The Dangerous Rise Of Gentle Parenting",
+      "thumbnail": "https://img.youtube.com/vi/XVgpxAiFla4/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T23:04:34.414270Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -216,15 +144,23 @@
       "title": "The Single Most Important Parenting Strategy | Becky Kennedy | TED",
       "thumbnail": "https://img.youtube.com/vi/PHpPtdk9rco/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549749Z",
+      "fetched_at": "2026-08-02T23:04:34.414274Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "wLsp_67xi4U",
-      "title": "4 Signs of Emotionally Immature Parents & How to Heal",
-      "thumbnail": "https://img.youtube.com/vi/wLsp_67xi4U/hqdefault.jpg",
+      "videoId": "fyO8pvpnTdE",
+      "title": "5 Parenting Styles and Their Effects on Life",
+      "thumbnail": "https://img.youtube.com/vi/fyO8pvpnTdE/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549752Z",
+      "fetched_at": "2026-08-02T23:04:34.414279Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "avx4Ww9h3Tc",
+      "title": "The Brain Expert: How To Raise Mentally Resilient Children (According To Science) | Dr. Daniel Amen",
+      "thumbnail": "https://img.youtube.com/vi/avx4Ww9h3Tc/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T23:04:34.414282Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -232,15 +168,79 @@
       "title": "Why more parents are ditching the gentle approach",
       "thumbnail": "https://img.youtube.com/vi/clySuutp91w/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549756Z",
+      "fetched_at": "2026-08-02T23:04:34.414286Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "22T-6duM9nI",
-      "title": "8 Rules of Positive Parenting | Riri trivedi",
-      "thumbnail": "https://img.youtube.com/vi/22T-6duM9nI/hqdefault.jpg",
+      "videoId": "41UFvjPoMxA",
+      "title": "Parenting Expert: The Real Reason Kids Struggle (Say This To Help Them) | Dr. Shefali",
+      "thumbnail": "https://img.youtube.com/vi/41UFvjPoMxA/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T20:21:08.549760Z",
+      "fetched_at": "2026-08-02T23:04:34.414289Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "FtDTkl93Km0",
+      "title": "5 Parenting Rules That Changed Everything (No More Yelling)",
+      "thumbnail": "https://img.youtube.com/vi/FtDTkl93Km0/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T23:04:34.414294Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "bOi_Y4ythYY",
+      "title": "The No.1 Brain Doctor: This Parenting Mistake Ruins Your Kids Brain & Alcohol Will Ruin Yours!",
+      "thumbnail": "https://img.youtube.com/vi/bOi_Y4ythYY/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T23:04:34.414297Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "o9xFySZ1tx8",
+      "title": "Dr. Becky Kennedy: The #1 Mistake Parents Make That Kills Confidence in Their Kids!",
+      "thumbnail": "https://img.youtube.com/vi/o9xFySZ1tx8/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T23:04:34.414301Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "qBljAEjy8sQ",
+      "title": "4 Parenting Styles and Their Effects On You",
+      "thumbnail": "https://img.youtube.com/vi/qBljAEjy8sQ/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T23:04:34.414305Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "lRXkSn4pUyU",
+      "title": "How to Raise Kids Who Can Handle Hard Things | Kathryn Hecht | TED",
+      "thumbnail": "https://img.youtube.com/vi/lRXkSn4pUyU/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T23:04:34.414309Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "mautspsaWSQ",
+      "title": "The Art of Parenting - A Guide to Raising Happy, Confident Children | AudioBook",
+      "thumbnail": "https://img.youtube.com/vi/mautspsaWSQ/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T23:04:34.414313Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "-sqUH-HyiBM",
+      "title": "4 Parenting Experts Share Their Top Parenting Advice (Compilation Episode)",
+      "thumbnail": "https://img.youtube.com/vi/-sqUH-HyiBM/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T23:04:34.414316Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "0PtRjpWuQp4",
+      "title": "TikTok Parenting Advice is INSANE",
+      "thumbnail": "https://img.youtube.com/vi/0PtRjpWuQp4/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-02T23:04:34.414320Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     }
   ]
