@@ -1,0 +1,22 @@
+[
+  {"zh": "音乐", "en": "music"},
+  {"zh": "直播", "en": "live"},
+  {"zh": "新闻", "en": "news"},
+  {"zh": "电影", "en": "movies"},
+  {"zh": "游戏", "en": "gaming"},
+  {"zh": "体育", "en": "sports"},
+  {"zh": "科技", "en": "technology"},
+  {"zh": "教育", "en": "education"},
+  {"zh": "宠物", "en": "pets"},
+  {"zh": "旅游", "en": "travel"},
+  {"zh": "美食", "en": "food"},
+  {"zh": "时尚", "en": "fashion"},
+  {"zh": "健身", "en": "fitness"},
+  {"zh": "汽车", "en": "cars"},
+  {"zh": "科学", "en": "science"},
+  {"zh": "历史", "en": "history"},
+  {"zh": "喜剧", "en": "comedy"},
+  {"zh": "自然", "en": "nature"},
+  {"zh": "烹饪", "en": "cooking"},
+  {"zh": "手工艺品", "en": "handicraft"}
+]
