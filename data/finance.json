@@ -1,166 +1,182 @@
 {
   "category": "财经",
   "keyword": "finance",
-  "updated": "2026-08-03T04:38:13.651829Z",
+  "updated": "2026-08-03T11:56:42.825066Z",
   "videos": [
     {
-      "videoId": "uysZfSEmeRE",
-      "title": "5 Money Rules That Will Change Your Life & Create Financial Freedom",
-      "thumbnail": "https://img.youtube.com/vi/uysZfSEmeRE/hqdefault.jpg",
+      "videoId": "vTs2IQ8OefQ",
+      "title": "1. Why Finance?",
+      "thumbnail": "https://img.youtube.com/vi/vTs2IQ8OefQ/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-03T04:37:22.432435Z",
-      "streamUrl": "https://rr3---sn-i3belnls.googlevideo.com/videoplayback?expire=1785753447&ei=BxtwapXGFseU1d8PqLTgoAs&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AB1AIdlzJ1slKkRCP1_DSmJ_x_2u44F5amp0m2Cgj0za&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=423&met=1785731847%2C&mh=9Z&mm=31%2C26&mn=sn-i3belnls%2Csn-ojhoai-5a&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=5916250&bui=AZFlqhMaTcXo-OQ1lp9Mx4thn7WcSMuPfiZBgUWEvUrYRSPJbbSGjvGpMPKZSKGfehbuPHVwpgOvQErX&spc=KBGBcuWWyZNlXdp0AbP1ulhCWgoUa2DPRbCvE_K-JImr7P9t92lL&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=189092234&ratebypass=yes&dur=4191.457&lmt=1778326580141154&mt=1785731339&fvip=3&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgHRhiYWRN0jrLyW1rDlwlKV0wa7Su3ZwtoSWoDrdYqFUCIQD3lA501RBtMoaDFTdeI8f1jOw0hXaRV-DKUwLyP__RIw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAIowGmhWACFCk7s5zDttYdWtvr8_Zo0GRDIwCkFD4W6nAiAi4LX3RPMmA-gGawBbo4e1ZHVsY9yGh6Za1fXdddMljg%3D%3D"
-    },
-    {
-      "videoId": "AkMTxMN7res",
-      "title": "Complete Finance MasterClass 2025 | For people in 20's & 30's",
-      "thumbnail": "https://img.youtube.com/vi/AkMTxMN7res/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-03T04:37:27.719761Z",
-      "streamUrl": "https://rr1---sn-oji3b5-5n.googlevideo.com/videoplayback?expire=1785753452&ei=DBtwapzeHeW-vcAPv6iHuAk&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ALUluM9R36pSGw5D3sFCWF8JMPgm_b3ZRuUL-u5tvGjj&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=291&met=1785731852%2C&mh=Hm&mm=31%2C29&mn=sn-oji3b5-5n%2Csn-oji3bc-5j&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=4696250&bui=AZFlqhNfHFzMXHaQVSTD4MCTF6uyzJMSqTd2mTluF--fxwWGY9e5SPU74FN8EyJcj46yXOx9ZQnnT0rG&spc=KBGBcugR7ciZa_Eq9rr_cjjbp_j2lPw0dyRSP9c-iOroBrhEGvcV&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=454826748&ratebypass=yes&dur=10664.646&lmt=1768745793457469&mt=1785731339&fvip=4&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgFUCEhOEE8g803fU_tN_AIQPWl05qHM42IgkVTMkwQ0UCIQDZyQEADQdTCi0lXpdWjJevOVPi57hElF253HvAmA6xog%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAMNJoIFKaI64S7-Lf1xj6DAhOQVpGWllFdl6rEMjImw5AiEAzbAvI3N2THTn9BbhwQBa0MWu1xuLHMYpIj0mmj0PDOE%3D"
-    },
-    {
-      "videoId": "3u-mP3C26mg",
-      "title": "The Biggest Myths in Personal Finance",
-      "thumbnail": "https://img.youtube.com/vi/3u-mP3C26mg/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-03T04:37:32.827214Z",
-      "streamUrl": "https://rr1---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785753457&ei=ERtwatmxG8vN2roPuIrmMQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AI62Bn4s0z4BMWSPOhJQx0ghqFqrZFaRvNN1E4NYioQo&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=731&met=1785731857%2C&mh=S0&mm=18%2C29&mn=sn-oji3b5-58%2Csn-i3belnls&ms=aub%2Crdu&mv=m&mvi=1&pl=48&rms=aub%2Caub&initcwndbps=5916250&bui=AZFlqhPnJJrgY7bpPWt4F41ievUErZw1M5gnx6pmnBdV8EG3igqD_Tqyl6JjFWr1T4wO1ebeYLu4X6cd&spc=KBGBcv81m2_8vdD7NEm0YEGOniqVuHoJeBJC_zHhiHEtk8SoPXyc&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=57758522&ratebypass=yes&dur=1248.188&lmt=1785102611148230&mt=1785731316&fvip=4&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAPshIlZ__VlscJ-VOepKPCO_q0dDGCvh3F3BxIpZrXPuAiEA7iFI7_Cj0sgN2XJNkF-PdsxyTftaPRLPjf_Sx2g5zuw%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgaqJh1aEO9iwGpT0iDYTt4KVZ23ClXkKScfzK-QZ48zcCIBLtY9zBfq1NBxfB2DFNqpPYrVOyjVBGpZ-M7NStMEhG"
-    },
-    {
-      "videoId": "vJabNEwZIuc",
-      "title": "Master Financial Literacy in 54 Minutes: Everything They Never Taught You About Money!",
-      "thumbnail": "https://img.youtube.com/vi/vJabNEwZIuc/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-03T04:37:37.797036Z",
-      "streamUrl": "https://rr2---sn-i3b7knsd.googlevideo.com/videoplayback?expire=1785753462&ei=FhtwaoX-Hv-Zpt8P6aPXyQk&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ABBi_UvZ-qFzCQVfB0v_RYWfNq3UWVGqc13XgoVhRxOQ&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=211&met=1785731862%2C&mh=Wy&mm=31%2C26&mn=sn-i3b7knsd%2Csn-hoa7rn76&ms=au%2Conr&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=5916250&bui=AZFlqhP6QciTgjB4hRpKI7Bq6HsAJ7CW3E0xIbhNoTLhfDpaYz7HpogF_-lbQ10QiFvvORt_kmv2FcNM&spc=KBGBcrke8NlSNE0yQ7E3Asbs5jdv3g_nNgg2bcVWrF5ixbyHrlcf&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=125045698&ratebypass=yes&dur=3278.332&lmt=1746828328614443&mt=1785731339&fvip=5&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAOTiluITbAsTBZR3EAXtcTgLamQDEiLv-MuWk_IiugWbAiEA2FF7dqJNlZGF4J6pcJs0SGxb2tkRNhf3Kjonpq6NUTc%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgKQCmRNRBx8NhuLYX_oioLx4EQSBMyK2HjxBCNLurnr8CIGXoZJ2MiG1Yrr_CPy_q-T5PwQ3NIih5T6z5Rb9savPC"
-    },
-    {
-      "videoId": "ouvbeb2wSGA",
-      "title": "Financial Literacy In 63 Minutes",
-      "thumbnail": "https://img.youtube.com/vi/ouvbeb2wSGA/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-03T04:37:42.851485Z",
-      "streamUrl": "https://rr5---sn-i3belnl6.googlevideo.com/videoplayback?expire=1785753467&ei=Gxtwap60JaeA2roPgMeCoQU&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AEtkt9uVLzvh0nW901eigD3bxLXgtblh9xe0zGIKynkm&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=292&met=1785731867%2C&mh=w0&mm=31%2C29&mn=sn-i3belnl6%2Csn-i3b7kns6&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=4696250&bui=AZFlqhNvlkDVqOMrwucECjHZfFKQJxTcEM6xFUwU54ZAUPHQSFWS8WmaiOY_3PetfOpIiZxC44Fs9-lK&spc=KBGBcqhugTEdE3WbOtHO_HSrxpocowQemSCDr62cR7iopz4zSUhq&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=181808594&ratebypass=yes&dur=3736.671&lmt=1746757361728905&mt=1785731339&fvip=1&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAOxuqf9SLVYjMIaonUSfDrzl1A3NQc5QoV9qzo8FsVrAAiAcMwDbJyaLbHu8WgOGd3frw2ryEWQOFKXea1z2uwwijw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhALwScgM4ovwZXVhTCYr7Ic5CHOWqxxfa_MV96X43YIFoAiEAy80_HVtRSDlSqD6OT-36G0HCy0CdJhu7rW89Lg2CnsA%3D"
+      "fetched_at": "2026-08-03T11:45:53.912442Z",
+      "streamUrl": "https://rr4---sn-i3belnsy.googlevideo.com/videoplayback?expire=1785779157&ei=dX9wavu7NuyA2roPg93DsAU&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AM7AmgRnY9juk5ci3Nuc87Ns_dhFP5YuUzz_qKauNnhP&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=283&met=1785757557%2C&mh=95&mm=31%2C26&mn=sn-i3belnsy%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=4336250&bui=AZFlqhPXluWl2T8OjQNYiAx7Sw98wW-D0LKoGtAs6J4GSRwqySVqxTMgRXSjhkY5lMeZj9e4Xbel9j1T&spc=KBGBcmJky8MHnyAvsH5BtrZfvFaR3QtvJpY2pUyobtHb_W07BAk2&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=4456.327&lmt=1777331274669721&mt=1785757050&fvip=2&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgF-mniKB0jZYA8UEwDqYuWT9p2CeCPELd6DqCBpw3WeQCIFveVqpI_KxkaCar2chSxFH256O3Ghr_5hSKRxSLLy9r&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgaZd9-SqZON1Q984Ufe9r4otiFtq4ksxBdv5IWzqqtM8CIF4FruhL2_WTN3lG5n8m1mGOhHEtKXh3isqZt07D3tph"
     },
     {
       "videoId": "CMKld7N0aic",
       "title": "How Does the Global Economy work? | Planet Finance Compilation | FD Finance",
       "thumbnail": "https://img.youtube.com/vi/CMKld7N0aic/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-03T04:37:47.958635Z",
-      "streamUrl": "https://rr1---sn-i3b7knsl.googlevideo.com/videoplayback?expire=1785753472&ei=IBtwaoKjMvLu2roPlt_H4Ak&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AHlg-4SUb6Dxqk_LY-tZxSLy4oTJ3rG6c1qs4wDNkEMF&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=166&met=1785731872%2C&mh=7B&mm=31%2C26&mn=sn-i3b7knsl%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=1&pl=48&rms=au%2Cau&gcr=hk&initcwndbps=5916250&bui=AZFlqhMx5iVW5JY6bXdyOYnlsBoKCC-T5QR9mAh8chprrjxEPTqvHPXI_G-s4DdFJcZogIsITS1GL7Rc&spc=KBGBcgaZ4fq7Dv60qgT1UBIgGNjTMqUS10xLioQtD50U-MHoPXnW&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=18015.016&lmt=1771657039873495&mt=1785731339&fvip=3&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgdEGRdwC6KCZCQnFNqYcgLz9zkAc91aOk-QguCSe0OMoCIQCKPmvfZxUUp-Iwt5NBlhaCIs4mMlZFcgjJFYmKB89E1w%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgVu_7a7z4xACI1FWlflkZDpBn0wB4PHzewOvlnLTA-f8CIQDLHdAUAYDiZzO8HrMtMgDbFS_CUaUXBizVQ7iPT-M-vQ%3D%3D"
+      "fetched_at": "2026-08-03T11:45:58.164841Z",
+      "streamUrl": "https://rr3---sn-oji3bc-5n.googlevideo.com/videoplayback?expire=1785779162&ei=en9warvqDtqTvcAP6e3juQg&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ALzHfUEB89pVXPHq0iwL0ZqPX5DCuv6BalR8Z6__GI4Q&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=211&met=1785757562%2C&mh=7B&mm=31%2C29&mn=sn-oji3bc-5n%2Csn-i3b7knsl&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&gcr=hk&initcwndbps=4123750&bui=AZFlqhPADZiLWvjeHqLXyZ6xQ2ZHP49PrhUGmzNYX2JhID7gzi9cy1AfG4-6RIRcULMET67TTIq6jhhk&spc=KBGBciNwcfd47g5lK7a5d-ABR9LGDsLt6YXM0ZKfxDQFgz3ZOHyd&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=18015.016&lmt=1771657039873495&mt=1785757050&fvip=1&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhANLxrfuyC3t0XAyjCno47MnxGc_Ufuk1-sy3u35NtatHAiAVcX8YUSK7EbprVbuQBrel6z6Tcx5YboO6va87g_Mtyg%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgOmsHshjAZeXAvKrSZric0Cg-aeogcTUbVJk06wTNzbQCIDOGZyND3bikeqawP_WZ8eSPB0DkhrdZaz25CgiwUXzl"
     },
     {
-      "videoId": "gH0iNMgFC7Q",
-      "title": "You Can Change Your Finances in 3 Months (Here’s How)",
-      "thumbnail": "https://img.youtube.com/vi/gH0iNMgFC7Q/hqdefault.jpg",
+      "videoId": "jLFG_FZKbks",
+      "title": "Stock Expert: Becoming Rich Is Simple, But You Won’t Do It!",
+      "thumbnail": "https://img.youtube.com/vi/jLFG_FZKbks/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-03T04:37:53.173598Z",
-      "streamUrl": "https://rr3---sn-oji3b5-5n.googlevideo.com/videoplayback?expire=1785753478&ei=JhtwauPuAu-X1d8PiKub2Q4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AB9yGrRMCBOVLe03-Qbz0j7bVIqbc-UYUOVWP49D7D-D&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=256&met=1785731878%2C&mh=Xq&mm=31%2C26&mn=sn-oji3b5-5n%2Csn-ojhoai-5a&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=5916250&bui=AZFlqhPSmFkWtZ0eDwEiCopy8XbbZNnLpCDrwBoBKk0kFjQJuOJpzkLxLSlnr1X9IU7EKtzEVyDkJP4B&spc=KBGBcgXMbwA56pqawVKX1HjomA0XJVPzTQeTtUYTHYATPsyLFlzf&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1262.608&lmt=1763627019312923&mt=1785731339&fvip=2&fexp=51565115&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgE1aui6gPfZs6RpESzB9priR3xRaMzMB8qnWM_z8W7FMCIAY3CjadVGNnPkgHQiYCSBpA_2ohBmIHm-bJ6Kc_HAY0&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgZHRMBTKoHp-dKU_aTXEWc7M5ciLY0VV9rEH58lwdqw4CIEBIiitZ_mpDdALzXS1-Jphsl5NpShVa7Ntw0CbeYJOa"
+      "fetched_at": "2026-08-03T11:46:02.545048Z",
+      "streamUrl": "https://rr4---sn-oji3b5-5n.googlevideo.com/videoplayback?expire=1785779166&ei=fn9waomAOdKW1d8P9ur28AI&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-APeWULn9SmPaBpVkbtEVQONPNUN4ok9nJRDP0CmJuya8&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=487&met=1785757566%2C&mh=O7&mm=31%2C26&mn=sn-oji3b5-5n%2Csn-hoa7rn76&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=4636250&bui=AZFlqhNHGhyrm2hgikCEiXKH9ur7OKu19YQZriEr0W_BOY2L7HEidN4qv5yLSfNvjPQ7j8Bi7ga6Hk9G&spc=KBGBchVM60I0lfT5bBw3O40KBhKlyb7MgOGl1wMq8MrvHkT_-Y6R&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=270778993&ratebypass=yes&dur=6048.937&lmt=1780848452443118&mt=1785757302&fvip=3&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhALixcn-Zx05DopH3NpkrwGZlbBuxBBHRV37xx9tgp1ZYAiAJ08CuZ2sAnCtguwcLr-Y_tJZrH_3r3R6WDAnp2lIdag%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgSK_SsC3Un-pIa_VJxAn8D43q1SXrsBAj6QRaVJSR9qwCIQD9erTMWz2vWMdX7nmq1I2MmLq3V4fmobjBMe72gN3_ww%3D%3D"
     },
     {
-      "videoId": "2J2Fb1bBufA",
-      "title": "The AI Bubble… We Need to Talk",
-      "thumbnail": "https://img.youtube.com/vi/2J2Fb1bBufA/hqdefault.jpg",
+      "videoId": "vLMyn0Za-2U",
+      "title": "Oil prices fall sharply, Yen strengthens on US intervention | Finance Report | ABC NEWS",
+      "thumbnail": "https://img.youtube.com/vi/vLMyn0Za-2U/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-03T04:37:58.390242Z",
-      "streamUrl": "https://rr4---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785753483&ei=Kxtwara6D4SU1d8P6ufc0Qg&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AMxG-pAnK6FLyjCyboWfK4aMP97g4bqHynpPG8BWQAI_&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=275&met=1785731883%2C&mh=D9&mm=31%2C26&mn=sn-i3b7kn6d%2Csn-hoa7rn76&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=4696250&bui=AZFlqhOgA0SJ3pwUB85GpNNl6rS6IUQdBTJEnFafSsRk94j-Ad3_xq5zyU8CoeK6U-Kw2i6w0p_Zz9hW&spc=KBGBcixTDCpglTWnwsAQ536maUbsXNCSKM8jQkiUYZt51UUJhZbE&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=28502973&ratebypass=yes&dur=1082.816&lmt=1783493796653486&mt=1785731339&fvip=1&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgOYl4a_IxawlAxDVsE-ui600DXPoY6xBDpIIjTcCiTpsCIH2A8kq_7IpsKwAUeoWsV50-ThzH3b1bzRKDxUT8R5PG&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAP79QcIZblgFqIXrktb7oo-LZZhR0smEwJ1orqcKNz0_AiBkgjeiAQUGoSJ3E1FoqQ1A7JVs8FEnda3wpUdQEVSJ7Q%3D%3D"
+      "fetched_at": "2026-08-03T11:46:07.225597Z",
+      "streamUrl": "https://rr5---sn-i3b7kns6.googlevideo.com/videoplayback?expire=1785779171&ei=g39wau6gFLCW1d8PjtHJ0A4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AKmEdsmEnBKL9iG_4v4iS8Df8kFSA3qE5aqPKr81ONRc&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=394&met=1785757571%2C&mh=lk&mm=31%2C26&mn=sn-i3b7kns6%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=4123750&bui=AZFlqhN2QVvNdeMbUn9CiOSVU005eF_gtDFZza5-jnivQhEpFW4SfdCVghd8oGDiLCYAeCimFud0ROqZ&spc=KBGBctELKtMl1WOlHmH4aZILS0f6mANpkncF1tBtoX4RAkUHL2MU&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=2934281&ratebypass=yes&dur=122.508&lmt=1785748773736653&mt=1785757050&fvip=3&fexp=51565116&c=ANDROID_VR&txp=6309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgXEfmpYS-YLgXOr4U2KuVkuQGRP5l2tXDyKiw0OsGAL8CIHxuFcX0FzAR9-Af34RPUnyHdgSThbODAHe8nJTwsxhc&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAN4TSATN8EujG_PW1O0OisqunWZy5WqYRPYGKXjOITyWAiEA2w3mn0rVdUUWSxI5SIK49AZr-VH3PaHTEi0w7PSvPr4%3D"
     },
     {
-      "videoId": "rdC_Nx_iysY",
-      "title": "Claude AI Agents for Finance: 3 INSANE Use Cases",
-      "thumbnail": "https://img.youtube.com/vi/rdC_Nx_iysY/hqdefault.jpg",
+      "videoId": "jPPzvuDIr1w",
+      "title": "The Psychology of Money in 33 minutes | Animated Book Summary",
+      "thumbnail": "https://img.youtube.com/vi/jPPzvuDIr1w/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-03T04:38:03.603315Z",
-      "streamUrl": "https://rr5---sn-oji3b5-5n.googlevideo.com/videoplayback?expire=1785753488&ei=MBtwaumQEvGqpt8P3_6QoQ8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AMPZHesaZNYWIMXdeWHZdAaGxsM2_kjmNOs9f4XLFSCK&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=210&met=1785731888%2C&mh=Iw&mm=31%2C26&mn=sn-oji3b5-5n%2Csn-hoa7rn76&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=5916250&bui=AZFlqhPPXGw4hHK8VHg8lFU6X28BoQhWgb7-jVrA2-wee3RKMfgGiaTIq_ESlHkp7q0OocowBLHu1NsT&spc=KBGBcis1kne0yzX1foiaXDi_Vq8JMSkKMlQzmJPpvLCdNAlX_ZXG&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=35677379&ratebypass=yes&dur=973.008&lmt=1785518007582853&mt=1785731339&fvip=5&fexp=51565115&c=ANDROID_VR&txp=5438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgSGw-KSjBO1x0G0qGADp9T-sttm7MlyDol1vRVL9BuIwCIEVmhf0uo9pYZBkm_j_ZRV8WFdETTWH5HzTSY2QLG5Gg&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgHTtF9sWmIsyS1pBzWgEqGaq5wb6SwbHHZUl5zYOirKwCIQC4xpM595UP3wlFHJsVWTzXJ0nmLSuL9hXXSrp-DC5n0Q%3D%3D"
+      "fetched_at": "2026-08-03T11:46:11.619915Z",
+      "streamUrl": "https://rr4---sn-oji3bc-5j.googlevideo.com/videoplayback?expire=1785779175&ei=h39waqPHM5mt4-EPxfTniQM&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AGzk_Wy2sr96qAY-oevBgQ97Y_nMQ94ggWgREDKKTEWQ&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=366&met=1785757575%2C&mh=Z0&mm=31%2C29&mn=sn-oji3bc-5j%2Csn-oji3b5-58&ms=au%2Crdu&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=4336250&bui=AZFlqhOu7WEmo53eBKiVwmsx9gA4-tYDx9c_BGx-Ckjh0KGgZy3b5iqPZ0iUh8Qqw_GaN1XaydUuFJ47&spc=KBGBcpCZZR6yVG7Ry25eIQ1Dp49qppc_ac186s2-Ed20V2gRlLAW&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=85295186&ratebypass=yes&dur=1994.779&lmt=1753079452219665&mt=1785757050&fvip=2&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgfb7MGZDib0unt1SK216JuIsDTxxobgJRFRVaBaaxxtoCIQD1z8DhxXnZ3ehFOvC0DTBM9J74lHAfuvu7-wB-XrlhOw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgLHUVVzAusDctO_SYtQ1fOWhhi-EPJtoSddFTl5D88qMCIQCuotlV2SVupcgNHSViKxWkg1mkblNVYlS8VURUQAVHAQ%3D%3D"
     },
     {
-      "videoId": "MKLd1iw1lFw",
-      "title": "Introduction to Financial Management【Dr. Deric】",
-      "thumbnail": "https://img.youtube.com/vi/MKLd1iw1lFw/hqdefault.jpg",
+      "videoId": "ci39OSFps4A",
+      "title": "Full Finance Course - 11 Hour Video",
+      "thumbnail": "https://img.youtube.com/vi/ci39OSFps4A/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-03T04:38:08.644032Z",
-      "streamUrl": "https://rr1---sn-i3belnl7.googlevideo.com/videoplayback?expire=1785753493&ei=NRtwauLpEdqU1d8Pt4TdwQI&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AA3fXybAkKNOEkmbXEd-36s27O3V5aRGwIM4vc3zuIfK&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=322&met=1785731893%2C&mh=BB&mm=31%2C29&mn=sn-i3belnl7%2Csn-i3b7knsd&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=5916250&bui=AZFlqhMs7cXzb08h2UA3_dJROBEQeP_F_tqIUMNyPKNhENfaVYG5_VvwTQHXD8TOE418g6Z-igm_4b_c&spc=KBGBci0FXf90ALQ4Kev-s-lQnt321BjbdG4qQ1QWHHbehahXIsdW&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=723.789&lmt=1748736553043696&mt=1785731339&fvip=3&fexp=51565115&c=ANDROID_VR&txp=5308224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgPTsbGB8RvMPiRzvVUkmvtXqrAURpQLkd_QqrW6Kk1xgCIHx21bOONR-ngJ7ZG90G5qc2QOVctX_rTU2WD4dCdZ7j&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAKmMWxwBaEbQoW0d_LJSoiE6Hn5mYCg7-zMpQcU7U3_3AiEA477J1LkrUYaiP9NoSKsnq7QsDUiHvyHCPz-APZYvxt8%3D"
+      "fetched_at": "2026-08-03T11:46:16.157347Z",
+      "streamUrl": "https://rr5---sn-oji3bc-5j.googlevideo.com/videoplayback?expire=1785779180&ei=jH9waq-ND6GKpt8Pm4jXiA0&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ABc_5jqTJRlIV4lXQW79pYEpeoJUl4ubmcDQrr9OCIwR&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=135&met=1785757580%2C&mh=9s&mm=31%2C29&mn=sn-oji3bc-5j%2Csn-i3b7knse&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=4336250&bui=AZFlqhMCEirKYArvfMfhKhcTDo9SdazL_iBIafmojgQDja01XMv5RjeALuImEWGPgMdLQIbc4NZf4pPB&spc=KBGBcjyQB3uER1TXIpa3E6BwlRaE580JsNz8pT6u-WGBMsNbWuxe&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=39606.996&lmt=1775241656773668&mt=1785757050&fvip=1&fexp=51565116&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAO7nVzER_3dwsKQ3kLil8CnwTLrbVVCZsfUeBFzS1saaAiEAkoe4-Lt2T-eg0v0r8hTELv1wkwAHbWHQanlL1UqKNiA%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgTL5r5q63f9YJkKiAFvz7LlLTMQqeU9_sPQqCZ-mhY3YCIHvcQI8rTUTWNw7Rl1Uc-WgVkOY5mxyOPE7pg3EfQro4"
     },
     {
-      "videoId": "jKIApkwiaUk",
-      "title": "Raga Finance：早晨時段即市財經節目 20260803 - RF早市全餐 - 主持 : 沈振盈 (沈大師)，冼潤棠(棠哥)，文錦輝 (艾德金融投資策略總監)",
-      "thumbnail": "https://img.youtube.com/vi/jKIApkwiaUk/hqdefault.jpg",
+      "videoId": "qmZmKZR8S5U",
+      "title": "How Long Can The Stock Market Ignore Reality?",
+      "thumbnail": "https://img.youtube.com/vi/qmZmKZR8S5U/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651714Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T11:46:20.550261Z",
+      "streamUrl": "https://rr3---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785779184&ei=kH9wauPYJd2W1d8Pir-7wAQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ALNsjAQFrOfwFfbdWIgmrOL9X9usB1DMG7l1VD3VEwhs&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=460&met=1785757584%2C&mh=wX&mm=31%2C26&mn=sn-i3b7kn6k%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=4123750&bui=AZFlqhP5biKVchvnc8KfCm_eJkIjL4XdrBNyO2QSrLe-QJ-k2HiUo64qPF17BBCWYn4QGNVjHVmkDRXZ&spc=KBGBcjdpnFCcJycSjdIxEqUrmMdONeOUWgJCsqSV2YM2FR2Iw860&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=66494839&ratebypass=yes&dur=1026.948&lmt=1785412898288791&mt=1785757050&fvip=2&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAMjwbnnNqqCHbxl6viUcEZnt9_AF0Ef-glEnIJ7bCKDNAiARF2_00WRhc53gt1V4ZhxA-i7i6_Cney7cbiSFgkYZow%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgQ_WTKeUzTrakD3feHlRwLzH8Udi8_ZgjcZflMcsxkoUCIFKPYgml0_L9L8c_MiPqvY0ly9fW3YfznX4hH_nxT7rr"
     },
     {
-      "videoId": "Ai4iNmW2A1c",
-      "title": "The Best Financial Advice You’ll Ever Hear",
-      "thumbnail": "https://img.youtube.com/vi/Ai4iNmW2A1c/hqdefault.jpg",
+      "videoId": "vJabNEwZIuc",
+      "title": "Master Financial Literacy in 54 Minutes: Everything They Never Taught You About Money!",
+      "thumbnail": "https://img.youtube.com/vi/vJabNEwZIuc/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651755Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T11:46:24.926859Z",
+      "streamUrl": "https://rr2---sn-i3b7knsd.googlevideo.com/videoplayback?expire=1785779189&ei=lX9warqwC-6_pskP0uOLOA&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AOT4qYuEMA4F83yJMe29tqf42cpvblxEFHrW_CKHgP2-&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=292&met=1785757589%2C&mh=Wy&mm=31%2C26&mn=sn-i3b7knsd%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=4636250&bui=AZFlqhPAHj7wAqWfsJ0PpHxERSZFgDeCDnSSa04vxXyJrPChSR5YtIQrE0Pco8tNNrUkBJ_BQ2xIaBge&spc=KBGBcqp67PCmNNnMAZaYISaDc60V-Z1-WAsJZND0ZvRVrcyzvYS8&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=125045698&ratebypass=yes&dur=3278.332&lmt=1746828328614443&mt=1785757302&fvip=1&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAPcfeU0APR8-U3iv1wDWk1O2PBcz4pQYqN_C0wjxcx-CAiBsAvI08o7pcofCv5McD6rJbyb0uqGdEd6sLHSJ0732oQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgMeniVFkHlMRhgGeuhTiMssZWmDB43WE9TP-LxpAUzTwCIAenC_wgu0VnNVIJoaUbvMr9Vl6UEbh26clsaSKBMtVY"
     },
     {
-      "videoId": "wvXDB9dMdEo",
-      "title": "1. Introduction, Financial Terms and Concepts",
-      "thumbnail": "https://img.youtube.com/vi/wvXDB9dMdEo/hqdefault.jpg",
+      "videoId": "T_KEW0X9A9o",
+      "title": "Raga Finance 今日FB live 20260803 - 日元升值後",
+      "thumbnail": "https://img.youtube.com/vi/T_KEW0X9A9o/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651760Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "A9Xq3FGjpZA",
-      "title": "Explaining Basic Financial Concepts YOU Should Understand",
-      "thumbnail": "https://img.youtube.com/vi/A9Xq3FGjpZA/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651764Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "0iRbD5rM5qc",
-      "title": "Financial Literacy for Kids | Learn the basics of finance and budgeting",
-      "thumbnail": "https://img.youtube.com/vi/0iRbD5rM5qc/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651768Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "EJHPltmAULA",
-      "title": "Fundamentals of Finance & Economics for Businesses – Crash Course",
-      "thumbnail": "https://img.youtube.com/vi/EJHPltmAULA/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651772Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "YF_LqE1Oorg",
-      "title": "Financial Audit's Most Toxic Husband",
-      "thumbnail": "https://img.youtube.com/vi/YF_LqE1Oorg/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651776Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "HXlcMbxzz0U",
-      "title": "The AI Bubble Survives on $1.65 Trillion in Hidden Debt",
-      "thumbnail": "https://img.youtube.com/vi/HXlcMbxzz0U/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651780Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "mW_laGZ0Hys",
-      "title": "The Best Financial Strategies by Income: $50K, $100K, $150K+",
-      "thumbnail": "https://img.youtube.com/vi/mW_laGZ0Hys/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651784Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T11:46:29.495647Z",
+      "streamUrl": "https://rr4---sn-i3belnls.googlevideo.com/videoplayback?expire=1785779193&ei=mX9waseiG-SEpt8PuNjVqAo&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AIzVePjKTEaxP1rHC4Vx-ltNvNbywJvvQyiJSQwVgjK6&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=598&met=1785757593%2C&mh=U6&mm=31%2C29&mn=sn-i3belnls%2Csn-i3b7knsl&ms=au%2Crdu&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=4336250&bui=AZFlqhMRGKgmtJBYqhvX6DxUb5gqN7s1DxZeLPVGq9v3kIE8FXKCQOSFQaKkKVvH6EPkxrv25SEEkRgO&spc=KBGBchCmknXC1UGUrD16341o_Gsy4fZXeDckmwcsqTlraMjJZ9tU&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=94970289&ratebypass=yes&dur=1930.065&lmt=1785737827354287&mt=1785757050&fvip=4&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAKlMtU9bMiTGg-zhg-WUnFKruJyv7Q_t0nA1aHDmoPtQAiEAsODj2Bf7FcALKJFCd4Oh3AX7mcKp2rtEWy9BEXHiNrs%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhALljdEArmzqcjDnhDC-Bqyazutc4MCGvU8g5VvGWO9UdAiEAsWxW0ec6kbcRqjT5qloSZ7NWgoX3E9qXbyR9kQOCbjk%3D"
     },
     {
       "videoId": "z4p87TPCnQc",
       "title": "Lecture 1, Part II: Introduction of Financial Markets, Financial Terms and Concepts",
       "thumbnail": "https://img.youtube.com/vi/z4p87TPCnQc/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651787Z",
+      "fetched_at": "2026-08-03T11:46:33.731429Z",
+      "streamUrl": "https://rr3---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785779197&ei=nX9wap_8NuO52roP04jp4AI&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AOzRoRuWpmjJDTJd7ouAoosrq6gyZRHnnvg7UJs87bsE&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=358&met=1785757597%2C&mh=pr&mm=31%2C26&mn=sn-i3b7kn6k%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=4123750&bui=AZFlqhOmK4PQrGqcNztBHcdpgp-LfRsfLMZBV-kFbnNXgaZraiPm-tVj90NPiSYAnC3Q7N30vC-O0eMr&spc=KBGBcjP4SqcZL1Ebx6yrSplQbbzj_CyNFULbWkQ-M_iXhaYCBNJV&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=2123.302&lmt=1777225823518174&mt=1785757050&fvip=3&fexp=51565116&c=ANDROID_VR&txp=5438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhANpjXdHXyRaTcBSvswF63DqZNBQpvw8j5WBo23vDHhpwAiEA2YiiM-OjQdo90uQhVd1fstwzAQnZMRbLL-LOON_Fcs4%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgSWEbRj5rRVpGk365OsxLRDW9Vf2SAGTRxXGVsr7oEIECIQCLqdS5p38V3t7HdI7bl4hANBIuyTetCdlvW0nIoU_JHw%3D%3D"
+    },
+    {
+      "videoId": "gH0iNMgFC7Q",
+      "title": "You Can Change Your Finances in 3 Months (Here’s How)",
+      "thumbnail": "https://img.youtube.com/vi/gH0iNMgFC7Q/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T11:46:38.184691Z",
+      "streamUrl": "https://rr1---sn-i3belney.googlevideo.com/videoplayback?expire=1785779202&ei=on9wapqeE4uV1d8Pw7f12AE&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AB0uLoAnoYJmqR7BP5AmwajtnLlMgfW2FxQxUJN3j5b3&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=328&met=1785757602%2C&mh=Xq&mm=31%2C29&mn=sn-i3belney%2Csn-oji3b5-5n&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=4123750&bui=AZFlqhOv29LpG_c0uwBDy41FHhVEjF1rxmKvEWBcFuc0BAzAFzF7hY_Qrt8RJLt9KArti_lmvr-y_hmy&spc=KBGBcspUu39Nw1Ub60TfCdWIrQl97rF0NWY47YadvMl-Us3zH0K6&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1262.608&lmt=1763627019312923&mt=1785757050&fvip=3&fexp=51565116&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgFBPc_zWLybNXLkHL2hgZ8Rni1TvOK3FVbHaKS00FgcsCID18uTfIrNmkPwcDuy8p4tkdWheqQEeQLUuU1VDWFL1H&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAJHxpy385XjgYYQlUtswoW2MfoxYAuG-7iTuwyQbgcx4AiEAlvCF3W5kPEBuDF4AVVAAlqEql3vM0W77K99oC6X9rk4%3D"
+    },
+    {
+      "videoId": "A9Xq3FGjpZA",
+      "title": "Explaining Basic Financial Concepts YOU Should Understand",
+      "thumbnail": "https://img.youtube.com/vi/A9Xq3FGjpZA/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T11:46:42.630048Z",
+      "streamUrl": "https://rr2---sn-i3b7knsd.googlevideo.com/videoplayback?expire=1785779206&ei=pn9wavy5KMLG9fwP97ql4QE&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ACiaF2XjBLZn7EO6SA80JmHhhZ4k_Nk2D3eUW3_8KmDF&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=349&met=1785757606%2C&mh=-L&mm=31%2C26&mn=sn-i3b7knsd%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=4336250&bui=AZFlqhNbI3r0RQ_vFqMGLlsChLhKr8UosfKYmqowJBWFH2xmV-HqXptt2mSvmy7Pp4Y7WYbHYkXiUzUm&spc=KBGBciDzyVyRFYhzZlmo5KD_rucRjsAZFuqvC8mEhN0gNudMtS1I&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=733.773&lmt=1771815968237181&mt=1785757050&fvip=2&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgb_9DkzoOWrfAivfHkCY5F-yXo8Y_UepELGpKrYJdgS8CIQDTTb7idHDdKhIHK_f3rKoa3NWeP6CvT7ni1pbLDSFprw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAKRPP06jZhcHWOulJujTU169yWOzPwknMBIh7MnZZ0dtAiBQS2NBf9TQNT0sNq81GSQGNaBYBzqqFJQSAahejtBmLA%3D%3D"
+    },
+    {
+      "videoId": "WEDIj9JBTC8",
+      "title": "William Ackman: Everything You Need to Know About Finance and Investing in Under an Hour | Big Think",
+      "thumbnail": "https://img.youtube.com/vi/WEDIj9JBTC8/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T11:46:47.000690Z",
+      "streamUrl": "https://rr1---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785779211&ei=q39wavLCCoSU1d8PkejdyQ4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-APNMRiYYtPJ5OGyQk2mph93cT9hiFB5zZfJ7riaXdvJs&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=251&met=1785757611%2C&mh=QU&mm=31%2C26&mn=sn-i3b7kn6d%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=4123750&bui=AZFlqhMw99hWIIqAhhqcrJoQF-lJK8N-DuN23MREJzTA9Mislg6Auj1PT01iVKRqQHzYka1-oQP1dABx&spc=KBGBco5tRGYr3CV4AyLRUpiAZcm948OHoTL5GUxBngs4grdRRfNS&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=102977809&ratebypass=yes&dur=2636.602&lmt=1759064631897892&mt=1785757050&fvip=5&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAMQ2zVfTq4l9--Pc94I5cjr5H7GU2K42YKnX3kmyr8uXAiAgYgRS-Q56Bjzzfc91pJrWVCQwuqWcwdOIsumcI46t1A%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgaRf3iZOcM2uxWNYq2CFVbLQah3Zk7X90zaRqLQC5ucgCIQCZBFg1ik1T2PUy4UbXwcN9yyH36jNf3nWQM3GoDhseCQ%3D%3D"
+    },
+    {
+      "videoId": "n1jhoU9Mp_U",
+      "title": "Why governments are 'addicted' to debt | FT Film",
+      "thumbnail": "https://img.youtube.com/vi/n1jhoU9Mp_U/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T11:46:51.473060Z",
+      "streamUrl": "https://rr5---sn-i3b7knse.googlevideo.com/videoplayback?expire=1785779215&ei=r39wauavLu3bpt8P2fnjqA8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ALhxW8wjs5ES2g-AL8gI8gPPQsLHfCHsJ7WS9cu6SLYM&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=286&met=1785757615%2C&mh=ZY&mm=31%2C26&mn=sn-i3b7knse%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=4336250&bui=AZFlqhPJMnLkr8IaNXP2aHUrwbkTqK8Xovq3x11qbKRh-zLAFTeQQyIM1vkmcqmVX63K1BBHriWn9xh1&spc=KBGBclxTDvZz0b6dExCGwc0uEV969sKnwiQzJpc8yK7E_IAZObPc&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=109799158&ratebypass=yes&dur=1799.267&lmt=1761632811103021&mt=1785757050&fvip=2&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAJyGQfE6FpnHMalAQmq9G5-0diym-XjrkldqVCMdEgGBAiBgC-z1ocBsaKeiB9YT7NEA6ZKwrlhRqEw4j-e8BlSuEg%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAMESn6T7R59-VvJFAtAD0ja61moy9oveSAZp1sceZmsZAiEA-TqtoTPFg2GPlQaqaUbYo1dmeSo-hTMR3XFIHut0BQ0%3D"
+    },
+    {
+      "videoId": "MKLd1iw1lFw",
+      "title": "Introduction to Financial Management【Dr. Deric】",
+      "thumbnail": "https://img.youtube.com/vi/MKLd1iw1lFw/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T11:46:56.008970Z",
+      "streamUrl": "https://rr1---sn-i3belnl7.googlevideo.com/videoplayback?expire=1785779219&ei=s39waq6NOO-RvcAPrt7dmQ4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AMT9FMNk-52y3iQpPM72Wq5nYdo6Z-zjPIB5Nue6UvaD&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=297&met=1785757619%2C&mh=BB&mm=31%2C29&mn=sn-i3belnl7%2Csn-i3b7knsd&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=4123750&bui=AZFlqhMkyg83Qbuus6XTCosmklaLkDzls-KbiIu835NvNHA9dOYxviLLqg86TFh58OPWK78OIBBpONGT&spc=KBGBchXHoin6sXGuthUJWaBVhBP1-NpJeFapV4e9LbReb3pLpjje&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=723.789&lmt=1748736553043696&mt=1785757050&fvip=3&fexp=51565116&c=ANDROID_VR&txp=5308224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAKHMGWzY0e9suMXIAudN12OFC9B92uX-vPmr0hSZIII9AiA6eBxo_R4_KblxuXQ6nqpj9SjH9VOotjG_zrd7ELl_tA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgWMLXRP3U1IFH0Ifs_CAlARTnoHPHjLqfOoeaV-gkSocCIAjvLhBk1xAVlDkYFBg0l3JYGmpk3J0Ge9pOAKr8NCIk"
+    },
+    {
+      "videoId": "EJHPltmAULA",
+      "title": "Fundamentals of Finance & Economics for Businesses – Crash Course",
+      "thumbnail": "https://img.youtube.com/vi/EJHPltmAULA/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T11:47:00.191854Z",
+      "streamUrl": "https://rr3---sn-i3belnl7.googlevideo.com/videoplayback?expire=1785779224&ei=uH9waojSDI6avcAP7ujSgQ4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AIjE17XSwXll-mWqk5IBYJXX9ZmlphntH3q0pCdtAEp2&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=633&met=1785757624%2C&mh=Ha&mm=31%2C29&mn=sn-i3belnl7%2Csn-oji3b5-5n&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=4123750&bui=AZFlqhOwpR9Oz2fQdYnqlmuj8FrVZrE7p0Vup9s43c5TWhd2h3GsVtUoVMKweRu3BglAN6eth1ARqbJU&spc=KBGBcsNf9_xtYZ4x_VB0sRwOVCXckRmphg5DnpB8lyg0Io-yZ5jC&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=5887.860&lmt=1751985126935285&mt=1785757050&fvip=3&fexp=51565116&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAL8-YysVm3Eivlylfcypf42GJ_s361II89thjggCCDeAAiBRyrnF2cPY1iWqjxqjCUOQP5LwOLljSxr1XSt4hHz4eQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgbFfBDQti7sG3IpjZnbtFQWx-H-thmqSwfR3Z1eIWfUcCIFmpe4ZZSDBeBtli5_lKLUjzxbdaMLhvFSJyg-yYS3GS"
+    },
+    {
+      "videoId": "V360AygOv7A",
+      "title": "Financial Literacy for Dummies (Like Me) with JL Collins",
+      "thumbnail": "https://img.youtube.com/vi/V360AygOv7A/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T11:47:04.508764Z",
+      "streamUrl": "https://rr5---sn-i3belnls.googlevideo.com/videoplayback?expire=1785779228&ei=vH9warG_MN6LqL8PlvKHsAQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AMLCiUf0jvEf-Dy7vjk7OpulsJc8mC6w7PW3d9ei0Wba&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=249&met=1785757628%2C&mh=9c&mm=31%2C29&mn=sn-i3belnls%2Csn-oji3b5-58&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=4123750&bui=AZFlqhOiaT6qHr7QnGKSD0qdcE_GjSEovpPteDgQmK6egzkJGRAo5fms3oVyPObEo_zeUn-zDVIVtufr&spc=KBGBckO5GioPR7PCyucvzCOAcDkdFdbqvoRtPtgyoRF6p3HooWn2&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=161734234&ratebypass=yes&dur=3493.535&lmt=1778096256151998&mt=1785757050&fvip=4&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAOQVsnDFITMwc-VjnttVLYpSCAezCt87P__sKt9KMwXmAiABEi4_V8RDgslGhcyMX7fitD2i9hriAKWwl-VX8b-hOw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgYv9opOodlgFQCGYS4EuY5fS6beoUrl0QLbOas74gEo4CIQCshXDYLqhxUb8X88oeTxoG8dkd4OPjDYP01lZeXg1J4Q%3D%3D"
+    },
+    {
+      "videoId": "HXlcMbxzz0U",
+      "title": "The AI Bubble Survives on $1.65 Trillion in Hidden Debt",
+      "thumbnail": "https://img.youtube.com/vi/HXlcMbxzz0U/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T11:47:09.109612Z",
+      "streamUrl": "https://rr4---sn-i3b7knsl.googlevideo.com/videoplayback?expire=1785779240&ei=yH9war26JZnrvcAPnqmx8Qc&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AJvQv1VU6xG4q4GNrqnCq5nKT2QG1UoAD5RjkfE6snGH&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=656&met=1785757640%2C&mh=Vm&mm=31%2C26&mn=sn-i3b7knsl%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=4123750&bui=AZFlqhN6x-5QQ3U6j7dul3x70NJDzwg3RSuaCj0RiWqt1zFHfczYXWP4tPk3zasjxYokCttp6b3cZjjf&spc=KBGBcqGJL88bwm3tP1JxfPb6bYvZcu82jXutvZCin5VOaNOtOVDoVi_U0eQRNzYuafM&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=22308744&ratebypass=yes&dur=894.316&lmt=1785607442240239&mt=1785757050&fvip=3&fexp=51565116&c=ANDROID&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgCMjMgjikf-u3Sg_BnKy75vLRMB72oEnrMHi18xLXBj8CIQDM1BtsvbvA0XnxZj5ncxbWXqvlNpz1ZQfFza0fGeFMFQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAM2zPGJVKnpBd0B9zjhzmaC5nsz5Q2mHcdvQL5y1zPnnAiBfF-wt4j2t2N73I6WAAlFOZlr6n0WotRo6PiY3xXy3bQ%3D%3D"
+    },
+    {
+      "videoId": "JVtUcM1sWQw",
+      "title": "What is Quantitative Finance? 📈 Intro for Aspiring Quants",
+      "thumbnail": "https://img.youtube.com/vi/JVtUcM1sWQw/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T11:47:21.110429Z",
+      "streamUrl": "https://rr3---sn-2on4v5-5p.googlevideo.com/videoplayback?expire=1785779263&ei=339waoTnCciEt7EPoNzayQE&ip=198.200.57.153&id=o-AEIU-9UrVnLefdNhnSVNmdTTlvOuDYr3c_6d-le5IjZx&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=338&met=1785757663%2C&mh=2O&mm=31%2C26&mn=sn-2on4v5-5p%2Csn-a5meknde&ms=au%2Conr&mv=m&mvi=3&pl=21&rms=au%2Cau&initcwndbps=612500&bui=AZFlqhNVf0S8b7q0sx_41R6bfRqIANH6HQ9sIkT9eAc4GnDWPxqyPkMJzdi18xs5IhxdHTZJiT65Awbt&spc=KBGBci6sjZjj3ug8SYvTvOE9_t_tZR7Bx9almknYnA89JZIhTZXb&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=24373916&ratebypass=yes&dur=721.978&lmt=1743790811559359&mt=1785757302&fvip=2&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhALlZ-eKhVfzPShRdRIR_kmadVYRmoPd5ydsti8mO-E1YAiEA7Wjewp9M-WJnDUwC0IMl2JLmK9A3lAbdPNyz9bvxO9Y%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgTzVbhPjSkh1ErbML-3hG_rihbRes7QlS0YKJpRgid-4CIDYVNsncwXqEVjTeDJH-ygy7f-2bBBJU3M5ZSY3bkDBQ"
+    },
+    {
+      "videoId": "3u-mP3C26mg",
+      "title": "The Biggest Myths in Personal Finance",
+      "thumbnail": "https://img.youtube.com/vi/3u-mP3C26mg/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T11:47:43.389825Z",
+      "streamUrl": "https://rr5---sn-o097znzk.googlevideo.com/videoplayback?expire=1785779285&ei=9X9wauT4B_yQsfIPlJTh-Qw&ip=198.200.57.153&id=o-AEffgZL_qk2oRJWJA8Dh4tHs32Rftl44KnPhQYxhm3ev&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=784&met=1785757685%2C&mh=S0&mm=31%2C29&mn=sn-o097znzk%2Csn-n4v7snls&ms=au%2Crdu&mv=m&mvi=5&pl=21&rms=au%2Cau&initcwndbps=612500&bui=AZFlqhORjuXcmlGmY7cy1Gq-TTvWWGHqhkFtfIC8zGGkoBwnz0HZUjCcibMGeYIgdA4xLsgzgpd5tyOw&spc=KBGBcnVfqmuxO-rp7mK_JvqNlXgIoVXJE1i1oVLAARwnqfZhlUDF&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=57758522&ratebypass=yes&dur=1248.188&lmt=1785102611148230&mt=1785757302&fvip=1&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgSiX-AahCydtSS80QFoXBy41OzKmfNBo1fm7Bvxm3rFECIQDuFXIQs7uEIartufCTEC2lSr6IwGIg1yQJCc3RtDO_hA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgN1rBT4W2EdpZ9UrbALUPuanj73wHlsjVvAwe9QyQL4UCIQDd2be4iHTYHrX5eCVYkmHrWSqXyiaLGilorhlhenorUQ%3D%3D"
+    },
+    {
+      "videoId": "YDpc0wxMCU8",
+      "title": "Raga Finance：文錦期權譜 20260803 - 主持 : 文錦輝 (艾德金融投資策略總監)",
+      "thumbnail": "https://img.youtube.com/vi/YDpc0wxMCU8/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T11:48:05.358563Z",
+      "streamUrl": "https://rr5---sn-i3b7kn6s.googlevideo.com/videoplayback?expire=1785779295&ei=_39wav6KLJuypt8PseC3yAM&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AGmKBDfKTuyPOoyvdzI7rVkgwXShk6RqU56Vg3BEyrU0&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=447&met=1785757695%2C&mh=FQ&mm=31%2C26&mn=sn-i3b7kn6s%2Csn-hoa7rn76&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=5200000&bui=AZFlqhNaSE9hz65oHG325GKSdQuMBWWxyqvrOfHamEByw-Gjog2oyoK37hmSvrTi7jYrmGBqSLOrYaTc&spc=KBGBciZDfL4n7TbY9kXBi3L0EsJ1mjxYz5Cx71DiL74iRNjSsoRyuLyS_s8NcSgfgoA&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=99293147&ratebypass=yes&dur=2532.182&lmt=1785752677605653&mt=1785757302&fvip=1&fexp=51565116&c=ANDROID&txp=5438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAJmIUME86xjpd7FQUHnJ2BXcimtI2sZbgOgoJMaox8DjAiEAjZOeDHEHyW4Gcs4Bl6rstOAT1asLczppry5W_fStE6U%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgNE354jygY2wIUI5-6d2dL2P1SYCmEDzXkLAR6mSzV9MCIFNWSPStyJAIQB6DMIbhALHsL258ZOPE-rV96ZWw_dyf"
+    },
+    {
+      "videoId": "f39oHo6vFLg",
+      "title": "Bloomberg Live: Business, Finance, Earnings & Investment News | Watch 7AM - 6PM ET Weekdays",
+      "thumbnail": "https://img.youtube.com/vi/f39oHo6vFLg/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T11:48:15.976487Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -168,80 +184,64 @@
       "title": "MIT Economist on Finance, AI, and Human Behavior",
       "thumbnail": "https://img.youtube.com/vi/8kFFg5jAoQc/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651791Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T11:49:58.814100Z",
+      "streamUrl": "https://rr5---sn-oguesndz.googlevideo.com/videoplayback?expire=1785779444&ei=lIBwaqLLHceSssUP0-DB-Ag&ip=2602%3Af864%3A222%3Aa001%3A%3A14&id=o-AB_M47hm38J3g-GsbgSKLo1GKrhmkrsZDBAq8UxV1_vY&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=291&met=1785757844%2C&mh=DO&mm=31%2C26&mn=sn-oguesndz%2Csn-3pm7dnek&ms=au%2Conr&mv=m&mvi=5&pl=44&rms=au%2Cau&initcwndbps=4023750&bui=AZFlqhNv8RZxeSVwSzLCCTC2G4OCGXOhcivwY2rXUOjzZWle_jwm5b2a3YszusKO1cB73PjNwzOTrb9C&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=107271428&ratebypass=yes&dur=2329.193&lmt=1758685917451406&mt=1785757302&fvip=5&fexp=51565116&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgb2XS8m_OaVT-DnUPnC1odROikI6L43ED-_pChMhuvF4CIQCRRs8YgVu2jFEdi0i0wVTR70Yj3oXNOvCsOqHSJH33_Q%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgHvX51mdqT3DyqtADbWg3nnu5Pw9VNFX2_Yl7vZNgLSICIQCTuKCIaamequd51JoE43zun66HRpHFV5eBvA2aReryqQ%3D%3D"
     },
     {
-      "videoId": "WEDIj9JBTC8",
-      "title": "William Ackman: Everything You Need to Know About Finance and Investing in Under an Hour | Big Think",
-      "thumbnail": "https://img.youtube.com/vi/WEDIj9JBTC8/hqdefault.jpg",
+      "videoId": "RProbgjUAzk",
+      "title": "Raga Finance：4點光線財經 / 瑞銀集團特約 - 買粒「棠」贏間廠 20260803 - 主持：冼潤棠(棠哥)、 沈振盈(沈大師)、羅尚沛(Eugene)",
+      "thumbnail": "https://img.youtube.com/vi/RProbgjUAzk/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651795Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T11:50:44.812843Z",
+      "streamUrl": "https://rr4---sn-oguesn6y.googlevideo.com/videoplayback?expire=1785779499&ei=y4BwaprqGI7DssUPlYPR-Q0&ip=2602%3Af864%3A222%3Aa001%3A%3A14&id=o-AL6f0D7tn4FPpTBOaP8Wn6f5LUhyylPPzqiqCPw0zHpg&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=438&met=1785757899%2C&mh=Oe&mm=31%2C26&mn=sn-oguesn6y%2Csn-3pm7kn7y&ms=au%2Conr&mv=m&mvi=4&pl=44&rms=au%2Cau&initcwndbps=3627500&bui=AZFlqhPt8EUh4ywsvhuq7gKHl4d0yOaZzkTUWww7W5zDte4ZzmCQ0wVSoguSAc4CszfsUJ1c2tscCWaY&spc=KBGBcgMbBO9e_engwwcje6jTYPcfmqmRrPvGeMdLG7Ik6SO6Er3O&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=210647697&ratebypass=yes&dur=4345.196&lmt=1785752483483726&mt=1785757528&fvip=4&fexp=51565116&c=ANDROID_VR&txp=3308224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAIADGt6xfs1FAPQ3_WXM9qxWmKr1Ww84woFGDKkK2Ea3AiEArJh6kGuI1u_gBSLiWOuLhOjzvAZhxZLsZUS5hAdsra0%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAPEHvS6PP7rpyWg-ocPOnz5ADDNdgACZgN_XNSd7K43XAiBTIl6fx6Arm7_Y8Jbb46un64FSKp1k_y88U9m2hlcbcg%3D%3D"
     },
     {
-      "videoId": "jPPzvuDIr1w",
-      "title": "The Psychology of Money in 33 minutes | Animated Book Summary",
-      "thumbnail": "https://img.youtube.com/vi/jPPzvuDIr1w/hqdefault.jpg",
+      "videoId": "wvXDB9dMdEo",
+      "title": "1. Introduction, Financial Terms and Concepts",
+      "thumbnail": "https://img.youtube.com/vi/wvXDB9dMdEo/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651799Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T11:51:39.670658Z",
+      "streamUrl": "https://rr5---sn-4g5edndk.googlevideo.com/videoplayback?expire=1785779598&ei=LoFwapj3CpjQp-oPy6qT0Qw&ip=145.79.126.203&id=o-ALJZNzeZSWj4TyGu9RLRuW8XWKJUMhLsiuY7Ibun1hiL&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=278&met=1785757998%2C&mh=26&mm=31%2C29&mn=sn-4g5edndk%2Csn-4g5lzned&ms=au%2Crdu&mv=m&mvi=5&pl=24&rms=au%2Cau&initcwndbps=2397500&bui=AZFlqhOcErZc6VgEWe7i_yWJ63kxfq_ly6f7gw2aO8fYYnSdJ3bYgnz7g7kepbDVeqCJPKXZDwB5A4Rz&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=3629.720&lmt=1708770050428885&mt=1785757528&fvip=3&fexp=51565116&c=ANDROID_VR&txp=4538434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgNrTbbRKc2aoTYZEyUCSvpQvu3kxRgi1oQzPTft1I2_gCIQDUeSEi-WhYMBpKX6jA96AEcRDDA99Q0tb9mZOL6O7utQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhALOwiF_p2kuaHHfMEC7Tg4vheI-Cp2iAysCLlDP7VZYJAiEAgz3g9GLxLF8_SAnrkPJHnYk2xbILoOFgJM_tT_pXjlU%3D"
     },
     {
-      "videoId": "f39oHo6vFLg",
-      "title": "Bloomberg Live: Business, Finance, Earnings & Investment News | Watch 7AM - 6PM ET Weekdays",
-      "thumbnail": "https://img.youtube.com/vi/f39oHo6vFLg/hqdefault.jpg",
+      "videoId": "ouvbeb2wSGA",
+      "title": "Financial Literacy In 63 Minutes",
+      "thumbnail": "https://img.youtube.com/vi/ouvbeb2wSGA/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651803Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T11:53:18.599444Z",
+      "streamUrl": "https://rr1---sn-oguelnl7.googlevideo.com/videoplayback?expire=1785779687&ei=h4FwaqftJ5ax9fwPlYjgsQ0&ip=103.199.103.199&id=o-AMTOJ97dnz3VKL05ir5a6l6fLH5eL6h-oyZETM_yz2f0&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=267&met=1785758087%2C&mh=w0&mm=31%2C29&mn=sn-oguelnl7%2Csn-oguesn6r&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2081250&bui=AZFlqhMUGs5KbbZtBw1C5du9YC2ffdV_Vc7VdABSqCcnCgPU8_fTJSEfY_hrNgEi6r51zqOUIgEFc4xi&spc=KBGBcve69-eT4BUlwEEOrOblbCoOHJtQbQzFAvtXJef2Gpl6b0HlyMXu1SHLJtOsRD0&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=181808594&ratebypass=yes&dur=3736.671&lmt=1746757361728905&mt=1785757778&fvip=5&fexp=51565116&c=ANDROID&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAJLrfvsDKSsvEv3ojXfNUlENdfXNYDoYnry_wGyL1BCHAiEA2TS76mPVF-SOI0Icv3Jy5p9DOCVtAzrDL98fhQd_3ok%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAKa0REEDR6642AnIzVcU1y_bPg6e-IKee5KD4B-O33c-AiEAg0A0ov1Me-sVWUuIVRhA1ZLWWcWTKRFCcXoQhs_HkJs%3D"
     },
     {
       "videoId": "E4iNjdv_R6c",
       "title": "How to Teach Yourself Finance & Economics",
       "thumbnail": "https://img.youtube.com/vi/E4iNjdv_R6c/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651807Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T11:54:48.025198Z",
+      "streamUrl": "https://rr1---sn-ajogu5-5x.googlevideo.com/videoplayback?expire=1785779738&ei=uoFwaq34ENmCmNMPl5uY2Aw&ip=2602%3Af864%3A222%3Aa001%3A%3A14&id=o-ABGhAq56_c-APAzKUI08XqCE76J-CgNIq3-mxgudpN9M&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=249&met=1785758138%2C&mh=VO&mm=31%2C26&mn=sn-ajogu5-5x%2Csn-3pm7dne6&ms=au%2Conr&mv=m&mvi=1&pl=44&rms=au%2Cau&initcwndbps=4745000&bui=AZFlqhNdpvc_xX0stowyFjYtybGyZTnaMqGRb_nheGRAA6s2eJScrr-ew8IjZY3PEQLE7bRO-6MWEYr5&spc=KBGBcuNDGk2ymnrw5ZKcHkY6eC6kLiexvP1kpOEZOicesk0P3QjpBEizIsHQWpRNkCs&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1533.492&lmt=1771848887242595&mt=1785757778&fvip=1&fexp=51565116&c=ANDROID&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgLRqRyQxJ14YIWzsEb6aemW1nhKeRxWONFSV1xH1gmasCIFoPnHwWkyaFRMljZbCjCVThO4b3LmHMF6Ya3ot9eZbQ&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgVsiGFKCtA3zSlRc2yIweE6HsCVioycN7yS_2FUk2UZMCIChK98-IHZaZYQ8CZnTFZE58Soyf0xC1q5Pq9ThHtDSa"
     },
     {
-      "videoId": "k-HZIFIoy3Q",
-      "title": "Finance Professor Answers Investing Questions | Tech Support | WIRED",
-      "thumbnail": "https://img.youtube.com/vi/k-HZIFIoy3Q/hqdefault.jpg",
+      "videoId": "uysZfSEmeRE",
+      "title": "5 Money Rules That Will Change Your Life & Create Financial Freedom",
+      "thumbnail": "https://img.youtube.com/vi/uysZfSEmeRE/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651811Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T11:55:38.551842Z",
+      "streamUrl": "https://rr3---sn-oguesndz.googlevideo.com/videoplayback?expire=1785779779&ei=44Fwav_5GYmrpt8Ps-qRwA8&ip=2602%3Af864%3A222%3Aa001%3A%3A14&id=o-AHJ7jmKFO0831FsHOSKRnTWdv2245_ru37zZNrZedn3O&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=447&met=1785758179%2C&mh=9Z&mm=31%2C26&mn=sn-oguesndz%2Csn-oj3pm5-5i&ms=au%2Conr&mv=m&mvi=3&pl=44&rms=au%2Cau&initcwndbps=2582500&bui=AZFlqhM1-aYH0erv_DrrAoAs93f3TBs5y-6hlrfsRmeq-xvPr8ml70F6A2dBwTaYfdVJBRPKDablPixi&spc=KBGBctDPp1O4IHL614VHrLlylwqoF0yi-QvII-4jg5nWFzbBZTCB&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=189092234&ratebypass=yes&dur=4191.457&lmt=1778326580141154&mt=1785757778&fvip=2&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAIzLI_In1C_VZ2kqhzXqXQtki3MkDhwYZlEHbDZmTzwOAiEAoyNBmJD1ngQqT7WoZqwC7PhHJOty3UaGI3WDs4xtHes%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgWjODJQZc5dpvf5mVjsetPNYU4qZFJSko2qxi01atwKYCIQC4m3hZE6MFAgqkyTjQCnpvMg-y5LNkl-_frcniqSumzg%3D%3D"
     },
     {
-      "videoId": "ci39OSFps4A",
-      "title": "Full Finance Course - 11 Hour Video",
-      "thumbnail": "https://img.youtube.com/vi/ci39OSFps4A/hqdefault.jpg",
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://img.youtube.com/vi/QB5BNdBFujE/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651815Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T11:56:19.672229Z",
+      "streamUrl": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785779788/ei/7IFwau3cOZOqpt8Pk4StkAk/ip/2403:27c0:c03:1::71/id/QB5BNdBFujE.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-i3b7knse.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhN2TpvOTDvfh_KhHZzFmSCbcIW1UJbPq--osM3ZgznjxH0mHU8td22Mc0whuTADWV-p53KL66so/spc/KBGBcpwAgv7YgoEtfoC_643945sg35hUS7aSYvszsq4m9twEqQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/5260000/met/1785758190,/mh/HS/mm/44/mn/sn-i3b7knse/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785757720/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAMglP39sSLtzA3FYKMfH0OVLYMpSMkx9ne0IO0NPtfQcAiEAsCmReI8fq9iHwSobLis1sOMW_I_6uz0hjsZDvcoltEQ%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAIPtELCVmbFxBShQDFM4rLtsUleNYPf3x7vJDU5PpiitAiEArUJDwBm-Ok1Pp4swXIOHD4yO8FTuwxn4gnktkhKCxZs%3D/playlist/index.m3u8"
     },
     {
-      "videoId": "JVtUcM1sWQw",
-      "title": "What is Quantitative Finance? 📈 Intro for Aspiring Quants",
-      "thumbnail": "https://img.youtube.com/vi/JVtUcM1sWQw/hqdefault.jpg",
+      "videoId": "Ai4iNmW2A1c",
+      "title": "The Best Financial Advice You’ll Ever Hear",
+      "thumbnail": "https://img.youtube.com/vi/Ai4iNmW2A1c/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651819Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "V360AygOv7A",
-      "title": "Financial Literacy for Dummies (Like Me) with JL Collins",
-      "thumbnail": "https://img.youtube.com/vi/V360AygOv7A/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651823Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "jLFG_FZKbks",
-      "title": "Stock Expert: Becoming Rich Is Simple, But You Won’t Do It!",
-      "thumbnail": "https://img.youtube.com/vi/jLFG_FZKbks/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-03T04:38:13.651826Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T11:56:30.624162Z",
+      "streamUrl": "https://rr3---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785779802&ei=-oFwar_nHcSSpt8P9r-zsA8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ADoL351shqqK8kKg7eZYEmPbCZ5oK8nIoH7zBGYICxBl&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=579&met=1785758202%2C&mh=1L&mm=31%2C29&mn=sn-i3b7kn6d%2Csn-i3belney&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=5260000&bui=AZFlqhMD6h5Ws1kLYg9rnu6QNBpzJB0tGkZpufaWaz2DjtuYpYB_8JHU-_CYermJe5U6ou1tx0BGuYyn&spc=KBGBct7LYtOIfIz6l94SL5yfBM0xnpDGdAwPeyQXbkiUtuOOW9bUY2akMAgnggnr7JM&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=217085023&ratebypass=yes&dur=4755.980&lmt=1768824014719228&mt=1785757778&fvip=3&fexp=51565116&c=ANDROID&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgb4cEKrgBjTQsFwu7ArxC1w13XQ_zB30WD7dFb6URQIUCICMSC7Ar42E25IYXiFJkPv1GRGbwEjGGS2AATMy5jBun&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgIvLmpLW01TP4-R6SzsIGVxBIddr6R8DzIlc7jAsUjZMCIQDPddcFt5GXOSJg9v36MDLbGa9kVKjYPyYUtE-uKFAzRg%3D%3D"
     }
   ]
 }
