@@ -1,126 +1,94 @@
 {
   "category": "科技",
   "keyword": "technology",
-  "updated": "2026-08-02T22:07:17.264123Z",
+  "updated": "2026-08-03T03:39:10.689701Z",
   "videos": [
     {
-      "videoId": "Oa0ZHfcalCM",
-      "title": "What do tech pioneers think about the AI revolution? - The Engineers, BBC World Service",
-      "thumbnail": "https://img.youtube.com/vi/Oa0ZHfcalCM/hqdefault.jpg",
+      "videoId": "9BDjRZl07FA",
+      "title": "20 Mind-Blowing Tech Gadgets You MUST See in 2026!",
+      "thumbnail": "https://img.youtube.com/vi/9BDjRZl07FA/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:06:26.210581Z",
-      "streamUrl": "https://rr5---sn-i3b7knlk.googlevideo.com/videoplayback?expire=1785729991&ei=Z79vasLaBqSA2roP3oHtWA&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AH4EyMCl1MKL7NN1dHF0lP3gSfJO9j5KnVRMdBbTYVSn&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=752&met=1785708391%2C&mh=8T&mm=31%2C26&mn=sn-i3b7knlk%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=5587500&bui=AZFlqhPy6vD3G7W5UnQ8wrtAyov3Q21oVzJ-QuJEhQ8vVDb2u9Xku7d0al2KAGbPhsyCSNMdGyBmjugN&spc=KBGBcsSep-mnEjph8qJYd6Uv5y9g717OaMVtl2qUjShgCQTJeOk1&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=81808480&ratebypass=yes&dur=1548.027&lmt=1744992533240451&mt=1785707855&fvip=1&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgZhf25TWdXRGhdkjoznjiZ0wAqEwMIOGgpDhMXeKgxt4CIQDSrAqgzAa3EvNnSoTMIubAfjNj1XvHjKgpMHdS0Jz_xg%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAPPSjeFnk0bzO5CDRVt_x0DVVJ82kHlJ4n2e6sw3P0BSAiBQjm4JyEi28fZqNiMRNBQyuhqLXlZ_OB7SD2FcHC0auA%3D%3D"
-    },
-    {
-      "videoId": "fuiJ-3CdU3Q",
-      "title": "Coolest New Technologies of 2026",
-      "thumbnail": "https://img.youtube.com/vi/fuiJ-3CdU3Q/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:06:31.367464Z",
-      "streamUrl": "https://rr5---sn-i3b7knld.googlevideo.com/videoplayback?expire=1785729996&ei=a79vauLOO4KZ1d8PmZuSgQc&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AMtIZzI5_drSXhG4Q5FTpDHi_FzM1HusmUPB_LGj6YnU&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=124&met=1785708395%2C&mh=E_&mm=31%2C26&mn=sn-i3b7knld%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=5587500&bui=AZFlqhPljZy30o_eOe2WbQeO6gYmMBGV-EB_jvmh0JoFTJ2ax8HIdy5NBJ9MTWOHnF_qan-mu-3kYaSG&spc=KBGBctkxfcqjEELUiBW4fMKPO9LOOInvNQXlfhpIAnjW_x70a8qY&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=72693853&ratebypass=yes&dur=1086.995&lmt=1770586102513075&mt=1785707855&fvip=5&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgXxZ_q008Gs_Ub96sTtaxi1urh8MRwtfyYrTulaa64-ACIEa4czNVIWaAoMH_smt_lNHTmvcqDpdMQVZNVxSFeR98&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAJOW0XR_qz6XzvckeDCITpb7SEY39JBOcRaI-hRN7_iEAiEAoSi1pDPqfe5YBrr13HkF-r1a5aikx9vrs3VsAIdSSSc%3D"
+      "fetched_at": "2026-08-03T03:38:11.568968Z",
+      "streamUrl": "https://rr2---sn-i3b7knsl.googlevideo.com/videoplayback?expire=1785749896&ei=KA1wavLUFp6-vcAPmrna4AQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AFZx5HTq6vjDervt-MSaRDRWuJR5Ud594zAukUcN1lfR&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=180&met=1785728296%2C&mh=cV&mm=31%2C29&mn=sn-i3b7knsl%2Csn-i3belnl6&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=4196250&bui=AZFlqhOA_PI7mlWMF1CCcMvSTMKh4t1idrerI5ayxVS4-kRuYldIrbg2yrpapLZ15Rir6piJ2YyuArid&spc=KBGBckRIxNgUPA1QhcB-gVCQUp8_AE32ddyaB9MbjVSh5FKmvgW_&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=51232098&ratebypass=yes&dur=1167.081&lmt=1769851716256370&mt=1785727752&fvip=3&fexp=51565115&c=ANDROID_VR&txp=6309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgMmXJOd2cWerxvUPXNeY6EwExEPbR30Nv9F50isz9yTICIQCJZQ9TeeUsQijsJYIDHCxg1hqKwF-IV0opjKzKyJBG8g%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANp73Em9r8bVBKkTfJKgVtRAmCOikXixCTAoZrU69hrPAiEAru3vhmDlNjIJn4-pZLjMKbQDceUOvTcE8xYKjJml_DY%3D"
     },
     {
       "videoId": "Otim2mDjsYM",
       "title": "Top 17 New Technology Trends That Will Define 2026",
       "thumbnail": "https://img.youtube.com/vi/Otim2mDjsYM/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:06:36.322191Z",
-      "streamUrl": "https://rr4---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785730001&ei=cb9vaoGUDfCipt8P3e2iyQM&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ALEq-PpZUconkO8ixd5Ai-32QOVL6LVKkwDSnNUX-O1Y&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=28&met=1785708401%2C&mh=lq&mm=31%2C26&mn=sn-oji3b5-58%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=4300000&bui=AZFlqhP3YglFudVixKOipRZcRvVFcDLtkYAmBalyvy2atxEi7pHxR451bypxIGKtgph1GLnvrkUE99Yv&spc=KBGBcpGkHK52klwCVufiAhcjmrWHvjqxUEfQBbu03q9VU6r2kvbx&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=42232408&ratebypass=yes&dur=729.222&lmt=1756047363768034&mt=1785708103&fvip=4&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgJq9kMGzHSISGTxf4tEYw8jWeb-6auk42xw7e9zUx51sCIQCp1WrKcih1Ved2He9dzQvYxC1EioFWHSkhAGSkG8RRqw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgGVUHXeRmErchQdq_OcFlOHlvpyxQxeW_sN42vU2C2jACIHOlbhEco20M3sA-lcrk8fIyifwbbygpLlDz_Wx5hmxc"
+      "fetched_at": "2026-08-03T03:38:16.707387Z",
+      "streamUrl": "https://rr4---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785749901&ei=LQ1wataDHavcvcAP8qXcoQI&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-APgBJwdtHx5lgRXyTZWeRjsr096myYBmH8TkIgE6XHjq&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=234&met=1785728301%2C&mh=lq&mm=31%2C29&mn=sn-oji3b5-58%2Csn-oji3bc-5n&ms=au%2Crdu&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=6163750&bui=AZFlqhNF8KS_7gi1bh568aGDcznQv8kMu4MJGfAZFYgVLA2j1-3ahlst_ZXVYhXpYUY9rxHh8Up_TF2X&spc=KBGBctvvC8rhcySVg1Syoo1n4zqH2TxTtPKO9CcdyfVYsIUCB_d6&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=42232408&ratebypass=yes&dur=729.222&lmt=1756047363768034&mt=1785727752&fvip=5&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAK3OQ6XHdzc0gXwGkyjrDB9cDu54W5QEIrqlKTLpPBJ-AiEAhjnrETrAav176fiS_FgRMAatKFCDJae8z1fd_VEpprY%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAPCyRCLvSHewebpxdOTVOMeVQVDQENibAPkrgNRlTm5qAiEA2iPr8pP8ahilfMIvpshC33PauH3eKcg5Vaz_jSDGt6k%3D"
     },
     {
-      "videoId": "83TiUbFY6fY",
-      "title": "21 Coolest Tech at CES 2026",
-      "thumbnail": "https://img.youtube.com/vi/83TiUbFY6fY/hqdefault.jpg",
+      "videoId": "KnUFH5GX_fI",
+      "title": "Nobody understands the point of hybrid cars",
+      "thumbnail": "https://img.youtube.com/vi/KnUFH5GX_fI/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:06:41.546586Z",
-      "streamUrl": "https://rr3---sn-i3belnll.googlevideo.com/videoplayback?expire=1785730006&ei=dr9vapr_E-ONvcAPg-PrmQk&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ABOY7nKBbEltzs15QcTZ16YGI_U2MSLWFf2OzsG89wEo&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=586&met=1785708406%2C&mh=lR&mm=31%2C29&mn=sn-i3belnll%2Csn-oji3b5-58&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=2077500&bui=AZFlqhPcxc6awH2PwqmPstKsl7hYvAaS4MOxmzxH4ynWuyNA5rPWEO2Ux10k8VJBtPh-s0vUpYm6Ct2j&spc=KBGBchItO4qzJDYbqeTvv2R4TUecv1NPgPcLSAXCgOKCvVCGPund&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=148054975&ratebypass=yes&dur=1714.189&lmt=1769001280719087&mt=1785707855&fvip=4&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAJBbUMXJMaVjuk-WryBKqcPX8b01hrO6dAJrzvVGFVCVAiBvLQUNUSj61M4-civxg87idN_DBna5keUY3c6EDLnE2g%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAMq368W_8kxRoxU_ogDxO2rtMhKutHhVVBKHsm024YXEAiB0hmRDX7fp2oStUkgMEcRq4i1Dj2TrZZiqBAIpmHLWrA%3D%3D"
+      "fetched_at": "2026-08-03T03:38:21.810435Z",
+      "streamUrl": "https://rr3---sn-oji3bc-5j.googlevideo.com/videoplayback?expire=1785749906&ei=Mg1wavrqId-W1d8PpZjA0Ag&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AAX5XwqlFREfsKnJxko23Dm0W65w1JmZqbQZ9OVY-Fo8&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=233&met=1785728306%2C&mh=w3&mm=31%2C29&mn=sn-oji3bc-5j%2Csn-i3b7kn6k&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=6163750&bui=AZFlqhMc8FfpjjtY6Sv2lbmeEaGXhJ-ULp_UPy73LrD2_IcFZeiGYPPeHb0-5cUuGC6d5a3aSg6Ww6P9&spc=KBGBckIy_I26KQFF2Sg_AD5GxdF22iwU7O075uuyOhCDrQcqUEdX&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=181838824&ratebypass=yes&dur=3350.546&lmt=1784993452502273&mt=1785727752&fvip=5&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgWH4hrQeoPJRtIIZl4Ud_jmuvAZ-KXes91tG6cjdLW7wCIQDV1ZY9RGkYUIPzz1D9lc_k3gr336vLbhuhsqt_KOqODw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgflOJiq9wUj4MdsZNHKXA4yhYHVxW-6PqfL5j1QS9d7gCIQCUQHDNc0-fCBRUeS7fyDD2kkQ5eNdv9wP8MO_MSUqQtw%3D%3D"
     },
     {
-      "videoId": "dxWb1Vd9aq8",
-      "title": "20 INVENTIONS THAT WILL CHANGE THE WORLD",
-      "thumbnail": "https://img.youtube.com/vi/dxWb1Vd9aq8/hqdefault.jpg",
+      "videoId": "-FkYQlPj4mQ",
+      "title": "Technology Song | Song for Kids | STEAM",
+      "thumbnail": "https://img.youtube.com/vi/-FkYQlPj4mQ/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:06:46.668177Z",
-      "streamUrl": "https://rr2---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785730011&ei=e79vapS2IIiYpt8Pw4Sc6Qo&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AElHpffxM6VttvIstp16uGEDrE8kcKAndk4BTbvWAS-g&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=75&met=1785708411%2C&mh=AM&mm=31%2C29&mn=sn-i3b7kn6k%2Csn-oji3bc-5n&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=4300000&bui=AZFlqhOv4mtD83O9bihgFKDixAzp8cq-ZLq_pgdmIx4JdFpzfz3NmNNJnGU1pgvwmhlx0cHoGcUu6Bil&spc=KBGBcjuAs2V3KIHmkxT0Gd4e9jGXaNfPlykco1xbVzwtxGeSz5pH&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=91486083&ratebypass=yes&dur=1209.782&lmt=1761976536295715&mt=1785708103&fvip=5&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgdPagkUHOzUcsZR6QIYnXBZzfwkzADm-Am5sgeZsznCECICvWTAL87YZbT3NBUKNDRU9TPsqV6RMNqjJTGDmaL086&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAIiIPReOzAaWq8c6kbARIp5MkP__Vh-gaDfsZLyatWn9AiEAnrNW_pE3vWIq34qntenStgQiSuv5cdGWrZ2W2DoG_LQ%3D"
-    },
-    {
-      "videoId": "Ad3HP6iRyUE",
-      "title": "Everyday Tech You’ll Actually Use",
-      "thumbnail": "https://img.youtube.com/vi/Ad3HP6iRyUE/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:06:51.855497Z",
-      "streamUrl": "https://rr4---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785730016&ei=gL9vavjoJ7yX1d8Pv_ug8AI&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AKeIblXWVdyvI36GioCso9aIoDmd9h2sJVGt3D91YAkU&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=239&met=1785708416%2C&mh=Kp&mm=31%2C26&mn=sn-i3b7kn6k%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=5587500&bui=AZFlqhMTc-_V_NL3Q4yd-qEsFkdwNQNw9TXLvwPtlH0ZQ7acbCoIC1AuBdzlxBX-X009jk8Amc48orNB&spc=KBGBcrB4Pkh-NhIrgJAqsEQdMhsc2vt-FAUUGR8QA2Qvq8jt0SoB&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1084.325&lmt=1771402791921243&mt=1785707855&fvip=5&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIhANfx_yKk97Vqp0sNE_6uLWUOEZsJ7iPTouAmAusLi6QgAh8A3S5W9DMHlBEwbj55FID-ZG4RgixVABSMoLT4aR54&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAI840vzRpvWMPjZHNM-UrCz5KhiYwMKA1VCyysytwBcqAiBbQlM5On5J1i2DHOMcNwoZui1rSa5temz1Ud_nq0Z1Lw%3D%3D"
-    },
-    {
-      "videoId": "b0HfmY64eSE",
-      "title": "I bought the most FUTURISTIC Tech in the World",
-      "thumbnail": "https://img.youtube.com/vi/b0HfmY64eSE/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:06:56.992504Z",
-      "streamUrl": "https://rr5---sn-i3b7knld.googlevideo.com/videoplayback?expire=1785730021&ei=hb9vaqbwKoWW1d8PvKfx0Qg&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AOqZAEP8T1QDx6nA7BUSrrbUUvmdtqe368UcpI6C6wzi&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=112&met=1785708421%2C&mh=sB&mm=31%2C26&mn=sn-i3b7knld%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=5587500&bui=AZFlqhPbIm_Izprzv8cY7wMgvUbHuRpFfRxl8XEMuJB2KdPgU7Y86lhHOEu5dcM2XIBU_SH_tJ4zfW5T&spc=KBGBcsiFv0WM5y2tLaSvi1PpCAYjh-4o3sQypa2S895o3Q-hLo2i&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=138103433&ratebypass=yes&dur=2323.133&lmt=1726375085808753&mt=1785707855&fvip=1&fexp=51565116&c=ANDROID_VR&txp=4538434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAMUh82UJ3CZ568EykAPBoumdzEk442pW4VjhONFx4T-oAiEAuJE3wNXXAQ9mB-xhHSrMEMRBjWkWe3pAjHmIw_3eRuk%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgcnt1f2CpgjjcgHeTJBn5B3CBsr1OdPV543-mDJKRulQCIAZ-GtIEddeIiSbDIHxReC_uy4zuEgw_Hk0TWglKoIwI"
-    },
-    {
-      "videoId": "pAnGwRiQ4-4",
-      "title": "$1 vs $1,000,000,000 Futuristic Tech!",
-      "thumbnail": "https://img.youtube.com/vi/pAnGwRiQ4-4/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:07:02.042397Z",
-      "streamUrl": "https://rr4---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785730026&ei=ir9vapbTL5WhrfcP0teWmQs&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ANwqWDMzy7Iuo_HFwNo5S-fTzPp_F9dhBmMpmdtaCn_L&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=630&met=1785708426%2C&mh=hP&mm=31%2C26&mn=sn-oji3b5-58%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=5587500&bui=AZFlqhPLKPlRh5GkAsqLskyfjVQdH_Z5y6KraWOyChzspvj5W576eULdJXQZGCotzE0lZBLF_LguFbot&spc=KBGBcnFO7Fht65CEwJmgP24f3c5btwLRl-ujLL6eswkxVD_bLxw0&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=121634615&ratebypass=yes&dur=1383.143&lmt=1769210051480263&mt=1785707855&fvip=5&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhALqBjfReuSPxIlh2w4DKyRfeNzWABdBNcrLj8_wz5qyQAiEA0_HCLI2DnQs59hbc2aYjAgjZO24dYqgBnVVNo8SeSCE%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANEFVPjA2rs3h6z-zAIzDiFjJ0tWYbN4g4MBjXUB0XR8AiEAmQafSGyNTJaFxO0adlDbLV1oNnSxW8zvuAg6W3dZ-wk%3D"
-    },
-    {
-      "videoId": "KtQ9nt2ZeGM",
-      "title": "You are being misled about renewable energy technology.",
-      "thumbnail": "https://img.youtube.com/vi/KtQ9nt2ZeGM/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:07:07.130490Z",
-      "streamUrl": "https://rr5---sn-oji3bc-5j.googlevideo.com/videoplayback?expire=1785730031&ei=j79vaq7bL8WdvcAPlevH0QM&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ABC2RJYRu5ZLphAFQIvzwteGXQCmd_TCCv8ZgV3hoYTo&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=299&met=1785708431%2C&mh=VM&mm=31%2C26&mn=sn-oji3bc-5j%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=4300000&bui=AZFlqhPhXaoKYht2pJJFebQ6pOTUgBcK7UDnMLk3FVY5KyXpIYM5MaJ3EGKW7XXqPJQhS2RrEmduL-ZB&spc=KBGBcu1wVk_bHgfGXMLeW66TlVj8XOlm_oRGxTnsesrXfVZsYPDK&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=273201292&ratebypass=yes&dur=5519.870&lmt=1784841706699254&mt=1785708103&fvip=2&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAIgeCsIzVprDEJ5-uhlecMA-Zki7-vC6zX5kUjbbsFInAiAaBbo8oPRFTgreQdXww5l4f-SIXpPl54ueScejDLXTZA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAKR5LdNLCInc-Shm5-cdVMvU-an_yXYZmEkFlWP01iG1AiEA6dIXI2znSIbrJ20b-QNYTki5ewT-5OGE2qdDKkGxKFI%3D"
+      "fetched_at": "2026-08-03T03:38:26.908333Z",
+      "streamUrl": "https://rr4---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785749919&ei=Pw1warvjOfOy2roPpdPP4QU&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AFBqrugiw88-Wuf_Wx5rpOaOdK8CDh2_AZgbKf3CurNm&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=281&met=1785728319%2C&mh=iK&mm=31%2C29&mn=sn-i3b7kn6d%2Csn-i3belnls&ms=au%2Crdu&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=4196250&bui=AZFlqhN3uvBrIIUeFhauEAMMMiVcLgeoHjqIKZEWnvmBlId3RUxrZuOVVKHMN4qiPzrvLZlr9Vat0JHC&spc=KBGBcpQ6oGGhenEWHftipNTd1mJKaQ_0VKAGc_eodzvf35v90Qzi9WnxjdX-nf877H4&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=110.968&lmt=1675257178342177&mt=1785727752&fvip=5&fexp=51565115&c=ANDROID&txp=5319224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAI_eoHYRrrQRKyCwY4AoXaq_Yr2n_8b2Viow7HIAqttgAiABmSRvlGfIkZstlrZ7Y-Zw43ApUZUWXEZCixLrVZEjSw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAPw3b4BYVF-Hn-4sq0tdukn7pA5hwERtre2nMHzmTjNIAiEAnG09vbwtdX7wHesSlZ5fhcktmjHnAtBJgqiQaTlUlVE%3D"
     },
     {
       "videoId": "xZY58yJVVco",
       "title": "Can tech help us get a good night's sleep? | BBC News",
       "thumbnail": "https://img.youtube.com/vi/xZY58yJVVco/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:07:12.108344Z",
-      "streamUrl": "https://rr5---sn-i3belnl6.googlevideo.com/videoplayback?expire=1785730036&ei=lL9varerObmfvcAPsOenuQE&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ADN_6O8JSDX-2mdYtOxaXe78B559pQAmDIwHuWHlaNTa&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=253&met=1785708436%2C&mh=G8&mm=31%2C29&mn=sn-i3belnl6%2Csn-i3b7kn6s&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=5587500&bui=AZFlqhMZlViY8K3vIrfG7c34A10f6SX7taK58lt_sHZ-fQjE24JGrFTKVatbmQC2YGPzRSrkJOZW8OMI&spc=KBGBckkVjYE7YVro2JEmSvtiijQlzs96FfhA-RzQL1tUxL7AZqX5&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=17825651&ratebypass=yes&dur=327.865&lmt=1785492887979132&mt=1785707855&fvip=2&fexp=51565116&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAIsekivqxVja5t8I2BN3-P3DpwcsZgttvrarJXjKNrV_AiEAxcu4DFEsa6pwCSreDWeg6jC9UaX-XeYTYgp-V_xrdUI%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgAMLeOTzz527A23LqNRvzqTNRavrlUTpFrO94T8LbxdUCIQCeeSZmzOjBjsxTBbsOlXGq8ESzimuPq9srhfi_Uer9Cw%3D%3D"
+      "fetched_at": "2026-08-03T03:38:40.285921Z",
+      "streamUrl": "https://rr2---sn-i3b7kn6s.googlevideo.com/videoplayback?expire=1785749925&ei=RQ1wavCHBrLu2roP8ti36Ao&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ANxTEMw941_ARNevOBQR5ksarJCPRXtD9aOEd2Jcy63L&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=211&met=1785728325%2C&mh=G8&mm=31%2C26&mn=sn-i3b7kn6s%2Csn-hoa7rn76&ms=au%2Conr&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=6163750&bui=AZFlqhNSv2Lh0HzLJK46FDj4pec85yMtvzvSPDz7muHgHcLXVgrOXWH8raan4a8o84nLP0EIn_V0WspN&spc=KBGBcm30T_ukgCZSjWyRWPSUK1g1-BpUZo6goCPpc9J6rm-8aMal&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=17825651&ratebypass=yes&dur=327.865&lmt=1785492887979132&mt=1785727752&fvip=3&fexp=51565115&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgRmcy8Lho-l590pi2LvLt3A4xTQmsF9YihFhsdMcW2poCIGOsQFtOlHkV8ptUHfrrtu5zp3tlRD-IOVaUZSAeRxk9&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhALxCcVBG6bUrQiAaSWDJoDlXFF9yIZXpslWvmabao0gwAiEA7IlqtjW6DFEOwxCkNAAzWNQ5OWAIh5I8cl0SujOZBbA%3D"
     },
     {
-      "videoId": "ahK0Gf1Pxlo",
-      "title": "15 Future Technologies That Will Blow Your Mind",
-      "thumbnail": "https://img.youtube.com/vi/ahK0Gf1Pxlo/hqdefault.jpg",
+      "videoId": "mxzA-iJ3f3E",
+      "title": "Illinois Institute of Technology cuts 160 faculty and staff, report says",
+      "thumbnail": "https://img.youtube.com/vi/mxzA-iJ3f3E/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264033Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:38:45.429436Z",
+      "streamUrl": "https://rr5---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785749930&ei=Sg1watfZBbiI1d8P4I600QE&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AG3p_77G4la6pvitsyBcV0mk-GcU0w3a7KmSIvZIVTyv&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=217&met=1785728330%2C&mh=Z7&mm=31%2C26&mn=sn-oji3b5-58%2Csn-ojhoai-5a&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=6163750&bui=AZFlqhO2o5QUkhqSY4nSSRiALKnVruCIX0ebN75s4gCaoLmR4v7DqhFBBTpdvkXgOVSFUsiwEWmmbu6Y&spc=KBGBclJa6fb3HH42j4NxTfAY3OCe7wILePPT-bQa5-8Hn9_F6nmQ&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=2283454&ratebypass=yes&dur=40.054&lmt=1785694586451648&mt=1785727752&fvip=2&fexp=51565115&c=ANDROID_VR&txp=5319224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgF4kw9TCREwvH_Cde6SXlBbVoNIrAAaJ9m5K3f1MnZl4CIDZqa5vtwWtEpr3OkrwvWu-O7GtW7TkYkxMKtDufquVN&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgWoJv25KytXf9gLhtbMwJOVLkuerYyKOAH7RwDjJHofsCIQCtV6RN-nv4EcZvFMiyCWIig65tRuufPPW8NYfQQoWoTw%3D%3D"
     },
     {
-      "videoId": "rVHQRGw9zpQ",
-      "title": "China’s Tech Innovation Is Moving Faster Than Anyone Realizes",
-      "thumbnail": "https://img.youtube.com/vi/rVHQRGw9zpQ/hqdefault.jpg",
+      "videoId": "zmU9j0l9ORA",
+      "title": "What Is Technology | Technology Explained | Tech Education",
+      "thumbnail": "https://img.youtube.com/vi/zmU9j0l9ORA/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264051Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:38:50.424311Z",
+      "streamUrl": "https://rr3---sn-i3belney.googlevideo.com/videoplayback?expire=1785749935&ei=Tw1war6lBp7A1d8PlpyR2AQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AHCZSWeasRQlTSh_2Cpemkel_pmDRDS0mzQ-JR0fA9lD&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=238&met=1785728335%2C&mh=HV&mm=31%2C29&mn=sn-i3belney%2Csn-i3b7kn6k&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=4196250&bui=AZFlqhOljE6dHtr7qF7d1k3TUP7a133QDePdfmH9uzpa20qwoJ_9Hq2RRiSi0viqarJJdOqDFEQFeF5w&spc=KBGBcpCOh0aoTOlKeJahutyDIZntY2K8Uu1bmHRJ0kp0J0An9aUM&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=8152560&ratebypass=yes&dur=212.044&lmt=1773609426223449&mt=1785727752&fvip=1&fexp=51565115&c=ANDROID_VR&txp=5438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAKok5M1KLtqmFlSyifrQsfobeLj9Ofsgl7qM0n4EUBs5AiBvRR9WOHN0n_DPBqr4W3jI19DnBuJaS69bg0QeC1DmWA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgDdgLbHL_k58A4W-SWkl7wrKwgdL_lVF8gapNmi8dMT8CICeo-nLmPMnMGd4xhF0G5SqgTshgDqI_i8VbntJnyVHJ"
     },
     {
-      "videoId": "z7do1hhb6fE",
-      "title": "DeepSeek, TikTok, Temu: How China is taking the lead in tech - BBC World Service",
-      "thumbnail": "https://img.youtube.com/vi/z7do1hhb6fE/hqdefault.jpg",
+      "videoId": "KtQ9nt2ZeGM",
+      "title": "You are being misled about renewable energy technology.",
+      "thumbnail": "https://img.youtube.com/vi/KtQ9nt2ZeGM/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264055Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:38:55.452517Z",
+      "streamUrl": "https://rr5---sn-oji3bc-5j.googlevideo.com/videoplayback?expire=1785749940&ei=VA1wapmyC8iK1d8Prfyt4Qg&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ADwoK9tycqybME-_sDDXfgipYdhtr-5QBV3FHx5iQPj6&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=230&met=1785728340%2C&mh=VM&mm=31%2C29&mn=sn-oji3bc-5j%2Csn-oji3b5-5n&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=4196250&bui=AZFlqhPolmCZNoTSxpeATGCoYcTAt5v1DKu0VrBkW3vRD2rfAGhX26BzWSjBFtPYYi6KxHz4G3Ofydxg&spc=KBGBcn2zCCjgw1YGyN5gWMiq_k2f33NDNPNmgljYR7OPVm1CijJI&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=273201292&ratebypass=yes&dur=5519.870&lmt=1784841706699254&mt=1785727752&fvip=1&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAJeSPiKrkpzo-h6yy9KWaIY16RXkyPwaQOAAS-IhkforAiEAla3U-8al7RpIF6u3u43vNHZKz4OKpvaPJqpx7nSDPM4%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAI7cG4YAd3qlvRtzO8dg6rq7t2Yc4KhtxLYv3JeTqoHSAiAHitiHqrqBUITy51AMEOk5pzkrwQjK0dE-06R5GcO7gQ%3D%3D"
     },
     {
-      "videoId": "Fno0L_XsdWM",
-      "title": "Technology for Kids: What is Technology?",
-      "thumbnail": "https://img.youtube.com/vi/Fno0L_XsdWM/hqdefault.jpg",
+      "videoId": "EKOU3JWDNLI",
+      "title": "The unhinged world of tech in 2026...",
+      "thumbnail": "https://img.youtube.com/vi/EKOU3JWDNLI/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264060Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:39:00.541899Z",
+      "streamUrl": "https://rr4---sn-i3b7knld.googlevideo.com/videoplayback?expire=1785749945&ei=WQ1wasizBev-vcAPr6GH-AY&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AMNU3V3EkbVpoNhzsLmmM3f4Axhv79YYL10s4T9uguQ6&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=241&met=1785728345%2C&mh=Ux&mm=31%2C26&mn=sn-i3b7knld%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=4733750&bui=AZFlqhObyAZsCu-E-CSHr9lIkVW1QURB71qaRdsUDvrZnHe14ny6bd0zOs6kqK9srupIh3hxCGp0KMjQ&spc=KBGBct0aGDAEBygDfa5gGbOMdF4nL77eMsVb-bUbB-Dl0ErKjEHf&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=24116647&ratebypass=yes&dur=550.196&lmt=1768409088390258&mt=1785728004&fvip=5&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAP9ABem2bEu5CRkZL-NuuanXjN70HxlQJgEIfsz0DLBbAiEAkxvymcqluoUWEFdinlypk2ozjZLRqmnLG4U8bRBqovc%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhALmIWOAV50mXWuCFvurt8dBNKGWSUBOKWWfnJrJa9OrfAiBzWS1CrecnqRZBPriQGHd1Rrl6XrmSnmU0p3Yo_gaJEg%3D%3D"
     },
     {
-      "videoId": "e0gzOU6O-jI",
-      "title": "CHINESE FUTURISTIC ENGINEERING: The most amazing wonders",
-      "thumbnail": "https://img.youtube.com/vi/e0gzOU6O-jI/hqdefault.jpg",
+      "videoId": "lo4bA4p3MBQ",
+      "title": "I bought the LAZIEST Tech ever.",
+      "thumbnail": "https://img.youtube.com/vi/lo4bA4p3MBQ/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264063Z",
+      "fetched_at": "2026-08-03T03:39:05.424391Z",
+      "streamUrl": "https://rr1---sn-i3belnl6.googlevideo.com/videoplayback?expire=1785749950&ei=Xg1waom9FPfL2roPqJe96A4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ABsRw6lrm_f2ay6Sw8kUsOTNsF3naiFGZh_WiwAgc364&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=141&met=1785728350%2C&mh=0S&mm=31%2C29&mn=sn-i3belnl6%2Csn-oji3b5-58&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=4196250&bui=AZFlqhNfF7wq5UHbNKoYyJEDn7qHc1dGGrDM5aEpqh3c5KwduQprxZ2DCABnK0cKyGfYBIHpp2gsh4u3&spc=KBGBciin38ZlQnKPRQf22PSAfoq4JvOLxD1_Oq5Lf52dbQvM3fOi&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1267.368&lmt=1776920989805720&mt=1785727752&fvip=3&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAJKUBa77EnTDRMVD4-PCoFgIDUeYePC7mdZljMFuhVGHAiEAiDV86xDSm4dpsx7Z86li1kjNjuY-Qg7qJ1p94GgHrk4%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgMmPh0ZehheaDT0MLn_-wrhuBupg69MSYagS-6lZ_pbACIBKDRDo3vxDo-gBrmoUIFrYZKaLYFb0qu5FqMEbKyf--"
+    },
+    {
+      "videoId": "fuiJ-3CdU3Q",
+      "title": "Coolest New Technologies of 2026",
+      "thumbnail": "https://img.youtube.com/vi/fuiJ-3CdU3Q/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:39:10.689635Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -128,87 +96,15 @@
       "title": "CES 2026: 20 Best Tech You’ll Actually Want!",
       "thumbnail": "https://img.youtube.com/vi/m9mCqZ7tmUg/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264067Z",
+      "fetched_at": "2026-08-03T03:39:10.689650Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "kE-IJLXd4ZI",
-      "title": "The World In 2030: Top 20 Future Technologies",
-      "thumbnail": "https://img.youtube.com/vi/kE-IJLXd4ZI/hqdefault.jpg",
+      "videoId": "Ad3HP6iRyUE",
+      "title": "Everyday Tech You’ll Actually Use",
+      "thumbnail": "https://img.youtube.com/vi/Ad3HP6iRyUE/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264071Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "quVAF5oEG_U",
-      "title": "Xiaomi SkyNomad Technology Launch Event",
-      "thumbnail": "https://img.youtube.com/vi/quVAF5oEG_U/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264075Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "JstGCPsj9wg",
-      "title": "How Tech Companies Lie to You.",
-      "thumbnail": "https://img.youtube.com/vi/JstGCPsj9wg/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264079Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "mTyqIsaQECY",
-      "title": "Coolest New Technologies of 2026",
-      "thumbnail": "https://img.youtube.com/vi/mTyqIsaQECY/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264083Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "vhYS1diXZMM",
-      "title": "The Revolt Against Technology",
-      "thumbnail": "https://img.youtube.com/vi/vhYS1diXZMM/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264087Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "KnUFH5GX_fI",
-      "title": "Nobody understands the point of hybrid cars",
-      "thumbnail": "https://img.youtube.com/vi/KnUFH5GX_fI/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264090Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "zmU9j0l9ORA",
-      "title": "What Is Technology | Technology Explained | Tech Education",
-      "thumbnail": "https://img.youtube.com/vi/zmU9j0l9ORA/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264094Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "GViSPWGuois",
-      "title": "Why is technology getting more expensive? | 9 News Australia",
-      "thumbnail": "https://img.youtube.com/vi/GViSPWGuois/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264098Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "5RDSkR8_AQ0",
-      "title": "50 Cent - Ayo Technology (Official Music Video) ft. Justin Timberlake",
-      "thumbnail": "https://img.youtube.com/vi/5RDSkR8_AQ0/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264101Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "mxzA-iJ3f3E",
-      "title": "Illinois Institute of Technology cuts 160 faculty and staff, report says",
-      "thumbnail": "https://img.youtube.com/vi/mxzA-iJ3f3E/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264105Z",
+      "fetched_at": "2026-08-03T03:39:10.689655Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -216,23 +112,15 @@
       "title": "Coolest New Technologies You Need To See",
       "thumbnail": "https://img.youtube.com/vi/T-F-vVNVQ50/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264109Z",
+      "fetched_at": "2026-08-03T03:39:10.689660Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "7ARBJQn6QkM",
-      "title": "NVIDIA CEO Jensen Huang's Vision for the Future",
-      "thumbnail": "https://img.youtube.com/vi/7ARBJQn6QkM/hqdefault.jpg",
+      "videoId": "quVAF5oEG_U",
+      "title": "Xiaomi SkyNomad Technology Launch Event",
+      "thumbnail": "https://img.youtube.com/vi/quVAF5oEG_U/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264113Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "lo4bA4p3MBQ",
-      "title": "I bought the LAZIEST Tech ever.",
-      "thumbnail": "https://img.youtube.com/vi/lo4bA4p3MBQ/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264116Z",
+      "fetched_at": "2026-08-03T03:39:10.689663Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -240,7 +128,119 @@
       "title": "Microsoft in the race to build the ultimate supercomputer | BBC News | BBC News",
       "thumbnail": "https://img.youtube.com/vi/2JgJ1MRhntg/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:07:17.264120Z",
+      "fetched_at": "2026-08-03T03:39:10.689666Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "dxWb1Vd9aq8",
+      "title": "20 INVENTIONS THAT WILL CHANGE THE WORLD",
+      "thumbnail": "https://img.youtube.com/vi/dxWb1Vd9aq8/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:39:10.689668Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "vhYS1diXZMM",
+      "title": "The Revolt Against Technology",
+      "thumbnail": "https://img.youtube.com/vi/vhYS1diXZMM/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:39:10.689670Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "pAnGwRiQ4-4",
+      "title": "$1 vs $1,000,000,000 Futuristic Tech!",
+      "thumbnail": "https://img.youtube.com/vi/pAnGwRiQ4-4/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:39:10.689673Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "7ARBJQn6QkM",
+      "title": "NVIDIA CEO Jensen Huang's Vision for the Future",
+      "thumbnail": "https://img.youtube.com/vi/7ARBJQn6QkM/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:39:10.689675Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "83TiUbFY6fY",
+      "title": "21 Coolest Tech at CES 2026",
+      "thumbnail": "https://img.youtube.com/vi/83TiUbFY6fY/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:39:10.689678Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "z7do1hhb6fE",
+      "title": "DeepSeek, TikTok, Temu: How China is taking the lead in tech - BBC World Service",
+      "thumbnail": "https://img.youtube.com/vi/z7do1hhb6fE/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:39:10.689680Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "-lp2Kt6RJkQ",
+      "title": "I bought the CRAZIEST Tech from South Korea",
+      "thumbnail": "https://img.youtube.com/vi/-lp2Kt6RJkQ/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:39:10.689683Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "b0HfmY64eSE",
+      "title": "I bought the most FUTURISTIC Tech in the World",
+      "thumbnail": "https://img.youtube.com/vi/b0HfmY64eSE/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:39:10.689685Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "GViSPWGuois",
+      "title": "Why is technology getting more expensive? | 9 News Australia",
+      "thumbnail": "https://img.youtube.com/vi/GViSPWGuois/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:39:10.689687Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "t6MAZW-joCo",
+      "title": "I Followed ChatGPT’s PC Build Guide (2026)",
+      "thumbnail": "https://img.youtube.com/vi/t6MAZW-joCo/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:39:10.689690Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "JstGCPsj9wg",
+      "title": "How Tech Companies Lie to You.",
+      "thumbnail": "https://img.youtube.com/vi/JstGCPsj9wg/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:39:10.689692Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "5RDSkR8_AQ0",
+      "title": "50 Cent - Ayo Technology (Official Music Video) ft. Justin Timberlake",
+      "thumbnail": "https://img.youtube.com/vi/5RDSkR8_AQ0/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:39:10.689694Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "GyJAdLtVxn8",
+      "title": "NEW Inventions of 2026 You Must See to Believe",
+      "thumbnail": "https://img.youtube.com/vi/GyJAdLtVxn8/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:39:10.689696Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "g9ch8yHthP4",
+      "title": "China Has Launched New Generation Transport SHOCKING The US",
+      "thumbnail": "https://img.youtube.com/vi/g9ch8yHthP4/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:39:10.689699Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     }
   ]

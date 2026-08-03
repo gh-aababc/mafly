@@ -1,222 +1,110 @@
 {
   "category": "音乐MV",
   "keyword": "musicmv",
-  "updated": "2026-08-02T23:00:37.012247Z",
+  "updated": "2026-08-03T04:33:13.017552Z",
   "videos": [
     {
-      "videoId": "MkElfR_NPBI",
-      "title": "Little Mix - Black Magic (Official Video)",
-      "thumbnail": "https://img.youtube.com/vi/MkElfR_NPBI/hqdefault.jpg",
+      "videoId": "BBpIV9A1PXc",
+      "title": "NIKI - Backburner (Official Music Video)",
+      "thumbnail": "https://img.youtube.com/vi/BBpIV9A1PXc/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:51:54.983245Z",
-      "streamUrl": "https://rr2---sn-4g5ednld.googlevideo.com/videoplayback?expire=1785732843&ei=i8pvar6WH-f9xN8PzsaIqQU&ip=145.79.126.203&id=o-ABxfOuzj7USmYZcQV-94pXV5fWbP5a_BfxW42kuEc7H5&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=899&met=1785711243%2C&mh=qO&mm=31%2C29&mn=sn-4g5ednld%2Csn-4g5lznl6&ms=au%2Crdu&mv=m&mvi=2&pl=24&rms=au%2Cau&gcr=de&initcwndbps=2093750&bui=AZFlqhP8Gf_yWveF2T7-WQjkb0Vji90MjqfSToHDJllsTHLr8rZF6vOUkXIDjNeF1bAwhimPKA4alhuv&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=225.651&lmt=1784974216804257&mt=1785710736&fvip=5&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgUjIukXmAhH9fjuyzaUc6cFSkFwDH_9b6NpB3DvocUPwCIQCWry-_fUYJ6h681uOD8MW_hRkshGYHZvBt9ymERmdF4A%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAJctFl7BUcpsIoS3S7C_9WF_tqx86WD5nHN2-Y5fpKsOAiEAkHXuNGGVMy6B_gJcGNxgLUpEEIz5groqkLeYNZW2Xbg%3D"
+      "fetched_at": "2026-08-03T04:29:42.793047Z",
+      "streamUrl": "https://rr1---sn-oguelnsl.googlevideo.com/videoplayback?expire=1785753047&ei=dxlwatrDOPWzpt8P17KIyQM&ip=2602%3Af864%3A222%3Aa001%3A%3A14&id=o-AGEW5tNLLtzGDaWafH8pJt6_XUKG4ct89-OUKRHXbYQF&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=995&met=1785731447%2C&mh=jo&mm=18%2C29&mn=sn-oguelnsl%2Csn-ajogu5-5x&ms=aub%2Crdu&mv=m&mvi=1&pl=44&rms=aub%2Caub&initcwndbps=6778750&bui=AZFlqhPVJEtKStMfE_r0KaChaCONSOe3XSSI_nqju1VHCYCF-Z3G1qPf4d2dkR20NFe2zwcuMjCQDqxk&spc=KBGBcqwSq9lITOmDG9TH9IlnVS3phZ_rfZiCiixZ3nsNnw8x8XWF2nNjDBU-BlGfhZQ&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=283.724&lmt=1726233189650432&mt=1785731094&fvip=5&fexp=51565115&c=ANDROID&txp=4538434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgZQxk7sOGl_wMg1_y4ajpcIcjSXAeSmT26anVCqSt4W8CIQDRQO1ZhRIlCHbwl2AuhT75VwXBSEsgscPQyeAvxSVGUw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAIrnNcBUDaUSBXN1ibdfgp7ytiXZvBABUKkbqQ8ThaovAiEA8aJhUEGrA5J7AgFAcPkQOrW_uBqwT82oGVZuS5CK8qs%3D"
     },
     {
-      "videoId": "I150FjlFz2U",
-      "title": "Dance Music MV - Sweet",
-      "thumbnail": "https://img.youtube.com/vi/I150FjlFz2U/hqdefault.jpg",
+      "videoId": "UEuest9a45I",
+      "title": "Dance Music MV - Student Teacher",
+      "thumbnail": "https://img.youtube.com/vi/UEuest9a45I/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:54:03.779319Z",
-      "streamUrl": "https://rr5---sn-ogul7ne6.googlevideo.com/videoplayback?expire=1785732900&ei=xMpvapaQNMOX1d8PjbSe0Q4&ip=2602%3Af864%3A222%3Aa001%3A%3A14&id=o-AE-iiN6EtSi3bscCKkxMNpXa_sL8RhbV9yXiqA82Od6F&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=214&met=1785711300%2C&mh=A9&mm=31%2C26&mn=sn-ogul7ne6%2Csn-3pm7kn7y&ms=au%2Conr&mv=m&mvi=5&pl=44&rms=au%2Cau&initcwndbps=7526250&bui=AZFlqhPVJXuZnSGckcQrWHAfR6NkM3zNzAWH0Bt0HJWgIWyZiU99FnAA0MIvZ-OuIzDg6nX70VeMtPeE&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=257.323&lmt=1733474150864109&mt=1785710736&fvip=4&fexp=51565116&c=ANDROID_VR&txp=5538434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAIOC44euPPH3bb18tjrI6breVy6FJEqkUSBU1gzePOBGAiEA1hSKtaldMj3JdkOdVKyXPxX-BMJyz3ZACe0SghNNbr4%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgEzfVWtV5u-_pK9vnU_a5_9KCeIDDx9i1Ng4t6DmdmXoCIQDJLJXfwnDg_39RgniMEJ-elpXN7EdQ81X7lf2mBIMpDA%3D%3D"
+      "fetched_at": "2026-08-03T04:30:48.212609Z",
+      "streamUrl": "https://rr3---sn-n4v7sns7.googlevideo.com/videoplayback?expire=1785753152&ei=4Blwapr_FbStt7EPuqvw4AI&ip=38.28.193.1&id=o-AGRq55kBeUdykl0chVeHSnBgqmSWd4ktX_D55D_JJyPw&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=268&met=1785731552%2C&mh=MP&mm=31%2C29&mn=sn-n4v7sns7%2Csn-a5mlrnls&ms=au%2Crdu&mv=m&mvi=3&pl=19&rms=au%2Cau&initcwndbps=561250&bui=AZFlqhMp66HGg3vA0NUKIP3Mk8OKo1L0ccoZw2M7g4YIh9Qs1RVjqw4eXMUpTr7Ul2-QmFr3S6bD6IH_&spc=KBGBcrMSoVOS-ZyDIvDUssPVAPVuJjd2GkJSwisF1mgidt3qA2R1&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=202.102&lmt=1742399313691118&mt=1785731339&fvip=4&fexp=51565115&c=ANDROID_VR&txp=5308224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgMKCU0flwEmw38F5l133TCBTyfy8igJF9blJJ3Op8BYQCIQC2vgKVlw0A-NMq8AKHIWUdR_P41VzPPsvvxSdGg8priw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAPHal08KToGo6L0k_HVhL4G_izU4Vs7qVqtKB71QXFVxAiBDS3hk_ul_Olv2167dkPrTczBn5_S5KO_MEKKvdT3S8g%3D%3D"
     },
     {
-      "videoId": "a1bBk2ZF6bE",
-      "title": "PABLO 'USAD' Official Music Video",
-      "thumbnail": "https://img.youtube.com/vi/a1bBk2ZF6bE/hqdefault.jpg",
+      "videoId": "TkIxUSI8_g8",
+      "title": "Dancing in Paradise - Music MV",
+      "thumbnail": "https://img.youtube.com/vi/TkIxUSI8_g8/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:55:01.160963Z",
-      "streamUrl": "https://rr2---sn-4g5ednkl.googlevideo.com/videoplayback?expire=1785733025&ei=Qctvaqe6CPDOmLAPr9jm4AE&ip=145.79.126.203&id=o-ALqoyNja_XpIAZkSaS7nIUXwQZSY1ZThZr-17b_ilO3u&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=412&met=1785711425%2C&mh=Mt&mm=31%2C29&mn=sn-4g5ednkl%2Csn-4g5lznlz&ms=au%2Crdu&mv=m&mvi=2&pl=24&rms=au%2Cau&initcwndbps=73750&bui=AZFlqhPVdb90KKS1ml5xLu-5emdtv2QHeCwPIY3Cy-SbfzIwQQMkhiSzOBXnFPPnpUTGy-gRheBi8elP&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=16657878&ratebypass=yes&dur=278.244&lmt=1785163688694002&mt=1785710969&fvip=2&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAIpD63WQHpPCLpNzIuIwY94SRDWDF0BeNVfljZCBKyIjAiBvnL7i7BEMcgCpCYwbfyTY_U18PnfBLP8uP7YEiJJmsA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhALcPcHd5xkXF8zmN4KTt1UmLO-M_FZMAGZ6NHMxpcT-jAiBxuABprNpuxkMd0Pk018TKNEDM5JhOh6I2ql3wESrscw%3D%3D"
+      "fetched_at": "2026-08-03T04:32:32.609024Z",
+      "streamUrl": "https://rr2---sn-i3belney.googlevideo.com/videoplayback?expire=1785753157&ei=5RlwaonSCZfM2roPspOG4Qo&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AETbxXwPe4GU73kizKTLhHlQJ554kEUsAt-2qzcUJ3ho&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=198&met=1785731557%2C&mh=3D&mm=31%2C26&mn=sn-i3belney%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=5186250&bui=AZFlqhO98mdAUOpRJBJIPWtz5bwN1PQLmuVtO4CJq8mB8k5KyEGTkPRm9NziPLFYDuo7SMODoJNN6YNH&spc=KBGBclDiBDG8QdhfrUDRnkOerk3Vox_eyxHDw8AkB1LvAWde0EX1&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=240.024&lmt=1734367365372756&mt=1785731130&fvip=3&fexp=51565115&c=ANDROID_VR&txp=6208224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAIBezvB2D5vsbML-6qlPMPkSaatnqcap_cLZTj71ub-WAiEAmN-H10EG6_ltkFg3SXhvctILTRHmLHwIkCmI3jJKS2w%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgVdTLXnE5xJBrlVx6nT_kc84c2-V46IAlgvFEPRfoXw8CIHHNmOaP5hR-cC_NJfkm-Fpn0vO5wbY9JS-T04x1XrTo"
     },
     {
-      "videoId": "j-44tKnadpo",
-      "title": "Dance Music MV - it is your turn",
-      "thumbnail": "https://img.youtube.com/vi/j-44tKnadpo/hqdefault.jpg",
+      "videoId": "TRA9W4vpGk4",
+      "title": "JM feat VYRA - BANG! | Official music MV [ Ai ]",
+      "thumbnail": "https://img.youtube.com/vi/TRA9W4vpGk4/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:57:05.468263Z",
-      "streamUrl": "https://rr3---sn-4g5ednkz.googlevideo.com/videoplayback?expire=1785733146&ei=ustvavKzNqPamLAP__WH4Qk&ip=145.79.126.203&id=o-ACeI6oBZDuLQ5oCrV4TjuymQkxuLui9rurB05Xubfti_&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=294&met=1785711546%2C&mh=_g&mm=31%2C29&mn=sn-4g5ednkz%2Csn-4g5lznlk&ms=au%2Crdu&mv=m&mvi=3&pl=24&rms=au%2Cau&initcwndbps=73750&bui=AZFlqhNhsl_5_RcxRNZ32OiY590XXCRWwLKxAwFPPUb21ke-hxBozffb70fx7DPZVuVqsb92lHX-NjKB&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=181.928&lmt=1666406137584488&mt=1785710969&fvip=1&fexp=51565116&c=ANDROID_VR&txp=5318224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgG7LMn70yLoofOOIZmYLBR4HtnNN4SY3eiYK68sh_A0MCIQCqc7glcmKQ9FJ1yo7AAXEvqknplj0opTXHF9yEdt9YyA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgWH51ua1ik6euPP8RW70cEKLX5hdGDrw2yzEb-cHKSV4CIFS9QXDRksb9DUI2j3HdbDsmxM23LpY8itc3M6jF9eDG"
-    },
-    {
-      "videoId": "hOBUfG4ImFM",
-      "title": "Official Music MV",
-      "thumbnail": "https://img.youtube.com/vi/hOBUfG4ImFM/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:59:07.203013Z",
-      "streamUrl": "https://rr2---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785733156&ei=xMtvauP7M_azpt8Po4aPqQk&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AC1-kWQ8U0WtvpaL9Chc6JiTLMbtSks0n4TpMCSeYIh7&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=272&met=1785711556%2C&mh=oz&mm=31%2C26&mn=sn-i3b7kn6d%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=5887500&bui=AZFlqhMiuP_njRLKt6UXi0zPx-lfk2a1S80P7LJLhu2sFN3cRGAYewgP5_iMQGYb5is0t2vEBiv7rpRY&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=293.082&lmt=1776687479382429&mt=1785710969&fvip=1&fexp=51565116&c=ANDROID_VR&txp=6218224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgUWZklRfCOWK8Zj3X465qXxKZg13o6fYJZ2dw0jr_Z0gCICcrxVfwXL8_oUKwdIa5w-CvLpQsDUGQ55TAtIWrncU1&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgZMwIaPWAUNnBv87QodvfIMmoa4r8ziXTFJKXpxb_LCMCIDoaMdRzzw2B3KIuZcoYnL2sNROOD2oLQSldXIswZazu"
-    },
-    {
-      "videoId": "zSQ48zyWZrY",
-      "title": "SEVENTEEN (세븐틴) '음악의 신' Official MV",
-      "thumbnail": "https://img.youtube.com/vi/zSQ48zyWZrY/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:59:17.141728Z",
-      "streamUrl": "https://rr3---sn-oguesnde.googlevideo.com/videoplayback?expire=1785733216&ei=AMxvarrXF_yOvcAP79WtwAk&ip=2602%3Af864%3A222%3Aa001%3A%3A14&id=o-AHuS_WQ0GeWL9xx2y1ZahPqSF8Jz3Z85ndrIZSbqZh2w&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=621&met=1785711616%2C&mh=Dv&mm=31%2C26&mn=sn-oguesnde%2Csn-3pm7kn7y&ms=au%2Conr&mv=m&mvi=3&pl=44&rms=au%2Cau&initcwndbps=8260000&bui=AZFlqhOmpJ0W_oECZ8wGXUEuE_LE6PM5SjA2GJmFsSRwYzOuOWuO_qYBL32CKg1rwbz23WPCJXbajTzL&spc=KBGBcuxDwio6vnY9gsFGsTt5wvre417MQE3JIPO_p_9Be9TM5vxS&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=21284161&ratebypass=yes&dur=246.503&lmt=1727533474692005&mt=1785711212&fvip=1&fexp=51565116&c=ANDROID_VR&txp=5538434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgHYsEKz2NSSPwW0MSpe9keUfa_wBIyXSJqkPuCqHEv38CIHk6pkzW_Qu_4Q_uFhzs-0XeB40yNGFjMWtGfETCr6cg&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAPUUEFrrpIHsDz5s9JnHd_wD1WM7PEf-WE2OTeploiSfAiEAgXe5kIX7dU03xNfS5rGQz37Z8CVC81Iew48WH8B2dWY%3D"
-    },
-    {
-      "videoId": "Pw5p1HYP_RM",
-      "title": "ဟင်းကောင်းချက်သောနေ့ - ဒွန်း  DAWN [Music MV]",
-      "thumbnail": "https://img.youtube.com/vi/Pw5p1HYP_RM/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T23:00:16.714731Z",
-      "streamUrl": "https://rr2---sn-i3belnsy.googlevideo.com/videoplayback?expire=1785733221&ei=BcxvauinJa73pt8P_8776AM&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ALWCcwtWvBS07RuWUQ8HgSHdUrxA_-aiAR0itubUwsZV&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=257&met=1785711621%2C&mh=i0&mm=31%2C29&mn=sn-i3belnsy%2Csn-i3b7kn6d&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=4560000&bui=AZFlqhPNiiyuajS63YBhRzp8gjcEL8Rk9NQgwPOuVG96NK0XbQZDMSTvDgm8JGVc_WEc2KBXzeabCctr&spc=KBGBcpc14Q7wAnSVNauIGmYoACDM7XY9Wfv-1JLgbSyg3pkwec-w&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=351.271&lmt=1762918944264492&mt=1785711212&fvip=5&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgLU4H89DmddopgDwf8Tq9huW-aG5HOjXGa18aTsKeGWQCIC4xtF3cpJe-xYf4BPFpFEufP6JXAiq73R2ehxVTJmIg&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAIFV1St7ueWk1mt9VDIYGeArQjoEUfvRGaax4XlJtcnuAiBWW9WLAqIDlAXCL1PDZyVlNqV1RGW4Wh0bhD834Ww-gQ%3D%3D"
-    },
-    {
-      "videoId": "5NPBIwQyPWE",
-      "title": "Avril Lavigne - Complicated (Official Video)",
-      "thumbnail": "https://img.youtube.com/vi/5NPBIwQyPWE/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T23:00:21.875140Z",
-      "streamUrl": "https://rr5---sn-i3b7knlk.googlevideo.com/videoplayback?expire=1785733226&ei=Csxvav_UMu3B1d8PkYybyA4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AMCCpn9d8_Glczrx_nU-rr5sZAjKaoci2SSIHcUcyHqw&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=953&met=1785711626%2C&mh=DZ&mm=31%2C26&mn=sn-i3b7knlk%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&gcr=cn&initcwndbps=3155000&bui=AZFlqhOnRn-EM9ntHjcJXS-Rwy0rrEQuA-WRr7KPKWORgFsHp0MiK5eoVm3Klu03BcNRuCrNPzeKV3oX&spc=KBGBcqnYkkNFpib6YhtkZ8wYEdHSLPllQ_3FAB8HLQeTxFifMw1K&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=253.399&lmt=1782319682841998&mt=1785711212&fvip=2&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAID5J9ooYUPYI610xDKBnqrfopbiBBqITe5IwFlCa8waAiEAlnITUq8_0XR76KVPJki0UuaVdcSKdcNrTV2OXJ2SymQ%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgINc3KEk3fRJ60ok8SCIPpAah2rJtdRce8PnV9Mtc9uACIGrlT_rgynMZSWseOQEuI-gxZnK057WN2Ysj0tQGMusk"
-    },
-    {
-      "videoId": "fQKOBb3ikRs",
-      "title": "MOGO Music MV: Autumn Worm - The Song of the Soul（MOGO音乐MV：秋天的虫子乐队－灵魂之歌）",
-      "thumbnail": "https://img.youtube.com/vi/fQKOBb3ikRs/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T23:00:27.103314Z",
-      "streamUrl": "https://rr5---sn-oji3bc-5j.googlevideo.com/videoplayback?expire=1785733231&ei=D8xvatLrLOuFpt8Pvc-3gAo&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ALt_e6JiYFM3niebGe0HmyocWwtvuv-D1-yrBiO3_3O-&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=127&met=1785711631%2C&mh=lx&mm=31%2C29&mn=sn-oji3bc-5j%2Csn-i3b7knlk&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=4560000&bui=AZFlqhMelgmN_oHFltbb1LUqBwicdE2qs9FQmMS-POV3SLzopRPZ35jkN9GNXzID2b7WU_IpEYv_i7I5&spc=KBGBcutlTBGdq9tzeErnmv0RI_QxIqeOV1Nz88RkcxJelUkwR4Kx&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=322.966&lmt=1658729066949155&mt=1785711212&fvip=1&fexp=51565116&c=ANDROID_VR&txp=1318224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgc6pZUHKtuYW_JhG93rJzajEoglAnm5waj8GKAcsceMwCIHNktOc-PqYSsm-6CDauvhCqbcv3_hRMN7QRGNGz1o2k&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgLhdwPB5uko5wMMY0Q8Q2_NwpkoeniIk-TkdfxgkZ0-kCIBQ_hsJU6GhOqTXx0QxPOVrR2yRMFRSPW3hElgk2dtud"
-    },
-    {
-      "videoId": "aSugSGCC12I",
-      "title": "Sabrina Carpenter - Manchild (Official Video)",
-      "thumbnail": "https://img.youtube.com/vi/aSugSGCC12I/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T23:00:31.965728Z",
-      "streamUrl": "https://rr5---sn-i3b7kn6s.googlevideo.com/videoplayback?expire=1785733236&ei=FMxvar3ALaXp2roP2Jr2yAE&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ACd_8zJzRrS2vDLreinxvz57RHYITFz98PmajM6fFPuI&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=779&met=1785711636%2C&mh=o8&mm=31%2C26&mn=sn-i3b7kn6s%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&gcr=hk&initcwndbps=3155000&bui=AZFlqhP46dSxmw_2qDIRrtFVR4_wm9_whcSqkrle55arfcMVWFsI8mFrMcAXBIMGGxcQYYK4qVLpbTHU&spc=KBGBcny-5_A1ut0lRlVphsFa8yMej-43DOLAsskGKMvn7YQyVvAu&vprv=1&svpuc=1&xtags=heaudio%3Dtrue&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=236.425&lmt=1785149016320206&mt=1785711212&fvip=4&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cxtags%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAK316jEZHPdyvhkid-3yRm5ovmaSgOjAlsdSO5_hfN7gAiEAw3NdGYhxX33AzCX1UKhdwRXHcv203rUT-meDl6SZEek%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwQwIgfKz-5zzmTtBdRWmgJ455bTpnx4g_29NuWb0Z9-t19GECH2mBSb8Ye6Yn9k_o1pp69wTeNqMdNnv5gQssHugZMqg%3D"
-    },
-    {
-      "videoId": "fLexgOxsZu0",
-      "title": "Bruno Mars - The Lazy Song (Official Music Video)",
-      "thumbnail": "https://img.youtube.com/vi/fLexgOxsZu0/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012177Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "YmVrQE2vV1c",
-      "title": "YOUNGJ & TARVETHZ - LIVING MA DREAM ( OFFICIAL MUSIC MV )",
-      "thumbnail": "https://img.youtube.com/vi/YmVrQE2vV1c/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012193Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "K7qK4Tw_4qA",
-      "title": "YZ Kiim  // Nanghang hi ee ngaih // (Official Music MV)",
-      "thumbnail": "https://img.youtube.com/vi/K7qK4Tw_4qA/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012197Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "QHG0qiHNKzI",
-      "title": "Dance Music MV - I believed",
-      "thumbnail": "https://img.youtube.com/vi/QHG0qiHNKzI/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012200Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "FmbrruGodYE",
-      "title": "【 PUSING - PUSING  】-  阿Chun 大三圆 Music MV",
-      "thumbnail": "https://img.youtube.com/vi/FmbrruGodYE/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012203Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T04:32:37.462686Z",
+      "streamUrl": "https://rr1---sn-oji3b5-5n.googlevideo.com/videoplayback?expire=1785753162&ei=6hlwarPHB_zu2roP8KfpmAs&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AJDf2xEf_LXHZtTgTbaKQnkwKPmGPTDxoH8lYAx1D2np&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=125&met=1785731562%2C&mh=Eu&mm=31%2C29&mn=sn-oji3b5-5n%2Csn-i3belne6&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=5186250&bui=AZFlqhOxjvpp5xh2s4h_mzCe1_MP_8cAqInCWdUtnjyfUaty04U6sP-2D4yiL5YxY7t4KKCfDYij1CUj&spc=KBGBciR3sLfpIfPt5QOFLnj3I1WlFTpPMNLI3DyS4V8RcjI3phkd&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=7927372&ratebypass=yes&dur=138.669&lmt=1785717896307189&mt=1785731130&fvip=5&fexp=51565115&c=ANDROID_VR&txp=6209224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAOKNhNOIGJUFZ_WWfkUSgt-mpcQSW_RBceUOt-VyR14RAiEAl1VhZMFR8pGq8lKnyvMLmVJUOvFpjzxD-jTw-VE2IK0%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAJJweRUwwjaiqg8Z8mJRE62UxQwm6eNK7QR9Yt2SCk7YAiAHDGgAsxXRaMsB7ZTeCRhIhmMv3wNcJXEgI4bxcTxpzA%3D%3D"
     },
     {
       "videoId": "bcu7yZBeSKw",
       "title": "SHINee 샤이니 'Married To The Music' MV",
       "thumbnail": "https://img.youtube.com/vi/bcu7yZBeSKw/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012206Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T04:32:42.439635Z",
+      "streamUrl": "https://rr3---sn-i3belnl6.googlevideo.com/videoplayback?expire=1785753167&ei=7xlwauKeB7GDvcAPh4KqUQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AJ7SEWCYTBq3oWxQJ6YzUdM69gZ_I7uoFkYl1hDmphG5&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=285&met=1785731567%2C&mh=Xg&mm=31%2C26&mn=sn-i3belnl6%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=5187500&bui=AZFlqhPbv4oXnZ_YqemieshogUax87bubNKniWfAlJEhmi4bOQ6fxJu6kGu--iAP4Igp9qekPm-tLeLB&spc=KBGBchuxo9GUuqPTog28HsMVlQ0GIvf-VqWOxglgi8JhME4codT1&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=227.323&lmt=1734122061592383&mt=1785731130&fvip=2&fexp=51565115&c=ANDROID_VR&txp=4538434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAP3M5IMP_9ZnLTm14LKMPntmGTvcd2YAr7Ye17Uy5tt_AiBaqqZaUqyfGSu7YKBSeye2egic7PDzf7r0M5JGMBi6sg%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgRUY_DwtXhIMdA0s-Q4fSz2WsVJqPNLaFt76pOM7fHzMCIHkM_Nej8t0OEG42SMVQ6b8cvx8IGp3uvqD_crM0tOxW"
     },
     {
-      "videoId": "jlzjHKqHoiA",
-      "title": "Le John - Naiilang (Official Music Video)",
-      "thumbnail": "https://img.youtube.com/vi/jlzjHKqHoiA/hqdefault.jpg",
+      "videoId": "Ea2Bv8kNFZY",
+      "title": "park snack-healing music (MV)",
+      "thumbnail": "https://img.youtube.com/vi/Ea2Bv8kNFZY/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012208Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T04:32:47.450007Z",
+      "streamUrl": "https://rr2---sn-i3belne6.googlevideo.com/videoplayback?expire=1785753172&ei=9BlwaoS4D8-42roPyJf4yAs&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ALszwswmoItzJ0ki_1Cv4Nb9Au3iqqxPaAeqAqd4x7ov&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=175&met=1785731572%2C&mh=7v&mm=31%2C29&mn=sn-i3belne6%2Csn-i3b7kn6d&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=5186250&bui=AZFlqhMTzIfQZpQk0g1Scs4HR4ecxR2diFNBGsYIDaeUQyaYrPkVRq7jMLSRCtfMZxl_6qeZ58pYzfzn&spc=KBGBcvdxk4syEJrwqn0kwiLiTbwgtlGNptOS7wGrxHm5yh8VSUG0&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=7381978&ratebypass=yes&dur=128.615&lmt=1769439270775469&mt=1785731130&fvip=4&fexp=51565115&c=ANDROID_VR&txp=6209224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAM6iwifGyMcWhm_KStBQzXkQyTwhqnr7IZfz5Ahatr7MAiBtTq9r_rzDNR52UmeHbMHORk7MBwpxanXQa8EwikzgLw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAOzgeFRpPb9lLrvaFIRC6EiOJawitV4RGxDUYSVwTNanAiEA3okf9NUvuL0zCl-6fY_BYIhlhXQxfnnInPQY2K1x3RI%3D"
     },
     {
-      "videoId": "T5dzxedPUy4",
-      "title": "ポタリ『MUSIC』MV(2018年1月17日リリース)",
-      "thumbnail": "https://img.youtube.com/vi/T5dzxedPUy4/hqdefault.jpg",
+      "videoId": "S8VEiBWfLzM",
+      "title": "Don't Fight The Music MV（O.N.G.E.K.I. PACK）【DJMAX RESPECT V】",
+      "thumbnail": "https://img.youtube.com/vi/S8VEiBWfLzM/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012211Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "r9sC2FceNAo",
-      "title": "NUYTMF - เธอบอกให้ฉันรอ FT.@17onthejudphai74 (MUSIC MV)",
-      "thumbnail": "https://img.youtube.com/vi/r9sC2FceNAo/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012214Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "rX5XJgQmfJQ",
-      "title": "4K 60FPS | aespa DIRTY WORK OFFICIAL MUSIC MV",
-      "thumbnail": "https://img.youtube.com/vi/rX5XJgQmfJQ/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012217Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "cBmEHBmfkVQ",
-      "title": "Music MV - 由自可",
-      "thumbnail": "https://img.youtube.com/vi/cBmEHBmfkVQ/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012220Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "VdGYL05KWTk",
-      "title": "RISE AGAIN-starshine official MUSIC MV",
-      "thumbnail": "https://img.youtube.com/vi/VdGYL05KWTk/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012223Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "up4zW23ukUg",
-      "title": "Heart Sutra Music MV  Omnibus 2025 [60 min.] - Japanese Zen Music",
-      "thumbnail": "https://img.youtube.com/vi/up4zW23ukUg/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012226Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "BBpIV9A1PXc",
-      "title": "NIKI - Backburner (Official Music Video)",
-      "thumbnail": "https://img.youtube.com/vi/BBpIV9A1PXc/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012229Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "91Nnyv_BNak",
-      "title": "GNOSIS / K FLAG FREEDOM MUSIC -MV-",
-      "thumbnail": "https://img.youtube.com/vi/91Nnyv_BNak/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012232Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T04:32:52.495353Z",
+      "streamUrl": "https://rr5---sn-oji3b5-5n.googlevideo.com/videoplayback?expire=1785753177&ei=-Rlwav-4B7yv2roP0uLhuQI&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ACD6D2wmt94zjl7SQ9KN1ACTpm1Yz961rWXSbzY79GJs&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=291&met=1785731577%2C&mh=m8&mm=31%2C29&mn=sn-oji3b5-5n%2Csn-oji3bc-5j&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=5187500&bui=AZFlqhOw_7iNJCkVXETldEg5teCu4SrBmvCtt2pxAtp0GjUTaU9NWWov8SAdFO4Cf16sVvv-gpyvqd4g&spc=KBGBcmbZS8fh6wJs4nL2B59VcB5lf67vYz4O9ROY8_v05G029ivP&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=12793586&ratebypass=yes&dur=159.613&lmt=1774803015211737&mt=1785731130&fvip=4&fexp=51565115&c=ANDROID_VR&txp=6209224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAKE1MxO9_bD5DdrusKH3SJabqCvDxdlKPi8p-psTU8ADAiEAzI3X7rOfiYqzGm-Ytnj24dbpLPtHq4043YhLYgYBW1U%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgRymwuSMkk4QTSqMe1RPVN1ckbGwf2GH0cmylCt61K-4CIQDfcemOfvKMi8nKhv9PCzdJmudr8BZV1k1B5srLmphziw%3D%3D"
     },
     {
       "videoId": "Ascys0eBlqw",
       "title": "Donnalyn Bartolome — Kakaibabe [Official Music Video]",
       "thumbnail": "https://img.youtube.com/vi/Ascys0eBlqw/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012235Z",
+      "fetched_at": "2026-08-03T04:32:57.480114Z",
+      "streamUrl": "https://rr1---sn-oji3b5-5n.googlevideo.com/videoplayback?expire=1785753182&ei=_hlwapmgHPiy0-kPh5jn2Ao&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ANpMUx8FxhI4H4Kgi5jPn_drIGpXvTQFC8-_BZvz2Qm0&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=1057&met=1785731582%2C&mh=X1&mm=18%2C29&mn=sn-oji3b5-5n%2Csn-i3belnll&ms=aub%2Crdu&mv=m&mvi=1&pl=48&rms=aub%2Caub&initcwndbps=5186250&bui=AZFlqhMhoKbaCkBavov4kIxjiSv_x1s_50i5TkAHfuy_woNgROQIoLBvubJF8hoEzmjXRSyOFocCjrPt&spc=KBGBcnXVHjwd1NDn3Anb2ji10kwTytqNyd24YKw5Ps5q4qrvCPa5&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=213.135&lmt=1736330481363845&mt=1785731094&fvip=1&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAOV3WlrmEbIwyTRfPL9d-W-gaz89-_tYrnGxv-dtqSIgAiEAoKpgu5zIifDhrz25tQiZsbgMujIS-XJfvg06WrgIkq8%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAKa-ZfvC_TllUFOVoW3s2neHKqKTB9QKnqNpEWobs2xsAiAqHQ-FERrxqW5LuNBIV0wmTkmuOaAz92ej4ris_uHHvA%3D%3D"
+    },
+    {
+      "videoId": "nS5sQnbM6h4",
+      "title": "Amazing Fishing 🐡🐟 Female version covers popular Vietnamese songs #musicMV #shorts",
+      "thumbnail": "https://img.youtube.com/vi/nS5sQnbM6h4/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T04:33:02.726573Z",
+      "streamUrl": "https://rr3---sn-i3b7knsl.googlevideo.com/videoplayback?expire=1785753187&ei=AxpwasDSHreA2roPrMjzwQU&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AJAvmw1iaoQBH_kuAIMnKo0UlLvzzpMbe1LOIughFyc-&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=48&met=1785731587%2C&mh=hb&mm=31%2C29&mn=sn-i3b7knsl%2Csn-oji3bc-5j&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=5187500&bui=AZFlqhNg2d2dWZ8iYXbq6_xmdxPzI6fcLFz8JUd_FLO6gC7CcF_GD_mL3h0kWjk0KFSUW5Hn458dsmXB&spc=KBGBcm12EKM71AEyUBiqBAkJxt-yZ9e8cG37xDHeFac4u_RtW4M2&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=272.834&lmt=1752311521359497&mt=1785731130&fvip=4&fexp=51565115&c=ANDROID_VR&txp=6218224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgU4RTgREG8n5JMdBw3Qzfeb8l8qkaj3jqCn_xX34T-OMCIG6bJ9FBJim9DgrjZD-k9mIkHcHYWHKIpCZn3BtnocDf&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAOXwtExS9mGGWoCB3GcVhKicpc7i5jZL_naARfhPP_S1AiEAvP_g3yLW2sDESxQ-VSkl_2Ss4JgEPzSRo7DGp1F4gr4%3D"
+    },
+    {
+      "videoId": "jlzjHKqHoiA",
+      "title": "Le John - Naiilang (Official Music Video)",
+      "thumbnail": "https://img.youtube.com/vi/jlzjHKqHoiA/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T04:33:07.833563Z",
+      "streamUrl": "https://rr2---sn-i3b7knsl.googlevideo.com/videoplayback?expire=1785753192&ei=CBpwav_JKP-V1d8P59GRyQ4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AIfZZ5aRbbWLsC6UTIl4X8Mrkk9w7tXsoZCo4A6dJ9lj&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=1005&met=1785731592%2C&mh=Jc&mm=18%2C26&mn=sn-i3b7knsl%2Csn-hoa7rn76&ms=aub%2Conr&mv=m&mvi=2&pl=48&rms=aub%2Caub&initcwndbps=5186250&bui=AZFlqhOlxVZvDnwmWbKnZDv2bT1QTh2Ix3stkbfu0NmgXWkjQ5wdxQh0VvghoyL3yFCJ1bQyDfENuqOt&spc=KBGBchJMMa_u-p6Sa31ysTdJMAy6nWyoNdedKu1TG3Ln1HPa39ei&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=247.687&lmt=1775989982297866&mt=1785731094&fvip=5&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAPIfVp6epg5UAIF6TuUfVcAge7l3R4lbKqd45f6CfCiWAiEA0Y7TMXvs5qV0xCBdUQj2zg1EXGIPgWn4sehKk9wbdi4%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAJMpXBqFBLkuL5Lqp34GeQHynYsWvHioK9U-K2xtrG6pAiB-KAdcTtX4sZztNJWDU6O8sng0MA47KcAJ_N05YGeGnA%3D%3D"
+    },
+    {
+      "videoId": "QHG0qiHNKzI",
+      "title": "Dance Music MV - I believed",
+      "thumbnail": "https://img.youtube.com/vi/QHG0qiHNKzI/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T04:33:13.017460Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "xUmiN-1sx2A",
-      "title": "သို့/ သူငယ်ချင်း - ဖြိုးပြည့်စုံ To...Thu Ngal Chin - Phyo Pyae Sone [Music MV]",
-      "thumbnail": "https://img.youtube.com/vi/xUmiN-1sx2A/hqdefault.jpg",
+      "videoId": "aSugSGCC12I",
+      "title": "Sabrina Carpenter - Manchild (Official Video)",
+      "thumbnail": "https://img.youtube.com/vi/aSugSGCC12I/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012237Z",
+      "fetched_at": "2026-08-03T04:33:13.017476Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "_-yV3bLG90k",
+      "title": "ファンタジーを纏って #musicmv #wedding #lovestory",
+      "thumbnail": "https://img.youtube.com/vi/_-yV3bLG90k/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T04:33:13.017481Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -224,23 +112,135 @@
       "title": "Dance Music MV - Mountains",
       "thumbnail": "https://img.youtube.com/vi/DDt4vgURJeE/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012240Z",
+      "fetched_at": "2026-08-03T04:33:13.017485Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "hdz3O7Q5tmY",
-      "title": "Imagine Music MV Series - Fengyi and Zhihui [ 最快乐那一年 ]",
-      "thumbnail": "https://img.youtube.com/vi/hdz3O7Q5tmY/hqdefault.jpg",
+      "videoId": "5NPBIwQyPWE",
+      "title": "Avril Lavigne - Complicated (Official Video)",
+      "thumbnail": "https://img.youtube.com/vi/5NPBIwQyPWE/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012242Z",
+      "fetched_at": "2026-08-03T04:33:13.017489Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "e2e96ijU51k",
-      "title": "Imagine Music MV Series - Felicia Yuxing & Valerie [ 我戀愛了 ]",
-      "thumbnail": "https://img.youtube.com/vi/e2e96ijU51k/hqdefault.jpg",
+      "videoId": "MkElfR_NPBI",
+      "title": "Little Mix - Black Magic (Official Video)",
+      "thumbnail": "https://img.youtube.com/vi/MkElfR_NPBI/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T23:00:37.012245Z",
+      "fetched_at": "2026-08-03T04:33:13.017493Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "I150FjlFz2U",
+      "title": "Dance Music MV - Sweet",
+      "thumbnail": "https://img.youtube.com/vi/I150FjlFz2U/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T04:33:13.017497Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "Ys7-6_t7OEQ",
+      "title": "Justin Bieber - Beauty And A Beat (Official Music Video) ft. Nicki Minaj",
+      "thumbnail": "https://img.youtube.com/vi/Ys7-6_t7OEQ/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T04:33:13.017502Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "fLexgOxsZu0",
+      "title": "Bruno Mars - The Lazy Song (Official Music Video)",
+      "thumbnail": "https://img.youtube.com/vi/fLexgOxsZu0/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T04:33:13.017506Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "6t47K4h5IT4",
+      "title": "Noches Rotas – Deep Emotional Techno | MusicMv Original",
+      "thumbnail": "https://img.youtube.com/vi/6t47K4h5IT4/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T04:33:13.017510Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "-9L1J5u-nw0",
+      "title": "Worthy - Sixsteps Music(MV)",
+      "thumbnail": "https://img.youtube.com/vi/-9L1J5u-nw0/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T04:33:13.017514Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "YmVrQE2vV1c",
+      "title": "YOUNGJ & TARVETHZ - LIVING MA DREAM ( OFFICIAL MUSIC MV )",
+      "thumbnail": "https://img.youtube.com/vi/YmVrQE2vV1c/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T04:33:13.017518Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "zSQ48zyWZrY",
+      "title": "SEVENTEEN (세븐틴) '음악의 신' Official MV",
+      "thumbnail": "https://img.youtube.com/vi/zSQ48zyWZrY/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T04:33:13.017521Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "rX5XJgQmfJQ",
+      "title": "4K 60FPS | aespa DIRTY WORK OFFICIAL MUSIC MV",
+      "thumbnail": "https://img.youtube.com/vi/rX5XJgQmfJQ/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T04:33:13.017525Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "y6BVRx6Z5fY",
+      "title": "Ultimate Huntr/x Song - Momochan.music (MV) 4K",
+      "thumbnail": "https://img.youtube.com/vi/y6BVRx6Z5fY/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T04:33:13.017530Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "VpJWU9OCKrs",
+      "title": "【AI Music】Warrior - AI Generated Song 2026 | Original Music MV",
+      "thumbnail": "https://img.youtube.com/vi/VpJWU9OCKrs/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T04:33:13.017534Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "6vUjhIjiRBM",
+      "title": "“Redemption Music MV｜KPop Demon Hunters",
+      "thumbnail": "https://img.youtube.com/vi/6vUjhIjiRBM/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T04:33:13.017537Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "66LlDh37jB0",
+      "title": "Can't Let Go Music MV 4K",
+      "thumbnail": "https://img.youtube.com/vi/66LlDh37jB0/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T04:33:13.017541Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "a1bBk2ZF6bE",
+      "title": "PABLO 'USAD' Official Music Video",
+      "thumbnail": "https://img.youtube.com/vi/a1bBk2ZF6bE/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T04:33:13.017545Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "L5qWXgB41sA",
+      "title": "CORTIS - REDRED (official music) MV ver.",
+      "thumbnail": "https://img.youtube.com/vi/L5qWXgB41sA/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T04:33:13.017549Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     }
   ]

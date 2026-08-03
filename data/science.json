@@ -1,222 +1,94 @@
 {
   "category": "科学",
   "keyword": "science",
-  "updated": "2026-08-02T22:16:52.921687Z",
+  "updated": "2026-08-03T03:49:41.188763Z",
   "videos": [
-    {
-      "videoId": "_ZizKQqHNgI",
-      "title": "40 Science Experiments - Experiments You Can Do at Home Compilation by Inventor 101",
-      "thumbnail": "https://img.youtube.com/vi/_ZizKQqHNgI/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:15:54.759493Z",
-      "streamUrl": "https://rr5---sn-i3belnl7.googlevideo.com/videoplayback?expire=1785730559&ei=n8Fvat3-E_Oy2roPgZ3N2QI&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AE3IsmMyqZErjPMLlGVbKxH4qW6wIrgaeF6aW-cfNNnA&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=182&met=1785708959%2C&mh=Ys&mm=31%2C26&mn=sn-i3belnl7%2Csn-ojhoai-5a&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=3340000&bui=AZFlqhNHSzub89w8XfD6XM8GqYpFWWvTzI_ZvPPUKEe0C4xFZCV7TqpI2ciCSvbSlSm68nJif1iL1c_k&spc=KBGBcn8P-my0QfRXiSVjs9hGDz1UK2y7UmNK-T_5CcFcajNxnFY3&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1294.024&lmt=1744167962912853&mt=1785708562&fvip=4&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgN2yNtBP3g1G0PY-yaghhC3X_vTDj8d5hXPFSAeahEQICIQCmfA19ZibHhqMplJqxPdKUXm69JQCqYqUJat4DIDDtZw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAOiu4IhAJjm-7t4QLJbUwTf7jy95L3pT218kkVv9zopwAiBtxXeuYs2bY7LB8T7lso7zEO_rhDdTCSiA874fQLA-WQ%3D%3D"
-    },
-    {
-      "videoId": "UBVV8pch1dM",
-      "title": "The Science of Thinking",
-      "thumbnail": "https://img.youtube.com/vi/UBVV8pch1dM/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:15:59.663662Z",
-      "streamUrl": "https://rr2---sn-i3b7knsd.googlevideo.com/videoplayback?expire=1785730568&ei=qMFvaqG9LI-TvcAPhOOvsQ8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AIc9tGBy-nYbpUGabQRW-gLmly9Sa7IaQFDI97CbkPI2&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=188&met=1785708968%2C&mh=2I&mm=31%2C26&mn=sn-i3b7knsd%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=3881250&bui=AZFlqhNnGsCvZFTRCEUKJaWg8RQGan815vayvG0PYG2MrRGr0z7WWfuuLnn-o9VpUWEk3xfBjupY6zCi&spc=KBGBcrXti7e_TDVzsANY5ERTfW2jLlroKZIVo1UhCRQ--RoV9fGg&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=730.012&lmt=1749614323189781&mt=1785708562&fvip=5&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAPtkIIV4vb4yC01F75UAe7hL8nMlgMyI_MqNKIfMcGEsAiEAswCAIYcm_dbncGwHrdSZR8pZL9TRumKj-SzHnM-Cw6k%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgMbLXffWqWBb-uuxMFfcVwda9qVuJC-EBpW3KC0hp3qQCIQDO87W8OkgIkNbJ-mQZSyYyMMgSgoI0kbpi6DjeifbDAA%3D%3D"
-    },
-    {
-      "videoId": "3_YmHcjuv2E",
-      "title": "Level 1 to 100 DIY Science Experiments!",
-      "thumbnail": "https://img.youtube.com/vi/3_YmHcjuv2E/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:16:09.063376Z",
-      "streamUrl": "https://rr4---sn-oji3bc-5n.googlevideo.com/videoplayback?expire=1785730576&ei=sMFvaqffE9mRpt8PzumlqAk&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AA6q9llffUAbNcEj2eMd2dDsiDP-ZMlzGpAhwjB0iQ_b&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=165&met=1785708976%2C&mh=uT&mm=31%2C26&mn=sn-oji3bc-5n%2Csn-hoa7rn76&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=3340000&bui=AZFlqhNKzps-I_-JZSvNz-MWHhv_MBMTxihaYVQECiIpDwm-a31mt62uqHKFKCbh6jkbx5W1EnCPLjK8&spc=KBGBcqqMtF6Y0uSIoOD2DuQlHXhZZgqVxf5E-XHKL6Tu7QqGshiE&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=70543566&ratebypass=yes&dur=982.343&lmt=1736969440746113&mt=1785708562&fvip=5&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhANIejyH-c_D6_lJDrBbmucThEOIV1f4pPBgcHWKNzLtSAiAFjXqdEocn-ffOGfBeR9kqZlAhy1s23e3HXZWXFBcWxA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgQIbNYjGv5Dyevh3KwbuYQRHt91hAcJQCbF-xhes6w5QCIQDXtIfxZzfq5HVDVQQMNquxH6ZbHKiITak-9shmKtLFEQ%3D%3D"
-    },
-    {
-      "videoId": "Af5LICjFIBc",
-      "title": "What Is Quantum Mechanics Really Telling Us? | World Science Festival",
-      "thumbnail": "https://img.youtube.com/vi/Af5LICjFIBc/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:16:16.662560Z",
-      "streamUrl": "https://rr4---sn-oji3bc-5n.googlevideo.com/videoplayback?expire=1785730581&ei=tcFvarbeG6yV1d8P0MjNkAE&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AA4zmGC3a1XEW5DoJIlZpJXxwVNF2EbyW1FJiXnI1XoD&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=177&met=1785708981%2C&mh=NC&mm=31%2C26&mn=sn-oji3bc-5n%2Csn-ojhoai-5a&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=3340000&bui=AZFlqhM_izftTjrwfY8MmLZQA9eS-xAFp7mni3vhJf_9Kyv-Hxv7UaA1pDGOKBQSSAO33kmAHYVC1msL&spc=KBGBcvCTAnkiXu7xkt5NXqf5SLPcIn-eup0ZDHIa0KAP8Zlvlt2t&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=203116967&ratebypass=yes&dur=4992.661&lmt=1776809613185264&mt=1785708562&fvip=1&fexp=51565116&c=ANDROID_VR&txp=3309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgGEVVJiaQyYmtoH5qX45oHZRBJ97OVppYNDi6Bmvx7fgCIQDzFxKnk0Emowk5YqNJb7NcSIrkRXhfLhas0H88JqRIyA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANSlAL-x5jf7C8Hgf5UVGgsLRg_6o9I_kne22WVE4NQ3AiEA-N7y56qFxMgf1_P-G18GcOEWr19-VBIq8b2H7A7jWdk%3D"
-    },
-    {
-      "videoId": "uR4w02ES6Ng",
-      "title": "Science Is (Literally) Cool",
-      "thumbnail": "https://img.youtube.com/vi/uR4w02ES6Ng/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:16:21.800132Z",
-      "streamUrl": "https://rr3---sn-i3b7knsd.googlevideo.com/videoplayback?expire=1785730586&ei=usFvaoWuL8CF2roP5KqZIA&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AFkay0aXYcAzbbLst9PPnL2uYNjWfS1RN4IYPYUZeJZ1&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=65&met=1785708986%2C&mh=ep&mm=31%2C26&mn=sn-i3b7knsd%2Csn-hoa7rn76&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=3881250&bui=AZFlqhPBlOZlB_Zl6kUoM3MQqA2P4yGtE1_pwaL3j9dlzhmm94dsq08ko_xCR0cVdTZCJ7g-fmC3QcbE&spc=KBGBcreuPUd3f2Kr_yWdpwxd_VJsu9AdT1Y8mkK1hnkyyTKjlU1Q&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=205290849&ratebypass=yes&dur=2595.619&lmt=1776110855044316&mt=1785708562&fvip=3&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAMVqiyNixMniuEqzGg7QnJ1mm4Xah2kjbxyXomdtMSI0AiEA9_SVLvFfDqLM1cvb_3pgtL4Jc9a5yVT1HNF5J2a6fYk%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANzqO4Ga2HmvMYl4VYbjCUM3IZTzL3qEXS-CTgF0ZBKDAiEA2iw7X01e_TQ67_lgE5iMIWcIZj6zfxUYt_9YXZAgNhA%3D"
-    },
-    {
-      "videoId": "-U-OLazb3eU",
-      "title": "Exploring the Deep Mysteries of Physics | World Science Festival",
-      "thumbnail": "https://img.youtube.com/vi/-U-OLazb3eU/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:16:27.094317Z",
-      "streamUrl": "https://rr2---sn-oji3bc-5n.googlevideo.com/videoplayback?expire=1785730592&ei=v8FvarmpPOSYpt8PtNTn-Ak&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AObWFK4wcHWqhSQD8W8Nqlz3UcxPhG4V_q-3S-QZ3bfx&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=234&met=1785708991%2C&mh=oX&mm=31%2C26&mn=sn-oji3bc-5n%2Csn-ojhoai-5a&ms=au%2Conr&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=3340000&bui=AZFlqhMbvZo1ttl0ABeOxnm_s_ZtGB84Z53SThITky7sji7S075ftDRisCi--PrHtUhEHhLG4-ehAIx_&spc=KBGBco1seICauCWfEiAmoUVkYbBsc4kO4pVYUoNb0LcbYT8X1NpI&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=292437288&ratebypass=yes&dur=6494.969&lmt=1784852304728565&mt=1785708562&fvip=2&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgdqVp2NH_lvb38VF5MV1Ia8nuqk0BE8I6A5nD4XMjFQUCIGaXI3opZ_rZ74RNX614IZEUtGw9c0TXD3AiIxiLIouy&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgRxSo5S_KB9U9MThszLBgWJQoGvMtwLsTROc5L2Ud2SICICQv6SDPWHZPajKoEkZ_FPTDZuEMTmBg9spDwybcXwsn"
-    },
-    {
-      "videoId": "9lnRJKpknXM",
-      "title": "I Tested the Most Futuristic Science Gadgets!",
-      "thumbnail": "https://img.youtube.com/vi/9lnRJKpknXM/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:16:32.333393Z",
-      "streamUrl": "https://rr4---sn-i3belnsy.googlevideo.com/videoplayback?expire=1785730597&ei=xcFvav-qENjSpt8Ph6XlmAo&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AE7Y7RrlnPcAo8Vj8vbZb_OW2pmcCJT5AgkoMEmUR7HZ&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=110&met=1785708997%2C&mh=Fz&mm=31%2C26&mn=sn-i3belnsy%2Csn-ojhoai-5a&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=3340000&bui=AZFlqhMVX615DHGEFfWk0ef27BSz3m52LpCWJbNw2u7BHY-BGU_Aubm-WIsQlFmzj2uBcTdlAxYl5-1t&spc=KBGBcsNpT9lt67ZhbdEoMz2ST65LdqiQIM8iID45L0wHUSHWsCMI&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=52243280&ratebypass=yes&dur=954.084&lmt=1755992120375846&mt=1785708562&fvip=1&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgclP4arioO8YhNVNcGqeQKuC-xEUbhZlGoHJFxfp5iaYCIGyny-MtEq7Xoe4CC9xL8uhxluvjOLoIbArgWS3_F1Gs&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANYG177JFtvbTALyNumjjaNxMqclSNeLOFfL1EpR2bXHAiEAzP5MOt3iWxU9r8h-TEqlG4-aZWK6ebH_v4CppNT8C3I%3D"
-    },
-    {
-      "videoId": "s87FhnwMcD0",
-      "title": "20 AMAZING SCIENCE EXPERIMENTS Compilation At Home",
-      "thumbnail": "https://img.youtube.com/vi/s87FhnwMcD0/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:16:37.622204Z",
-      "streamUrl": "https://rr4---sn-i3belnsy.googlevideo.com/videoplayback?expire=1785730602&ei=ysFvarazJLSV1d8P_MGm-Qw&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AGk6Csro2BHn4lKa0XiSR3K2aPH9DfTyUwGDDWq_PIe1&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=211&met=1785709002%2C&mh=0_&mm=31%2C26&mn=sn-i3belnsy%2Csn-hoa7rn76&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=3340000&bui=AZFlqhPNN72-dV_pz5aoRYlZeBnDaTCCrVMLbBeoRb2_QXyg4VpEPNw5ZdBSCub8sPG1_0ZLp9bvYABE&spc=KBGBcq0vkrED4D0UDb0Lida-NBJqgA-L1sFOv9dSPK4KEfv9oDKj&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=647.163&lmt=1742877186084464&mt=1785708562&fvip=3&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgdicxV3cMMzVQ-75aTr0fkAv2Vxl-EQhPBPimBy5UYWcCIQCwk9VPqWnl6VprjJ4gIVK4X0_WxdS0k1MN4qNPZC_VqQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgU8MQsTA7pRRa9wACF_5xMSVAVZ635XNS7vlNaqJGIPsCIQCCylsXVqEy5BFo-7Bq9B1gNCC75ASHOpi6kdvirllDRg%3D%3D"
-    },
-    {
-      "videoId": "E2yjABcDiWQ",
-      "title": "I Trusted Conservapedia to Teach Me Science… It Was A Mistake",
-      "thumbnail": "https://img.youtube.com/vi/E2yjABcDiWQ/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:16:42.926333Z",
-      "streamUrl": "https://rr3---sn-i3b7knsl.googlevideo.com/videoplayback?expire=1785730607&ei=z8Fvat6hIpe_vcAP5JXQwAs&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-APpM1vLL00-HQf8yv2bG-TpnWEx14aKekqYqTaPE32Qx&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=379&met=1785709007%2C&mh=Nq&mm=31%2C29&mn=sn-i3b7knsl%2Csn-i3belnsy&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=3340000&bui=AZFlqhMI0Dh3VOiZdbH9gZY2U5PpaIc4AvzE6lba4GR2X2AYkoQ7u6uoMusnkGh-larwuPfs5abgtYom&spc=KBGBcmCAwCtF2QBlks91JITgXU31HDaHKXjy3iHiMU2uGZSb0H0i&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=257273553&ratebypass=yes&dur=3668.706&lmt=1785127182795064&mt=1785708562&fvip=5&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgXJE2tqQcNxk2tns9KtZuQRWRb17QcBeFG1LvvWjq_RwCIQDPCLOwjX-VJDhifewXhr4jwGAiuxlJXjxPhYVWMReOqg%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANcqKCOpb0-rD9yK7NVbf94BoBESR3FJkKJE0CsT5Nx0AiEAoW84q3BFOvOuYfhw3B0iAGTMZ-pOkhrJK0Z7ljyl0j8%3D"
-    },
-    {
-      "videoId": "02k8vRi5f_I",
-      "title": "Revealing 5 Secret Magic Tricks With Science",
-      "thumbnail": "https://img.youtube.com/vi/02k8vRi5f_I/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:16:47.890107Z",
-      "streamUrl": "https://rr3---sn-oji3bc-5n.googlevideo.com/videoplayback?expire=1785730612&ei=1MFvar_oIaGN1d8Pwoe8wAU&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ANR64z4xSg6F0QKNnumiApxczoU8NPAGWce6rWHsVvhE&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=177&met=1785709012%2C&mh=O_&mm=31%2C29&mn=sn-oji3bc-5n%2Csn-oji3b5-58&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=3340000&bui=AZFlqhPhZXPSXdxJwsa0OJbDI6NyF3yk5ScSQB4aT9iHfFIrjf677XtZVDyvPGC09emIwHvREvGAiq-D&spc=KBGBckXqK4vDq_p8Ow0i1b9IBDq0SLT9cYBpQbYbN7kHPetqO2ab&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=39086396&ratebypass=yes&dur=547.433&lmt=1772434156166512&mt=1785708562&fvip=1&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhALjmfAGoOXhyc3zOLXoUORXNN67fz9n4ojF9IF41kC5wAiBoesuohrh-6Y_qEXtPaYWecEM-6NkqPPayO6LTYcvIZA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgaQy7BZ_33cazzn-7P_CF37d4E10WGiehuchgLt0-j1gCIAGeiRZBV8xUwwTATC3ZtwwZXXOvivKAT2NcwDDIVzvC"
-    },
     {
       "videoId": "AoyIj79D9o0",
       "title": "The biggest science breakthroughs of 2025",
       "thumbnail": "https://img.youtube.com/vi/AoyIj79D9o0/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921594Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "z-R3DShHbkA",
-      "title": "EASY SCIENCE EXPERIMENTS TO DO AT HOME",
-      "thumbnail": "https://img.youtube.com/vi/z-R3DShHbkA/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921607Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "ifRUXB5ymgk",
-      "title": "The Ultimate Science Quiz Marathon 🔬 | 100 Fascinating General Knowledge Questions",
-      "thumbnail": "https://img.youtube.com/vi/ifRUXB5ymgk/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921611Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "GcbqPuCOTrE",
-      "title": "Everything About The Sun ☀️ Science Channel",
-      "thumbnail": "https://img.youtube.com/vi/GcbqPuCOTrE/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921614Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:48:50.064233Z",
+      "streamUrl": "https://rr3---sn-i3b7knsl.googlevideo.com/videoplayback?expire=1785750534&ei=pg9wauPsNt-p2roPjJbxwAQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-APGXXUjyE7T1GLXSvtszu7jVnkeRD1hEcGpnPf4zhkGQ&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=174&met=1785728934%2C&mh=8c&mm=31%2C26&mn=sn-i3b7knsl%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=4605000&bui=AZFlqhOuQJXRwLi_BD0gA0amOJH4coJlDj-GujQ5zbdIvR2e9ksTpZvkgOQcEkLC2YBCiSH6VU4YVdpk&spc=KBGBcintSdV0fbr5VZ5OZImy-I2bfXNlkcZdpsupGKnafA-upre_&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=34005785&ratebypass=yes&dur=625.824&lmt=1784497473410383&mt=1785728502&fvip=4&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgcth6ltH9a-frqsG0wwdlvgo7JFnyAYPTDsOc4YbH9boCIF96rQTV8R9_3Z3AU25GI3ShIIGurfe8-Z4SqPPoTFBj&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAKKkJO3M9ky-G6vmkjjMqTDvY7SkaEatuVGd7VuCCdTEAiEAh2iT2Vc1uaLIpiIKiyU8YTetdsUGcydaaeY-w0po1os%3D"
     },
     {
       "videoId": "fP8Z5TdMAhc",
       "title": "50 Science Experiments Anyone Can Do!",
       "thumbnail": "https://img.youtube.com/vi/fP8Z5TdMAhc/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921616Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:48:55.240881Z",
+      "streamUrl": "https://rr2---sn-i3belnsy.googlevideo.com/videoplayback?expire=1785750539&ei=qw9waqvaMf6Rpt8Pl8-88AI&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AAfzxwcmFHfU35NqbpGf6Qh3Tr3GNDqY5tdR1r5jzbIA&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=410&met=1785728939%2C&mh=i1&mm=31%2C29&mn=sn-i3belnsy%2Csn-i3b7kn6d&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=4128750&bui=AZFlqhMxHNstfJCEYhlHdHZp8WrHMw3H404vh9ZlFhyo_IQLkROdMuBY2f3WwB1MHosX0GBj4UBJSpik&spc=KBGBcsW1F8PQRHHoki4XC8aJ2DUx9_FzZLx952v-ACBZgC28jZ87&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=229143986&ratebypass=yes&dur=3338.356&lmt=1785641273802951&mt=1785728502&fvip=4&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgVAbX8vGrjVvIOx1P4WyLxRLkMwDhlfuk1XYTPyBpV5kCIQD6xqpyPpDyFIYcYhXPLNrwe1KVwZTFaBHerHIXhvJ5vg%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgThRLjEnLF5rFR-jgQ8mMo3wkmJcFvPoA1uS-TbLagVMCIEubkLynUaNQmZJiJpdKgSlLXIvyFYGWYFiehTjsMzht"
     },
     {
-      "videoId": "8E8cFFGXvxg",
-      "title": "5 Hours Of How The Universe Works To Fall Asleep To",
-      "thumbnail": "https://img.youtube.com/vi/8E8cFFGXvxg/hqdefault.jpg",
+      "videoId": "02k8vRi5f_I",
+      "title": "Revealing 5 Secret Magic Tricks With Science",
+      "thumbnail": "https://img.youtube.com/vi/02k8vRi5f_I/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921618Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:49:00.227676Z",
+      "streamUrl": "https://rr3---sn-oji3bc-5n.googlevideo.com/videoplayback?expire=1785750545&ei=sQ9wavG2AbOz2roP98vAuQ8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ABE5VHAxBHB0J8VSKYPOqHwlXAcUaRFkEjhDPmi2TaEn&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=403&met=1785728945%2C&mh=O_&mm=31%2C29&mn=sn-oji3bc-5n%2Csn-oji3b5-58&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=4605000&bui=AZFlqhM1kbLESRdvR8KjhWczbiiU0iW4ck4yJxGsnkoKOqMkQpuMUH2J52fcWMbAf_7_ehV0Bf3nlW4o&spc=KBGBcgdCQAg6UNi_CdTMdDUVOQf0HfXqi3LMwE2uFI5bAPz1hTHG&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=39086396&ratebypass=yes&dur=547.433&lmt=1772434156166512&mt=1785728502&fvip=1&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgMANwaWn2LP9OnEkyTCEwboJQ75l9YLF4P0X7eDlZwdUCIQDF5D51wNvde0UGmQ_3MGsAESJWFQJz_6C4KKctbmpPxQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAJEg626cV8oHa3AWV6vynCzsuKZq2xaY94FIMa4BYHQOAiEAtu_RFb1sQq1pqRmcIEa7TceqAmcPaav7UemiD5eBxCg%3D"
     },
     {
-      "videoId": "ekUbBot8tDA",
-      "title": "5 Easy At Home Science Experiments w/ Mark Rober",
-      "thumbnail": "https://img.youtube.com/vi/ekUbBot8tDA/hqdefault.jpg",
+      "videoId": "GcbqPuCOTrE",
+      "title": "Everything About The Sun ☀️ Science Channel",
+      "thumbnail": "https://img.youtube.com/vi/GcbqPuCOTrE/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921621Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:49:05.389046Z",
+      "streamUrl": "https://rr5---sn-i3belnsy.googlevideo.com/videoplayback?expire=1785750550&ei=tg9waqjyBLiQvcAP3Y_q4A4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AAp-OSrMh0UcsuC-LejkKJcRYEfQ88H8H-ThY1JfEd4d&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=243&met=1785728950%2C&mh=tL&mm=31%2C29&mn=sn-i3belnsy%2Csn-oji3b5-5n&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&gcr=hk&initcwndbps=4605000&bui=AZFlqhMvA-J9OSwM569BC-t02KGmcz5B6vJ4h61pA4BH6cJU2iubHi2mH87gnSCN2l9D878hP8zULsID&spc=KBGBcgUfbfYUdZczwFofTItPbi6PXkgMU3fMRMrWZU39F5tl4kbs&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=242072653&ratebypass=yes&dur=3698.265&lmt=1784661029811356&mt=1785728502&fvip=5&fexp=51565115&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgbAQcknVL4lArnYYAx4LsrUUR3q4wJZtmtc7XVddT2hQCIQCZaG3zllCJ9DQ-HI_rYXrIyCpxS019PBX0oU0q1Ba09Q%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhALnpGzNGofXBHlb-BLEeRXfCzJU1SfAPraoE6RHR48PnAiA9XZNrrGeimhtugtxwzx4utLRYuVsNFNx3iX5XHFZsvg%3D%3D"
     },
     {
-      "videoId": "4f9V-8BHONo",
-      "title": "The Science of Interstellar with the Science Advisor, Kip Thorne",
-      "thumbnail": "https://img.youtube.com/vi/4f9V-8BHONo/hqdefault.jpg",
+      "videoId": "E2yjABcDiWQ",
+      "title": "I Trusted Conservapedia to Teach Me Science… It Was A Mistake",
+      "thumbnail": "https://img.youtube.com/vi/E2yjABcDiWQ/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921623Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:49:10.420235Z",
+      "streamUrl": "https://rr3---sn-i3b7knsl.googlevideo.com/videoplayback?expire=1785750555&ei=uw9waquvB4S32roP1N7huQQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ABSih-6BqrnQSYVkB3OTc9ubVA1RBMHEqOMN7SrW71w4&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=578&met=1785728955%2C&mh=Nq&mm=18%2C26&mn=sn-i3b7knsl%2Csn-ajhoaq-5o&ms=aub%2Conr&mv=m&mvi=3&pl=48&rms=aub%2Caub&initcwndbps=4605000&bui=AZFlqhNnnh-HHNxhocrdWDyxp04Mekv0BNrQsHBLrG_IDoN565AY_VRRmXVG3ssni8lAY1M7o8K_215v&spc=KBGBctQqh6uMJ7B1J0h79X0vM5SgZaKFzUpACsFJ2sb0pOYG2qTZ&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=257273553&ratebypass=yes&dur=3668.706&lmt=1785127182795064&mt=1785728462&fvip=4&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgYzmwSFt4OooaBnfSuXoCLJOcVfq6bHDJmqA4UQ7tPNcCIQDLKGaHxqAXreOnSD_U4VQuqVjLJvcfpu1TmcDg2cOW_w%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAJ09HglEEaAAYBITGNnVmcr0NknptZ0xXarB3h8J_25rAiEAkQMJ0wLnuam15yoB-9a_n0HTwDbB_30a6-UqUZvqi8U%3D"
     },
     {
-      "videoId": "NCjf6og4qHk",
-      "title": "29 SCIENCE TRICKS that look like real MAGIC",
-      "thumbnail": "https://img.youtube.com/vi/NCjf6og4qHk/hqdefault.jpg",
+      "videoId": "Af5LICjFIBc",
+      "title": "What Is Quantum Mechanics Really Telling Us? | World Science Festival",
+      "thumbnail": "https://img.youtube.com/vi/Af5LICjFIBc/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921626Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:49:15.460444Z",
+      "streamUrl": "https://rr4---sn-oji3bc-5n.googlevideo.com/videoplayback?expire=1785750560&ei=wA9wapDvGLv3pt8PtIWa-Q8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AM4m7zLqt3AqbpbkjWo39uIl1RN6uWW-L3bArkRmYMBm&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=142&met=1785728960%2C&mh=NC&mm=31%2C29&mn=sn-oji3bc-5n%2Csn-i3b7kn6k&ms=au%2Crdu&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=4605000&bui=AZFlqhPe3pRn8uxIQLXAZ5plk7ccxtdm-m3JF3R44MB5irPapjWg2Oc119bYZh9xVIJ0zxKgj-VNna6O&spc=KBGBcrC-LEfT2G8a_lCrH4bh3PNqqnfSOD6I-wmrsBUkWGc15AzS&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=203116967&ratebypass=yes&dur=4992.661&lmt=1776809613185264&mt=1785728502&fvip=5&fexp=51565115&c=ANDROID_VR&txp=3309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgchgIAKlamKMEx_Aobq6Ja3ISeN_OcgeVq2GN2rLxOMgCIEJKKpMjesrMbaXB9KfxvWF7X751PmlsPZagNkJt7nKd&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAPI_nNLgI8CkpZwWIRiht2gq26qtxCNbWx2IcopQNa2XAiAY_5nnVrDOcasWjjD91eRJa_6EAZmfGIOswiPklx-_KA%3D%3D"
     },
     {
-      "videoId": "TLsqVjtrovo",
-      "title": "🔬 Science Max - EARTHQUAKES - Home Experiments 🌎",
-      "thumbnail": "https://img.youtube.com/vi/TLsqVjtrovo/hqdefault.jpg",
+      "videoId": "UBVV8pch1dM",
+      "title": "The Science of Thinking",
+      "thumbnail": "https://img.youtube.com/vi/UBVV8pch1dM/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921629Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:49:20.768387Z",
+      "streamUrl": "https://rr2---sn-i3belnl7.googlevideo.com/videoplayback?expire=1785750565&ei=xQ9wavnZHruQvcAP8tyHyAo&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AFklsbkshmmKN0YMpbM6x_1795-qKPr6O6O3aJRf7cjs&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=287&met=1785728965%2C&mh=2I&mm=31%2C29&mn=sn-i3belnl7%2Csn-i3b7knsd&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=4605000&bui=AZFlqhO9Y23vKDFytsBniAnB8HsOByHbVpfQRzX-IBs9AamW01aDvSD3c4bryeWL5VfI_Ya1ZLCQCPP0&spc=KBGBcjBqtIwNOOWfjRpPv7rWF12wrbajUhj_gQld5M7RlDJ9v1hZ&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=730.012&lmt=1749614323189781&mt=1785728502&fvip=2&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAIm_NpwMTNZOtDW4SRYP1MNGby_PRHnKcus3C-mGwS9EAiA06A-Tt2G4gVfFbBK6VwvLVB7Ix89oaiGpSnYOV7wtHw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhALU8UM3NtmLvYCHtSa3CBrH_18oqycI7OVsXAZAHUrBsAiBqukfqpgH3TFrD5pklqdiXUQvLfZtjds8KLELZGYYXNw%3D%3D"
     },
     {
-      "videoId": "eNLPg2z8VjQ",
-      "title": "The Science Of Everything And Nothing | Jim Al-Khalili",
-      "thumbnail": "https://img.youtube.com/vi/eNLPg2z8VjQ/hqdefault.jpg",
+      "videoId": "9lnRJKpknXM",
+      "title": "I Tested the Most Futuristic Science Gadgets!",
+      "thumbnail": "https://img.youtube.com/vi/9lnRJKpknXM/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921631Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:49:25.848124Z",
+      "streamUrl": "https://rr3---sn-i3b7kns6.googlevideo.com/videoplayback?expire=1785750570&ei=yg9waozLJY2erfcP6vqjyAQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-APaJ3DuVHUugFzkfSLYGNMBJ4YScPtFEWNOhjqayp5PU&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=239&met=1785728970%2C&mh=Fz&mm=31%2C26&mn=sn-i3b7kns6%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=4605000&bui=AZFlqhPMHZ-O8Xac0PMXa2iW6kA87UZs1dgFwhDGJDQoWmRIWs_nZ3L62ye0BpeI3JEShh8p3ibJEqpf&spc=KBGBcgSmzackQD8O8OzuGr_2HW2OLdMTqWo_al3_EdrLmMJc8b-V&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=52243280&ratebypass=yes&dur=954.084&lmt=1755992120375846&mt=1785728502&fvip=4&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhALVufCo1eBKh5Pu_EUlitBv7dXrBownt1p_YTGT73DkaAiA4fG8ESZirxM1fRODdhkVtLbMaEMxPv7fvaQlFvb1V0Q%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAKZjQ-5wBBN_cGvV_2vGhe6_L3URXIGM-siLjlRXd0XuAiEAgNQsPy6dkYUyaOYOWdJCDPhibTFTtOBJNGupiVnr4HQ%3D"
     },
     {
-      "videoId": "5iTOphGnCtg",
-      "title": "GENERAL CHEMISTRY explained in 19 Minutes",
-      "thumbnail": "https://img.youtube.com/vi/5iTOphGnCtg/hqdefault.jpg",
+      "videoId": "t8pcKyc3XbM",
+      "title": "100 EASY SCIENCE EXPERIMENTS with Explanation - PART 1 (1-50)",
+      "thumbnail": "https://img.youtube.com/vi/t8pcKyc3XbM/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921633Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:49:30.975129Z",
+      "streamUrl": "https://rr5---sn-oji3bc-5n.googlevideo.com/videoplayback?expire=1785750576&ei=zw9wasjqOraEpt8Pvu2N4Ak&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AFjUVpNeMpqHGQbUmFrGCEJSBMs7kCUpknZxvhXtQD_Q&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=532&met=1785728975%2C&mh=Pz&mm=18%2C29&mn=sn-oji3bc-5n%2Csn-i3b7knse&ms=aub%2Crdu&mv=m&mvi=5&pl=48&rms=aub%2Caub&initcwndbps=4605000&bui=AZFlqhOAgXjVA7CaOgRxr1Ssj-g4HvcQBnwIGFnntqvAzClwvMcXZVnHPFlp1JUBidd7XtLxmrygCv5x&spc=KBGBcqsERWvN4Ot4OPRPoQ517tOKITBiX1uyvneqeK8jcFcpx3J6&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=2495.169&lmt=1761805826398014&mt=1785728462&fvip=1&fexp=51565115&c=ANDROID_VR&txp=5438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhALOsa-_-BkiUkSbyHZc2vgTIiDQS0kk3cwXsDYuXa2K-AiBFT2Yk311deUR3t3kV696wOSZH_VH7cr-i0NsrGBtXcg%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANpYbKXOPcpCHA5jvwDnGQ-9UNWXnjKRrlK18G15aV3sAiEApJRgqu7PmfdeWckiCyvMbhcfcJGBNb5FrkqL3STlV0U%3D"
     },
     {
-      "videoId": "s9ALylTC9YQ",
-      "title": "Level 1 to 100 Science Experiments",
-      "thumbnail": "https://img.youtube.com/vi/s9ALylTC9YQ/hqdefault.jpg",
+      "videoId": "_ZizKQqHNgI",
+      "title": "40 Science Experiments - Experiments You Can Do at Home Compilation by Inventor 101",
+      "thumbnail": "https://img.youtube.com/vi/_ZizKQqHNgI/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921636Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:49:36.306924Z",
+      "streamUrl": "https://rr3---sn-i3b7knse.googlevideo.com/videoplayback?expire=1785750580&ei=1A9waqusNPiavcAPopzB4Qs&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AONmjWyGouE00HDNer2rMA5o3UMhm2i3QhTRYRUjcrJf&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=388&met=1785728980%2C&mh=Ys&mm=31%2C26&mn=sn-i3b7knse%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=4128750&bui=AZFlqhOrsSQQqlM9-ebhMkL0J-poDoh59JB-nt9YdvxG9viQFnsNxBXGalXh8zuiFYNjDQTh39kmVQwo&spc=KBGBcoO-XwVby3MZV46-OLzENECq3sjgMFH2cUUkUxnc4C1Rx1NI&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1294.024&lmt=1744167962912853&mt=1785728502&fvip=3&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgXelhNv420jLIvCI_sZ9ZThN38s9n5-_O_jM1Mc7rEacCIACRz1BLWfrxTdbOvO1UQVfd5G3Yx4xHdENPwLLI7Uzp&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAP-lEGKUstCk_FyhbHxZx6R2rO6Ell171yFedhy6otvTAiEAzg-yLQoEqVbdjXMNXir8MPdodYQvgZE2iS3vX6Advhk%3D"
     },
     {
-      "videoId": "JW9gcjpt89o",
-      "title": "Stephen Meyer, John Lennox, and James Tour: Three Scientists on the Origins of Everything",
-      "thumbnail": "https://img.youtube.com/vi/JW9gcjpt89o/hqdefault.jpg",
+      "videoId": "kUlBcIrOorQ",
+      "title": "Electrifying Experiments! | Full Episodes | NEW COMPILATION | Science Max",
+      "thumbnail": "https://img.youtube.com/vi/kUlBcIrOorQ/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921638Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "e4icPIRX9nc",
-      "title": "Revealing 5 Secret Magic Tricks With Science 2.0",
-      "thumbnail": "https://img.youtube.com/vi/e4icPIRX9nc/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921641Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "mvcesPWvUIc",
-      "title": "We've Been Using The Wrong Science In Court For 50 years",
-      "thumbnail": "https://img.youtube.com/vi/mvcesPWvUIc/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921667Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "pVDqiYIxvdA",
-      "title": "33 AMAZING SCIENCE EXPERIMENTS! Compilation | Best of the Year",
-      "thumbnail": "https://img.youtube.com/vi/pVDqiYIxvdA/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921672Z",
+      "fetched_at": "2026-08-03T03:49:41.188643Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -224,15 +96,71 @@
       "title": "Everything You Want to Know About Planets | How the Universe Works | Science Channel",
       "thumbnail": "https://img.youtube.com/vi/iqJjTeYv5-M/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921676Z",
+      "fetched_at": "2026-08-03T03:49:41.188659Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "22F85FOAyik",
-      "title": "Science explains: CRISPR diagnostics",
-      "thumbnail": "https://img.youtube.com/vi/22F85FOAyik/hqdefault.jpg",
+      "videoId": "eNLPg2z8VjQ",
+      "title": "The Science Of Everything And Nothing | Jim Al-Khalili",
+      "thumbnail": "https://img.youtube.com/vi/eNLPg2z8VjQ/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921680Z",
+      "fetched_at": "2026-08-03T03:49:41.188663Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "TLsqVjtrovo",
+      "title": "🔬 Science Max - EARTHQUAKES - Home Experiments 🌎",
+      "thumbnail": "https://img.youtube.com/vi/TLsqVjtrovo/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:49:41.188668Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "e4icPIRX9nc",
+      "title": "Revealing 5 Secret Magic Tricks With Science 2.0",
+      "thumbnail": "https://img.youtube.com/vi/e4icPIRX9nc/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:49:41.188672Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "z-R3DShHbkA",
+      "title": "EASY SCIENCE EXPERIMENTS TO DO AT HOME",
+      "thumbnail": "https://img.youtube.com/vi/z-R3DShHbkA/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:49:41.188676Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "bY1EQ6HD-ao",
+      "title": "What Bothers Physicists About Black Holes (Interview with Brian Cox)",
+      "thumbnail": "https://img.youtube.com/vi/bY1EQ6HD-ao/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:49:41.188681Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "3_YmHcjuv2E",
+      "title": "Level 1 to 100 DIY Science Experiments!",
+      "thumbnail": "https://img.youtube.com/vi/3_YmHcjuv2E/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:49:41.188685Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "8E8cFFGXvxg",
+      "title": "5 Hours Of How The Universe Works To Fall Asleep To",
+      "thumbnail": "https://img.youtube.com/vi/8E8cFFGXvxg/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:49:41.188689Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "NCjf6og4qHk",
+      "title": "29 SCIENCE TRICKS that look like real MAGIC",
+      "thumbnail": "https://img.youtube.com/vi/NCjf6og4qHk/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:49:41.188693Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -240,7 +168,79 @@
       "title": "What is Engineering? | Science for Kids",
       "thumbnail": "https://img.youtube.com/vi/vaQcrs-6Cf0/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:16:52.921684Z",
+      "fetched_at": "2026-08-03T03:49:41.188696Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "5iTOphGnCtg",
+      "title": "GENERAL CHEMISTRY explained in 19 Minutes",
+      "thumbnail": "https://img.youtube.com/vi/5iTOphGnCtg/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:49:41.188700Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "22F85FOAyik",
+      "title": "Science explains: CRISPR diagnostics",
+      "thumbnail": "https://img.youtube.com/vi/22F85FOAyik/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:49:41.188704Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "D2oz1M2lvVY",
+      "title": "Can You Pass This Science Quiz? 🧑‍🔬 General Knowledge Quiz",
+      "thumbnail": "https://img.youtube.com/vi/D2oz1M2lvVY/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:49:41.188708Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "AxnT5cqxxow",
+      "title": "Class 2 🔥 Group D | Science",
+      "thumbnail": "https://img.youtube.com/vi/AxnT5cqxxow/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:49:41.188712Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "-U-OLazb3eU",
+      "title": "Exploring the Deep Mysteries of Physics | World Science Festival",
+      "thumbnail": "https://img.youtube.com/vi/-U-OLazb3eU/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:49:41.188716Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "4f9V-8BHONo",
+      "title": "The Science of Interstellar with the Science Advisor, Kip Thorne",
+      "thumbnail": "https://img.youtube.com/vi/4f9V-8BHONo/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:49:41.188746Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "s9ALylTC9YQ",
+      "title": "Level 1 to 100 Science Experiments",
+      "thumbnail": "https://img.youtube.com/vi/s9ALylTC9YQ/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:49:41.188752Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "ekUbBot8tDA",
+      "title": "5 Easy At Home Science Experiments w/ Mark Rober",
+      "thumbnail": "https://img.youtube.com/vi/ekUbBot8tDA/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:49:41.188756Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "pVDqiYIxvdA",
+      "title": "33 AMAZING SCIENCE EXPERIMENTS! Compilation | Best of the Year",
+      "thumbnail": "https://img.youtube.com/vi/pVDqiYIxvdA/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:49:41.188760Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     }
   ]

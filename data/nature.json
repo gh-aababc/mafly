@@ -1,166 +1,118 @@
 {
   "category": "自然",
   "keyword": "nature",
-  "updated": "2026-08-02T22:19:53.978578Z",
+  "updated": "2026-08-03T03:54:50.093230Z",
   "videos": [
+    {
+      "videoId": "pJxeyK7it0o",
+      "title": "Breathtaking Nature in 4K | BBC Earth",
+      "thumbnail": "https://img.youtube.com/vi/pJxeyK7it0o/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:53:05.477873Z",
+      "streamUrl": "https://rr5---sn-i3b7knld.googlevideo.com/videoplayback?expire=1785750795&ei=qxBwauW-EdyPrfcPvoaliAs&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ABmW7SIatZLF9oRT1JSszKFHSWAK1D_SAaJtxmHg-YGl&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=195&met=1785729195%2C&mh=04&mm=31%2C29&mn=sn-i3b7knld%2Csn-i3belney&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=4358750&bui=AZFlqhMo4fa060m0LDiuqdCefdewSA82v2F4vz7ZkkGREgX1cRi7y-vlQ8-yCxkcUrx-N9QzZUug4e6B&spc=KBGBcgU0-hjg77vMzfNWdZeUQpbwyUZWXMRZHAg9xenBMsOC1iTw&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=302605495&ratebypass=yes&dur=4042.176&lmt=1748732085394772&mt=1785728720&fvip=3&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAL73ftPlA90podrC6tsFnIJfLIHl86iQirzB6q7DBHKkAiBt5Gd1crndAAQa5fuUf7Z4Dn7QoA-B5HJcDBoNQfS-xA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgf-WrxTKH5lwfUAMISkkaDPWLfxPJveLt9EE3Pu9IOZwCIFdNu2KPpt9CU7tv9l2t1o6lRM6QP5jmjs6AkbltE0WF"
+    },
     {
       "videoId": "sz6-F1wYFkw",
       "title": "The Alps, AMAZING Beautiful Nature with Soothing Relaxing Music, 4k Ultra HD by Tim Janis",
       "thumbnail": "https://img.youtube.com/vi/sz6-F1wYFkw/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:19:01.103507Z",
-      "streamUrl": "https://rr5---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785730746&ei=WsJvavi6BbaMqL8P9MSWgQM&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ALXg_d_uAeuNLEeoRhRiu-waSr2gwgMHaydMq86zRpvS&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=42&met=1785709146%2C&mh=t7&mm=31%2C29&mn=sn-oji3b5-58%2Csn-i3belney&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=3340000&bui=AZFlqhPQKJFAdTUXcsKtkx3LPt5OrggmJIvmlPs08vuw6uYrY_DNlGXSqq7JZkU-uZDglBtyOf3q1vGo&spc=KBGBctDztJ6Nt8MWiTic7G-_Kf2wkMflwBDNZD0Z4lGCrt2XVwb0&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=38591.100&lmt=1764336947880004&mt=1785708562&fvip=1&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAOSosgtFXkcpguW6QaBjQ4knEOyb-FUwzQgsLN29WMwbAiEArWCXL1e7ak-EnHCxVuj3wVkcs9Pfs2SeTrqvirzwp9k%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgHUajFILH5hQD11yWKDCuHyksajeCvrqgQ41nfkYHpikCIQDUTwiwnpBkx3rclk7RG5CjwBIMfeXbMYVL2yn3nPnf8g%3D%3D"
-    },
-    {
-      "videoId": "ExJf59ankJo",
-      "title": "BEAUTIFUL PLANET | The most beautiful places on Earth",
-      "thumbnail": "https://img.youtube.com/vi/ExJf59ankJo/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:19:06.369422Z",
-      "streamUrl": "https://rr4---sn-oji3bc-5j.googlevideo.com/videoplayback?expire=1785730751&ei=X8JvaqrkE-KKvcAPya-omQc&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AJR6WKxt3CgG5v27MRa2jQ0TOWIafcZyJJ_kJAkH_RUA&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=370&met=1785709151%2C&mh=p1&mm=31%2C26&mn=sn-oji3bc-5j%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=3881250&bui=AZFlqhMJ-3V_QaD3JWswQ5SeEIbgs2IRfAMKmOLPfpSZj6ubGn18t7u07hGeZdnZKha8zeFmpvPwfgvB&spc=KBGBcsFALxX9UqBSrmIYtf1Sn8BZ1y8A2s7WEJ0NMpPNcQ2r4fxa&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=1104272616&ratebypass=yes&dur=13469.454&lmt=1782710789713347&mt=1785708562&fvip=4&fexp=51565116&c=ANDROID_VR&txp=5538234&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgQ3fWrjoN2lrKqVIcXJHxovU1uZFHbsrZsqU4vpYubDMCIDc3R2oE8sMisY38YSyxI-tQ4uege1SAzaYWh9r7aOOp&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgBpBGCFLqzioWYY0kRb4GuBJLMT4vNpZthOATuCxttDMCIQC-SON6Y5wQxxupNwT8txRlUebbu7beCXv36WDGkxkUag%3D%3D"
-    },
-    {
-      "videoId": "KLuTLF3x9sA",
-      "title": "Norway 4K • Scenic Relaxation Film with Peaceful Relaxing Music and Nature Video Ultra HD",
-      "thumbnail": "https://img.youtube.com/vi/KLuTLF3x9sA/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:19:11.733719Z",
-      "streamUrl": "https://rr1---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785730756&ei=ZMJvar-HL5bW1d8PjbiwsAU&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AFld_9m4DBXG0ZuDSB4N_4yvPOXrX8fV4owbXQQHk4uu&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=269&met=1785709156%2C&mh=Z8&mm=31%2C29&mn=sn-i3b7kn6d%2Csn-oji3bc-5j&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=8701250&bui=AZFlqhPgNAnES2AkDU4-C0uJcgAFAY_SoJOXpp80mKlpXy44BpMTOt38wrTXVJkS4OJ6pqOdM3au1uTf&spc=KBGBcq5KNwNvpBt0sYkmjTble2byUFhxcrEOAvzMuGV90mQIu3eX&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=2887871601&ratebypass=yes&dur=43153.565&lmt=1727055859625082&mt=1785708802&fvip=4&fexp=51565116&c=ANDROID_VR&txp=4538434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAKpmAJ1j2vRXdx63jhwDN522Cc79jspWIFh2BruvIbZdAiEA32d2lxnyawOMnh3DdH5oOXIIx5PnM40r79pSenHb6sQ%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAISYvZ37e_jnUFyPgguHeDNmbDDuGLpk8eqTy54MPm2lAiAo5NE_5hiJppMwBb1267i2iNPOZ_dj73uMm8UKhfGBzw%3D%3D"
+      "fetched_at": "2026-08-03T03:53:15.644794Z",
+      "streamUrl": "https://rr1---sn-i3belney.googlevideo.com/videoplayback?expire=1785750807&ei=txBwapbRBdqU1d8Pt4TdwQI&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AJqGT1fchAjPL-wAS6PVpJok3FSDx8idj3wlZaiiqcuQ&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=248&met=1785729207%2C&mh=t7&mm=31%2C26&mn=sn-i3belney%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=4358750&bui=AZFlqhNC9bIOroBcwBpZb9-UxoS3bA37_zrVabSJcFCRx7IPrDDTYe2xJye7H0mxc53E5iqmDoiZmu4J&spc=KBGBctBHpZD1Q5iMweNHTFZjBYbrIVH6ECL2T_tXhOCjRySt6efI&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=38591.100&lmt=1764336947880004&mt=1785728720&fvip=1&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhALLAbSsVsM7Bcgkce_PXBnbdIlxkJoB3JNln65wFE2X5AiBZHDJnNKZ89_8P_a1Q-7FFoaTN0hsi_Zlxu9SakfitfQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAJOmd0EJ1FI0-BSgVCcXkevSWj8O6D7_pLqjUPMYBgL6AiAqllD2ta7RFnfon3s3N-WkCnzHEFxKqrTOlFNk6mR9PQ%3D%3D"
     },
     {
       "videoId": "SYyvx6GE2UI",
       "title": "Nature Europe 4K • Calm Horizon with Deep Relaxing Music | Relaxation Film",
       "thumbnail": "https://img.youtube.com/vi/SYyvx6GE2UI/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:19:17.102331Z",
-      "streamUrl": "https://rr2---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785730762&ei=acJvaoGUPPLu2roPlt_H4Ak&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ABVzkym9Icq-scBDQNkL8krmeWPaq8JxjV0QXSYez4xU&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=152&met=1785709161%2C&mh=4A&mm=31%2C29&mn=sn-i3b7kn6k%2Csn-i3belnll&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=3247500&bui=AZFlqhO9krfxvLpn2kVVjMW6Rfc_gcJ8RJsfzL4NQCGA6ZPROPJBgfDH0GvnerVKV712kq1abBU0l4rX&spc=KBGBckuduMWnJlhhIP1XP5xMKHHhiEicKbrqa3JYmmFITvEvBgx-&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=43199.796&lmt=1778042802122321&mt=1785708802&fvip=2&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAIsBqXxLLs72WrDBo1i7mPg5Ukb1JupBkWtjtr-sEAWpAiA5KcAKlOFNUA8J3TsU92G4OVWD8NHBOeVCwKu49o_UHw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgcdr6yth5PDGapaGvA4jSFPp0w-vho7-IJYQ5wPYi96ECIAlHygpuwkN9Z8vRBfA3IEPU3eWRtjX0lBzQGtwSG7Mp"
+      "fetched_at": "2026-08-03T03:53:27.365064Z",
+      "streamUrl": "https://rr2---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785750818&ei=wRBwao6EO_uw2roPmrjBuAg&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AO-HqX6VPO0KtlORFsEyjIy6sCoUFWK5FymSuLEIXHtW&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=291&met=1785729217%2C&mh=4A&mm=31%2C29&mn=sn-i3b7kn6k%2Csn-i3belnll&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=4358750&bui=AZFlqhOTkN9HNozfXfMwNqcvWunxm5jqKvTcGpcw9YCDPXfMPcy-1rNGRrz0Guz5JXGXsK6s6jQgtysA&spc=KBGBcssuBUzFWlakKBF_tNexB9EBDg3r8ZfqBQuPDcUcmxDOLNOM&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=43199.796&lmt=1778042802122321&mt=1785728720&fvip=2&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgFMqSWME22hl539zJyJxg0mVU20UqQpPfiIu3i2vgq2MCIHc8i9U4AueYLhEh3KZX8nw13whVJNZniSno05vcYpEn&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAORrijV8LA3wWzcwUUF0a_a4TRTLjq-RbziXAG9lorpwAiALgA0Vi5riar_8alagazbrvpF671vgyVb6XpYZXa8aDw%3D%3D"
+    },
+    {
+      "videoId": "WwA_7QyqtGI",
+      "title": "UNREAL AMAZON – Nature’s Most Dangerous Paradise (Full Documentary)",
+      "thumbnail": "https://img.youtube.com/vi/WwA_7QyqtGI/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:53:38.268437Z",
+      "streamUrl": "https://rr3---sn-oji3bc-5j.googlevideo.com/videoplayback?expire=1785750828&ei=zBBwatuSA--W1d8P-MjY2Qg&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ALIRS1OkCN3OPupQwqJRJxd2UwgSJzJPLwy-KW9GcVN7&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=406&met=1785729228%2C&mh=P_&mm=31%2C29&mn=sn-oji3bc-5j%2Csn-i3b7kn6k&ms=au%2Crdu&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=4315000&bui=AZFlqhPWFUHedibirzRpoW49SnKmXGoPBh1kNhSg8hIWo3ymYY_qZ0zd5EEUI2YJ0BWTzdUtf-lbzaZE&spc=KBGBciVbyMgjMW1xKx-IDeZmbdM7BxFziNsFIgOJBxru9RLlGUG_&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=4494.338&lmt=1774149394777944&mt=1785728720&fvip=3&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhALBopY1_xY1GzApOTP6NZuWAEiWXXCl7yymCyL2d1fdrAiEAs4nzJSLpMPPM2pA28pokxaIHjRr4WLneVOUxlo68m5s%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAOWOs3GvawbsCPrNoAdKRn8Px9qK_ZloIrRzRu3mO9yfAiEAlwiCpbta8vZf8AlYVpFvXOiaCPxelmkmpZzNzlcGRxc%3D"
+    },
+    {
+      "videoId": "VKSEG8Xr-RQ",
+      "title": "Relaxing Nature 4K | 2 hours Handpan Meditation | Malte Marten & Changeofcolours",
+      "thumbnail": "https://img.youtube.com/vi/VKSEG8Xr-RQ/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:53:48.415715Z",
+      "streamUrl": "https://rr1---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785750838&ei=1hBwata9HaXAvcAPtPzPqA8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AAA6rA7_qn2rBeJfwxpsTkfl-vhfArSqMBEbzVyZsnhG&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=591&met=1785729238%2C&mh=Fu&mm=18%2C29&mn=sn-i3b7kn6k%2Csn-i3belnl6&ms=aub%2Crdu&mv=m&mvi=1&pl=48&rms=aub%2Caub&initcwndbps=4315000&bui=AZFlqhP-dEw2uTDZWHLS-o_BjVFm9chppCXr0WcApAnuxq-Y5tHM_If80n8BERlWgrELdJ3x56eY24Uu&spc=KBGBcjJdEspmEfEi7LutpNx9eCu9MCQQckn1jYcX-QM7bOZDdMJW&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=603142631&ratebypass=yes&dur=7753.375&lmt=1779084717609275&mt=1785728687&fvip=3&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAK5bus5XtOVd3lR6LyYrUyxtukW9MpCFw7RFwYxqtiV9AiEA6qC2XUI1wo4VfQVuAnqwfgN0d5BvwXHIPX1OWucp96U%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAMvWxhQ3O9G66wqEMlRuLQxTXTqfLelQCEkYSMz-kFZUAiEAsedpxHY-Fr072u8V7xGd0I1nNyjlu37nvQl5cwpsrNU%3D"
+    },
+    {
+      "videoId": "eKFTSSKCzWA",
+      "title": "Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study",
+      "thumbnail": "https://img.youtube.com/vi/eKFTSSKCzWA/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:53:58.761555Z",
+      "streamUrl": "https://rr1---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785750849&ei=4RBwavKvBNaTvcAP-87P-Ag&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AMj0li6ckGQ1WC76CSOo2dumqsxHhESF83Oserf1BQr8&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=274&met=1785729249%2C&mh=G7&mm=31%2C29&mn=sn-i3b7kn6d%2Csn-i3belnll&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=4358750&bui=AZFlqhNnLKiNp0BtAY2qNOHwKrIm55tEsRSg1gY_crgdN_C_vu0OzMt01GcduEaaKrlmLT1RBNWSL8fY&spc=KBGBchSuADvfEciC5dpGc7Aq2wffM2OANh1bU3aMIHGxZzCdOQPa&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=30003.408&lmt=1761732795900492&mt=1785728720&fvip=2&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgJ56tdT2T4GFkgmYHMy1_rAozziJKze1_RXux1ERMZHQCIFj-U_Mtn73K00MpGmnPCrNBHmh4ZU2aL4WTtF11A8U0&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgbrVXgN5OREyfWsceaMnWs_dHcpWlbToETxbXvr5d6MACIDV9YE4B_rOLbvKHcFjKBSFoqhwrETe4MBSN8Fwnxu7p"
     },
     {
       "videoId": "aVS7PHjSxdI",
       "title": "8 HOURS OF RELAXING NATURE SOUNDS AND GENTLE BIRDSONG",
       "thumbnail": "https://img.youtube.com/vi/aVS7PHjSxdI/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:19:22.251445Z",
-      "streamUrl": "https://rr1---sn-i3b7kns6.googlevideo.com/videoplayback?expire=1785730766&ei=bsJvao75L97bpt8Pm73ZmQU&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ABNb_ReQRf_xk4LdXNLAxg6QjGDFt6Ensw6xuzhX087z&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=351&met=1785709166%2C&mh=HB&mm=31%2C29&mn=sn-i3b7kns6%2Csn-oji3bc-5n&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=8701250&bui=AZFlqhPnhmdACAqjGyHwl96rSh0EmvhnLz4MsfLlnhgvHJANpkgCE4mUxOM2mnOyszkw1U22GN4TTpqn&spc=KBGBcgwHz7MDjY0316wOVnqrvQLUmJHN9jO1N7PsNjnvRzRjIivZ&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=28829.663&lmt=1777515973703576&mt=1785708802&fvip=5&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAMnW1gFr58mcOIh7CS9CqExdMVSwTcSjM2tyc8EFZKGNAiA6fagVZK5NQhOLddTDK3jVQ8gAqmj04_1lXZ8eoTwLvw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAPuxZPAozzljKYoczBkHj-PQbe1WE0pm0DwX4k7pz7UuAiEA_GqNMGCPITrj4sAxNRK2V6E8YPkAqHas2SyPtPhjNHc%3D"
+      "fetched_at": "2026-08-03T03:54:09.340341Z",
+      "streamUrl": "https://rr1---sn-i3b7kns6.googlevideo.com/videoplayback?expire=1785750859&ei=6xBwaqydCPWXvcAPqqKduQ4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AFUULng7GjIkkw72aqpxnDIknWmQ1YMiHKKQmp2y4RDn&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=327&met=1785729259%2C&mh=HB&mm=31%2C29&mn=sn-i3b7kns6%2Csn-oji3bc-5n&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=4358750&bui=AZFlqhO-TC_WzrnqGd8emxURTFnRF5-eHGhvSFAuXOPtuc6R8CIlxPcrr57bX5cAbkPFYcv1FSmiSADS&spc=KBGBcsgcN-iMMMQwgzNRRAviZI-yTshjMbvuVrnco-FsGDCTmPq7&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=28829.663&lmt=1777515973703576&mt=1785728720&fvip=5&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgVCd9lo5H55GBE_Rrerirfw2SmyWQQKVLywMLbMSBtoECIQDdzYROxQ9Kh-Ve_GfqeZXiNMqlLPX8oR1y_LjTbAcoLQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAKFizv02tX7NhbUor-2-PV03BeT7LWbmmq-4yQ0TXakbAiADkhku4NApx8fO87oVDeKHUs4VpIt2VyXbs4p7aTeKKg%3D%3D"
     },
     {
-      "videoId": "ennd2EhRrfA",
-      "title": "FLYING OVER THAILAND (4K UHD) – Soothing Music Along With Beautiful Nature Video - 4K Video ULTRA HD",
-      "thumbnail": "https://img.youtube.com/vi/ennd2EhRrfA/hqdefault.jpg",
+      "videoId": "SMKPKGW083c",
+      "title": "Norway AMAZING Beautiful Nature with Relaxing Music and sound, 4k Ultra HD | Relaxation film",
+      "thumbnail": "https://img.youtube.com/vi/SMKPKGW083c/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:19:27.052408Z",
-      "streamUrl": "https://rr4---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785730771&ei=c8Jvasf1Jeiy2roP1siN2Q4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ALnkH9Wp92fWVdUv27pE7IkTLYuS_XF0SEC5z9vHW4fd&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=138&met=1785709171%2C&mh=rV&mm=31%2C29&mn=sn-oji3b5-58%2Csn-i3belnsy&ms=au%2Crdu&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=3247500&bui=AZFlqhMjs6j9Dt7OZzJqQnf5ScS4Bipw96sM-AAggqKp__kmUhsiA8NfmoL7d9eQRUXHP_5-yNk8NsT3&spc=KBGBcgGnM1WNio4_Xc5wI4gzpNyqFUz2uqUnz9GeK8KZd8mQ2VJ-&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=2473889535&ratebypass=yes&dur=42896.822&lmt=1785124521186958&mt=1785708802&fvip=5&fexp=51565116&c=ANDROID_VR&txp=7309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgMRQoPui3CfhA_8Ejbp67iq1ZvxseCWD8GMPTh6x0Y2ACIFDp12auu7fQi5DmAROyDK8nvOduXZ3Aze3LxiJKFKJH&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgeAO5N1LuS1Bx2r0M7xCz3ZEzTffa20-0L_jKUXgcrmsCIEqVcul3_QAtgqMs98OsxwWgxnTpPG31_w1Jm1N1o0Eh"
+      "fetched_at": "2026-08-03T03:54:19.414748Z",
+      "streamUrl": "https://rr2---sn-i3b7kns6.googlevideo.com/videoplayback?expire=1785750869&ei=9RBwapzvMduDvcAPxJ3DgA4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AL7nUdRHc4LoPjNmPv3yjCBElFQqs1aAz1MX0_gu5V9M&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=468&met=1785729269%2C&mh=Ox&mm=31%2C26&mn=sn-i3b7kns6%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=4315000&bui=AZFlqhPbRvum0TVBQP_HeAStUL9f5C8K0b2rD40InKNI61HegcpYM1qRIjaD5jUtYPRRkjZ0O5ku2v-e&spc=KBGBcja6DGJP8aHvuxFV5DJqdvhG41lWNHb2RD61AqpauEsmP0qx&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=3492.025&lmt=1743805925916325&mt=1785728720&fvip=2&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAJDF9S3R7uBv5uww65--nFbrov8IehoAAzPTVdTP1PYQAiBMhDCYZCZ4RY6DKNdrzKxP0kbABg-IkRueSyzp29LnqA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgVsAej1taXE-0PxgKChnVXZkjc4IjSAQ-JpNC_2eUEpwCICAiUqXABMwAU3Plubsoln1yG_hDw9OvEPf45xfgPmhR"
     },
     {
-      "videoId": "JV7r8yV_eGg",
-      "title": "Unbelievable Moments From Nature - Narrated by David Attenborough | BBC Earth",
-      "thumbnail": "https://img.youtube.com/vi/JV7r8yV_eGg/hqdefault.jpg",
+      "videoId": "4WS_DtwAbZg",
+      "title": "Turquoise Mountain River at Dawn – Pure Water Sounds, No Birds | Peaceful Nature Ambience for Sleep.",
+      "thumbnail": "https://img.youtube.com/vi/4WS_DtwAbZg/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:19:31.938841Z",
-      "streamUrl": "https://rr5---sn-i3belnls.googlevideo.com/videoplayback?expire=1785730776&ei=eMJvapfJMKX1pt8P5d3EqQ8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AHGEYc2DFr05KvqyhfRaOeJq19DSuky9IxEGSHIh9bR3&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=307&met=1785709176%2C&mh=nL&mm=31%2C26&mn=sn-i3belnls%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=3247500&bui=AZFlqhOvCXCdIBNjoiKSDT388vmkdbHlHml6SXG0TYkytNvwo1a0_r8CQtcXO8CtPa0sCUieHavc-pTy&spc=KBGBcpDuK6g_4ED6Fnk2fwdj5OOL1hBgi6F9xxLf3AbRy1K73SSK&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=808585252&ratebypass=yes&dur=10795.328&lmt=1779488017452851&mt=1785708802&fvip=4&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhALXhYrHPzVA8ZgXd9rVr2_Crw3VUGwead2bolLsSCdeQAiA9Rd7-5fvmEs2zJ2Ahxc-MBigVg5TiyFRnrolh-2_1hg%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAKkI1qfS3G9o3cqM-U7-_htDp2ABDjEhcHAfXPUYumtfAiBrifl8CgLbAcc5kzaY9mvuLq5WVz72nFtB_aAPE4kj_Q%3D%3D"
-    },
-    {
-      "videoId": "u00_5AEcnT0",
-      "title": "WILD TIBET | The Last Wildlife Sanctuary in the Himalayas | Nature Animal Documentary",
-      "thumbnail": "https://img.youtube.com/vi/u00_5AEcnT0/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:19:37.163348Z",
-      "streamUrl": "https://rr2---sn-i3belnll.googlevideo.com/videoplayback?expire=1785730781&ei=fcJvau7HL8Ou2roP9u-zoAE&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AOhXLsWx4vJuCA7RtNvp1nCq3byQuqsIX40YjROeYhHh&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=538&met=1785709181%2C&mh=Zd&mm=31%2C29&mn=sn-i3belnll%2Csn-oji3b5-5n&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=3247500&bui=AZFlqhM6Ez393QNjjp4OsFMTKr9YGfBMnzLoo5UjohjxWI_QMDQffQmsTpzCtKV6quxffC9t-moQZYyN&spc=KBGBcs1DICi2J5S79mkFH6-mR251g16FQvrBi-osKM8QqoVSBPIw&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=580526704&ratebypass=yes&dur=7566.942&lmt=1785566502162301&mt=1785708802&fvip=2&fexp=51565116&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAL7Y209h7G02dnKcvPZ4SDC97WWe6A2g26hHnxWdEmCIAiEAu_0PL62Xp-0tEdL_2psUWoOx6VbP0_ILR6Gd-DMw-gQ%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgdgAlI8d9ldqmu9Btr33UDwtbi8zWZEGwaiNiTyOJqVwCIBJwFfHTJ5X7s7cTH99cikGqOg0z0ZD_Fmv9BPhnLZSv"
-    },
-    {
-      "videoId": "oo9c9HC-pmM",
-      "title": "The Incredible Wildlife of Hidden Forests | BBC Earth",
-      "thumbnail": "https://img.youtube.com/vi/oo9c9HC-pmM/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:19:42.118018Z",
-      "streamUrl": "https://rr5---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785730787&ei=g8JvapPHBeaBkuEPydOayAk&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AAi_JI9MjACs_IOBR9T00tI6OFQVfkCayOiX8QxtaOND&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=298&met=1785709187%2C&mh=9a&mm=31%2C29&mn=sn-i3b7kn6k%2Csn-oji3bc-5n&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=8701250&bui=AZFlqhMhzUQOVgCH4o4nmKfHjREfoYMNUBUvlbT4UpICvw9B66j9XrJHZtjWvK7LowNLpH__66wFXf9f&spc=KBGBcroOm2oSLF4MeV3QSM59FBgm6xCjNsUIWp8dgrBxPzj2Pjbz&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=5345.140&lmt=1776499378230989&mt=1785708802&fvip=2&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgGyl7_GFoQB1fw7nXNFKXxytwSweip0U_RTgPBWyFxfsCIHhFNGpUgKF72tFpO5CwP8eycH9er4E1JpsYGSNX2wR-&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAIVSsZZxYLsgug12MoYVaOXUNiE9uROTS5lEJsGi5W9aAiEAldpG7JWhegyZ8Mgxf3pZaUrXKPifuuxvTiPLhjn8trw%3D"
-    },
-    {
-      "videoId": "J7ZrIDvqlic",
-      "title": "LIVE Brooks Falls - Katmai National Park, Alaska 2026 | explore.org",
-      "thumbnail": "https://img.youtube.com/vi/J7ZrIDvqlic/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:19:47.427739Z",
-      "streamUrl": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785730792/ei/iMJvapIDk6a9wA_FitShCQ/ip/2403:27c0:c03:1::71/id/J7ZrIDvqlic.22/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-oji3bc-5j.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhNcRWo-9PM-YFqX1N2j7WDG5Y0yQvXtH6tut3Jf7QZtHKq1NsYhY18lfUW5KEjXJx393BamOStn/spc/KBGBclcCfJhKYuod82LuIpEwKp9TuhwIePikx1YnoGGKrV_3IQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3881250/met/1785709193,/mh/kz/mm/44/mn/sn-oji3bc-5j/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785708513/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgYT5ToMPSWBkUJCuhpExs157BMtzEqv0xlDDbfHXDCJgCIGNhNwvox2mrP-tX1BfRH0EJs7D-x2NvzoJRLfq1Ztkj/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAIUhGvC3bPoN_TTDgD7gfMsD0uUcq6Q0cdI29Lh9pZDiAiEAilSnB8yPtmlRNHG_gwOZJijTjA43yFhLZlWmaNnbfKo%3D/playlist/index.m3u8"
-    },
-    {
-      "videoId": "QZl_HuHjfnQ",
-      "title": "🌿 Exploring UNREAL PLACES on Earth in 4K HDR (60FPS, Dolby Vision) | Green Ambience Nature Film",
-      "thumbnail": "https://img.youtube.com/vi/QZl_HuHjfnQ/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978490Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "BHACKCNDMW8",
-      "title": "3 Hours of Amazing Nature Scenery & Relaxing Music for Stress Relief.",
-      "thumbnail": "https://img.youtube.com/vi/BHACKCNDMW8/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978507Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "iA9-KcsY_gA",
-      "title": "Forgotten Forests of Malaysia | Free Documentary Nature",
-      "thumbnail": "https://img.youtube.com/vi/iA9-KcsY_gA/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978512Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "7ZhdXgRfxHI",
-      "title": "Incredible 4K Nature Scenes Narrated By David Attenborough | BBC Earth",
-      "thumbnail": "https://img.youtube.com/vi/7ZhdXgRfxHI/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978516Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "esszpFQBMQE",
-      "title": "WILD ALASKA | Where Great Predators Defy the Extreme Cold | Nature Animal Documentary",
-      "thumbnail": "https://img.youtube.com/vi/esszpFQBMQE/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978520Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "wJclTClKpfw",
-      "title": "Beautiful Relaxing Music🌿 Stop Overthinking, Stress Relief Music, Sleep Music",
-      "thumbnail": "https://img.youtube.com/vi/wJclTClKpfw/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978524Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "3YTohytF9oE",
-      "title": "6 hours Fantastic VIews of the Earth 4K with Relaxation Music",
-      "thumbnail": "https://img.youtube.com/vi/3YTohytF9oE/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978527Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:54:30.100919Z",
+      "streamUrl": "https://rr2---sn-oji3b5-5n.googlevideo.com/videoplayback?expire=1785750879&ei=_xBwaoWvLrf5pt8Pv77-8Ak&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AHvdqoIwF6FcLbPk4a6RF4dXhgAsETs9AVP6jhfRR5T2&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=299&met=1785729279%2C&mh=Xv&mm=31%2C29&mn=sn-oji3b5-5n%2Csn-i3belnl7&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=4358750&bui=AZFlqhOre13topp50nLlIWU0fqHDs21GZKsUkcul8tBf3sA9gqjeY4bnaSE9T5sYfvo5GGXguhRJzHpL&spc=KBGBcnpoHCgbAO2aEaK8AESNg1-kXAabypRqW0Wc-uwjtUYWKywn&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=36427.998&lmt=1777306445103937&mt=1785728720&fvip=3&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgDFXHx1S_oNbRTIrQkE5QoffoyKb5--v836r_e5dpRCICIHIlMTKxd3IlHOTHix7La79muhsQ4TcgaTDdbpsHd75x&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgZ43Ij8cnyJtcEsSyheuiH9PQ_mW6sNHbMaVW0PW15QECIAUv5y0dQdF2VWcH1VETNjEz_vKpBNEjMzDsKSiVHoKS"
     },
     {
       "videoId": "29XymHesxa0",
       "title": "Forest River Nature Sounds - Gentle Stream with Birdsong | 4K Relaxing Nature Ambience for Sleep",
       "thumbnail": "https://img.youtube.com/vi/29XymHesxa0/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978532Z",
+      "fetched_at": "2026-08-03T03:54:40.022297Z",
+      "streamUrl": "https://rr5---sn-i3belne6.googlevideo.com/videoplayback?expire=1785750889&ei=CRFwasW1MeLnpskPyqev8Q8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AOAc4ZDxRq_quL1VMalYZwU9YQYUWH9T4F_zRL2TA6KQ&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=378&met=1785729289%2C&mh=6m&mm=31%2C26&mn=sn-i3belne6%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=4315000&bui=AZFlqhMCbQgF22wbYsQA4NjSXoJMgqoXb5b2du-k9IYs6k--NhA3L-ESfRRn_HythzY-a_6XWsh21tuk&spc=KBGBclxR9blUiaf8eAJ45F3okkHxzorgEn-39jRqpUAGPYdZ41CK&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=996369412&ratebypass=yes&dur=10800.065&lmt=1775455908273413&mt=1785728720&fvip=1&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgd8B1yiUrtA1uO9fuFqlar1Fy5WWE5cKFOCCJddtvhf8CIQC7SbPGmUH9IoAV7_MFzdxKJXfPKMHJQF7jk_Eo-T-Nyg%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgdSv3jbgixWQJ2gh2Zq90O1VcpPApfZHtJIzwBIX5fhUCIQD4LcaT0JM3EvWQhrtcKD1O_MLuHJ1zsfSVVn8OM08CrA%3D%3D"
+    },
+    {
+      "videoId": "8DIv6eU5kM8",
+      "title": "3 Hours of Epic Nature Footage in 4K | 4K UHD | BBC Earth",
+      "thumbnail": "https://img.youtube.com/vi/8DIv6eU5kM8/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:54:50.093146Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "UTuAIid6x28",
-      "title": "Stunning 4K Underwater Nature Footage | BBC Earth",
-      "thumbnail": "https://img.youtube.com/vi/UTuAIid6x28/hqdefault.jpg",
+      "videoId": "3xPkwNu2o8g",
+      "title": "12 HOUR 4K FILM \"Splendors of Nature\" Planet Earth's Wonders by Drone, Land & Sea - 4K UHD, No Loops",
+      "thumbnail": "https://img.youtube.com/vi/3xPkwNu2o8g/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978535Z",
+      "fetched_at": "2026-08-03T03:54:50.093163Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "ABnPPtlv6cE",
-      "title": "NATURAL WONDERS: The Wildest Places on Earth",
-      "thumbnail": "https://img.youtube.com/vi/ABnPPtlv6cE/hqdefault.jpg",
+      "videoId": "JV7r8yV_eGg",
+      "title": "Unbelievable Moments From Nature - Narrated by David Attenborough | BBC Earth",
+      "thumbnail": "https://img.youtube.com/vi/JV7r8yV_eGg/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978539Z",
+      "fetched_at": "2026-08-03T03:54:50.093168Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "Xv2NElOHo-0",
+      "title": "Gentle Woodland Stream and Birdsong | Relaxing Forest Nature Sounds for Focus & Calm",
+      "thumbnail": "https://img.youtube.com/vi/Xv2NElOHo-0/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:54:50.093172Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -168,47 +120,87 @@
       "title": "3 Hours of Incredible 4K Nature Footage | BBC Earth",
       "thumbnail": "https://img.youtube.com/vi/5PQYM_KSXag/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978543Z",
+      "fetched_at": "2026-08-03T03:54:50.093176Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "8DIv6eU5kM8",
-      "title": "3 Hours of Epic Nature Footage in 4K | 4K UHD | BBC Earth",
-      "thumbnail": "https://img.youtube.com/vi/8DIv6eU5kM8/hqdefault.jpg",
+      "videoId": "AY5qcIq5u2g",
+      "title": "FLYING OVER JAPAN (4K UHD) Amazing Beautiful Nature Scenery with Relaxing Music | 4K VIDEO ULTRA HD",
+      "thumbnail": "https://img.youtube.com/vi/AY5qcIq5u2g/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978547Z",
+      "fetched_at": "2026-08-03T03:54:50.093180Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "WwA_7QyqtGI",
-      "title": "UNREAL AMAZON – Nature’s Most Dangerous Paradise (Full Documentary)",
-      "thumbnail": "https://img.youtube.com/vi/WwA_7QyqtGI/hqdefault.jpg",
+      "videoId": "KLuTLF3x9sA",
+      "title": "Norway 4K • Scenic Relaxation Film with Peaceful Relaxing Music and Nature Video Ultra HD",
+      "thumbnail": "https://img.youtube.com/vi/KLuTLF3x9sA/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978550Z",
+      "fetched_at": "2026-08-03T03:54:50.093184Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "eKFTSSKCzWA",
-      "title": "Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study",
-      "thumbnail": "https://img.youtube.com/vi/eKFTSSKCzWA/hqdefault.jpg",
+      "videoId": "ExJf59ankJo",
+      "title": "BEAUTIFUL PLANET | The most beautiful places on Earth",
+      "thumbnail": "https://img.youtube.com/vi/ExJf59ankJo/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978553Z",
+      "fetched_at": "2026-08-03T03:54:50.093188Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "UV0mhY2Dxr0",
-      "title": "Nature Relaxation Film 4K - Peaceful Relaxing Music - Nature 4k Video UltraHD",
-      "thumbnail": "https://img.youtube.com/vi/UV0mhY2Dxr0/hqdefault.jpg",
+      "videoId": "WZFIo4yj17c",
+      "title": "6 hours Magnificent Views of the Earth 4k with Relaxation Music",
+      "thumbnail": "https://img.youtube.com/vi/WZFIo4yj17c/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978557Z",
+      "fetched_at": "2026-08-03T03:54:50.093193Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "ipf7ifVSeDU",
-      "title": "Relaxing Meadow with Ambient Nature Sounds, Wildflowers, and Mountain View - 8 Hours",
-      "thumbnail": "https://img.youtube.com/vi/ipf7ifVSeDU/hqdefault.jpg",
+      "videoId": "wJclTClKpfw",
+      "title": "Beautiful Relaxing Music🌿 Stop Overthinking, Stress Relief Music, Sleep Music",
+      "thumbnail": "https://img.youtube.com/vi/wJclTClKpfw/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978561Z",
+      "fetched_at": "2026-08-03T03:54:50.093198Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "BHACKCNDMW8",
+      "title": "3 Hours of Amazing Nature Scenery & Relaxing Music for Stress Relief.",
+      "thumbnail": "https://img.youtube.com/vi/BHACKCNDMW8/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:54:50.093202Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "QZl_HuHjfnQ",
+      "title": "🌿 Exploring UNREAL PLACES on Earth in 4K HDR (60FPS, Dolby Vision) | Green Ambience Nature Film",
+      "thumbnail": "https://img.youtube.com/vi/QZl_HuHjfnQ/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:54:50.093207Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "esszpFQBMQE",
+      "title": "WILD ALASKA | Where Great Predators Defy the Extreme Cold | Nature Animal Documentary",
+      "thumbnail": "https://img.youtube.com/vi/esszpFQBMQE/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:54:50.093211Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "B9VRvOKKwfs",
+      "title": "SWITZERLAND • 4K Relaxation Film: Winter to Spring • Relaxing Music - Nature 4k Video Ultra HD",
+      "thumbnail": "https://img.youtube.com/vi/B9VRvOKKwfs/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:54:50.093213Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "7ZhdXgRfxHI",
+      "title": "Incredible 4K Nature Scenes Narrated By David Attenborough | BBC Earth",
+      "thumbnail": "https://img.youtube.com/vi/7ZhdXgRfxHI/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:54:50.093216Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -216,23 +208,7 @@
       "title": "Most Beautiful Places in the World in 4K UHD | Relaxing Cinematic Nature Film",
       "thumbnail": "https://img.youtube.com/vi/a-8XiE7W7u4/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978565Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "ypjGowLOqmE",
-      "title": "Spring in the Montana Wilderness , Beautiful Relaxing Music, Peaceful Soothing Music, by Tim Janis",
-      "thumbnail": "https://img.youtube.com/vi/ypjGowLOqmE/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978568Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "F-Xs9s-q358",
-      "title": "Harmonious Birds Chirping, Beautiful Stream Sounds,  Lovely Nature Sounds, Cozy Paradise",
-      "thumbnail": "https://img.youtube.com/vi/F-Xs9s-q358/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978572Z",
+      "fetched_at": "2026-08-03T03:54:50.093218Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -240,7 +216,31 @@
       "title": "Sunny Mornings: Beautiful Relaxing Music with Piano, Guitar & Bird Sounds by Peder B. Helland",
       "thumbnail": "https://img.youtube.com/vi/hlWiI4xVXKY/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:19:53.978575Z",
+      "fetched_at": "2026-08-03T03:54:50.093221Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "ypjGowLOqmE",
+      "title": "Spring in the Montana Wilderness , Beautiful Relaxing Music, Peaceful Soothing Music, by Tim Janis",
+      "thumbnail": "https://img.youtube.com/vi/ypjGowLOqmE/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:54:50.093223Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "ipf7ifVSeDU",
+      "title": "Relaxing Meadow with Ambient Nature Sounds, Wildflowers, and Mountain View - 8 Hours",
+      "thumbnail": "https://img.youtube.com/vi/ipf7ifVSeDU/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:54:50.093226Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "ABnPPtlv6cE",
+      "title": "NATURAL WONDERS: The Wildest Places on Earth",
+      "thumbnail": "https://img.youtube.com/vi/ABnPPtlv6cE/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:54:50.093228Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     }
   ]

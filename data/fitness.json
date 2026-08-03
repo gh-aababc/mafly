@@ -1,166 +1,102 @@
 {
   "category": "健身",
   "keyword": "fitness",
-  "updated": "2026-08-02T22:14:19.254096Z",
+  "updated": "2026-08-03T03:46:13.938669Z",
   "videos": [
     {
-      "videoId": "nardrbgqZ00",
-      "title": "20 min Fat Burning Workout for TOTAL BEGINNERS (Achievable, No Equipment)",
-      "thumbnail": "https://img.youtube.com/vi/nardrbgqZ00/hqdefault.jpg",
+      "videoId": "x6wiDew4sYU",
+      "title": "The Best 25 Minute Exercise Routine For Seniors Over 60",
+      "thumbnail": "https://img.youtube.com/vi/x6wiDew4sYU/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:13:28.233924Z",
-      "streamUrl": "https://rr1---sn-i3belnls.googlevideo.com/videoplayback?expire=1785730413&ei=DMFvarm1O-STvcAP5bP-qAQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AMK-FOhLyN9nhaoXHdr2Vr6xgO8u4jHs539qMh5YxB-c&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=226&met=1785708812%2C&mh=FY&mm=31%2C26&mn=sn-i3belnls%2Csn-ojhoai-5a&ms=au%2Conr&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=3171250&bui=AZFlqhN_ISfj8Nxf93BLRBmX2sohSZbBFFWvCV2nMyV_4ygEyUWKeyZ2tI8ERfOyDVmk0ek20P8OsGM2&spc=KBGBcmfj8LSWrMk1tagGc1CeRduIRkQ0MXrwEb2w0WpjkbVjgrlV&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1372.926&lmt=1749662505941749&mt=1785708331&fvip=3&fexp=51565116&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAPfQAJLVOLvrEplD1hhYEmE9TrGSThaOGui6Lk6R37M4AiEAp8Vr-vSL9k62YPiVneZbzD-NWhWPZbtUfq7tPh5tEEY%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgODRdf--nshvNfyFr6vEbw8JWanM0Zi2EzlHxjuE5IxkCIQCmrk30h7voLGo4_gd9YuA2RnY70G8hYo2eJObO0PxAnA%3D%3D"
+      "fetched_at": "2026-08-03T03:45:23.254452Z",
+      "streamUrl": "https://rr2---sn-i3belnls.googlevideo.com/videoplayback?expire=1785750328&ei=2A5wavCfAtyW1d8P29zk0Ag&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AIPf-Glv5iTpExQT20tyjeJbXX1JupiFMx8VBOEAbDMD&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=351&met=1785728728%2C&mh=Qr&mm=31%2C29&mn=sn-i3belnls%2Csn-i3b7kn6s&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=5562500&bui=AZFlqhOTWo1PRbb-iTLXq_D5HxIKGy9ZgOESSOOUu07PLsOiBJtS8rTWnoOOxkIhenaqfbjuhr7IqK_8&spc=KBGBcpQ2WUDmboa07hD8Mt4eayo_CoLMmZUTw7dAF71hJMIJnXix&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=106988136&ratebypass=yes&dur=1537.462&lmt=1753052315902219&mt=1785728246&fvip=2&fexp=51565115&c=ANDROID_VR&txp=5438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgLldMw_KR9NIGUwqtywgT0LEth1EB-452iCz-Ua0vqswCIF627vuZeHZwM0G41JJl9I39Q96GlpFfiUgft0yHDSwN&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgdFV4v3o90kiKIW93J1wCWjR_tidXVKSNe33RPZMEHLACIQDyWTFcQKXh3nbH3-hsolWPRXmdyQSuZ54dlslji2W53A%3D%3D"
     },
     {
       "videoId": "5sM7PlWmy5g",
       "title": "I Tested The Fitness Of 32 YouTubers",
       "thumbnail": "https://img.youtube.com/vi/5sM7PlWmy5g/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:13:33.292452Z",
-      "streamUrl": "https://rr2---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785730418&ei=EsFvav_aAduypt8PrNDbwQk&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AKTWwkCb70vhs1hcyD__KKOr5G9W7HLIVAoJHO6YOnxO&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=178&met=1785708818%2C&mh=uZ&mm=31%2C29&mn=sn-oji3b5-58%2Csn-i3belnl7&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=5206250&bui=AZFlqhO6mKQ6q5ZtIbWyfAS0KBhMBiGA8-C75OZXrA0GVBXde7ca3BiJ48jUQ_rl-Mzv0rZoZHTmO05B&spc=KBGBcsVwE4hGBP5KevhczrdYu-cNcf4QGL4N4FQcoFJUBhM3RvsE&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=132150135&ratebypass=yes&dur=1439.869&lmt=1781908481131837&mt=1785708331&fvip=4&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhANoqnakHI1fxUC6tMrfJbz118rsNepYummQ2qT8oDqIbAiEA8TYs6xTGXUbgwIhND3HtWRyNMDr_HKo1Lu639KplDgM%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgaFhaAQFUa5oc7SA5xOx_bbVMObxsi1mTudxlJyzuCGMCIDbgF_bS8OfKDtzNfCfRL-wXHTpc7SrdfWNZZhDMs7Qf"
+      "fetched_at": "2026-08-03T03:45:28.369663Z",
+      "streamUrl": "https://rr2---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785750333&ei=3A5wauX0O_ux2roPvcjZmQQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AO3xpy2lmGmoTXmryMYCRFwXLd8NEHVBZrMv2wQKRzZy&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=361&met=1785728732%2C&mh=uZ&mm=31%2C26&mn=sn-oji3b5-58%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=2452500&bui=AZFlqhN6IzmD2SbsrYo1eSsuQiNMzOgu0KVm9LI7K6JSpkFfbLr3OaNyviII4xRtLsyJ0-UCBr483l9Z&spc=KBGBcv321Migep7W9zczhcHEhsAuQc_3J-HxxQh0Qc7c5iBUyeni&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=132150135&ratebypass=yes&dur=1439.869&lmt=1781908481131837&mt=1785728246&fvip=2&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgSBRMPXR2TGirXfk5x2m0B2z61SOla1mtmWmR_VOfWoACIGtFN-TJmt3oDLA-Nyr8PSInBIU5lFKO5HWxniNTBLww&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgPyP6Qeei1RG0me5Kn3Hpk21XCIEn0UdTW7gMhedJCE4CIBZ5btUVuVMZmyyOtSzGTnY-xn-cYXzHRGPQfWEyaKPF"
     },
     {
-      "videoId": "IT94xC35u6k",
-      "title": "20 min Fat Burning Workout for TOTAL BEGINNERS (Achievable, No Equipment)",
-      "thumbnail": "https://img.youtube.com/vi/IT94xC35u6k/hqdefault.jpg",
+      "videoId": "AMkHbApwxrA",
+      "title": "Workout Music 2026 💪 Fitness & Gym Motivation Workout Songs, EDM Bass House Music 2026",
+      "thumbnail": "https://img.youtube.com/vi/AMkHbApwxrA/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:13:38.365102Z",
-      "streamUrl": "https://rr5---sn-oji3bc-5n.googlevideo.com/videoplayback?expire=1785730423&ei=F8Fvaoa1CeDu2roPic_QkAU&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AL7_-WZN9shHfbox6jIh_6KVLThAAnfsPjsp1yku4R7O&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=210&met=1785708823%2C&mh=_R&mm=31%2C26&mn=sn-oji3bc-5n%2Csn-hoa7rn76&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=3171250&bui=AZFlqhOd25Jk3U5eNAzvu4rvRAHpNQaMoA0A9hxr9vCOpolMrFREHjk3kn1FhNEoUOQSqoArZnQbPw2o&spc=KBGBcqVul7tKbpg06ngpLbKbsWu2gg6r0R89BggXr8IQ6bpDxXwJ&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1337.399&lmt=1744309657603290&mt=1785708331&fvip=5&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgCQShBpM6brk_RnBZ0eLY30wKvFdlT3CrbsDofRijkM4CIQDJ31W4ptp6R-9xyd9YdBRegxIHstYrX_r1_6_02L5fNA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAMi46P8dIwvqKQTj7h2yLvWb3-7sP6hvRi_mr4-P-4pfAiEAiJ-qgGh95iogDnjm-kyifiuozqoacf3-bykWv2qpyUE%3D"
-    },
-    {
-      "videoId": "q24y9Uu8Ud8",
-      "title": "Workout Music 2025 💪 Fitness & Gym Workout Best Songs Playlist EDM House Music 2025",
-      "thumbnail": "https://img.youtube.com/vi/q24y9Uu8Ud8/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:13:43.474101Z",
-      "streamUrl": "https://rr1---sn-oji3b5-5n.googlevideo.com/videoplayback?expire=1785730428&ei=HMFvaoWDEeWZvcAPlIDAwA8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AJvVWfocercDD8y34ychMaKR_0DBlIPF3xd4R6Vu-v1d&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=38&met=1785708828%2C&mh=sG&mm=31%2C29&mn=sn-oji3b5-5n%2Csn-i3belnll&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=5206250&bui=AZFlqhMcpOPglGUmM_WlBRCONPnZouBTAqhIUyKoFpg1arVw-3ybySM47S7OF4qYDrVrT8fYvQSWcWwC&spc=KBGBcjCCxBOwrmEqeoZrm2qDNveoq7XG8oVNpprxJuALsWqe4X0t&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=297075971&ratebypass=yes&dur=4148.569&lmt=1772337079158429&mt=1785708331&fvip=3&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhALiqfDKhRthEzXlU0hTCNVxs0DTi-GQy1_ANkmeQBT1sAiEAvsDXmIJ0xRzoc_ltipuQPN32I7iOQajPWGO7D2ad8I8%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhALZp0Sxv0Q2fAGJzASxw9q_ezw4rKDdPj7d2dQsHsSM2AiEAj5cpzcG8lDhxz-VJoXPGIdVxZ12cG5kMcZuv7zwQlo4%3D"
-    },
-    {
-      "videoId": "Xal1h8QpiBk",
-      "title": "30-Minute Full-Body Workout For Seniors | Strength, Mobility, And Fitness",
-      "thumbnail": "https://img.youtube.com/vi/Xal1h8QpiBk/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:13:48.601497Z",
-      "streamUrl": "https://rr4---sn-i3belnsy.googlevideo.com/videoplayback?expire=1785730433&ei=IcFvauWoGe-02roPnObPqAs&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AFFDmJz2c27wtNchBXGaNBf2fTuOfVxQqnP5rHNwbbAd&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=125&met=1785708833%2C&mh=7q&mm=31%2C26&mn=sn-i3belnsy%2Csn-ojhoai-5a&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=3171250&bui=AZFlqhNNn8iH6t6pXADfZAX9o8w8Jtuq1qaaPquZWdgyrSX7wz67fIecQLTIqK4HC-Tg-tdCTbK2s21h&spc=KBGBctKhza5C6ft9UlWdGyTfTjpWsv6dnjnl3AUIY7zV5Q0hNfTx&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=118939177&ratebypass=yes&dur=1648.338&lmt=1752567660663521&mt=1785708331&fvip=3&fexp=51565116&c=ANDROID_VR&txp=5438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAMw_gKDesdPPL0pgl_fZI0eRYkWr_tP3LQCrmIyjlSBDAiEA5b99dC5ntjtbU3jAUVyzle9sAurIjMZkEDIOg9pAiyw%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgUeEmMa7jnW1i9MP4oVBlIz8SXUq9WUiuMYtH9HkoqmkCIElXd9iseq3J1fRiUW0nGWG740jvWZoRrF1li5fARaZ6"
-    },
-    {
-      "videoId": "FeR-4_Opt-g",
-      "title": "20 MIN CARDIO HIIT WORKOUT - ALL STANDING - Full Body, No Equipment, No Repeats",
-      "thumbnail": "https://img.youtube.com/vi/FeR-4_Opt-g/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:13:53.738664Z",
-      "streamUrl": "https://rr4---sn-i3belne6.googlevideo.com/videoplayback?expire=1785730438&ei=JsFvatzvLcuLqL8Pq6fK4AY&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AJ6OU6fXu7vcuS_BhDRty9csxB_Z-62irZurGfwWF1tI&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=336&met=1785708838%2C&mh=uW&mm=31%2C26&mn=sn-i3belne6%2Csn-hoa7rn76&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=3171250&bui=AZFlqhMFkrYjH3VSiPyna0E460OiCUi5BJHP-u8hPfyR-T1zliKIndu7KqLy8h5Bp9lvOv0GmYOARqWy&spc=KBGBcoMFS4p53w8n15ruqC2zO7rYrw2-_JnWm4ZN-GmLFRFUREyy&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=82099422&ratebypass=yes&dur=1667.262&lmt=1759211592067924&mt=1785708331&fvip=1&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgBLH4ekU3JVKS3A1Nqh5Iud5OCjAfgGpJpGIfsl9jJ1ICIQDuZSutfaP_kAfD7N8AkKNKqjiHy9O86zxa2M6QQeZkbw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgQ4e_UJzLoSQmLqHD3_SiOc6DdiM5iYoPUjD7l3g-AVUCIGLoC8krFrdaczU1qT_tZAY1Xy0YXOsW-DTpYVv6y5O5"
-    },
-    {
-      "videoId": "cvEJ5WFk2KE",
-      "title": "30 Minute Boosted Fitness Walk | Walk at Home",
-      "thumbnail": "https://img.youtube.com/vi/cvEJ5WFk2KE/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:13:59.099511Z",
-      "streamUrl": "https://rr3---sn-i3b7knse.googlevideo.com/videoplayback?expire=1785730443&ei=K8Fvar3KLcqWvcAPms_zsAQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AAqnzAH7Lb3pkxpAPnMKwGLyHdvB9fFlfWvq2caL0ID2&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=360&met=1785708843%2C&mh=ii&mm=31%2C26&mn=sn-i3b7knse%2Csn-ojhoai-5a&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=5206250&bui=AZFlqhPIhrMh6Br6oCQZg1x3reQ8jutjf21-3lUSdHS-wl9N4dyc96_BhxNooFXP8lixYPSF43y0yJxc&spc=KBGBcjeu4zNxOV6z1S5rALrxVfkxkVP3DjJVC__cEdwnDIC1SQgF&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=154808654&ratebypass=yes&dur=1822.371&lmt=1775302712164347&mt=1785708331&fvip=4&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAJYoTuUHl3q2yOFwR_M0-pYEFGWo-RjsM9kUbgy9VeYLAiAOKQW0_ac_qANCJc2ltHVg9Qo4qfOf-08FyNs8_Mu3Hw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgTnQoUPc70EE7CyfNYpIfy9sP0V8vAFqYz0F_JffUIFoCIHUN7ROQJMlL7NzA2epMCAMe0QrvnWltDk8MlH3gHzTZ"
-    },
-    {
-      "videoId": "IwZVgOcnfQ8",
-      "title": "Busting 100 Fitness Myths in 24 Hours! - Ft. Jeff Nippard",
-      "thumbnail": "https://img.youtube.com/vi/IwZVgOcnfQ8/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:14:04.059252Z",
-      "streamUrl": "https://rr2---sn-i3belne6.googlevideo.com/videoplayback?expire=1785730448&ei=MMFvau2qKvPd2roP6c_hcQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ACGTCa16RtkgdxxdVwFJ4EBBwa9HdUXsQQ3eZnY9IFIL&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=162&met=1785708848%2C&mh=5R&mm=31%2C26&mn=sn-i3belne6%2Csn-ojhoai-5a&ms=au%2Conr&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=5206250&bui=AZFlqhN4kisIHhYHPkZBXzs9waVYODkWyCo5mXJLyLk31mnv70vvslowzUNKl1WCrCmSrNxQ9DMl_5Pd&spc=KBGBcumIGAVL279CRnl1hfPpZS5ka4PsH1ms7WocjXnNq9qKqY-p&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=110851466&ratebypass=yes&dur=1604.569&lmt=1759213955588835&mt=1785708331&fvip=4&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgKeUZhjPlvYwjJzKxXLZqdsLPKbcUzBvplTCPHW5qA9wCIQD5LqWQbYXL675o5WAkVCGtEzn0qzoAAczHJJuAV-Jflg%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgAW6bcYzf1HbQu7ZBHvp0O-pCEInuNOE0G7t2t46rVKwCIGkDUGmPwf-TNRvy-5wHCnGJ8QPb-V9cEojOWBH5LyU3"
-    },
-    {
-      "videoId": "3EKcdVsYdk4",
-      "title": "25 MIN FULL BODY WORKOUT AT HOME (Fat Burn & No Equipment)",
-      "thumbnail": "https://img.youtube.com/vi/3EKcdVsYdk4/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:14:09.025874Z",
-      "streamUrl": "https://rr5---sn-oji3bc-5n.googlevideo.com/videoplayback?expire=1785730453&ei=NcFvaua9N9eT1d8PtICe4AY&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AEWmFWjS3f8sMc_53-vwe_6p_rMg8kiXD7VZG08lbK5l&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=176&met=1785708853%2C&mh=oQ&mm=31%2C26&mn=sn-oji3bc-5n%2Csn-ojhoai-5a&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=5206250&bui=AZFlqhOsTj-VMiLTrBfbt1BoPIsmGSlfV5X1Qi6Z1zQcjfn1GhPDqgGaXr0dYEf_gC4d0456GT0iyI56&spc=KBGBcnKILgfLSQ4HgxQZDhJeRhjV2ESyk-C6HUQoo8dZAOPfBUWM&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1486.750&lmt=1771032563636629&mt=1785708331&fvip=2&fexp=51565116&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAIA0w6bQuuCBdmksdqvYs9LhokiTEaciuFnWUSvsKbrXAiBuveV2TYG9JMkQHUh2Z3MFTITIAI3S1jJehs9-pFqNfQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhALHgunAtGOh2i0gGHPLhdhVu8V5B_BfmD_vPt28Nls_6AiAKkZpxE08-UoaXdM7kkPY7Q3ORXHwSR6TiESVGX6kAwA%3D%3D"
-    },
-    {
-      "videoId": "zOI8wtOo41M",
-      "title": "30 Minute Morning Exercise Routine - Do This Every Day | EMMA Fitness",
-      "thumbnail": "https://img.youtube.com/vi/zOI8wtOo41M/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:14:14.244401Z",
-      "streamUrl": "https://rr5---sn-oji3bc-5j.googlevideo.com/videoplayback?expire=1785730458&ei=OsFvao62OPagrfcP0tTiqQ8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AIucw1S8cLFdA0I-KlpmNBXqGq_8dmumybi1z-7GT1Jh&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=126&met=1785708858%2C&mh=0-&mm=31%2C26&mn=sn-oji3bc-5j%2Csn-hoa7rn76&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=3171250&bui=AZFlqhOSghWp6ws9cLQX9HqBQB-ZKW-0wK_GNjoskV5nNhDbEaOnjP6nBwgm_xGfn7DIz34Ae2yNxHps&spc=KBGBciQY0oaLtdoqUEhs7r-6I3Wlx5fYHSY_eLIIjpi1ZlFZBKEx&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1802.704&lmt=1736441738870788&mt=1785708331&fvip=5&fexp=51565116&c=ANDROID_VR&txp=5438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAPwIr3lbY14vYWwh9w5jkH-qv10_1dVyWkyEq8bKuoNFAiEA8o8ghOO3HKLZ8HwhDXSmqYYdzS8tD1Aln3GrS8romis%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAP1NkGaRjDlfD4liDrvwPlf30LNe7AafBdBxMVE6KSWeAiAiuH1CH4XN_JhOsjvzyIZJwSItCrisj_nxrmR8TkvY4w%3D%3D"
-    },
-    {
-      "videoId": "QU8mTR5iPLM",
-      "title": "Calisthenics vs Gym: Which Is More Effective?",
-      "thumbnail": "https://img.youtube.com/vi/QU8mTR5iPLM/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254025Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "uIqnZNua8kk",
-      "title": "25 MIN LOSE WEIGHT & BELLY I with warm up & cool down",
-      "thumbnail": "https://img.youtube.com/vi/uIqnZNua8kk/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254039Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "AdqrTg_hpEQ",
-      "title": "Walking Exercise with the SUPER Coaches! | Walk at Home",
-      "thumbnail": "https://img.youtube.com/vi/AdqrTg_hpEQ/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254043Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "enYITYwvPAQ",
-      "title": "FAST Walking in 30 minutes | Fitness Videos",
-      "thumbnail": "https://img.youtube.com/vi/enYITYwvPAQ/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254051Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "ibywaQB3L7o",
-      "title": "5 Minute Belly Fat Workout! Burn Fat Fast At Home",
-      "thumbnail": "https://img.youtube.com/vi/ibywaQB3L7o/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254053Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "doqXrl8OzFY",
-      "title": "Kids \"GET STRONG\" Workout (Get Stronger & Faster This Summer!) @GreysonPumple",
-      "thumbnail": "https://img.youtube.com/vi/doqXrl8OzFY/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254056Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "0ZsljkuN9Es",
-      "title": "I Trained At World's Most Hated Gym For A Week",
-      "thumbnail": "https://img.youtube.com/vi/0ZsljkuN9Es/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254059Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:45:33.334363Z",
+      "streamUrl": "https://rr5---sn-i3b7kns6.googlevideo.com/videoplayback?expire=1785750338&ei=4Q5wapCQPM2Ypt8Pnpy1sQ8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ABgiTC74isKzWVyk6kr9JUL88qwCpmfEH4XseCmr5m7w&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=370&met=1785728737%2C&mh=25&mm=31%2C29&mn=sn-i3b7kns6%2Csn-oji3bc-5j&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=2452500&bui=AZFlqhPXrbUsa3OC0tVxABDmrY5p4SMGk9pIfkRIHeCAolT7jLhDpWSIWqthFDboUjVTulW2zZQTG6cb&spc=KBGBcojhk5FpGFbOzdHBBuriQODGj3-q9luHbatRKIXLOKlOC_Xr&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=281362496&ratebypass=yes&dur=4209.522&lmt=1772485170546772&mt=1785728246&fvip=1&fexp=51565115&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAPJfoEnbS5qqnkv20Ms5JTEab1p8c5SEDsC1afhzT0dKAiA29ofnsHg-oQVEW1hrBqiox1gyb_2esz53RyzH72kGBg%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgCismZX4GZwreEv-oBS1PcVEVqImovS6d9oSBx72S18ECIFKlsSOwn2m6TiX2FBB-xzWBgrMlZd4qnsPoieKz73BK"
     },
     {
       "videoId": "SofPyiTJzrw",
       "title": "3 Home Gym Purchases That Made The BIGGEST Impact On My Progress",
       "thumbnail": "https://img.youtube.com/vi/SofPyiTJzrw/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254061Z",
+      "fetched_at": "2026-08-03T03:45:38.334357Z",
+      "streamUrl": "https://rr2---sn-i3b7knsl.googlevideo.com/videoplayback?expire=1785750343&ei=5w5watr9BLCB2roPzaaVsQE&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AJdn4w2DUTZ3tBTN42R0FbvdBbGN0EySkPq0J0cO-RER&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=105&met=1785728743%2C&mh=nD&mm=31%2C29&mn=sn-i3b7knsl%2Csn-i3belnl6&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=5562500&bui=AZFlqhMjaKeX0OD7Px2PmfjkC01ZvseeWm52K3CARq08MEuD4lqVnDlywBU7xianh_b2-jXf3X6PGD9I&spc=KBGBcoNzhQlxx1n53nPTKJb2b4D7dkLwF5P9mpLEm2YCjigILUjG&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=30342200&ratebypass=yes&dur=570.978&lmt=1785455927347719&mt=1785728246&fvip=3&fexp=51565115&c=ANDROID_VR&txp=6309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgEVC7ugToRytKHK6FqRCTJh7xEghX7milBkm-x3c_D6kCIQDPapxvKGby1ToTkFW3xc_6a1vv1GR50Rm_kI22ky1SdQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgHTHLFfIya2pYAWDo43pcmUoNHmmYzUcQGkhpt1E4ijwCIBmLRCCZKrYvrHjdwn2nGss07Xpg7-qZzxn9Xsmo6AaD"
+    },
+    {
+      "videoId": "nNFim2VOyyo",
+      "title": "Full Body Workout Video | Zumba Fitness With Unique Beats | Vivek Sir",
+      "thumbnail": "https://img.youtube.com/vi/nNFim2VOyyo/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:45:43.430448Z",
+      "streamUrl": "https://rr5---sn-i3b7knlk.googlevideo.com/videoplayback?expire=1785750348&ei=7A5wasm2A-yJ1d8Px9mAgQk&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AMpCrFsST-YNWFu1yzp5aZF9wQG7fwUlDpIcCBxXlQjk&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=229&met=1785728748%2C&mh=aE&mm=31%2C26&mn=sn-i3b7knlk%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=2452500&bui=AZFlqhNFL1B0vPli3k-XInzPNrNSjyjyxFX71BTSLJuCTaj9Kj3bWPtPxO4n2epedCrj-D9PM4VCyjDD&spc=KBGBcnE99udSE-PSYK-SE_RRcTNwLPmeCFWWmJ-35OK-Icv1FsFm&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=178393985&ratebypass=yes&dur=1965.058&lmt=1785723264042354&mt=1785728246&fvip=4&fexp=51565115&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAO6u6gb2_JkARvwC37OTxTC_MhNk7d60RMkInldii5l2AiAlqQOhKC2tBuE2Vp05FlbGq_HdTJE5jfyQCOheiekDHw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgXy-5Ju1mM-S7mSP2boh8Sxeo_6du4C4M22KznO5HtoICICCI0uUddByAF_o-YnMwAmZ7RzbIIBSc9jL80ASncYpf"
+    },
+    {
+      "videoId": "4dcHzIhiveg",
+      "title": "$0 vs $10,000 Gym Memberships in Japan",
+      "thumbnail": "https://img.youtube.com/vi/4dcHzIhiveg/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:45:48.396112Z",
+      "streamUrl": "https://rr1---sn-i3belnl7.googlevideo.com/videoplayback?expire=1785750353&ei=8Q5wauKlCLSlpt8Pi-TkuAU&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AOhI7qkT5X3pLVUNrri2DKQjMWspcpqjIzV2Yxfj2OE8&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=412&met=1785728753%2C&mh=tY&mm=18%2C29&mn=sn-i3belnl7%2Csn-i3b7kns6&ms=aub%2Crdu&mv=m&mvi=1&pl=48&rms=aub%2Caub&initcwndbps=2452500&bui=AZFlqhNk9yNceOm1AJyT3tV9JV4hbM7ljCR5ly1-ghKYC6gISPhaTNeM4z4m54nc7YRU_9MxzZMhi-JW&spc=KBGBcqWXhclQvOuZLx7A8f_uTMGXDiOJPcd9DSZSFu2PlKcR1Can&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=147079983&ratebypass=yes&dur=1962.968&lmt=1780319368901627&mt=1785728206&fvip=1&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgfrpM3MciShKPim-jUtG9FaaTdOIjNnPgTTf84XpwEhUCIDhsfN6WuGr4KpoSbNeIlnE6BfSvET7GWn3r0F9clNpU&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANAnY9T78Mv9Hmcv_oyYxoeOVGWjNHXDvhMBQ-TT8mBEAiEAk5Y86H6y4HNZw4yzlwoB4POyZVbsHVY3ql38XJKst0E%3D"
+    },
+    {
+      "videoId": "f5JF5w5qbZo",
+      "title": "Best Workout Music 2026 💪 Fitness & Gym Motivation Mix",
+      "thumbnail": "https://img.youtube.com/vi/f5JF5w5qbZo/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:45:53.488146Z",
+      "streamUrl": "https://rr1---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785750358&ei=9g5waqGSBYaDvcAP7qHvqAk&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AHbCa-EUWwre9o5Vb4Qe6lm2nQ_ElIYKvBRBnkHFiIjb&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=181&met=1785728758%2C&mh=Fo&mm=31%2C29&mn=sn-i3b7kn6d%2Csn-i3belnll&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=2452500&bui=AZFlqhM5Ru9MKkavlkb80snell85G83zoMBu6HNx1L5rSoi9OSgdNscwVYmeJBZ81cJwICEW1dsPmKb1&spc=KBGBckZfe3xPUZhiEABQiPDSAEGY49kHgYObQzo5XKHxw3ghQZlk&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=3491.096&lmt=1763078489402081&mt=1785728246&fvip=1&fexp=51565115&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgFZLJry6Qes_KjGatDdt52mizGVgsoHXhh1dJfNsbmXQCIFKW2yXriKACuSNgb7aG7-WnfCl2CxmO2PkECLuk_Duw&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgBGa1jvFqGnFMp_kLIVtFGQQihkA0BkTbeTcB4_8x9TECIEBvMfBYQgB15ydrwF-9u9_Es293mfG4DCtcZIrniJtK"
+    },
+    {
+      "videoId": "OT5PQtoXubY",
+      "title": "Exercise To Lose Belly Fat | Aerobic Exercise To Lose Weight FAST | Zumba Class",
+      "thumbnail": "https://img.youtube.com/vi/OT5PQtoXubY/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:45:58.450811Z",
+      "streamUrl": "https://rr5---sn-i3b7kn6s.googlevideo.com/videoplayback?expire=1785750363&ei=-w5wasuAFYCW1d8PtvX08Q4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AN4nKIPDI_sBWRMxi1U0L3w42DYATg-AUofKCvBKcmjr&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=585&met=1785728763%2C&mh=Lp&mm=18%2C26&mn=sn-i3b7kn6s%2Csn-ajhoaq-5i&ms=aub%2Conr&mv=m&mvi=5&pl=48&rms=aub%2Caub&initcwndbps=4605000&bui=AZFlqhMWbnYzNSxFH89FrFbekCdd5X7HrskJ_KLgRg7RpuC42mbuuiG38WHwnd9f0HKrcnozNhG3CCUn&spc=KBGBcmLyfugRHZFs9tTbU0NC-RvmUm6VGOoTUzvJ1tFCXsW0Cr9f&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=116429063&ratebypass=yes&dur=1706.388&lmt=1769858097263388&mt=1785728462&fvip=2&fexp=51565115&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAPpQuYjwbz5aihaHc35epOnQZfiE1Dg_sALQew63O3e4AiEAgL21DEqXY9j8NLZgJWdZ1pgdHtNXxw-O1oTbk9HTKaA%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAIQt0puaDVF_0lCTXAaL_9P3msuik7QIlgUYE31tW2fTAiEA26XYy9gQEl71tg0sxIqDySARdEYvh0PTTT9_N_sYiEo%3D"
+    },
+    {
+      "videoId": "s-F695ecc7E",
+      "title": "The Fitness App That Replaces Everything?",
+      "thumbnail": "https://img.youtube.com/vi/s-F695ecc7E/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:46:03.685424Z",
+      "streamUrl": "https://rr5---sn-oji3bc-5j.googlevideo.com/videoplayback?expire=1785750368&ei=AA9wapGrHvv1pt8Pnp2yyQo&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ANUYG59OrXmzUDwLDQv6-jG-imNnXT1VDK6BQBnEdBhx&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=220&met=1785728768%2C&mh=1w&mm=31%2C29&mn=sn-oji3bc-5j%2Csn-i3b7kn6s&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=5562500&bui=AZFlqhNoaZTg-860hx4KgAVqWydyuz9pV7gWHnoa2Wnc9CGlH4240imXHN_Ql9NAuN2ZfspDfhuIwfIQ&spc=KBGBcl8AxsZ4nbYXiEPeNcw_g4mEPAotUeHcEUvlO-J3B-B7nyzD&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=23123633&ratebypass=yes&dur=594.337&lmt=1785517122907613&mt=1785728246&fvip=2&fexp=51565115&c=ANDROID_VR&txp=6309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgBtVTplGihQMrs3oNfRufsZStpQpv1UjdX3pk_q57UFACIQDc-TnmVQ-Pr1WhmMvRM2p3aDoBFxL6p4EQlx8ZRIZZwQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAJ3_i6jPq_hq8tjMeH_TlXvacmF52RLRPyYaKI-9RLfqAiAI3qY_67HoEEql2T0mBQMZ_Yqy12q_CyODIuHpVBTgpQ%3D%3D"
+    },
+    {
+      "videoId": "0sohcMIHM_A",
+      "title": "New Gym Tour",
+      "thumbnail": "https://img.youtube.com/vi/0sohcMIHM_A/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:46:08.840429Z",
+      "streamUrl": "https://rr5---sn-i3b7knlk.googlevideo.com/videoplayback?expire=1785750373&ei=BQ9wavjTI_6x1d8Pm9-R0QE&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ANgbX86-hZWOfrA-9fdiflTzvgY5V04GyXPMdEhI-fyb&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=219&met=1785728773%2C&mh=5T&mm=31%2C26&mn=sn-i3b7knlk%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=5562500&bui=AZFlqhPRtaKS7LcbkBImpmdPSkGmO-btb8BVpwYEXNQb8SMNQeyhJXRK5TTfGj6oDTnQawmG-LqpJoes&spc=KBGBcnDVWbgwtrAH5Z-J2eRwXvEDtGxlsuWT_MltqkWeWtnPLIZq&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=175687730&ratebypass=yes&dur=3354.888&lmt=1784671625754491&mt=1785728246&fvip=2&fexp=51565115&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgMmy2gzl6iuVbUTJpHn3zz_0-5b7g8kaHPu_n3Y8_EYQCIQDJf4DSy4-WsG_kCDXyb5Kx6FwayV-PKZOXzc7_QFt9_Q%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAOYQK2VsmFe910FP7IfSRp1VGRz3VSzbcppIJwfO09xQAiEAxI5MqbCwmgz2AJkVrUN6sne1Oy73fW2L9iy4m9oyHd0%3D"
+    },
+    {
+      "videoId": "D2CKOIiabfg",
+      "title": "Gym Motivation Music | Best Gym Workout Songs | Gym Music | 7 Power Fitness",
+      "thumbnail": "https://img.youtube.com/vi/D2CKOIiabfg/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:46:13.938609Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "pZX8ikmWvEU",
-      "title": "Female-Specific Exercise & Nutrition for Health, Performance & Longevity | Dr. Stacy Sims",
-      "thumbnail": "https://img.youtube.com/vi/pZX8ikmWvEU/hqdefault.jpg",
+      "videoId": "QU8mTR5iPLM",
+      "title": "Calisthenics vs Gym: Which Is More Effective?",
+      "thumbnail": "https://img.youtube.com/vi/QU8mTR5iPLM/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254064Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "8uUawnM-FD8",
-      "title": "Kids Exercise - Kids Workout At Home",
-      "thumbnail": "https://img.youtube.com/vi/8uUawnM-FD8/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254067Z",
+      "fetched_at": "2026-08-03T03:46:13.938623Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -168,47 +104,39 @@
       "title": "I Spent 100 Hours on a Fitness Cruise",
       "thumbnail": "https://img.youtube.com/vi/VdaTP5QWbrw/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254069Z",
+      "fetched_at": "2026-08-03T03:46:13.938626Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "f-HHP669qRs",
-      "title": "🔥Morning Energy Boost - 20 Min Full Body Workout for Everyone",
-      "thumbnail": "https://img.youtube.com/vi/f-HHP669qRs/hqdefault.jpg",
+      "videoId": "IT94xC35u6k",
+      "title": "20 min Fat Burning Workout for TOTAL BEGINNERS (Achievable, No Equipment)",
+      "thumbnail": "https://img.youtube.com/vi/IT94xC35u6k/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254072Z",
+      "fetched_at": "2026-08-03T03:46:13.938628Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "D2CKOIiabfg",
-      "title": "Gym Motivation Music | Best Gym Workout Songs | Gym Music | 7 Power Fitness",
-      "thumbnail": "https://img.youtube.com/vi/D2CKOIiabfg/hqdefault.jpg",
+      "videoId": "9ILvgLzjpyw",
+      "title": "Get a Tiny Waist & Flat Stomach in 7 Days (20 Min Standing Abs Workout)",
+      "thumbnail": "https://img.youtube.com/vi/9ILvgLzjpyw/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254075Z",
+      "fetched_at": "2026-08-03T03:46:13.938631Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "NhMs4nuu6Rc",
-      "title": "8 Best Standing Exercises Belly Fat Workout To Lose Weight Fast At Home",
-      "thumbnail": "https://img.youtube.com/vi/NhMs4nuu6Rc/hqdefault.jpg",
+      "videoId": "AdqrTg_hpEQ",
+      "title": "Walking Exercise with the SUPER Coaches! | Walk at Home",
+      "thumbnail": "https://img.youtube.com/vi/AdqrTg_hpEQ/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254077Z",
+      "fetched_at": "2026-08-03T03:46:13.938633Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "D5f5JtKgRr4",
-      "title": "The Problem With “Science-Based” Female Fitness Advice",
-      "thumbnail": "https://img.youtube.com/vi/D5f5JtKgRr4/hqdefault.jpg",
+      "videoId": "0ZsljkuN9Es",
+      "title": "I Trained At World's Most Hated Gym For A Week",
+      "thumbnail": "https://img.youtube.com/vi/0ZsljkuN9Es/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254080Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "CIxNJbit9BA",
-      "title": "Half An Hour Weight Loss - 30 Min Home Workout To Burn Fat",
-      "thumbnail": "https://img.youtube.com/vi/CIxNJbit9BA/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254083Z",
+      "fetched_at": "2026-08-03T03:46:13.938636Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -216,7 +144,47 @@
       "title": "15 MIN FULL BODY WORKOUT - Apartment & Small Space Friendly (No Equipment, No Jumping)",
       "thumbnail": "https://img.youtube.com/vi/9PCGvkXV-Bo/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254086Z",
+      "fetched_at": "2026-08-03T03:46:13.938638Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "cvEJ5WFk2KE",
+      "title": "30 Minute Boosted Fitness Walk | Walk at Home",
+      "thumbnail": "https://img.youtube.com/vi/cvEJ5WFk2KE/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:46:13.938641Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "Y08OkdVO4Co",
+      "title": "20 Minute Full Body Workout At Home - No Equipment",
+      "thumbnail": "https://img.youtube.com/vi/Y08OkdVO4Co/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:46:13.938643Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "wvj9v9qt-lo",
+      "title": "JANITOR vs THE BIGGEST GUYS IN THE GYM. They Didn’t Expect THAT",
+      "thumbnail": "https://img.youtube.com/vi/wvj9v9qt-lo/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:46:13.938646Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "HMd9sKVxiCo",
+      "title": "The Only Fitness Video You Need",
+      "thumbnail": "https://img.youtube.com/vi/HMd9sKVxiCo/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:46:13.938648Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "tRncpNvuK-M",
+      "title": "Testing The Most Extreme Ways to Lose Fat!",
+      "thumbnail": "https://img.youtube.com/vi/tRncpNvuK-M/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:46:13.938650Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -224,23 +192,55 @@
       "title": "Full Body Senior Exercise Routine | 45 Minutes Chair Workout",
       "thumbnail": "https://img.youtube.com/vi/RcF0Ierc2uw/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254088Z",
+      "fetched_at": "2026-08-03T03:46:13.938652Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "cbKkB3POqaY",
-      "title": "25 MIN FULL BODY HIIT for Beginners - No Equipment - No Repeat Home Workout",
-      "thumbnail": "https://img.youtube.com/vi/cbKkB3POqaY/hqdefault.jpg",
+      "videoId": "aSV2zd-qch0",
+      "title": "Training at the World’s Most Dangerous Gym (Diamond Gym)",
+      "thumbnail": "https://img.youtube.com/vi/aSV2zd-qch0/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254091Z",
+      "fetched_at": "2026-08-03T03:46:13.938655Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "EEOjsbQ5wYE",
-      "title": "OVERRATED: The Worst Fitness Advice Ever",
-      "thumbnail": "https://img.youtube.com/vi/EEOjsbQ5wYE/hqdefault.jpg",
+      "videoId": "KSxOGIzCZmA",
+      "title": "25 Minute Exercises To Lose Thigh Fat  + Belly Fat + Arms | EMMA Fitness",
+      "thumbnail": "https://img.youtube.com/vi/KSxOGIzCZmA/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:14:19.254094Z",
+      "fetched_at": "2026-08-03T03:46:13.938657Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "Y5RtQ4cawVk",
+      "title": "SILENCE - Gym Motivation 😔",
+      "thumbnail": "https://img.youtube.com/vi/Y5RtQ4cawVk/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:46:13.938660Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "q24y9Uu8Ud8",
+      "title": "Workout Music 2025 💪 Fitness & Gym Workout Best Songs Playlist EDM House Music 2025",
+      "thumbnail": "https://img.youtube.com/vi/q24y9Uu8Ud8/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:46:13.938662Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "Aib6kX1_s1I",
+      "title": "10 Minute Walking Exercise for Weight Loss| Tai Chi Inspired  Walk Fat Burning -  Lucy Wyndham-Read",
+      "thumbnail": "https://img.youtube.com/vi/Aib6kX1_s1I/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:46:13.938664Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "enYITYwvPAQ",
+      "title": "FAST Walking in 30 minutes | Fitness Videos",
+      "thumbnail": "https://img.youtube.com/vi/enYITYwvPAQ/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:46:13.938667Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     }
   ]

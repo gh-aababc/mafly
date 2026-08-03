@@ -1,150 +1,94 @@
 {
   "category": "美食",
   "keyword": "food",
-  "updated": "2026-08-02T22:12:25.482765Z",
+  "updated": "2026-08-03T03:44:19.615030Z",
   "videos": [
     {
-      "videoId": "naHsRbHafU0",
-      "title": "Thailand’s Best Street Food Compilation! Seafood, Wok, Fruits & Desserts",
-      "thumbnail": "https://img.youtube.com/vi/naHsRbHafU0/hqdefault.jpg",
+      "videoId": "qfsjoPzbAxQ",
+      "title": "Cheap vs Expensive Foods!",
+      "thumbnail": "https://img.youtube.com/vi/qfsjoPzbAxQ/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:11:30.911599Z",
-      "streamUrl": "https://rr3---sn-i3belnl7.googlevideo.com/videoplayback?expire=1785730295&ei=l8Bvaqy6I4SNqL8P7rPxqAU&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AOILtZkmQ-EfMppcbRKKmtePKDzoWtunPAJJ2E1WMD_Y&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=286&met=1785708695%2C&mh=2S&mm=31%2C26&mn=sn-i3belnl7%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=3171250&bui=AZFlqhMXdDZFf1U-8fLVuf9oz3dWxeVWTGKdWqzTNZQ8Q3nbjP6BQBP28TyY1aUUnxwnOVVRShMwA-yM&spc=KBGBcklXrIbd4YCna44YM2txK8G69bmkG8bQwR44jCBfY4sK405M&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=6694.336&lmt=1776473244447202&mt=1785708331&fvip=5&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgBdO06PEgo-TAy3r5EhE_AIFlLBjepNkfma2gItp4QiUCIDSzWv79L7yjLPKkDfZK537jqdGJrfBsJWO8jsQFPRJ8&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAOm_3Gl73farNgDouto3GkjwflQxXJWC4kjbO4kwO7rwAiEA-T-eOXNWl-Cx1MCc7HAXb98VmOaNk9cq527RaDxOHX4%3D"
+      "fetched_at": "2026-08-03T03:43:28.984984Z",
+      "streamUrl": "https://rr4---sn-i3b7kn6d.googlevideo.com/videoplayback?expire=1785750214&ei=ZQ5was63M-iZ1d8PnurV2Q4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AHbYbXlKPczUmX6SxiYypIyqWNB_5hb1ffyZLPIq-bbX&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=325&met=1785728613%2C&mh=9r&mm=31%2C26&mn=sn-i3b7kn6d%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=4733750&bui=AZFlqhPZaBtmT12qZXsOYGiI1qxMEbTVBmevOHBCUMF1sA16P_U7mEIdFybhYyC2lf-bXSNqIo2DVAqI&spc=KBGBcrBYt0CBsdlNtAMSn8USJYL_sLkhYTrbuqNMWxc3toDYF3G0&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1419.203&lmt=1776931762386250&mt=1785728004&fvip=4&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAPT1U4BAGv0plVaUteIkxbiRjKJJcQxw2uq9h1Kso59uAiEAm2F0B4Gwhgun5kaF_dw6Rgsy6vLg2sp1OorSLGlynQM%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAIvqJdq3fDDBxjVxrBFmvqu9BMlQ3p8QA739UYZ42d6bAiAMi2McSQYcif1UQk4zxcbtSm3kCHe-IsqKjaiMah93Lg%3D%3D"
     },
     {
       "videoId": "mLivzfKJlu4",
       "title": "I Rated EVERY Outdoor Boys Meal",
       "thumbnail": "https://img.youtube.com/vi/mLivzfKJlu4/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:11:35.843221Z",
-      "streamUrl": "https://rr4---sn-i3belne6.googlevideo.com/videoplayback?expire=1785730304&ei=oMBvaqFFgIWm3w--yLG4Dw&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AEUpS6wE0Fas0aE_Z5W-5mZLk89XQYnGdWM2j7oRy-lo&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=284&met=1785708704%2C&mh=jr&mm=31%2C26&mn=sn-i3belne6%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=3171250&bui=AZFlqhPuiFH7gZjef6OQ_V42q0OvNgfEro4_ZCYYnVoTA0ajjCZeUD_853jFnnBeKjfqPXGOQ78NVob-&spc=KBGBconrFoTjZyVfxYCLMwikHLhJaZxt7A21f83qe6CKZrcFuJkj&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1385.139&lmt=1761915785832057&mt=1785708331&fvip=5&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAMToWYNCEb6eFnGhSy_vcl_AAdLu8pKak9gkIsSujGSRAiEA9Olgw83TpRt9YOkr4RhwtvmJknpgDKln1glkUjJRtnE%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgBIS63ZViAjXWnbkYagQRWj5eLGFKeq3zEkIOrja3eCgCIAXmyvNB0gEw6xUUWbqe1puG8YCry23P6hymfsuXCeg0"
+      "fetched_at": "2026-08-03T03:43:34.323253Z",
+      "streamUrl": "https://rr5---sn-i3b7kns6.googlevideo.com/videoplayback?expire=1785750219&ei=aw5watHlAeqNvcAPs-7wmAo&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AOE1taPlrWc4-pe3Z6j5Bz5AkS7JaspZAwY_euXUHQ-B&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=463&met=1785728619%2C&mh=jr&mm=31%2C29&mn=sn-i3b7kns6%2Csn-i3belne6&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=4733750&bui=AZFlqhPD1Ykg6Y5MTIQ9lhBeZyNgWOhr3Kq0ln7pZEIiFB4ItlsoChHiH4_73mxGEY5VY1PQgSdUA2Lj&spc=KBGBcqfB06xiuxN--WgQd-pAoaJXK3V8AIcjYVbgKkCV4kSvIR9h&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1385.139&lmt=1761915785832057&mt=1785728004&fvip=4&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhALCqXu7aGKi3fHku6V0NcCEeU_0RKzO__uS64NEBbR3xAiBPukaPhUAD0ftpldbbZD_ticXoGx5T6BE-w8RruEi1pg%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgDKa6rPO2RThIc2sf-vMQ17sU9uOquo16ZKF6T1dksuMCIGSa4gj779k9ZeyvqDNIXEU8Gk7gsnKtqs2vN7BYBOuZ"
     },
     {
-      "videoId": "lD6Du1nUvN0",
-      "title": "$1 vs $1,000,000 Boat Food",
-      "thumbnail": "https://img.youtube.com/vi/lD6Du1nUvN0/hqdefault.jpg",
+      "videoId": "yAtruYdk5jY",
+      "title": "I Ate Every YouTuber Food Product",
+      "thumbnail": "https://img.youtube.com/vi/yAtruYdk5jY/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:11:44.332016Z",
-      "streamUrl": "https://rr5---sn-i3b7kn6s.googlevideo.com/videoplayback?expire=1785730309&ei=pcBvavKmC5yy2roP_Ky2wA8&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AKGf475Fi69mBr_BwvYjrT2wZY2D1An4WEgmNeHydcnL&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=198&met=1785708709%2C&mh=Dl&mm=31%2C26&mn=sn-i3b7kn6s%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=5206250&bui=AZFlqhNN9MFoZSKeAaGVXFXKJXGBgAaYYcTGRApHKxdDvzKybkQ_oaNQp0JZPG06D66RetPzqQMFBsZ9&spc=KBGBctf9O-nHSwrz8X2cf9MWhEtcfrucXEKkH2_73zP8LLR0Q3UR&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=44115568&ratebypass=yes&dur=542.209&lmt=1747687717528052&mt=1785708331&fvip=5&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAKdq22XeyHXV1jdcSo6QEiX2CNDidRpcuR7n7mNpCrIXAiBxp4bMH3FhAkdEHueGqVf3q_-LDCZ0DxzZfHrlCd1Y_A%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgLhUgA0X5Z48w6AplGn0eMsrY0azhvv4KcMYdKhVSwLoCIQCwwQWb7gnuAk2atnSUQqMIYMyl74OOPuY6CrP1xFaTTg%3D%3D"
+      "fetched_at": "2026-08-03T03:43:39.377544Z",
+      "streamUrl": "https://rr3---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785750224&ei=cA5warbGDpaQpt8PkNHs-Qk&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ABFTX1QwB7Me7Huyb-tHUEyWZ5GGx_-Q_w7smnAOAVu8&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=301&met=1785728624%2C&mh=CE&mm=31%2C26&mn=sn-oji3b5-58%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=2452500&bui=AZFlqhO878FSPdWuY-wG5V57YMdE5P8z6-EnlVOjNCAlfWqjjWTvE9ftp5p-PyclyHlItQj6MiLRwjNQ&spc=KBGBcoqaSSiPD9ZxTlSgsPmQ19E8xZlyJJS0oAhgpMmZUAGizY-d&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=63797181&ratebypass=yes&dur=872.838&lmt=1784996858481919&mt=1785728246&fvip=1&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgFxw_r2cpel1_-5eFA75xO5BCk2lCQDZoYoDeYazDQX8CIQCCYCeElPzGAA1mncGA4z-p8ol_IKZ0eiWr3Uf3BFtqtA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgdObcQTa8YwrvFkE47drZQoP8IweVBDCqLHZNbw2DvLICIQC8YsGCL9-bhICOob6KwwW2G9cot-hzKeKcVpkHmeH76g%3D%3D"
     },
     {
-      "videoId": "4ehNo4zhwkQ",
-      "title": "$100 Thailand Street Food Challenge!! Budget Bombshell!!",
-      "thumbnail": "https://img.youtube.com/vi/4ehNo4zhwkQ/hqdefault.jpg",
+      "videoId": "RokPrwbgIu0",
+      "title": "New York's Cheapest and Expensivest Food!!",
+      "thumbnail": "https://img.youtube.com/vi/RokPrwbgIu0/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:11:49.464362Z",
-      "streamUrl": "https://rr4---sn-oji3b5-58.googlevideo.com/videoplayback?expire=1785730314&ei=qsBvauL0F7uQvcAP8tyHyAo&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AOQwSHsuxHO5jHRNH-2K5hfzyj2I7DKkkEkRIBZt0mZg&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=211&met=1785708714%2C&mh=SD&mm=31%2C26&mn=sn-oji3b5-58%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=3171250&bui=AZFlqhPJJlHAt7ta72nipDIE8COQRBA6vShkSZkszwl11FK7idfIFtxRJmouPLc1wGIprftkTZLApD9n&spc=KBGBcqK1oiYHb6mLd7Ekby5uiNgtEOZ8AAGZLkZR9PEoaXAuZLsF&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1638.562&lmt=1770896604324412&mt=1785708331&fvip=5&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhANGqOOrsw7mgcmviV2j3EnZsC55yVlb2uJdo4XoCxNceAiEA5yqG5vamc1LUQw-f87S-UmorcfQcbFL2lFVHLB2StGc%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgFB2rjhKJeY6ffy9bgR_HpHdq4kKwDfY-H1SSVkRkc6sCICbQIjQBCbsCzkgVD3bh1GNqhVvWoa14A3_QHpSOuhgO"
+      "fetched_at": "2026-08-03T03:43:44.522532Z",
+      "streamUrl": "https://rr5---sn-oji3b5-5n.googlevideo.com/videoplayback?expire=1785750229&ei=dQ5waqT4D_Od1d8P8ZLi2Q4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AP9534hjjulsAUiNcoyNjgy-Sf8CbE6hLZMKtRTyCgW6&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=174&met=1785728629%2C&mh=pL&mm=31%2C29&mn=sn-oji3b5-5n%2Csn-oji3bc-5j&ms=au%2Crdu&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=5562500&bui=AZFlqhMdDo1T4euU8xPzVjQ9PQ-fUWGDTpXzFvJEy-J6b3puIenHj9hv3D7OX2Y0OtzyVdVMQbmHHSCq&spc=KBGBcoK9iulmh6kKgBjNZIw8-tDuHxSCvPpr-Yv6ePK5OgIZEINP&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=489063330&ratebypass=yes&dur=6323.513&lmt=1782806278410281&mt=1785728246&fvip=5&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgDqwOyB3lv8ZEjfILfyRr-wTUbMj35n2JHmxZ_BgcTcECIQCHZZnnDoSFejD4SinhlF1gpFvZvMZTSfMKzHp6BuMuBA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgRhMHBWf06Zu5piE6ggVLat0yLUBVBokcr_fls3aTUYkCIQDGn686awhjECyHDdblja_aendemsdJEYdl0V1tnjGYpg%3D%3D"
     },
     {
-      "videoId": "qc7iiJE027o",
-      "title": "Best Indian Street Food in Old Delhi!! (Sells Out in 30 Minutes)",
-      "thumbnail": "https://img.youtube.com/vi/qc7iiJE027o/hqdefault.jpg",
+      "videoId": "cAgsmgXWZr4",
+      "title": "I Ate Street Food From Every Country",
+      "thumbnail": "https://img.youtube.com/vi/cAgsmgXWZr4/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:11:54.726493Z",
-      "streamUrl": "https://rr1---sn-i3b7knlk.googlevideo.com/videoplayback?expire=1785730319&ei=r8BvaoWdIuyz2roPvOvuIQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-ALzB8uRReSAtGUGh3BP5Ud_HHxgPAHEumKdR4E6HlrV5&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=210&met=1785708719%2C&mh=lA&mm=31%2C26&mn=sn-i3b7knlk%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=5206250&bui=AZFlqhOG-FypplvZqt1NpANjOevjSwHCD4q8-aFCRuf4jXPm943onNC5ZFQIQxXvbEIb9MoFppiYrINo&spc=KBGBcgIoO-NgTr1Rjeo0ucJrP2b3VodMHqSx0H0YoaAlABrRWELz&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=147197910&ratebypass=yes&dur=1658.462&lmt=1782099395948559&mt=1785708331&fvip=2&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAPFxSnxULW75MkHnTmcrYbuFvMXE839XL7EYHHrsbB_rAiBVxMNNHZMpQy8Nn2lyqajACwhKjiuJrqtwQ6v8V_uxDA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgMmJjtAGl_3k7CQocOmHwwgv_crxRpGxrTwGlN1X5_50CIQD20krbG8i8joxZIoi-bIGOLYbgzTGhEsECU8lSrkWqKg%3D%3D"
-    },
-    {
-      "videoId": "qsA0YfKQ4Uo",
-      "title": "Jeju Island Korean Seafood Tour!! (From $1 to $350)",
-      "thumbnail": "https://img.youtube.com/vi/qsA0YfKQ4Uo/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:11:59.890614Z",
-      "streamUrl": "https://rr4---sn-i3b7knse.googlevideo.com/videoplayback?expire=1785730324&ei=tMBvavrtJfyS1d8PkPev2Qg&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AJwBp4wYeAOGoFpUAcvnOzZhdKPWMLjGYIGMjyEY1SLH&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=455&met=1785708724%2C&mh=vT&mm=31%2C29&mn=sn-i3b7knse%2Csn-oji3bc-5j&ms=au%2Crdu&mv=m&mvi=4&pl=48&rms=au%2Cau&initcwndbps=5206250&bui=AZFlqhPYc5bRwMeiUjZLqMVqwHxd-K2maEW5i1GE9TricLtYic5RKF71X-Ygb2ufUhvy9ZIeUZuZ3nj6&spc=KBGBchgYPMZ8StawKrYcn_aFa451v4AAu_S0csjIKZYNvCHAhPXa&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=133725317&ratebypass=yes&dur=1487.284&lmt=1784873670052810&mt=1785708331&fvip=5&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAPSo-PqHEq4SMiTQhkyh0BsbNGKojf-eVLHqFs11ZBdYAiB_1lvhHySj_SgaDerJ9oh0Uq7C_ralg8iqXO6O1fAJQA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAP3PJxekqF4n65_fDd878xpi7TaRoZA2rlQuFxL0lSaGAiEAzPnrHKxrUj3ST1wsyedSrt6M2WIk-E4jeomGHj5yHg8%3D"
-    },
-    {
-      "videoId": "TBL74Wsfbig",
-      "title": "$1 vs $100,000 Plane Food",
-      "thumbnail": "https://img.youtube.com/vi/TBL74Wsfbig/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:12:04.960958Z",
-      "streamUrl": "https://rr2---sn-i3b7kns6.googlevideo.com/videoplayback?expire=1785730329&ei=ucBvapL4Kemw2roPl524IQ&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AC9M2-L_WsrAhaAgjZnYcVOMFQtyhq_GQWhPzx7FzZ3A&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=429&met=1785708729%2C&mh=Mg&mm=31%2C29&mn=sn-i3b7kns6%2Csn-oji3bc-5j&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=3171250&bui=AZFlqhO0nQI5dC8Bs1TjPTUmjey2Z7MN-ltmsaMi8gyN8Nm7JGkbIUNZmXeREuIfmr5dUARxQzXGsW79&spc=KBGBcinAeS2tT63Mr2MBmMG1377dMyYqnmGPwYYILQ7OnC2RS5a9&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=94360749&ratebypass=yes&dur=1366.889&lmt=1768724132454575&mt=1785708331&fvip=4&fexp=51565116&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgGR7-dQM5WXZdn0XsLCeUGIlKEzLkJQNR7me4O_A_TC8CIQD2mJtUbEPsX0OmflZSjKUwNdSxoXRYGCRyeNyfphO5ww%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIfcjADbGoGSQM6ea6zZlnpMwEt6OAvhBybBYo1LLSr8AIhAIUnUl8u9c_oaRTsgXy-zcs2woYzyY-bvwLg6PyMIwv-"
-    },
-    {
-      "videoId": "E5VhRPDcCpw",
-      "title": "Chef Tests 20 Steak Marinades - The Good, Bad & Ridiculous! | Sorted Food",
-      "thumbnail": "https://img.youtube.com/vi/E5VhRPDcCpw/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:12:10.024391Z",
-      "streamUrl": "https://rr1---sn-i3belne6.googlevideo.com/videoplayback?expire=1785730334&ei=vsBvasOJN7eA2roPrMjzwQU&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AHYpMWwdxPNnIwmf_dpSYxg3KUbjUmyA7SWSx6MsKHzq&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=487&met=1785708734%2C&mh=gZ&mm=31%2C29&mn=sn-i3belne6%2Csn-i3b7kn6d&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=3171250&bui=AZFlqhNYugMOHFMeHumCVLlHXp1mnwz6VURmYM9bQk_FyQXi38Ym_UEv-dAbAWIKBoN2nR1Xc99J1Ak5&spc=KBGBcllgto---LAH37X1E5cOCH-irQo6993Vz8WSfxs_z4LTWIkx&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=98852547&ratebypass=yes&dur=1692.850&lmt=1785483569914123&mt=1785708331&fvip=1&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAP0Wt7z-MlOTgwNtkm48bHgBuT4BtCBxiviWvTG5Nk_VAiEAqpVxFCZKU2OBCXyiUV9xPR4mHpp6CPMOL-vFC-rK1XA%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAOvxWaoqIHqHwP0g733cTjPDWKBqsSnOSfiR22VaZ0AJAiBIkbSVZMCX8BrSxrMvNNPC38t4-F36oEPJRrIKtrEDyg%3D%3D"
-    },
-    {
-      "videoId": "_GxP_qr75pw",
-      "title": "Best CHINESE Street Food!! 27 Meals - Ultimate China Food Tour!! 🇨🇳 [Full Documentary]",
-      "thumbnail": "https://img.youtube.com/vi/_GxP_qr75pw/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:12:15.236705Z",
-      "streamUrl": "https://rr2---sn-oji3bc-5n.googlevideo.com/videoplayback?expire=1785730339&ei=w8Bvau6gONWNpt8PzKvWgAo&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AFFLpZ6f6hU7ItMrtiMJAHARhufrOutlt0d99eVB8fVl&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=103&met=1785708739%2C&mh=R2&mm=31%2C29&mn=sn-oji3bc-5n%2Csn-i3b7kns6&ms=au%2Crdu&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=3171250&bui=AZFlqhPa21siZV0m3Vfhzq62gYlnecHTo6D4oAy4s9ErwZlV_UHfupqgq3npeYYdpDeZb490wy_SSz8q&spc=KBGBcjl0-T5G6gefX7BEj7ZdrYb4dpQ7HFqeTbZAD1jW0NHexJ3q&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=629949977&ratebypass=yes&dur=7560.347&lmt=1754019345306386&mt=1785708331&fvip=1&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAIgTe49qL16oD0b4MAr_C4uomppP88hJQLnDhoDgGoRqAiEA5FxzD-1QAc8aJ7R0XtxVnjmBy5t7QUomH8XlTj7tB50%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgUqyQO9vHeihS1-nXu-Fx3pFAyJtOsEW0YNDKTdntH5cCICUekoPHcTzjMDSS-WVGtmY9QToW-Spg0Sf4VaktZiKb"
-    },
-    {
-      "videoId": "fEe0sjNBnPM",
-      "title": "$100 Myanmar Street Food Challenge!!",
-      "thumbnail": "https://img.youtube.com/vi/fEe0sjNBnPM/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:12:20.278346Z",
-      "streamUrl": "https://rr2---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785730345&ei=ycBvavGqCemB2roPj_aOeA&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-APpGXI4I1DmHVT0yPbYQ0AeQnsyOtNtBDuy_MWUDeGPn&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=288&met=1785708745%2C&mh=ju&mm=31%2C26&mn=sn-i3b7kn6k%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=5206250&bui=AZFlqhO1Tay57PhMsVwqoMfvJV_xUNhWaQ1SDiqUujlH9AReCOdtdnYLNds2efxJxbiIkT1O4OeG_7K-&spc=KBGBcs6zyGhc9mk5BP1z1hwUzOcgz-8Uni_nknjY8KJV2K2OEGE4&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=132704175&ratebypass=yes&dur=1524.204&lmt=1782541818489729&mt=1785708331&fvip=5&fexp=51565116&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAINKByMlwm36ohNlHYj4JV2Ej3pKT7ddl-KUUOlY7eFOAiBRjWMn5ab19kljkRzM5abmcysSvBWEo4todW-oJABfYw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAL2v1Fld7RZS3JDviUD5s5XSKIFt8y349RMr9jxskv2xAiB6MtCa8LKHhehvwVzg31DTZ449Z_-nrBrFZOD0adU4-w%3D%3D"
-    },
-    {
-      "videoId": "V-kYydYHQVk",
-      "title": "I Cooked EVERY President's Favorite Food",
-      "thumbnail": "https://img.youtube.com/vi/V-kYydYHQVk/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482676Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "VDQb4O3UF9A",
-      "title": "I Ate The Entire Menu At Ghost Kitchens For 100 Hours",
-      "thumbnail": "https://img.youtube.com/vi/VDQb4O3UF9A/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482692Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "RNePQW56rDU",
-      "title": "I Tried $1 Street Food Around The World",
-      "thumbnail": "https://img.youtube.com/vi/RNePQW56rDU/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482697Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "CfjWHzQX9Xk",
-      "title": "New York Street Food Marathon!! From $1 to $1000!!",
-      "thumbnail": "https://img.youtube.com/vi/CfjWHzQX9Xk/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482702Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "qfsjoPzbAxQ",
-      "title": "Cheap vs Expensive Foods!",
-      "thumbnail": "https://img.youtube.com/vi/qfsjoPzbAxQ/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482706Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:43:49.606075Z",
+      "streamUrl": "https://rr2---sn-i3belney.googlevideo.com/videoplayback?expire=1785750234&ei=eg5warCMDfCr0-kPo9CyKA&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AGLpirn-FPmaXIDkJIePOqw1NO8NVpdWgTmJ9V6xP-XV&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=659&met=1785728634%2C&mh=E6&mm=18%2C29&mn=sn-i3belney%2Csn-i3b7knsl&ms=aub%2Crdu&mv=m&mvi=2&pl=48&rms=aub%2Caub&initcwndbps=2452500&bui=AZFlqhPQWNjedgaV_kUIUedgaV4Mk4WYCrOrJQ9epdaflmuyHpLp1xM33qz-2dVr_VBddLuHQrF1B7R2&spc=KBGBctm7o6N5FhRzHB7Z2evik8AKR6xGyurSzHoB1mfiAfsD8Ham&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=128678496&ratebypass=yes&dur=1521.417&lmt=1784984926410377&mt=1785728206&fvip=2&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgcWxnZrGdP7BJTkmYNSC2XHKRp8hCf33JfU2P7-pGjqMCIDsOHL7hniwBjztA9SpxiITfVb4Hivn7q4kibiYZ2Zcf&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgPk_aq78i4L513ybstwKVWXQ-AqDaqbh47Pbf7fGSCaACIQDdvQeMLUuMkZIP35ZqiktZZT5EEZZCXAc6t2JAFR2jpw%3D%3D"
     },
     {
       "videoId": "UAvZlsKsPg8",
       "title": "Eating the Food of Homer's Odyssey",
       "thumbnail": "https://img.youtube.com/vi/UAvZlsKsPg8/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482709Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:43:54.566670Z",
+      "streamUrl": "https://rr1---sn-i3belne6.googlevideo.com/videoplayback?expire=1785750239&ei=fw5wape6B9Sapt8P95TdgAo&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AGVAc8_W3syqSMaDxbCLdB5pnmyv98xwlAMc_Cq8KPE7&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=351&met=1785728639%2C&mh=HI&mm=31%2C29&mn=sn-i3belne6%2Csn-oji3b5-58&ms=au%2Crdu&mv=m&mvi=1&pl=48&rms=au%2Cau&initcwndbps=5562500&bui=AZFlqhO3tPC94Xv382yq6qpgRzp1Jq-i9duTUTJ8JluMQI3OILMACU7nPr0nTBlQ5KLIv1DzMB0RkZmy&spc=KBGBctLjyftxKCZW-wNgQEUc5Zp99rdmTJy9omDWdCD88K1o59QF&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=82736970&ratebypass=yes&dur=1592.076&lmt=1784115375045855&mt=1785728246&fvip=3&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwQwIfLzj5mxq76ibcqDhpdjX1F-0D0cDZv5h0mmZdre-pQAIgS4S_-wC8F3jtxHkmH5G61fVBbyh2aicrcI0jzDLHpsk%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhANvhPDEdFTMOmlLzgn3pCPqd0xSqK8QC63S60nMRJ0LzAiAOuWH9OEIpJWknbTbmSgrqw48XjJwiGG-PGryud3Ocwg%3D%3D"
     },
     {
-      "videoId": "QTXjUAzZiQM",
-      "title": "I Tried Every Fast Food Breakfast In America",
-      "thumbnail": "https://img.youtube.com/vi/QTXjUAzZiQM/hqdefault.jpg",
+      "videoId": "_lZjm3mMl3g",
+      "title": "Malaysia STREET FOOD Heaven!! 🇲🇾 27 Meals Best Malaysian Food in Penang! [Full Documentary]",
+      "thumbnail": "https://img.youtube.com/vi/_lZjm3mMl3g/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482713Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+      "fetched_at": "2026-08-03T03:43:59.495924Z",
+      "streamUrl": "https://rr5---sn-i3b7kn6k.googlevideo.com/videoplayback?expire=1785750244&ei=hA5waoa4Be6u2roP2ZOSwQ4&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AKE2lm0HuBR6osNe1SJ1w9O0UNunoibxR3UrWVmDmZnP&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=239&met=1785728644%2C&mh=Ad&mm=31%2C26&mn=sn-i3b7kn6k%2Csn-ajhoaq-5o&ms=au%2Conr&mv=m&mvi=5&pl=48&rms=au%2Cau&initcwndbps=2452500&bui=AZFlqhPWJIgvaAVFR43kT6yG0e_VZNB4ti_xf1SBMHiOtOFDIIh3UarvUiyqr37dn-gKJbPCh1pRl4RW&spc=KBGBcuGd8JD0lpLZnlEgXAR0vcIK9qlz3is05XaMlTgOvAPNj4p5&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=8918.622&lmt=1759784457235554&mt=1785728246&fvip=5&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAJ_hry6CbS-nh3gp2D-NC3Bn2zJZTVwyyu-0_9rb2AVoAiEAyc2N9_fr9eqvo2TRGUOq0PZSoOXtLFlKom14RgjAUsM%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAIK7o6KsiOkzyOpCGqZbnhPXXkfiRJYi5Z74aHUh5nz-AiAkgONq_O8MSofJE04aXW1wTmziAEKMuzP3bcxcNLCkmQ%3D%3D"
     },
     {
-      "videoId": "zfn51ySi2ek",
-      "title": "The Stadium Making the Best Food in Sports | On The Line | Bon Appétit",
-      "thumbnail": "https://img.youtube.com/vi/zfn51ySi2ek/hqdefault.jpg",
+      "videoId": "aw0_klOuTDg",
+      "title": "I Ate The World’s Rarest Foods",
+      "thumbnail": "https://img.youtube.com/vi/aw0_klOuTDg/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482717Z",
+      "fetched_at": "2026-08-03T03:44:04.428617Z",
+      "streamUrl": "https://rr1---sn-i3belney.googlevideo.com/videoplayback?expire=1785750248&ei=iA5wauuUNb2Ept8P2OKzwAk&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-APNxQK5QJwgbyr2VTJ7IC2Rr7DFd0nqSRyqnaObnbghf&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=522&met=1785728648%2C&mh=O8&mm=18%2C29&mn=sn-i3belney%2Csn-oji3b5-5n&ms=aub%2Crdu&mv=m&mvi=1&pl=48&rms=aub%2Caub&initcwndbps=5562500&bui=AZFlqhNJ2rvB6OR8uvmJWpINXwpQ5Qqi1nk5VYxhUsQLEzgTnPf-NRzDh816EgjYWfQ6a7hMwF4sGo6y&spc=KBGBcj8gg3hGMqOefZD964X7XXsn_9fd57zoJQH-V2749gLqtn4d&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=84365655&ratebypass=yes&dur=1439.521&lmt=1783174071260237&mt=1785728206&fvip=4&fexp=51565115&c=ANDROID_VR&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAKfabpvZrNzTyyLXD7iHZmgilrzsdjD80IdCqzcfEB3NAiEA4fXAQyGo_sNt_TJwaFkpKTNV4vqQQeANIcmAEy5neO0%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAPufBTcYdWlnZla7wWbBlg0XQ210Mce6hT5f7TCaz1KIAiEAr3gKm3pl5JljCPCcUyFIEOB62vBRrHUWpfN4aX0i6kU%3D"
+    },
+    {
+      "videoId": "Ka6LgwqNAss",
+      "title": "Alton Brown Cooks Food | Episode 31: Side Game",
+      "thumbnail": "https://img.youtube.com/vi/Ka6LgwqNAss/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:44:09.160825Z",
+      "streamUrl": "https://rr2---sn-i3b7kn6s.googlevideo.com/videoplayback?expire=1785750253&ei=jQ5waoySOdbN2roP6-nSmQs&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AOylJaD9C4mpI-AuwRIAnQ8w2BI160Xsrg0ujRoowZf1&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=110&met=1785728653%2C&mh=zT&mm=31%2C26&mn=sn-i3b7kn6s%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=2&pl=48&rms=au%2Cau&initcwndbps=5562500&bui=AZFlqhMTU0vgfJrzQzZ5LVBB0Q6gYyU_Myt7uRGYB_M9Dnf9kuzPRHfz45PydfJboj-so2RKl8QNCRZt&spc=KBGBcvBO0-HN73L7spDQ4WDsCn0CzwpTEAPuCjXcR8fEq7oogJt5&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=162030808&ratebypass=yes&dur=2238.844&lmt=1783162464393889&mt=1785728246&fvip=2&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAJy8HUhElNrFPjdGn6K4bCgptePy3tQ_oNPnqG03NwiEAiEAkuu8OAbzPeTAeOFyUwclbbdsILvtpUhKVxWtXvpz1E4%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAIhSlsMZk-11_KShU4V0NPKoEDCUnEEE1pseN5xcyNkRAiApMP5u6KtJ3A5gndPFEVlFUYNLn1dd_OQTIIjjA_WFOQ%3D%3D"
+    },
+    {
+      "videoId": "RNePQW56rDU",
+      "title": "I Tried $1 Street Food Around The World",
+      "thumbnail": "https://img.youtube.com/vi/RNePQW56rDU/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:44:14.291616Z",
+      "streamUrl": "https://rr3---sn-i3b7kns6.googlevideo.com/videoplayback?expire=1785750259&ei=kw5watXeDuSw2roP0aj6OA&ip=2403%3A27c0%3Ac03%3A1%3A%3A71&id=o-AMKk6XABTLZOTEPbtkrHpJgw4Sw2em2koK2tep4HFpjM&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=237&met=1785728659%2C&mh=h-&mm=31%2C26&mn=sn-i3b7kns6%2Csn-ajhoaq-5i&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=5562500&bui=AZFlqhNXH4Z5yP4T-9YubGZot9Q8Ojj7ZIsTHflcLanM5yVPtSIAMrVkb_oAu00gUDDapMcB36cv_KPS&spc=KBGBcvXBB0tc7psLdt-RgpfrOWCaAYACIUVmSQkqLVARNiigZ1gV&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=163249756&ratebypass=yes&dur=1882.581&lmt=1769278612982889&mt=1785728246&fvip=1&fexp=51565115&c=ANDROID_VR&txp=4538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgKPKx-ry7LAxIxh8PxXzXPCJSKxqLMRDfAVuNM1VIq3wCIQC7ZTTx1kUIk2o6OTo8lZQYAOTZw74oFJ2_PX4C87b0Uw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgfmsBZHGXJADhealUnzKR4dCBxSMWppIInBfj_1EE-lkCIQCiwFAk3h2f9GwaxhupmbOfJ-MEtKzYVlsz5V-xbqQYkA%3D%3D"
+    },
+    {
+      "videoId": "yJXDDy0IsoQ",
+      "title": "I Tried EVERY Costco Food!",
+      "thumbnail": "https://img.youtube.com/vi/yJXDDy0IsoQ/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:44:19.614942Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -152,71 +96,7 @@
       "title": "I Ate Every Rare Fast Food",
       "thumbnail": "https://img.youtube.com/vi/advoOf9mosE/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482720Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "yAtruYdk5jY",
-      "title": "I Ate Every YouTuber Food Product",
-      "thumbnail": "https://img.youtube.com/vi/yAtruYdk5jY/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482724Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "4mGVkTCx2ls",
-      "title": "$1 vs $100,000 Rare Food",
-      "thumbnail": "https://img.youtube.com/vi/4mGVkTCx2ls/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482728Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "f9G1bHfWc2U",
-      "title": "The Best Egg Foo Young for One | Food Wishes",
-      "thumbnail": "https://img.youtube.com/vi/f9G1bHfWc2U/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482731Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "hbCcV7pcX7w",
-      "title": "I Tried Every Fast Food in China",
-      "thumbnail": "https://img.youtube.com/vi/hbCcV7pcX7w/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482735Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "bwwwpR9DSiI",
-      "title": "I Ate Every Food at the World’s BIGGEST Gas Station (Buc-ee’s)",
-      "thumbnail": "https://img.youtube.com/vi/bwwwpR9DSiI/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482739Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "aQPwhgxqKOc",
-      "title": "Must-Try Seoul’s Ultimate Food Collection",
-      "thumbnail": "https://img.youtube.com/vi/aQPwhgxqKOc/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482743Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "QIRSoRaVeiU",
-      "title": "Every Korean Noodle on Jeju Island!!",
-      "thumbnail": "https://img.youtube.com/vi/QIRSoRaVeiU/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482747Z",
-      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
-    },
-    {
-      "videoId": "aw0_klOuTDg",
-      "title": "I Ate The World’s Rarest Foods",
-      "thumbnail": "https://img.youtube.com/vi/aw0_klOuTDg/hqdefault.jpg",
-      "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482750Z",
+      "fetched_at": "2026-08-03T03:44:19.614958Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
@@ -224,23 +104,143 @@
       "title": "I Ate Rare Food In EVERY Color",
       "thumbnail": "https://img.youtube.com/vi/GPgW3MWmQwM/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482754Z",
+      "fetched_at": "2026-08-03T03:44:19.614962Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "cAgsmgXWZr4",
-      "title": "I Ate Street Food From Every Country",
-      "thumbnail": "https://img.youtube.com/vi/cAgsmgXWZr4/hqdefault.jpg",
+      "videoId": "9sum1uJOQ1o",
+      "title": "I tested Tech made by Food Brands!",
+      "thumbnail": "https://img.youtube.com/vi/9sum1uJOQ1o/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482758Z",
+      "fetched_at": "2026-08-03T03:44:19.614967Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     },
     {
-      "videoId": "yJXDDy0IsoQ",
-      "title": "I Tried EVERY Costco Food!",
-      "thumbnail": "https://img.youtube.com/vi/yJXDDy0IsoQ/hqdefault.jpg",
+      "videoId": "aQPwhgxqKOc",
+      "title": "Must-Try Seoul’s Ultimate Food Collection",
+      "thumbnail": "https://img.youtube.com/vi/aQPwhgxqKOc/hqdefault.jpg",
       "channel": "",
-      "fetched_at": "2026-08-02T22:12:25.482762Z",
+      "fetched_at": "2026-08-03T03:44:19.614971Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "tJj2_tr8Mx0",
+      "title": "I Tried China’s Best Street Food",
+      "thumbnail": "https://img.youtube.com/vi/tJj2_tr8Mx0/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:44:19.614974Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "zfn51ySi2ek",
+      "title": "The Stadium Making the Best Food in Sports | On The Line | Bon Appétit",
+      "thumbnail": "https://img.youtube.com/vi/zfn51ySi2ek/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:44:19.614978Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "qsA0YfKQ4Uo",
+      "title": "Jeju Island Korean Seafood Tour!! (From $1 to $350)",
+      "thumbnail": "https://img.youtube.com/vi/qsA0YfKQ4Uo/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:44:19.614982Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "QTXjUAzZiQM",
+      "title": "I Tried Every Fast Food Breakfast In America",
+      "thumbnail": "https://img.youtube.com/vi/QTXjUAzZiQM/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:44:19.614986Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "Lhv4U7HOYz8",
+      "title": "$1 vs $100K We Ate the World's RAREST Foods!",
+      "thumbnail": "https://img.youtube.com/vi/Lhv4U7HOYz8/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:44:19.614990Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "hbCcV7pcX7w",
+      "title": "I Tried Every Fast Food in China",
+      "thumbnail": "https://img.youtube.com/vi/hbCcV7pcX7w/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:44:19.614994Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "CE6Y8tqhO4A",
+      "title": "New York City's Most Iconic Foods in 24 Hours | Epic Food Journeys with Mark Wiens | Nat Geo",
+      "thumbnail": "https://img.youtube.com/vi/CE6Y8tqhO4A/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:44:19.614997Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "_GxP_qr75pw",
+      "title": "Best CHINESE Street Food!! 27 Meals - Ultimate China Food Tour!! 🇨🇳 [Full Documentary]",
+      "thumbnail": "https://img.youtube.com/vi/_GxP_qr75pw/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:44:19.615001Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "yVMQ-jlwTZI",
+      "title": "I Tried Every Viral Restaurant in America",
+      "thumbnail": "https://img.youtube.com/vi/yVMQ-jlwTZI/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:44:19.615005Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "lD6Du1nUvN0",
+      "title": "$1 vs $1,000,000 Boat Food",
+      "thumbnail": "https://img.youtube.com/vi/lD6Du1nUvN0/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:44:19.615009Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "7abf5IaxmsM",
+      "title": "I Tried My Subscribers’ CRAZIEST Struggle Meals",
+      "thumbnail": "https://img.youtube.com/vi/7abf5IaxmsM/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:44:19.615013Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "4ehNo4zhwkQ",
+      "title": "$100 Thailand Street Food Challenge!! Budget Bombshell!!",
+      "thumbnail": "https://img.youtube.com/vi/4ehNo4zhwkQ/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:44:19.615016Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "8nhK7_aASlo",
+      "title": "I Only Ate Michelin Food For a Week, But Doubled My Budget Everyday",
+      "thumbnail": "https://img.youtube.com/vi/8nhK7_aASlo/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:44:19.615020Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "V-kYydYHQVk",
+      "title": "I Cooked EVERY President's Favorite Food",
+      "thumbnail": "https://img.youtube.com/vi/V-kYydYHQVk/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:44:19.615024Z",
+      "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
+    },
+    {
+      "videoId": "naHsRbHafU0",
+      "title": "Thailand’s Best Street Food Compilation! Seafood, Wok, Fruits & Desserts",
+      "thumbnail": "https://img.youtube.com/vi/naHsRbHafU0/hqdefault.jpg",
+      "channel": "",
+      "fetched_at": "2026-08-03T03:44:19.615027Z",
       "streamUrl": "https://mpimg.cn/view.php/cc80ce97a689626b9ebcc932941cfcf5.mp4"
     }
   ]
