@@ -9,7 +9,6 @@ T4.js
 
 youtube.m3u    固定的  
 
-youtubeauto.m3u    30个分类 都是随机实时的  
 里面是 YB的一些直播  需要梯子才能看  
 
 https://sub.maflya.com  
