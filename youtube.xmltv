@@ -1,44 +1,44 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/your-repo">
-  <channel id="CGTN.yt">
-    <display-name lang="en">CGTN LIVE</display-name>
+  <channel id="AlJazeera.yt">
+    <display-name lang="en">Al Jazeera English</display-name>
   </channel>
-  <programme channel="CGTN.yt" start="20260804030000 +0100" stop="20260804060000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=BOy2xDU1LC8</title>
+  <programme channel="AlJazeera.yt" start="20260804070000 +0100" stop="20260804100000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=gCNeDWCI0vo</title>
     <desc lang="en">No description provided</desc>
     <icon src=""/>
   </programme>
-  <programme channel="CGTN.yt" start="20260804060000 +0100" stop="20260804090000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=BOy2xDU1LC8</title>
+  <programme channel="AlJazeera.yt" start="20260804100000 +0100" stop="20260804130000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=gCNeDWCI0vo</title>
     <desc lang="en">No description provided</desc>
     <icon src=""/>
   </programme>
-  <programme channel="CGTN.yt" start="20260804090000 +0100" stop="20260804120000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=BOy2xDU1LC8</title>
+  <programme channel="AlJazeera.yt" start="20260804130000 +0100" stop="20260804160000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=gCNeDWCI0vo</title>
     <desc lang="en">No description provided</desc>
     <icon src=""/>
   </programme>
-  <programme channel="CGTN.yt" start="20260804120000 +0100" stop="20260804150000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=BOy2xDU1LC8</title>
+  <programme channel="AlJazeera.yt" start="20260804160000 +0100" stop="20260804190000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=gCNeDWCI0vo</title>
     <desc lang="en">No description provided</desc>
     <icon src=""/>
   </programme>
-  <programme channel="CGTN.yt" start="20260804150000 +0100" stop="20260804180000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=BOy2xDU1LC8</title>
+  <programme channel="AlJazeera.yt" start="20260804190000 +0100" stop="20260804220000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=gCNeDWCI0vo</title>
     <desc lang="en">No description provided</desc>
     <icon src=""/>
   </programme>
-  <programme channel="CGTN.yt" start="20260804180000 +0100" stop="20260804210000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=BOy2xDU1LC8</title>
+  <programme channel="AlJazeera.yt" start="20260804220000 +0100" stop="20260805010000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=gCNeDWCI0vo</title>
     <desc lang="en">No description provided</desc>
     <icon src=""/>
   </programme>
-  <programme channel="CGTN.yt" start="20260804210000 +0100" stop="20260805000000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=BOy2xDU1LC8</title>
+  <programme channel="AlJazeera.yt" start="20260805010000 +0100" stop="20260805040000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=gCNeDWCI0vo</title>
     <desc lang="en">No description provided</desc>
     <icon src=""/>
   </programme>
-  <programme channel="CGTN.yt" start="20260805000000 +0100" stop="20260805030000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=BOy2xDU1LC8</title>
+  <programme channel="AlJazeera.yt" start="20260805040000 +0100" stop="20260805070000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=gCNeDWCI0vo</title>
     <desc lang="en">No description provided</desc>
     <icon src=""/>
   </programme>
