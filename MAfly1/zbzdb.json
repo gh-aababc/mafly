@@ -5,9 +5,14 @@
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly1"
         },
         {
-            "name": "⭐Maflya-youtube直播",
+            "name": "⭐Maflya-youtube定向实时直播(翻)",
             "type": 1,
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/youtube.m3u"
+        },
+        {
+            "name": "⭐Maflya-youtube随机实时直播(翻)",
+            "type": 1,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/youtubeauto.m3u"
         },
          {
             "name": "👖裤佬TV直播",
