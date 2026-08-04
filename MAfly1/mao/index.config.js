@@ -76,8 +76,6 @@ var index_config_default = {
       address: "http://bob2.hkt.net.cn/miraplay/dbo.php"},
       {name: "📡Maflya直播",
       address: "https://seep.eu.org/https://t4.maflya.com"},
-      {name: "🍟YouTub实时抓取",
-      address: "https://seep.eu.org/https://ybst.maflya.com"},   
       {name: "🍟YouTube直播-[实时抓取]]",
       address: "https://seep.eu.org/https://ybkl.maflya.com"},
       {name: "🍟webdev-Marpla",
