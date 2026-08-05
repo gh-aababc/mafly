@@ -13,6 +13,10 @@ youtube.m3u    固定的
 
 https://sub.maflya.com  
 
+这个是HTTP代理  
+
+httpproxy.txt  
+
 梯子 加入到代理软件里
 资源收集来自网上 
 
