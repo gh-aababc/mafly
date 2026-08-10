@@ -1,21 +1,21 @@
 /**
  * @name lx-maflya-Pro
- * @description maflya 自建独立音源插件 (对接 https://lx.music.maflya.com)
+ * @description maflya \u81ea\u50f5\u72ec\u7acb\u97f3\u6e90\u62f2\u4ef6 (https://lx.music.maflya.com)
  * @version 1.2.2
  * @author maflya
  */
 
-// =======================【全局配置】=======================
-// 你的 Cloudflare Worker API 接口地址
+// =======================\u3010\u5168\u5c40\u914d\u7f6e\u3011=======================
+// 自建 Worker API 地址
 const API_URL = 'https://lx.music.maflya.com/url';
 
-// 如果你的 Worker 设置了 API_SECRET_KEY，请在此填写；没设置则保持为空
+// 密钥设置（如 Worker 中未设置请保持为空）
 const API_KEY = '';
 
-// 是否开启控制台调试日志
+// 控制台调试日志开关
 const DEV_LOG = true;
 
-// 本地播放链接缓存（有效期 20 分钟，减少 Worker 请求次数）
+// 本地链接缓存时间（20 分钟）
 const CACHE_TTL = 1000 * 60 * 20;
 const URL_CACHE = new Map();
 // =========================================================
@@ -26,7 +26,7 @@ const log = (...args) => {
   if (DEV_LOG) console.log('[maflya-Pro]', ...args);
 };
 
-// 封装洛雪专用的 HTTP 发包方法
+// 封装洛雪 HTTP 请求方法
 const httpFetch = (url, options = {}) => {
   return new Promise((resolve, reject) => {
     request(url, options, (err, resp, body) => {
@@ -36,7 +36,7 @@ const httpFetch = (url, options = {}) => {
   });
 };
 
-// 过期缓存清理
+// 清理过期缓存
 const cleanCache = () => {
   const now = Date.now();
   for (const [k, v] of URL_CACHE.entries()) {
@@ -44,7 +44,7 @@ const cleanCache = () => {
   }
 };
 
-// 向 Cloudflare Worker 请求音频直链
+// 获取音频播放直链
 const getAudioUrlFromApi = async (source, musicInfo, quality) => {
   const songId = musicInfo.songmid || musicInfo.copyrightId || musicInfo.id || musicInfo.hash;
   const cacheKey = `${source}_${songId}_${quality}`;
@@ -52,7 +52,7 @@ const getAudioUrlFromApi = async (source, musicInfo, quality) => {
   cleanCache();
   if (URL_CACHE.has(cacheKey)) {
     const cached = URL_CACHE.get(cacheKey);
-    log(`[命中本地缓存] ${cacheKey} => ${cached.url}`);
+    log(`[\u547d\u4e2d\u8f6f\u7f13\u5存] ${cacheKey} => ${cached.url}`);
     return cached.url;
   }
 
@@ -65,7 +65,7 @@ const getAudioUrlFromApi = async (source, musicInfo, quality) => {
   if (API_KEY) queryParams.append('key', API_KEY);
 
   const targetUrl = `${API_URL}?${queryParams.toString()}`;
-  log(`[发起 API 请求] ${targetUrl}`);
+  log(`[\u53d1\u8d77 API \u8fde\u63a5] ${targetUrl}`);
 
   try {
     const rawBody = await httpFetch(targetUrl, {
@@ -78,25 +78,25 @@ const getAudioUrlFromApi = async (source, musicInfo, quality) => {
     });
 
     const res = typeof rawBody === 'string' ? JSON.parse(rawBody) : rawBody;
-    log('[API 响应数据]', res);
+    log('[\u54cd\u5e94\u6570\u636e]', res);
 
     if (res && res.code === 0 && res.data) {
       const playUrl = res.data;
       URL_CACHE.set(cacheKey, { url: playUrl, time: Date.now() });
       return playUrl;
     } else {
-      throw new Error(res.msg || '自建服务器解析未返回播放直链');
+      throw new Error(res.msg || '\u81ea\u50f5\u670d\u52a1\u5668\u89e3\u6790\u672a\u8f94\u56de\u64ad\u653e\u76f4\u94fe');
     }
   } catch (error) {
-    log(`[解析异常] ${error.message}`);
+    log(`[\u89e3\u6790\u5f02\u5常] ${error.message}`);
     throw error;
   }
 };
 
-// 绑定洛雪播放请求事件
+// 监听洛雪音频请求事件
 on(EVENT_NAMES.request, ({ source, action, info }) => {
   if (action !== 'musicUrl') {
-    return Promise.reject(new Error(`不支持的操作类型: ${action}`));
+    return Promise.reject(new Error(`\u4e0d\u652f\u6301\u7684\u6 manipulation: ${action}`));
   }
 
   const { type: quality, musicInfo } = info;
@@ -106,35 +106,35 @@ on(EVENT_NAMES.request, ({ source, action, info }) => {
     .catch((err) => Promise.reject(err));
 });
 
-// 初始化音源声明（广播支持的平台与音质列表）
+// 初始化音源信息（使用 Unicode 安全转义中文字符）
 send(EVENT_NAMES.inited, {
   sources: {
     tx: {
-      name: 'QQ音乐',
+      name: '\u515a\u515a\u97f3\u4e50', // QQ音乐
       type: 'music',
       actions: ['musicUrl'],
       qualitys: ['128k', '320k', 'flac']
     },
     wy: {
-      name: '网易云音乐',
+      name: '\u7f51\u6613\u4e91\u97f3\u4e50', // 网易云音乐
       type: 'music',
       actions: ['musicUrl'],
       qualitys: ['128k', '320k', 'flac']
     },
     kg: {
-      name: '酷狗音乐',
+      name: '\u9177\u72d7\u97f3\u4e50', // 酷狗音乐
       type: 'music',
       actions: ['musicUrl'],
       qualitys: ['128k', '320k', 'flac']
     },
     kw: {
-      name: '酷我音乐',
+      name: '\u9177\u6211\u97f3\u4e50', // 酷我音乐
       type: 'music',
       actions: ['musicUrl'],
       qualitys: ['128k', '320k', 'flac']
     },
     mg: {
-      name: '咪咕音乐',
+      name: '\u54aa\u5495\u97f3\u4e50', // 咪咕音乐
       type: 'music',
       actions: ['musicUrl'],
       qualitys: ['128k', '320k', 'flac']
@@ -142,4 +142,4 @@ send(EVENT_NAMES.inited, {
   }
 });
 
-log('自建 Pro 音源脚本已成功加载！目标节点：' + API_URL);
+log('\u81ea\u50f5\u97f3\u6e90\u811a\u672c\u5df2\u6210\u529f\u52a0\u8f7d\uff01\u76ee\u6807\u8282\u70b9\uff1a' + API_URL);
