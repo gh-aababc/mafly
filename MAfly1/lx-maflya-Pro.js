@@ -1,7 +1,7 @@
 /**
  * @name lx-maflya-Pro
- * @description maflya \u81ea\u50f5\u72ec\u7acb\u97f3\u6e90\u62f2\u4ef6 (https://lx.music.maflya.com)
- * @version 1.2.2
+ * @description maflya \u81ea\u50fa\u72ec\u7acb\u97f3\u6e90\u62f2\u4ef6 (https://lx.music.maflya.com)
+ * @version 1.2.3
  * @author maflya
  */
 
@@ -52,7 +52,7 @@ const getAudioUrlFromApi = async (source, musicInfo, quality) => {
   cleanCache();
   if (URL_CACHE.has(cacheKey)) {
     const cached = URL_CACHE.get(cacheKey);
-    log(`[\u547d\u4e2d\u8f6f\u7f13\u5存] ${cacheKey} => ${cached.url}`);
+    log(`[\u547d\u4e2d\u7f13\u5存] ${cacheKey} => ${cached.url}`);
     return cached.url;
   }
 
@@ -85,10 +85,10 @@ const getAudioUrlFromApi = async (source, musicInfo, quality) => {
       URL_CACHE.set(cacheKey, { url: playUrl, time: Date.now() });
       return playUrl;
     } else {
-      throw new Error(res.msg || '\u81ea\u50f5\u670d\u52a1\u5668\u89e3\u6790\u672a\u8f94\u56de\u64ad\u653e\u76f4\u94fe');
+      throw new Error(res.msg || '\u81ea\u50fa\u670d\u52a1\u5668\u89e3\u6790\u672a\u8f94\u56de\u64ad\u653e\u76f4\u94fe');
     }
   } catch (error) {
-    log(`[\u89e3\u6790\u5f02\u5常] ${error.message}`);
+    log(`[\u89e3\u6790\u5f02\u5e38] ${error.message}`);
     throw error;
   }
 };
@@ -96,7 +96,7 @@ const getAudioUrlFromApi = async (source, musicInfo, quality) => {
 // 监听洛雪音频请求事件
 on(EVENT_NAMES.request, ({ source, action, info }) => {
   if (action !== 'musicUrl') {
-    return Promise.reject(new Error(`\u4e0d\u652f\u6301\u7684\u6 manipulation: ${action}`));
+    return Promise.reject(new Error(`\u4e0d\u652f\u6301\u7684\u64cd\u4f5c: ${action}`));
   }
 
   const { type: quality, musicInfo } = info;
@@ -106,35 +106,35 @@ on(EVENT_NAMES.request, ({ source, action, info }) => {
     .catch((err) => Promise.reject(err));
 });
 
-// 初始化音源信息（使用 Unicode 安全转义中文字符）
+// 初始化音源信息（规范后的 Unicode 字符）
 send(EVENT_NAMES.inited, {
   sources: {
     tx: {
-      name: '\u515a\u515a\u97f3\u4e50', // QQ音乐
+      name: 'QQ\u97f3\u4e50',
       type: 'music',
       actions: ['musicUrl'],
       qualitys: ['128k', '320k', 'flac']
     },
     wy: {
-      name: '\u7f51\u6613\u4e91\u97f3\u4e50', // 网易云音乐
+      name: '\u7f51\u6613\u4e91\u97f3\u4e50',
       type: 'music',
       actions: ['musicUrl'],
       qualitys: ['128k', '320k', 'flac']
     },
     kg: {
-      name: '\u9177\u72d7\u97f3\u4e50', // 酷狗音乐
+      name: '\u9177\u72d7\u97f3\u4e50',
       type: 'music',
       actions: ['musicUrl'],
       qualitys: ['128k', '320k', 'flac']
     },
     kw: {
-      name: '\u9177\u6211\u97f3\u4e50', // 酷我音乐
+      name: '\u9177\u6211\u97f3\u4e50',
       type: 'music',
       actions: ['musicUrl'],
       qualitys: ['128k', '320k', 'flac']
     },
     mg: {
-      name: '\u54aa\u5495\u97f3\u4e50', // 咪咕音乐
+      name: '\u54aa\u5495\u97f3\u4e50',
       type: 'music',
       actions: ['musicUrl'],
       qualitys: ['128k', '320k', 'flac']
@@ -142,4 +142,4 @@ send(EVENT_NAMES.inited, {
   }
 });
 
-log('\u81ea\u50f5\u97f3\u6e90\u811a\u672c\u5df2\u6210\u529f\u52a0\u8f7d\uff01\u76ee\u6807\u8282\u70b9\uff1a' + API_URL);
+log('\u81ea\u50fa\u97f3\u6e90\u811a\u672c\u5df2\u6210\u529f\u52a0\u8f7d\uff01\u76ee\u6807\u8282\u70b9\uff1a' + API_URL);
