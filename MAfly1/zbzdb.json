@@ -10,6 +10,12 @@
             "type": 1,
             "url": "https://x.maflya.com/api/proxy?target=https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/youtube.m3u"
         },
+
+        {
+            "name": "⭐Maflya-油管直播",
+            "type": 1,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/tvboxyoutube.py"
+        },        
         {
             "name": "⭐Maflya-🍟直播采集",
             "type": 1,
