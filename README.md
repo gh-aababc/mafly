@@ -3,7 +3,8 @@
 ![gif图片alien](./MAfly1/pic/alien_converted-1M.gif)  
   
 ✈关注TG频道@flymaf  
-
+musicfree 插件音源
+https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/music/musicfree.js  
 自由航线机场-免费1000G 梯子  
 https://ziyoufly.com/?mode=register&invite=JexW3cWR  
 免费1000G 的 多线 的梯子 速度还不错  大家有需要的去注册 ，  
